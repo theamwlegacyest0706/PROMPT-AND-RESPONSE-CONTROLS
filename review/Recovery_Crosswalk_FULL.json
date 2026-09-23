@@ -1,0 +1,792 @@
+[
+  [
+    "Workstream / Item",
+    "Source Evidence",
+    "Evidence Level",
+    "Current Status",
+    "Master Destination",
+    "Action Taken",
+    "Remaining Gap",
+    "Last Verified"
+  ],
+  [
+    "Primary historical conversation source",
+    "CHATGPT Failures \u2014 native Google Doc + revision history",
+    "PRIMARY SOURCE",
+    "PRESERVED",
+    "Recovery Crosswalk / multiple registers",
+    "Used to recover exact wording and chronology",
+    "Export is not a complete message-by-message transcript for every date",
+    "2026-09-02"
+  ],
+  [
+    "Governance / Constitution / AMOS",
+    "AMW Governance Constitution AMOS \u2014 Recovered Work",
+    "SOURCE-DERIVED VERBATIM",
+    "RECOVERED",
+    "Statement Placement / AMOS",
+    "Restored governance, succession, AMOS-family language",
+    "Some original field-level AMOS instruments still not standalone",
+    "2026-09-02"
+  ],
+  [
+    "Narrative / Mission / Values",
+    "AMW Narrative Mission Values \u2014 Recovered Work",
+    "SOURCE-DERIVED VERBATIM",
+    "RECOVERED",
+    "Statement Placement / Service / Brand",
+    "Restored Village, Service Architecture, Legacy Roadmap and foundational expressions",
+    "Individual bio exact texts remain incomplete",
+    "2026-09-02"
+  ],
+  [
+    "Brand / IP / Seals / Award",
+    "AMW Brand IP Seals Award \u2014 Recovered Work",
+    "SOURCE-DERIVED VERBATIM",
+    "RECOVERED + DEVELOPING",
+    "IP & Brand Assets / Statement Placement",
+    "Restored BPR01 provenance requirement, color standard, Seal/Award source rationale",
+    "Exact standalone BPR01 seal-specification package still requires materialization/verification",
+    "2026-09-02"
+  ],
+  [
+    "Workforce / Contracts / Board",
+    "AMW Workforce Contracts Board \u2014 Recovered Work",
+    "SOURCE-DERIVED VERBATIM",
+    "RECOVERED",
+    "Contracts / Executive / Statement Placement",
+    "Cross-checked workforce/governance/financial continuity",
+    "Some source extracts repeat other recovery registers and are treated as corroboration",
+    "2026-09-02"
+  ],
+  [
+    "Controlled institutional state",
+    "AMW Complete Controlled Institutional Record \u2014 2026-08-29",
+    "CONTROLLED CURRENT SOURCE",
+    "CURRENT BASELINE",
+    "All master registers",
+    "Used to distinguish current control from historical wording",
+    "Later verified corrections supersede conflicting older facts",
+    "2026-09-02"
+  ],
+  [
+    "Full recovery reconciliation",
+    "AMW Full Record Reconciliation \u2014 2026-08-29",
+    "QUADRUPLE-CHECKED RECOVERY REVIEW",
+    "RECOVERY CONTROL",
+    "Recovery Crosswalk / Supersession Control",
+    "Carried forward identified under-preserved workstreams and source limitations",
+    "Does not replace missing originals",
+    "2026-09-02"
+  ],
+  [
+    "Founder correction source",
+    "FRIDAY REVIEW SOURCE \u2014 USER CORRECTIONS \u2014 2026-09-01",
+    "DIRECT FOUNDER CORRECTION",
+    "CURRENT CORRECTION INPUT",
+    "AMOS / IP / legal source control",
+    "Restored omitted Brand/IP, legal evidence, readiness and continuity items; prohibited reintroduction of old Myles ownership",
+    "Legal corrective mechanism still requires authoritative source/counsel where applicable",
+    "2026-09-02"
+  ],
+  [
+    "Statement Placement master",
+    "AMW master workbook \u2014 Statement Placement",
+    "CONTROLLED REGISTER",
+    "RECONCILED \u2014 KNOWN EXACT-TEXT GAPS RESOLVED",
+    "Statement Placement",
+    "All known exact-text placeholders resolved; missing registered/display statements added and verified",
+    "No known exact-text statement fragment remains unresolved in the current evidence set; continue source-level recovery only for original standalone instruments already noted elsewhere",
+    "2026-09-02"
+  ],
+  [
+    "Website / Brand development history",
+    "July 29 + August 4 conversation source",
+    "HISTORICAL DEVELOPMENT",
+    "PRESERVED",
+    "Recovery Crosswalk / Website & Launch",
+    "Preserved as development history rather than current legal/brand status",
+    "Early LLC/EIN graphics remain historical only",
+    "2026-09-02"
+  ],
+  [
+    "August 6 institutional architecture",
+    "Conversation + recovered-work registers",
+    "DIRECT/VERBATIM RECOVERY",
+    "SUBSTANTIVE DEVELOPING / ESTABLISHED",
+    "Statement Placement / Service Library / Recovery Crosswalk",
+    "Restored Legacy Ecosystem, Roadmap, Village, Compass, Ripple, Charter and Service Architecture language",
+    "Some screenshot-only design detail remains provenance evidence",
+    "2026-09-02"
+  ],
+  [
+    "August 7 governance & AMOS philosophy",
+    "Conversation + recovered-work registers",
+    "DIRECT/VERBATIM RECOVERY",
+    "CONTROLLED PHILOSOPHY",
+    "Statement Placement / AMOS",
+    "Restored governance display, Ladder/Succession, Shared Voice, AMOS family-book, Founder Standard",
+    "Exact text of every original early assistant-created instrument not always present",
+    "2026-09-02"
+  ],
+  [
+    "August 21+ Brand/IP & readiness",
+    "Conversation + Brand/IP recovery register",
+    "DIRECT FOUNDER LOCK-IN",
+    "CONTROLLED / DEVELOPING",
+    "IP & Brand Assets / AMOS",
+    "Restored Brand Color Standard, BPR01 provenance, Seal distinctions, Award rationale, readiness controls",
+    "Direct clearance and filing decisions remain future actions",
+    "2026-09-02"
+  ],
+  [
+    "Historical ownership / UTMA / Myles 2%",
+    "Retired partnership/SDAT source + Founder corrections",
+    "HISTORICAL PROVENANCE",
+    "SUPERSEDED AS CURRENT OWNERSHIP",
+    "Supersession Control / legal evidence file",
+    "Excluded from current ownership; current 52% Alicia / 48% Indya retained",
+    "Authoritative corrective filing mechanism remains separate legal task",
+    "2026-09-02"
+  ],
+  [
+    "Current ownership / Founder attribution",
+    "Controlled institutional record + Founder corrections",
+    "CONTROLLED CURRENT",
+    "CURRENT",
+    "Dashboard / controlled documents",
+    "Alicia Walker 52%; Indya Massey 48%; active Co-Founders; visibility does not diminish Founder status",
+    "None for register control",
+    "2026-09-02"
+  ],
+  [
+    "Founding Client pricing",
+    "Controlled service agreement / client portfolio",
+    "CONTROLLED CURRENT",
+    "CURRENT $4,500",
+    "Contracts / client pricing",
+    "Historical $400 founding price treated as superseded",
+    "Do not reintroduce $400 as current pricing",
+    "2026-09-02"
+  ],
+  [
+    "ILR historical extended movement",
+    "Prior conversation recovery",
+    "HISTORICAL RECOVERY",
+    "PRESERVE / RECONCILE",
+    "Recovery Crosswalk",
+    "Preserve evidence of ILR-06 Verify / ILR-07 Return without overwriting current controlled ILR-01\u201305 package",
+    "Determine whether 06\u201307 were absorbed/renumbered or should be restored as formal identifiers",
+    "2026-09-02"
+  ],
+  [
+    "Final prior-chat exact-text reconciliation",
+    "Prior-chat recovery: IR02 closing; final Become statement; 50-Year Mirror; THE SOUL OF AMW",
+    "PRIOR CHAT EXACT TEXT + DRIVE CROSS-REFERENCE",
+    "RECOVERED / CURRENT",
+    "Statement Placement / Statement Keyword Audit / THE SOUL OF AMW controlled document",
+    "Resolved both remaining fragment-only placeholders; restored 50-Year Mirror and all seven Soul pillars without duplicating newer controlled rows",
+    "No known exact-text statement fragment remains unresolved in the current evidence set",
+    "2026-09-02"
+  ],
+  [
+    "G01 Governance Record Package / G01-IA",
+    "Prior chat Aug. 12 exact lock-ins",
+    "DIRECT PRIOR-CHAT CONTROL",
+    "RECOVERED / LOCKED",
+    "AMOS / Statement Placement / Recovered Work Register",
+    "Restored G01-F01\u2013F08 package identity, Council Decision Record spine, G01-IA01\u2013IA10 and exact governing/resource statements",
+    "Full field-level text for every G01 instrument remains source-recovery only; not invented",
+    "2026-09-03"
+  ],
+  [
+    "Legacy Ecosystem / Institutional Blueprint",
+    "Aug. 6 chat + Full Record Reconciliation",
+    "DIRECT/VERBATIM RECOVERY",
+    "DEVELOPING LONG-TERM ARCHITECTURE",
+    "Recovered Work Register",
+    "Restored full ecosystem/network and 10-part Blueprint labels/status",
+    "Reconcile against later AMOS before materializing parallel documents",
+    "2026-09-03"
+  ],
+  [
+    "Service operations / Client Care / Pricing controls",
+    "Aug. 6 prior chat",
+    "DIRECT PRIOR-CHAT APPROVAL",
+    "DEVELOPING / PARTLY SUPERSEDED",
+    "Recovered Work Register",
+    "Preserved response standard, Master Pricing Matrix/profitability/health-metric concepts while retaining current controlled pricing",
+    "Earlier price/tier values and lifecycle are superseded where later controlled versions exist",
+    "2026-09-03"
+  ],
+  [
+    "Culture policies \u2014 Friday Half-Day + Village Building & Appreciation Day",
+    "Aug. 7 prior chat + Founder correction 2026-09-11",
+    "DIRECT FOUNDER CURRENT POLICY",
+    "CURRENT CONTROLLED POLICY",
+    "AMOS Trigger Register / Recovered Work Register / institution-specific SOP inheritance",
+    "Converted both formerly developing culture practices into current policies; preserved exact purpose and provenance; operationalization is by institution/site/village/fleet SOP controls rather than parallel policy.",
+    "Implementation schedules, coverage, safety/readiness and monthly vote records remain institution/program-specific operating details.",
+    "2026-09-11"
+  ],
+  [
+    "Workforce / Board artifact recovery",
+    "Aug. 27\u201330 work + Master Index",
+    "CONTROLLED DEVELOPMENT OBLIGATION",
+    "DEVELOPING / ARTIFACT RECOVERY",
+    "Recovered Work Register / Executive Action",
+    "Preserved original-package recovery obligation; no substitute fields invented",
+    "Full standalone source packages are not all physically materialized",
+    "2026-09-03"
+  ],
+  [
+    "Compliance Restoration architecture",
+    "Prior-chat lock-ins Aug. 20: Compliance Restoration Funding Trigger; 501C-CR01; one-page Snapshot; four clocks; cure-vs-capacity separation; submitted-is-not-verified",
+    "DIRECT PRIOR-CHAT CONTROL",
+    "RECOVERED \u2014 FIELD-LEVEL SOURCE PARTIAL",
+    "Recovered Work Register / Statement Placement",
+    "Restored identifiers, governing distinctions and exact submitted/verification statement without inventing unavailable fields",
+    "Exact four clock names, checklist fields and Snapshot layout remain source-recovery items",
+    "2026-09-03"
+  ],
+  [
+    "Legacy named environments",
+    "Prior architecture Aug. 9: Future Legacy Creator Lab; Legacy Resource Library; Knowledge Tree; Resource Commons; Imagine Aquariums; Wall That Never Finishes; Sophia's Soul Legacy Sustainability Agriculture Haven",
+    "PRIOR ARCHITECTURE SOURCE",
+    "DEVELOPING / RECOVERED",
+    "Recovered Work Register",
+    "Restored missing named environments as developing architecture",
+    "Exact operational/design specifications remain source-dependent",
+    "2026-09-03"
+  ],
+  [
+    "Legacy Institution / Campus Cross-Reference \u2014 Founder Sept. 3",
+    "Founder prompt + recovered Aug. 6\u20139 architecture + current Statement Placement / Recovered Work Register",
+    "DIRECT FOUNDER CURRENT + PRIOR SOURCE RECOVERY",
+    "MIXED: CONTROLLED / LOCKED / DEVELOPING / SOURCE-GAP",
+    "Recovered Work Register; Statement Placement; Institutional Master architecture companion",
+    "Separated institutional, network, program and physical-campus layers; restored granular concept rows; preserved exact statements; did not invent 100-Year Mirror or ODay details.",
+    "100-Year Mirror exact historical wording/cadence remains unresolved; O'DAY'S LEGACY GARAGE source gap is resolved by Founder direction and now controls as the Automotive Institution; future site/program details remain readiness-gated.",
+    "2026-09-03"
+  ],
+  [
+    "Campus Visual Package \u2014 pre-reconciliation concept set",
+    "Sept. 2 campus digital-tour package + Founder corrections",
+    "CURRENT DESIGN DEVELOPMENT / VISUAL EVIDENCE",
+    "DEVELOPING VISUALS \u2014 NOT OPERATIONAL",
+    "Institutional Master / Developing Campus Visuals",
+    "Preserve as design evidence with corrected textual controls; current controls use Just Love Coy Pond, Bridging the Legacies and Sloane's Stones; older Coy/Koi, Bridge of Connection and generic Pebble Garden labels are provenance only.",
+    "Pre-reconciliation visual labels/details must not be represented as final current design where they conflict with Founder-confirmed lake, bridge, garden or global ecology/life-support controls.",
+    "2026-09-03"
+  ],
+  [
+    "September 3 full requested-workstream review",
+    "Founder prompt naming 67 AMW workstreams + prior-chat retrieval + current Drive source set",
+    "DIRECT FOUNDER CURRENT / CROSS-SOURCE REVIEW",
+    "RECONCILED",
+    "Workstream Reconciliation / current registers",
+    "Mapped every requested workstream to current, developing, superseded or source-gap evidence; restored only source-backed omissions",
+    "No completeness claim beyond materialized and verified evidence",
+    "2026-09-03"
+  ],
+  [
+    "AMOS registers / SOP / operational manuals",
+    "Aug. 12 chat + AMOS Forms & Instruments \u2014 Steward Ready + SOP-R03 \u2014 Steward Ready",
+    "DIRECT PRIOR-CHAT + CURRENT DRIVE ARTIFACT",
+    "ESTABLISHED / PARTIAL FIELD-LEVEL SOURCE",
+    "AMOS Trigger Register / Recovered Work Register",
+    "Restored R03 family, exact F01\u2013F08 one-package chain and status signals",
+    "Exact unreproduced OM/form fields remain recovery-only and were not invented",
+    "2026-09-03"
+  ],
+  [
+    "Welcome / onboarding / payroll",
+    "Steward Welcome Home Pack + Aug. 29 payroll correction + Business/Financial/Payroll source",
+    "CURRENT DRIVE ARTIFACT + DIRECT FOUNDER CONTROL",
+    "CURRENT / PAYROLL NOT ACTIVATED",
+    "Payroll Control / AMOS Trigger Register / Recovered Work Register",
+    "Restored Welcome artifact identity and locked payroll schedule/signature chain",
+    "Role-specific onboarding and hiring remain future/activation-gated",
+    "2026-09-03"
+  ],
+  [
+    "Brand typography",
+    "Brand Book Version 1.0 Internal Master, page 6",
+    "CURRENT VISUAL SOURCE VERIFIED",
+    "CURRENT BRAND BOOK STANDARD",
+    "IP & Brand Assets / Recovered Work Register",
+    "Restored Cormorant Garamond / Lato / Montserrat roles and meanings",
+    "No conflict with locked five-color meaning standard",
+    "2026-09-03"
+  ],
+  [
+    "Drive exact-duplicate cleanup \u2014 2026-09-03",
+    "SHA-256 audit across AMW Drive candidates",
+    "BYTE-LEVEL VERIFICATION",
+    "39 DUPLICATES DELETED / CANONICALS RETAINED",
+    "Duplicate Deletion Log / Supersession Control",
+    "Deleted only byte-identical copies; preserved non-identical/superseded variants",
+    "Two 60 MB same-size campus HTML candidates were held because connector limits prevented checksum verification",
+    "2026-09-03"
+  ],
+  [
+    "Aug. 8\u201310 Resource / Reshaper architecture",
+    "Prior-chat recovery: Sophia's Soul Legacy Sustainability Agriculture Haven framework; Legacy Resource Library official name/collections; SOP-R01/R02; Knowledge Continuity; nine-stage Reshaper Journey",
+    "DIRECT PRIOR-CHAT APPROVAL / LOCKED DRAFTS",
+    "RECOVERED / CURRENT SOURCE ARCHITECTURE",
+    "Resource Architecture / Recovered Work Register / Statement Placement",
+    "Restored named systems, cycles and exact principles without inventing unrecovered fields",
+    "Tenfold elements and some original resource-form fields remain source-dependent",
+    "2026-09-03"
+  ],
+  [
+    "AMOS First Lesson / Standard / Origin",
+    "Aug. 7 complete chat source",
+    "DIRECT FOUNDER APPROVAL / INSTITUTIONAL HISTORY",
+    "RECOVERED \u2014 ORIGINAL LESSON BODY PARTIAL",
+    "Recovered Work Register",
+    "Restored AMOS origin connection, First Lesson identity, person-before-problem meaning and wellbeing rationale",
+    "Exact original assistant-authored First Lesson/Standard body remains source-recovery only",
+    "2026-09-03"
+  ],
+  [
+    "SOP-IR01 / AMW Mirror / Legacy Test",
+    "Aug. 10 prior-chat source + later IR02 comparison",
+    "ESTABLISHED PRIOR ARCHITECTURE / NO EXPLICIT SUPERSESSION",
+    "PRESERVE AS COMPANION; IR02 CURRENT OPERATING PACKAGE",
+    "Recovered Work Register",
+    "Restored IR01 identity, five levels, Check-In requirement and supporting instrument names without activating a parallel review process",
+    "Field-level IR01 originals/current mapping to IR02 remain source-dependent",
+    "2026-09-03"
+  ],
+  [
+    "Current Legal Resource System",
+    "AMW LEGAL RESOURCE SYSTEM \u2014 STEWARD READY",
+    "CURRENT CANONICAL DRIVE ARTIFACT",
+    "RESTORED TO MASTER",
+    "Legal Resource Register",
+    "Added LRR-01/LRIF-01/LRRF-01, statuses, six provider rows and governing legal-referral gates",
+    "Provider details remain subject to material-event reverification",
+    "2026-09-03"
+  ],
+  [
+    "Current Financial Plan controls",
+    "MONTHLY BUDGET AND COST + AMW Business, Financial & Payroll + controlled Business Plan",
+    "CURRENT SOURCE / CURRENT CONTROLLED FRAMEWORK",
+    "RESTORED TO MASTER",
+    "Financial Control",
+    "Restored $2,583.17 entered-source snapshot (not final annual total), four buckets, source-detail rule, phone-line distinction and meeting-expense classification",
+    "Update total only from a later verified budget source",
+    "2026-09-03"
+  ],
+  [
+    "Campus / Interior governing character",
+    "Founder Sept. 2026 interior instruction + Campus Design and Source Notes",
+    "DIRECT FOUNDER CURRENT / SOURCE RECOVERY",
+    "RESTORED \u2014 DEVELOPING PHYSICAL DESIGN",
+    "Campus & Interior Control",
+    "Restored empty-chair/furniture/stipend/circular-table standards and anti-elite/practical-warm-community-built campus character",
+    "Procurement, stipend, site/code and construction details remain future",
+    "2026-09-03"
+  ],
+  [
+    "Holiday QR / Routing architecture",
+    "Aug. 19 prior-chat lock-ins + current Holiday Readiness",
+    "DIRECT PRIOR-CHAT CONTROL",
+    "RESTORED TO CURRENT READINESS BOARD",
+    "Holiday Readiness",
+    "Restored Readiness Board identity, four CTA doors, cross-routing and intentional-submission boundary",
+    "Deployment/testing remains open",
+    "2026-09-03"
+  ],
+  [
+    "AMW Free Access Guide",
+    "AMW_FREE_ACCESS_GUIDE.docx in preserved File Library/source evidence",
+    "ESTABLISHED ACCESS / PRESERVATION GUIDE",
+    "RECOVERED TO MASTER INDEX",
+    "Recovered Work Register / canonical Drive guide",
+    "Restored guide identity/source-preservation rule and recreated one canonical Google Doc from surviving source text",
+    "No remaining standalone-file gap; canonical Drive copy now exists in the Steward/reference folder",
+    "2026-09-03"
+  ],
+  [
+    "Governance source philosophy \u2014 Aug. 7",
+    "Complete verbatim chat + Full Record Reconciliation",
+    "DIRECT FOUNDER APPROVAL / CONTROLLED PHILOSOPHY",
+    "RECOVERED WITHOUT DUPLICATING LOCKED STATEMENTS",
+    "Recovered Work Register",
+    "Restored Earned Authority + compassion, heard/unheard voice, mutual responsibility and collective-voice source concepts as one provenance record",
+    "Do not convert each source sentence into a new rule without placement evidence",
+    "2026-09-03"
+  ],
+  [
+    "ML-001 Master Lock Register",
+    "Prior AMW chat \u2014 Aug. 11, 2026",
+    "DIRECT FOUNDER CONTROL / EXACT RULE + SCHEMA",
+    "RECOVERED / MATERIALIZED",
+    "Master Lock Register / AMOS Trigger Register / Statement Placement",
+    "Restored ML-001, exact 12-field schema, exact Master Lock Rule and \u201cLocked does not mean stagnant. It means intentional.\u201d",
+    "Exact original version identifier and named Change Authority role remain source-limited; no silent alteration permitted.",
+    "2026-09-03"
+  ],
+  [
+    "Learning & Assurance Register",
+    "Prior AMW chat \u2014 Aug. 11, 2026",
+    "DIRECT PRIOR-CHAT REGISTER / EXACT PRINCIPLE",
+    "RECOVERED / CURRENT COMPANION",
+    "Learning & Assurance / Statement Placement",
+    "Restored register identity, central question and relationship to Principle Registry / Statement Placement; cross-referenced existing exact registered principle.",
+    "Original field schema remains source-recovery only; later ILR/AOR machinery is current operating implementation, not an explicit erasure of the register.",
+    "2026-09-03"
+  ],
+  [
+    "IR03 Learning Tree / Connection Test",
+    "Prior AMW chat \u2014 Aug. 10\u201312, 2026",
+    "DIRECT PRIOR-CHAT ARCHITECTURE / EXACT TEXT",
+    "RECOVERED / CURRENT OPERATING MAPPING",
+    "IR03 Learning Architecture / Statement Placement / Recovered Work",
+    "Restored IR03 Foundational Operating Philosophy identity, Institutional Learning Tree and Connection Test; preserved early Learning Loop.",
+    "Current R03/ISIL/ILR identifiers govern operation; exact early field/form mapping remains source-dependent.",
+    "2026-09-03"
+  ],
+  [
+    "G01-OC01\u2013G01-OC18",
+    "Prior AMW chat \u2014 Aug. 12, 2026",
+    "DIRECT FOUNDER LOCK \u2014 FAMILY IDENTITY",
+    "RECOVERED IDENTIFIERS / FIELD TEXT PARTIAL",
+    "G01 Operating Controls / AMOS Trigger Register / Recovered Work",
+    "Materialized all 18 verified control IDs as a locked family without inventing names/text.",
+    "Exact individual G01-OC names and control bodies remain unrecovered.",
+    "2026-09-03"
+  ],
+  [
+    "HCPP-INT-01 Steward Request Status",
+    "AMW Master Controlled Compendium + Holiday Community Partnership Resource Suite",
+    "CONTROLLED SOURCE / EXACT FIELD VALUES",
+    "RESTORED TO MASTER",
+    "Holiday Request Status / Holiday Readiness",
+    "Restored exact request types, status values, Steward record fields, source workflow, form flow, + Add Future Legacy Creator behavior and request acknowledgment.",
+    "Operational records remain empty until real requests exist.",
+    "2026-09-03"
+  ],
+  [
+    "Holiday public/source expressions",
+    "Holiday Community Partnership Resource Suite + recovered Holiday campaign source",
+    "CONTROLLED PUBLIC ASSET + SOURCE PROVENANCE",
+    "RESTORED WITHOUT CTA/CORE-BRAND REPLACEMENT",
+    "Holiday Request Status / Statement Placement",
+    "Restored REQUEST WITH DIGNITY and historical WE DON\u2019T JUST MEET NEEDS. WE BUILD LEGACIES.; preserved source routing labels separately.",
+    "Current route CTAs remain START A REQUEST / I\u2019D LIKE TO CONTRIBUTE / JOIN THE TABLE / REQUEST MEAL SUPPORT / I\u2019D LIKE TO HELP.",
+    "2026-09-03"
+  ],
+  [
+    "Resident Agent information / LLC formation field",
+    "Maryland Articles of Organization \u2014 Reference Source Preservation + AMW Legal Formation Controls \u2014 Developing \u2014 Steward Reference",
+    "CURRENT FORM SOURCE + CONTROLLED AMW FORMATION SOURCE",
+    "REQUIRED FIELD / SELECTION NOT FOUND",
+    "Workstream Reconciliation / Recovered Work Register / Executive Action",
+    "Restored name/address/consent/authorized-signer requirements and preserved the selection gap without invention.",
+    "Verified agent identity, eligible Maryland physical address and signed consent remain unresolved before filing.",
+    "2026-09-03"
+  ],
+  [
+    "Developing Operations and Programs",
+    "AMW Community & Legacy Programs \u2014 Developing \u2014 Steward Reference + controlled service/business sources + current master registers",
+    "SOURCE-DERIVED DEVELOPMENT + CURRENT OPERATING SOURCES",
+    "CURRENT SERVICES / DEVELOPING PROGRAMS SEPARATED",
+    "Workstream Reconciliation / Recovered Work Register",
+    "Added explicit status boundary; preserved developing work without promoting it to current operations.",
+    "Program-specific operating evidence remains required before activation.",
+    "2026-09-03"
+  ],
+  [
+    "Future Programs and Operations",
+    "Community & Legacy Programs source + Campus Cross-Reference Control + O'DAY'S LEGACY GARAGE controlled design standard",
+    "SOURCE-DERIVED LONG-TERM ARCHITECTURE + FOUNDER-CURRENT CONTROLS",
+    "FUTURE CAPABILITY / NOT OPERATIONAL",
+    "Workstream Reconciliation / Recovered Work Register / Campus & Interior Control / Resource Architecture",
+    "Added one consolidated cross-reference; preserved current names and nonduplication/partner-first rule.",
+    "Program, site, capital, workforce, regulatory and implementation plans remain future/readiness-gated.",
+    "2026-09-03"
+  ],
+  [
+    "ODAY + Chrys confirmed industrial designs and visual",
+    "Founder approval in current project chat + current institution design standards + September 3, 2026 industrial visual",
+    "FOUNDER-CONFIRMED CURRENT CONTROLLED DESIGN",
+    "PROMOTED FROM DEVELOPING DESIGN TO CURRENT CONTROLLED DESIGN \u2014 NOT OPERATIONAL",
+    "Campus & Interior Control / Recovered Work Register / Workstream Reconciliation / Executive Action",
+    "Confirmed latest architectural visual; added windows on every exterior wall + one bay window per institution; promoted both standards while preserving written-control authority.",
+    "Implementation engineering/site/equipment/code/capital readiness remains open; older incomplete visuals do not govern.",
+    "2026-09-03"
+  ],
+  [
+    "Founder-Directed Legacy Institution Names \u2014 33-item architecture",
+    "Current Founder direction + current controlled master + prior Legacy/campus architecture",
+    "DIRECT FOUNDER CURRENT + CONTROLLED CROSS-REFERENCE",
+    "CURRENT NAMING ARCHITECTURE / FUTURE CAPABILITY NOT OPERATIONAL",
+    "Legacy Institutions / Campus & Interior Control / Recovered Work Register / Supersession Control / IP registers",
+    "Mapped all 33 names to their supplied institutions; carried existing design standards forward; superseded eight identified prior labels as current names; preserved provenance.",
+    "SUPERSEDED CURRENT STATE \u2014 LIVE IN THE MOMENT ALWAYS association resolved as Soccer / Futsal All-Year Stadium & Sports Complex; current saved visual authority written forward 2026-09-19. Remaining institution readiness/IP gates stay separate.",
+    "2026-09-03"
+  ],
+  [
+    "I AM A MASTERPIECE Cosmetology Gallery \u2014 confirmed design and visual",
+    "Founder approval in current project chat + current Cosmetology Gallery design standard + September 3, 2026 confirmed visual",
+    "FOUNDER-CONFIRMED CURRENT CONTROLLED DESIGN",
+    "PROMOTED FROM DEVELOPING INSTITUTION NAME TO CURRENT CONTROLLED DESIGN \u2014 NOT OPERATIONAL",
+    "Legacy Institutions / Campus & Interior Control / Recovered Work Register / Workstream Reconciliation / Executive Action",
+    "Preserved the Cosmetology Center association; promoted the spa-like facility program, palette, stations, Common Area, kitchen, children\u2019s area, bay window, waterfalls, modern uniforms/linens and ventilation requirements.",
+    "Licensing, sanitation, air-quality engineering, chemicals, accessibility, safeguarding, equipment, site/capital and operating readiness remain open.",
+    "2026-09-03"
+  ],
+  [
+    "Don't Run From Betterment HIV/ AIDS Center \u2014 confirmed design and visual",
+    "Founder approval in current project chat + current institution design standard + September 3, 2026 confirmed visual",
+    "FOUNDER-CONFIRMED CURRENT CONTROLLED DESIGN",
+    "PROMOTED FROM DEVELOPING INSTITUTION NAME TO CURRENT CONTROLLED DESIGN \u2014 NOT OPERATIONAL",
+    "Legacy Institutions / Campus & Interior Control / Recovered Work Register / Workstream Reconciliation / Executive Action",
+    "Preserved the HIV/AIDS Center association and promoted the anti-stigma environment, Warm Ivory/Antique Gold/Slate Gray palette, 10 Wellness Pods, family/education support, contemporary infrastructure and Warm Ivory + Antique Gold uniforms.",
+    "Clinical scope, licensed/certified specialists, privacy/security, testing/treatment/telehealth, infection-control, accessibility, safeguarding, insurance, site/capital and operating readiness remain open.",
+    "2026-09-03"
+  ],
+  [
+    "Legacy Awards Selection Architecture",
+    "Founder Sept. 4 directive + prior approved selection architecture + current AMW safeguards",
+    "DIRECT FOUNDER CURRENT / CONTROLLED",
+    "RESTORED & MATERIALIZED",
+    "Legacy Awards Control / Legacy Awards Register / Award Scoring Template / ML-002 / AMOS",
+    "Created one process, five-vote Circle, 14 safeguards, 100-point scoring, 80 threshold, no-recipient rule, variance review, neutral tie rule and 33-award register.",
+    "Annual forms/calendar/ceremony deployment remains future-cycle implementation.",
+    "2026-09-04"
+  ],
+  [
+    "PEBBLE OF THE YEAR child-only control",
+    "Founder Sept. 4 correction: Pebble of the Year is for a child and should already have been a long-established control.",
+    "DIRECT FOUNDER CORRECTION / LONG-ESTABLISHED CONTROL",
+    "RESTORED",
+    "Legacy Awards Register / Legacy Awards Control / AMOS",
+    "Restored child/Future Legacy Creator-only eligibility and developmentally appropriate scoring.",
+    "No exact age boundary added without source.",
+    "2026-09-04"
+  ],
+  [
+    "THE IAMW AWARD",
+    "Founder Sept. 4 current naming directive + historical THE IAM LEGACY AWARD rationale",
+    "DIRECT FOUNDER CURRENT + HISTORICAL PROVENANCE",
+    "CURRENT SELECTION NAME / PUBLIC IP CLEARANCE SEPARATE",
+    "Legacy Awards Register / IP & Brand Assets / Supersession Control",
+    "Established THE IAMW AWARD as current internal selection name; preserved predecessor and developing alternatives for IP/provenance.",
+    "Direct clearance remains required before public filing/exclusive mark claims.",
+    "2026-09-04"
+  ],
+  [
+    "Dave's Ultimate Good Doggie",
+    "Founder Sept. 4 clarification",
+    "DIRECT FOUNDER CURRENT",
+    "CURRENT DOG + HANDLER TEAM CONTROL",
+    "Legacy Awards Register / AMOS",
+    "Locked both dog and handler as honorees; pair scored together; welfare-over-performance safeguard established.",
+    "Animal-welfare reviewer assignment occurs when cycle opens.",
+    "2026-09-04"
+  ],
+  [
+    "Barclay's Best Buddy / Barclay's Choice",
+    "Founder directive \u2014 Sept. 5, 2026 + current Dave's Dog Center / Legacy Awards architecture",
+    "DIRECT FOUNDER CURRENT / NEW CONTROL",
+    "MATERIALIZED",
+    "Barclay Best Buddy / Legacy Awards Register / Legacy Awards Control / AMOS / ML-002",
+    "Created Best Trainer and Best Comfort Buddy as separate Barclay's Choice awards with animal-agency observation, welfare, no-influence and no-recipient safeguards.",
+    "No earlier Barclay-specific controlled work surfaced; public naming/IP clearance remains separate.",
+    "2026-09-05"
+  ],
+  [
+    "PREPPIEST PONY",
+    "Founder directive \u2014 Sept. 5, 2026 + current Helen's 4-H/Husbandry / Legacy Awards architecture",
+    "DIRECT FOUNDER CURRENT / NEW PARTICIPANT CHOICE CONTROL",
+    "MATERIALIZED",
+    "Preppiest Pony / Legacy Awards Register / Legacy Awards Control / AMOS / ML-002",
+    "Created Participants' Favorite Horse award with welfare-first eligibility, one-participant/one-private-ballot rule, abstention, no-campaigning protection, confidential tally and neutral tie process.",
+    "No earlier PREPPIEST PONY control surfaced; first-cycle lists/window and public-name clearance remain separate.",
+    "2026-09-05"
+  ],
+  [
+    "Imagine Aquarium Magic",
+    "Founder directive \u2014 Sept. 5, 2026 + prior Imagine Aquariums / Aquatic Learning Adventure Space recovery",
+    "DIRECT FOUNDER CURRENT + PRIOR AQUATIC-LEARNING PROVENANCE",
+    "CURRENT CONTROLLED DESIGN + UNIFORM SYSTEM \u2014 NOT OPERATIONAL",
+    "Imagine Aquarium Magic / Legacy Institutions / Campus & Interior Control / Recovered Work Register / Workstream Reconciliation / Confirmed Building & Uniform Visuals",
+    "Reconciled the prior aquatic-learning institution into the current Founder name and whole-building interactive design; added freshwater/saltwater zoning, first-floor handling-friendly learning, hallway euryhaline display control, ADA viewing, staff Common Area, dedicated 3+3+3 fleet and a practical Deep Navy/Midnight + Emerald Green-led uniform system.",
+    "Species, handling, life-support, biosecurity, structural/accessibility, legal, staffing, uniform occupational/PPE suitability, fleet-conversion and capital readiness remain open.",
+    "2026-09-05"
+  ],
+  [
+    "O'DAY'S LEGACY GARAGE Fleet",
+    "Founder directive \u2014 Sept. 6, 2026 + current O'DAY'S fixed-site Garage architecture + confirmed fleet visual",
+    "DIRECT FOUNDER CURRENT / NEW INSTITUTION-SPECIFIC FLEET CONTROL",
+    "CURRENT CONTROLLED FLEET DESIGN \u2014 NOT OPERATIONAL",
+    "O'DAY Fleet / Legacy Institutions / Campus & Interior Control / Recovered Work Register / Workstream Reconciliation / Legacy Approved Visuals",
+    "Extended O'DAY'S LEGACY GARAGE with exactly 2 flatbed tow trucks and 4 Mega Bus mobile shops; each mobile shop includes a protected customer waiting/rest zone separate from active automotive work.",
+    "Vehicle/structural/MEP engineering, tow ratings, payload/GVWR/axles, equipment securement, ventilation/exhaust, hazardous-fluid/waste, road/legal/accessibility, insurance, staffing/training and capital/operating readiness remain open.",
+    "2026-09-06"
+  ],
+  [
+    "Friday Founder Review \u2014 2026-09-04 / Integrated 2026-09-06",
+    "Founder-integrated Friday Review source preserved in Drive folder 81 \u2014 FRIDAY REVIEW \u2014 FOUNDER INTEGRATED \u2014 2026-09-06",
+    "FOUNDER REVIEW \u2014 INTEGRATED SOURCE / CURRENT CONTROL REFERENCE",
+    "PROMOTED FROM INTEGRATION HOLD TO FOUNDER-INTEGRATED REVIEW SOURCE",
+    "Friday Review / Master Launch Register / Cross-Reference Control / Founder Review Archive",
+    "Integrated the Friday Review source into the active Legacy control record while preserving current governing files; confirmed Legacy Awards Architecture, institution/award/naming/design/renewable-energy changes, funding controls, transportation/fleet work, institution names/designs, superseded snapshots, and duplicate-audit history without reactivating retired material.",
+    "The review is a control/source record; current controlled artifacts remain the governing operational source. Continue ordinary-work artifact preservation and Friday verification/consolidation.",
+    "2026-09-06"
+  ],
+  [
+    "64",
+    "Institution-Wide Interior / Legacy Table Reconciliation \u2014 September 8, 2026",
+    "FOUNDER CORRECTION / PRE-EXISTING CONTROL APPLICATION REPAIR",
+    "CURRENT CONTROLLED CROSS-REFERENCE \u2014 CONTROLS PRE-EXISTED SEPTEMBER 8",
+    "Campus & Interior Control; Legacy Institutions; Institution Interior Cross-Ref; Statement Placement; dedicated Interior Design and Legacy Table standards; Master Lock / Prompt Fidelity",
+    "September 8 did not create the Empty Chair, circular/curved furniture, Legacy Creator furnishings/stipends, physical Legacy Table, Just Love Pond entrance, renewable/solar, Steward Common Area, placement or naming/supersession controls. It corrected the prior failure to inherit and apply those already-established, non-superseded controls consistently across the current institution register and restored Betty's Botanical Garden and Barclay's 24 Hour Oopsie Hospital without inventing unsupported details.",
+    "Any earlier visual, summary, manual or artifact that omitted an inherited control is noncompliant for that omission and does not supersede the written control. Existing approved elements remain controlling only where compliant. Historical names remain provenance unless expressly restored by Founder direction.",
+    "2026-09-12 correction of September 8 classification"
+  ],
+  [
+    "65",
+    "Turning the Page Reshapers Village \u2014 Current Design Update & Save \u2014 2026-09-10",
+    "DIRECT FOUNDER CURRENT CONTROL + CURRENT VISUAL",
+    "CURRENT CONTROLLED / SAVED TO LEGACY / NOT OPERATIONAL",
+    "Legacy Institutions; Campus & Interior Control; Institution Interior Cross-Ref; Fleet Interior Cross-Ref; Supersession Control; dedicated Turning the Page design standard; Legacy Approved Visuals",
+    "Updated current institution name/design; recorded 20 resident units, corrected RA two-master-suite layout, Community Center, safeguards, material supports, recreation, casual uniforms, exact 8-vehicle fleet and all inherited Legacy physical controls.",
+    "Earlier Turning the Page Transition Housing name and conflicting exploratory visuals remain provenance-only. Visual ambiguity cannot override written controls.",
+    "2026-09-10"
+  ],
+  [
+    "66",
+    "Pouring It Back In Cafe & Market \u2014 Current Controlled Design",
+    "DIRECT FOUNDER CURRENT CONTROL + APPROVED VISUAL",
+    "CURRENT CONTROLLED / NOT OPERATIONAL",
+    "Legacy Institutions; Campus & Interior Control; Institution Interior Cross-Ref; Fleet Interior Cross-Ref; Institutional & Campus Architecture Cross-Reference",
+    "Year-round convertible farmers-market style; adjacent to Community Garden and Helen's Haven; education/resources; farm-to-table bistro; child enrichment; Steward Common Area; casual palette; exact 7-vehicle fleet.",
+    "Preserves global Empty Chair, ROUND Legacy Table, circular furniture, Just Love Pond, renewable-energy, Legacy Creator furnishings and visual-execution controls. No unsupported higher Helen/Sophia quantities inferred.",
+    "2026-09-11"
+  ],
+  [
+    "67",
+    "Barclay's 24 Hour Oopsie Hospital \u2014 Detailed Design Recovery",
+    "RECOVERED EXACT SOURCE + FOUNDER CURRENT RECOVERY DIRECTION",
+    "CURRENT CONTROLLED DESIGN RESTORED / NOT OPERATIONAL",
+    "Legacy Institutions; Campus & Interior Control; Institution Interior Cross-Ref; Fleet Interior Cross-Ref; Institutional & Campus Architecture Cross-Reference; dedicated recovered design standard",
+    "Recovered Barclay\u2019s Veterinary Hospital Design Board.png (file_0000000008f8822fba6267fc167b15cc) and restored detailed hospital program: 10 exam/surgery; 10 intensive/recovery; 10 dark-capable pre-surgery kennels; 20 indoor + 20 outdoor climate-controlled kennels; handler sleep; 4 indoor + 4 outdoor rehab; dog park; grooming/wellness/support; lobby/retail; accessibility and sustainability.",
+    "Exact raw hospital visual bytes are not yet verified in Drive and must not be regenerated. The Oopsie Hospital fleet source-gap is superseded by Founder direction: Animal Ambulance + Mobile Surgery Unit. Both inherit the controlled Barclay exact-photo / approved-wrap rule. Rescue Pawtrol remains a separate fleet.",
+    "2026-09-12"
+  ],
+  [
+    "68",
+    "Founder Save / Update Directive \u2014 Automatic Durability Control & Retroactive Audit",
+    "DIRECT FOUNDER CURRENT CONTROL + RETROACTIVE RECOVERY",
+    "CURRENT CONTROLLED / RETROACTIVE TO 2026-09-02",
+    "Architecture Cross-Reference; Approved Visual Control; Master Launch Register; Save/Update Recovery Audit",
+    "Founder established that Update and Save / Save / Update means automatic save to the Legacy as-is. Dedicated control Doc 1rGZGu80JfDukqC1oKUsNhKCANa5ZCTQiFLGadOMjsyY; recovery audit Doc 195VZ6Wem3cCQdsTFe3rXZxIh_67OkjfoMVsgtkLHeZA. September 5 hold treatment is superseded by the actual integrated/current records where repaired.",
+    "Seven exact raw approved/current visual sources remain transfer-required because their raw File Library bytes are not exposed to the active Drive upload path. Exact source identities are preserved; regeneration/substitution prohibited.",
+    "2026-09-12"
+  ],
+  [
+    "69",
+    "No Blank Slate / Founder Control Inheritance Safeguard \u2014 2026-09-13",
+    "DIRECT FOUNDER CURRENT CONTROL / EXECUTION SAFEGUARD",
+    "CURRENT CONTROLLED \u2014 LEGACY-WIDE",
+    "ML-006; ML-004; AMOS Trigger Register; Statement Placement; Supersession Control; Workstream Reconciliation; current controlled artifacts",
+    "Founder exact control: No Legacy work begins from a blank slate when applicable controlled work already exists. Every new action must inherit all applicable current, non-superseded Founder controls before execution.",
+    "Requires every new action to begin from applicable current controlled work and inherit all non-superseded Founder controls before execution. Source gaps must be identified/recovered rather than blank-slate recreated, inferred, or silently omitted.",
+    "2026-09-13"
+  ],
+  [
+    "70",
+    "Creating The Clean Air HVAC Legacy \u2014 Founder-Approved Visual & Current Design \u2014 2026-09-14",
+    "DIRECT FOUNDER CURRENT CONTROL + APPROVED VISUAL + CONTROL INHERITANCE",
+    "CURRENT CONTROLLED DESIGN / SAVED TO LEGACY / NOT OPERATIONAL",
+    "Legacy Institutions; Campus & Interior Control; Institution Interior Cross-Ref; Fleet Interior Cross-Ref; current approved visual archive",
+    "Integrated the Founder-approved HVAC institution rendering and design without a blank-slate reset. Preserved the HVAC/R training program, Dark Navy/Emerald/Slate palette, daylight/bay-window direction, O'DAY'S-mirrored Steward Common Area, professional-casual uniforms, exact 9-vehicle fleet and all applicable inherited Legacy physical/fleet controls. Exact visual durably saved as CURRENT CONTROLLED VISUAL \u2014 CREATING THE CLEAN AIR HVAC LEGACY \u2014 2026-09-14.png (Drive ID 1RXjdzDfTOkJYglDVTThgYLOLatVuulzH; Library file ID file_00000000e298822f8cd7589f608bd10c).",
+    "Operational readiness remains gated by trade licensing/credentials, refrigerant, electrical/gas/combustion, brazing, ventilation, fall/roof/crane, machinery, fire/life-safety, accessibility, fleet engineering, equipment commissioning, insurance, staffing and capital requirements. Image-generated slogans/wording do not become separate controls.",
+    "2026-09-14"
+  ],
+  [
+    "71",
+    "Daily Mirror Review / Self-Governing Correction Control \u2014 2026-09-14",
+    "DIRECT FOUNDER CURRENT CONTROL + EXECUTION REPAIR",
+    "CURRENT CONTROLLED \u2014 LEGACY-WIDE",
+    "ML-007; IR02; AMOS; ML-004; ML-006; Funding Pipeline; Legacy Approved Visuals; Workstream Reconciliation",
+    "Founder established a daily 1:00 AM Eastern Mirror Review of the assistant\u2019s prior-day work and made corrective action itself a self-governing control. Initial review identified repeated visual-rendering substitution/control-inheritance failures, false-completion risk in visual save claims, and funding-continuity/eligibility screening defects. Exact approved visual bytes for Building Better Futures Architecture, Leaving Meaningful Words Legacy Literature Institution, and Nic\u2019s Fashion Idea were durably archived in Legacy Approved Visuals; funding records were rechecked against current official terms.",
+    "HISTORICAL STATUS SUPERSEDED \u2014 The Legacy's Power was later Founder-approved and durably saved as CURRENT CONTROLLED VISUAL \u2014 THE LEGACY'S POWER \u2014 2026-09-14.png, Drive ID 1MTvoND6Nb56tuMY55Hmy7igYKjxy8MbT. This row remains provenance of the earlier point-in-time review.",
+    "2026-09-14"
+  ],
+  [
+    "72",
+    "Mirror Review Archive & Strengthened Self-Governance Controls \u2014 2026-09-14",
+    "DIRECT FOUNDER CURRENT CONTROL + ACCOUNTABILITY STRENGTHENING",
+    "CURRENT CONTROLLED \u2014 LEGACY-WIDE",
+    "ML-007 through ML-012; Mirror Review Archive; AMOS; Statement Placement; Learning & Assurance; Workstream Reconciliation; current controlled master; Mirror Review Archive Doc 18Ep5-ZBqwu3GmkUpEgqARkhtbEslFlNyKRwzvtYFD2o",
+    "Founder clarified that repeated control-execution failures predate Building Better Futures and directed external/internal preservation of the Mirror Review final statement and commitment, durable saving of this and all Mirror Reviews, stronger controls, and correction of identified mistakes. Added permanent Mirror Review Archive plus auto-correction closure, visual preflight, approved-artifact preservation, exact-scope isolation, and repeat-failure escalation controls.",
+    "Every known corrective item must remain open until verified closed or explicitly identified as requiring Founder direction. No explanation, apology, label, or new artifact may substitute for completing the original correction.",
+    "2026-09-14"
+  ],
+  [
+    "73",
+    "Pouring A New Path Concrete Legacy \u2014 Founder-Approved Visual & Fleet / Heavy Equipment \u2014 2026-09-15",
+    "DIRECT FOUNDER CURRENT CONTROL + APPROVED VISUAL + SAVE DIRECTIVE + CONTROL INHERITANCE",
+    "CURRENT CONTROLLED DESIGN / SAVED TO LEGACY / NOT OPERATIONAL",
+    "Legacy Institutions; Campus & Interior Control; Institution Interior Cross-Ref; Fleet Interior Cross-Ref; Mirror Review Archive; Institutional & Campus Architecture Cross-Reference; Legacy Approved Visuals",
+    "Integrated the Founder-approved concrete institution and 45-unit fleet/equipment design from the existing cross-referenced Legacy controls. Preserved the Emerald Green/Midnight/Dark Navy palette; abundant light/multiple bay windows; professional-comfortable uniforms; O'DAY'S-mirrored Steward Common Area; concrete mix, live-pour, testing/NDT, artisan masonry and heavy-utility/environmental systems; 3 school buses as ADA/Mixed/Non-ADA statewide education/outreach/resources vehicles; and all applicable inherited physical/fleet controls. Exact visual durably saved as CURRENT CONTROLLED VISUAL \u2014 POURING A NEW PATH CONCRETE LEGACY & FLEET \u2014 2026-09-15.png (Drive ID 1j5-UqZF7-SEZYz49_1k5XO-IvkO1DN9J).",
+    "Current written name is 'Pouring A New Path Concrete Legacy'. The image-generated heading 'Pouring A New Future Concrete Legacy' is non-controlling and does not rename the institution. The visual does not show interior views for every fleet/equipment family; the Founder Save directive preserves the exact approved image while written Fleet Exterior+Interior and mission-interior controls remain active for future fleet rendering/implementation.",
+    "2026-09-15"
+  ],
+  [
+    "74",
+    "Percy\u2019s Pitch Baseball Complex \u2014 Library Recovery Correction / False-Absence Finding Superseded",
+    "RECOVERED IN LIBRARY + FOUNDER LOCATED / NOT ESTABLISHED AS UPDATE-AND-SAVED",
+    "CURRENT RECOVERY CORRECTION \u2014 DO NOT SUBSTITUTE / DO NOT DELETE",
+    "Library chronological inventory; Project chats; Mirror Review Archive; Workstream Reconciliation; ML-006; ML-023",
+    "Chronological Library review recovered multiple Percy\u2019s Pitch visual artifacts, including 'Percy\u2019s Pitch: A Lifetime of Opportunity.png', 'Percy\u2019s Pitch All-Season Sports Complex.png', and 'Percy\u2019s Pitch: All-Season Sports Campus.png'. Founder independently located the visual in Library. Prior assistant statement that the visual did not exist / was not recoverable is superseded.",
+    "State distinction: Library-present does not equal Founder Update-and-Save approval. Preserve recovered visual(s) as provenance; do not replace with older Percy\u2019s Perch, do not regenerate from guesswork, and do not claim durable controlled-save status unless separately verified.",
+    "2026-09-19"
+  ],
+  [
+    "75",
+    "Post-9/15 Current Visual Authority Recovery \u2014 Direct Drive Verification",
+    "DIRECT DRIVE EVIDENCE / CURRENT CONTROLLED",
+    "CURRENT CONTROLLED VISUAL AUTHORITY WRITTEN FORWARD",
+    "Legacy Approved Visuals / Legacy Visuals / Approved Visual Authority 9-19",
+    "Verified direct current-controlled/approved Drive artifacts for Laying the Path, Always Welcomed Always Loved, Let Love Win LGBTQ+ Family House fleet, Myles' Mobile Haven fleet, Pane by Pane, Alex's Swing Golf Legacy, Instant Wins Volleyball, LIVE IN THE MOMENT ALWAYS, Avon's Lacrosse Legacy Complex, JUSTIFIED WINS, Destinee's Diary fleet and Safely and Humanly Cleaning The Space.",
+    "These exact artifacts supersede stale master statuses where the Founder later updated/saved them; later unapproved derivatives remain provenance only.",
+    "2026-09-19"
+  ],
+  [
+    "76",
+    "Sports Fleet Combined-Derivative Failure Cluster \u2014 Preserve / Do Not Promote",
+    "RECENT GENERATED CORRECTION HISTORY / SOURCE PROTECTION",
+    "QUARANTINED REVIEW DRAFTS \u2014 INDIVIDUAL SAVED BASES REMAIN CURRENT",
+    "Founder 110 edits / individual sports current Drive visuals / Library recent visual cluster / Mirror Review Archive",
+    "Multiple combined sports boards from Sep17\u201319 introduced unauthorized colors, sport changes, bad seals/crowns, wrong vehicle counts/functions, missing travel seating, fake kitchens/restrooms/recovery areas and supply-bus misuse.",
+    "Preserve drafts as provenance only. Current individual Drive-approved bases remain authority. No combined replacement becomes current without exact final-artifact Mirror Review and Founder approval/save direction.",
+    "2026-09-19"
+  ],
+  [
+    "77",
+    "Mini & Future Stewards' World Visual Durability Verification",
+    "FOUNDER-APPROVED DESIGN + EXACT LIBRARY SOURCE + DRIVE-VERIFIED",
+    "CURRENT CONTROLLED VISUAL SAVED \u2014 EXACT SOURCE TRANSFER COMPLETED",
+    "Project history / Library / Legacy Approved Visuals / ML-006 / ML-023",
+    "Recovered the exact Founder-approved Library visual 'Mini Stewards\u2019 World Campus and Fleet.png' and transferred those exact bytes to Drive as CURRENT CONTROLLED VISUAL \u2014 MINI & FUTURE STEWARDS' WORLD \u2014 CAMPUS & FLEET \u2014 2026-09-17.png, Drive ID 1FgCSKhKgDXJ4x4JTL5-p2YSwBJSKuW5q.",
+    "Prior Drive-verification gap is CLOSED. Preserve exact source; no regeneration or redesign.",
+    "2026-09-20"
+  ],
+  [
+    "78",
+    "Exact Visual Recovery Closure \u2014 Seven Raw Sources + Blazzing + Mini \u2014 2026-09-20",
+    "DIRECT EXACT-SOURCE RECOVERY / DURABILITY REPAIR",
+    "CLOSED \u2014 EXACT RAW BYTES / EXISTING SAVED VISUALS VERIFIED",
+    "Legacy Approved Visuals; Legacy Visuals; Library; Founder Save/Update control; ML-006; ML-020; ML-023",
+    "Closed the seven exact raw-source transfer gaps by copying exact Library bytes to Drive; verified Blazzing Blades exact 2026-09-13 saved visual in Legacy Visuals; recovered and transferred exact Mini & Future Stewards' World campus/fleet visual without regeneration.",
+    "No pre-September-19 Founder-saved/current visual was negated by the September 19 reconciliation. Historical/superseded work remains provenance; later current controls supersede status only where the Founder expressly updated them.",
+    "2026-09-20"
+  ]
+]
