@@ -1,6 +1,48 @@
 {
-  "required_prompt_concepts":["ALWAYS READ THE PROMPT COMPLETELY","GitHub is a mandatory pre-execution gate","actual-artifact Mirror Review","Python","GitHub","all controls","previously stated unrecoverable work","Mirror Reviews"],
-  "required_sources":["current master","historical master 2026-09-19","historical master 2026-09-15","historical master 2026-09-13","Mirror Review Archive","Recovery Crosswalk","Open Recovery Queue","Visual Corpus Audit","Recovered Work Register"],
-  "completion_gates":["FULL_PROMPT_READ","ALL_SOURCE_CROSS_REFERENCE","ACTUAL_ARTIFACT_MIRROR_REVIEW","PYTHON_PASS","GITHUB_PASS"],
-  "rule":"No Legacy work or visual may be presented as complete unless every applicable gate is PASS. GitHub PASS requires repository-backed source/version evidence; a local-only package cannot be marked GitHub PASS."
+  "required_prompt_concepts": [
+    "ALWAYS READ THE PROMPT COMPLETELY",
+    "SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY",
+    "Python",
+    "GitHub",
+    "all controls",
+    "prompts",
+    "safeguards",
+    "produced work",
+    "previous Mirror Reviews",
+    "all of the visual renderings",
+    "across the chats",
+    "legacy database",
+    "repeat the cycle",
+    "do not provide me with an excuse or explanation",
+    "entire chat history",
+    "Mirror Review on yourself"
+  ],
+  "required_sources": [
+    "current master",
+    "historical master 2026-09-19",
+    "historical master 2026-09-15",
+    "historical master 2026-09-13",
+    "Mirror Review Archive FULL",
+    "Recovery Crosswalk FULL",
+    "Open Recovery Queue FULL",
+    "Visual Corpus Audit FULL",
+    "Recovered Work Register FULL",
+    "Hindering Behavior Pattern Audit",
+    "Self Hindering Pattern Mirror Review",
+    "Complete Library Inventory"
+  ],
+  "completion_gates": [
+    "FULL_PROMPT_READ",
+    "PYTHON_FIRST_PASS",
+    "GITHUB_REPOSITORY_CROSS_REFERENCE",
+    "ALL_SOURCE_CROSS_REFERENCE",
+    "PRIOR_MIRROR_REVIEW_CROSS_REFERENCE",
+    "FULL_HISTORY_PATTERN_AUDIT",
+    "ACTUAL_ARTIFACT_MIRROR_REVIEW_WHERE_APPLICABLE",
+    "CORRECTIONS_EXECUTED",
+    "FINAL_MIRROR_REVIEW",
+    "FINAL_PYTHON_PASS",
+    "FINAL_GITHUB_PASS"
+  ],
+  "rule": "No Legacy work or visual may be presented as complete unless every applicable gate is PASS. Written controls, explanations, or Mirror Reviews do not count as correction unless execution changes. GitHub PASS requires repository-backed source/version evidence; Python PASS must test the exact current Founder prompt and current correction state."
 }
