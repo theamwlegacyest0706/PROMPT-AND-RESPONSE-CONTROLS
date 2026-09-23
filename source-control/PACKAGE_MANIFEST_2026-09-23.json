@@ -2,9 +2,13 @@
   "package_name": "THE_AMW_LEGACY_FULL_SOURCE_CONTROL_PACKAGE_2026-09-23",
   "scope": "ALL Legacy work, not visual-only",
   "source_master": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
+  "controlling_github_master_export": "source-control/AMW_CURRENT_MASTER_ALL_SHEETS_FULL_2026-09-23.json.gz.b64",
+  "transfer_encoding": "gzip(JSON UTF-8) then base64, line-wrapped",
+  "source_json_sha256": "872da2a6fec7b4911d4f67ecc828b32c94462f0a90dc94571e975be7965aa479",
+  "source_json_bytes": 1654900,
   "current_master_sheet_count": 55,
-  "library_corpus_file_count": 1134,
-  "library_corpus_fingerprint": "0x1a7678f4ff4af941",
+  "current_master_nonempty_rows": 2177,
+  "library_corpus_file_count": 1150,
   "included_domains": [
     "Founder prompts and corrections",
     "Master controls, safeguards and full-stops",
@@ -12,6 +16,7 @@
     "Manuals, SOPs, forms, registers and operating architecture",
     "Institutions and fleets",
     "Funding, client, business-registration, legal, resource and financial work",
+    "Website, launch, contracts and service-library work",
     "Awards",
     "Visuals and every visual authority/status layer",
     "Mirror Reviews and learning assurance",
@@ -32,6 +37,5 @@
     "gap",
     "quarantined",
     "provenance"
-  ],
-  "raw_library_binary_policy": "Raw Library binaries remain preserved in Library; GitHub stores source-control package, full current-master export, corpus manifest/fingerprint, provenance and validation evidence."
+  ]
 }
