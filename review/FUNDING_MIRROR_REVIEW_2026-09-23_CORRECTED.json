@@ -45,7 +45,13 @@
       "status": "QUALIFIED — ACTIVE / PULL AFTER COURSE UNLOCK",
       "founder_override": "Founder will complete the two qualifying Verizon courses/events by COB Friday 2026-09-25. This specific override reopens Verizon only.",
       "gate_result": "PASS subject to completion of two qualifying free resources and final live-application term check before submission."
+    },
+    {
+      "opportunity": "AdIQ Cares Small Business Grant Program",
+      "award": "$2,500 quarterly cash grant",
+      "status": "QUALIFIED — ACTIVE / SUBMIT",
+      "gate_result": "PASS: open to any U.S.-based small business; no purchase/subscription required; no repayment; cash sent by ACH; applications year-round; no recurring reporting requirement or broad application-content license identified on the current first-party grant page; winners are announced on social media."
     }
   ],
-  "final_result": "CORRECTIONS EXECUTED; FUNDING PIPELINE REDUCED TO VERIFIED SURVIVORS; VERIZON IS THE CURRENT ACTIVE QUALIFIED APPLICATION TARGET FROM THIS SWEEP."
+  "final_result": "CORRECTIONS EXECUTED; VERIFIED ACTIVE SURVIVORS FROM THIS SWEEP: VERIZON $10,000 AND ADIQ CARES $2,500. ALL OTHER REVIEWED ITEMS REMAIN OUTCOME-TRACKING, HOLD, EXCLUDED, CLOSED, OR NOT PRECISELY ALIGNED UNDER CURRENT CONTROLS."
 }
