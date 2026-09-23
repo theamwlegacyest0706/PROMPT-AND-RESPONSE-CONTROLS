@@ -1,0 +1,43 @@
+{
+  "validation_id": "PYTHON-GITHUB-CROSS-CHAT-FINAL-2026-09-23-1642ET",
+  "python_retest": {
+    "result": "PASS FOR THIS CORRECTION CYCLE — OPEN RECOVERY ITEMS REMAIN OPEN; FAILURE CLASS IS NOT DECLARED CLOSED BEYOND THIS EXECUTION",
+    "current_master_sheets": 55,
+    "historical_master_exports_materialized": 3,
+    "live_library": {
+      "files": 1155,
+      "folders": 4,
+      "image_files": 997,
+      "pages_scanned": 12
+    },
+    "required_source_packages_present": true,
+    "prior_cross_chat_failure_reopened": true,
+    "prior_next_execution_failure_reopened": true
+  },
+  "artifact_review": {
+    "exact_oopsie_source_surfaced": true,
+    "exact_mini_source_surfaced": true,
+    "percy_library_rendering_surfaced": true,
+    "coverage_library_rendering_surfaced": true,
+    "lovee_historical_rendering_surfaced": true,
+    "aquarium_five_interior_files_surfaced": true,
+    "authority_states_preserved": true
+  },
+  "github_verification": {
+    "library_manifest_commit": "9bba1f5b0f15c2c9e1feb79261c21d22af1ccf6d",
+    "reopened_mirror_review_commit": "6960df332c0d4baf6557421f4b7b9621ce7c5e01",
+    "visual_corpus_current_count_commit": "4fe4007751b0d27ae8a81e7fdc99340068592a60",
+    "open_recovery_current_count_commit": "e3210ed227be827d04be64a36e956367eada0e8a",
+    "mirror_archive_write_forward_commit": "724c6e69a2171bf9bae216ad242f30d00f796269",
+    "stale_1074_count_removed": true,
+    "stale_all_756_count_removed": true,
+    "current_997_image_count_verified": true,
+    "current_1155_file_count_verified": true
+  },
+  "open_items": [
+    "Row-by-row authority classification across all 1,155 files / 997 image files.",
+    "Combined sports-fleet compliant replacement remains quarantined/open.",
+    "Compliant Imagine Aquarium Magic bus-interior rendering re-entry remains open."
+  ],
+  "control_forward": "On every AMW Legacy continuation/new chat, session-visible context is not the project boundary. Re-ingest preserved cross-chat, Library, current/historical master, recovery, visual, authority, stabilization, and superseded/partial sources before substantive execution. Actual-rendering requests require opening the exact artifact files."
+}
