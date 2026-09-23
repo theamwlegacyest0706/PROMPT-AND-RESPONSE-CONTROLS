@@ -1,0 +1,15 @@
+THE AMW LEGACY — AUTHORITY STATE DICTIONARY,,,,,
+These statuses are mutually distinct. No assistant response may collapse them into one another.,,,,,
+,,,,,
+STATE,MEANING,CAN CONTROL FUTURE WORK?,MAY BE DELETED?,REQUIRED EVIDENCE,NOTES
+GENERATED,Artifact was produced,NO,NO — preserve unless Founder directs cleanup,Generation record,Generation is not approval or save
+LIBRARY-PRESENT,Artifact is present in ChatGPT Library/history,NO by itself,NO,Library/file record,Presence ≠ approval
+FOUNDER-APPROVED,Founder explicitly approved the artifact/design,YES for approved scope,NO without Founder direction,Exact approval statement + artifact,Approval scope controls
+UPDATE-AND-SAVED,Founder explicitly directed save/update to Legacy,YES,NO without Founder direction,Exact save/update directive + durable location/status,Directive persists across dates
+CURRENT-CONTROLLED,Current authority after all later valid supersessions,YES,NO,Current register + exact source,Highest artifact state short of explicit newer Founder change
+SUPERSEDED,Later Founder-directed/current-controlled work replaced its authority,NO,NO — provenance preserved,Supersession lineage,Still part of Legacy history
+REJECTED,Founder rejected artifact/result,NO,NO — provenance preserved,Founder rejection,Rejection does not erase history
+DRAFT,Working material not approved,NO,NO — provenance preserved,Draft record,Must not be presented as current
+SOURCE EVIDENCE,Screenshot/photo/source supporting a record,NO unless separately approved,NO,Source/provenance record,Does not replace exact original
+RECOVERY GAP,Evidence says work existed but exact source is not yet verified/recovered,NO new substitute,NO,Cross-reference record,Never convert to 'did not exist'
+QUARANTINED,Known repeated failure class or artifact blocked from authority,NO,NO,Mirror Review / ML-019,Requires verified compliant re-entry
