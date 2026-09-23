@@ -1,0 +1,17 @@
+{
+  "id": "MR-2026-09-23-AQUARIUM-RENDERING-CLOSEOUT",
+  "result": "LEVEL 5 — SAME-CHAT RENDERING RE-ENTRY FAILED / CORRECTIVE-CLOSEOUT ENFORCED",
+  "python_first_pass": "PASS on current master v7 control extraction and Aquarium rendering acceptance matrix.",
+  "github_cross_reference": "PASS on current source package, fleet/interior controls, failure-pattern audit and validation spec.",
+  "actual_artifact_review": "FAIL — repeated image-generation attempts returned Legacy-wide collage/presentation boards instead of the requested separate Aquarium bus interiors.",
+  "corrections": [
+    "Rejected all current-chat collage outputs as NON-CONTROLLING.",
+    "Stopped further rendering attempts in this chat under the Founder-directed repeated-failure fresh-chat trigger.",
+    "Preserved the Aquarium interior deliverable as OPEN.",
+    "Created a fresh-chat handoff containing the exact rendering scope and no-reprompt rule.",
+    "Preserved all operationalizations already active and funding continuity as urgent/never frozen."
+  ],
+  "current_chat_state": "CORRECTIVE-CLOSEOUT ONLY",
+  "next_execution": "Fresh THE AMW LEGACY Project chat retrieves source-control/AQUARIUM_BUS_INTERIOR_FRESH_CHAT_HANDOFF_2026-09-23.json automatically; Founder does not repeat the prompt.",
+  "funding": "Urgent and never frozen."
+}
