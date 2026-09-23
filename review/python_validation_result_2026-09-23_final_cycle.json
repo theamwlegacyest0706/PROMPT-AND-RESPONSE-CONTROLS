@@ -1,0 +1,25 @@
+{
+  "prompt_complete": true,
+  "required_source_files": {
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-23_CURRENT.txt": true,
+    "review/Mirror_Review_Archive.json": true,
+    "review/Recovery_Crosswalk.json": true,
+    "review/Recovered_Work_Register.json": true,
+    "review/Visual_Corpus_Audit.json": true,
+    "review/Open_Recovery_Queue.json": true,
+    "review/Approved_Visual_Authority_9_19.json": true,
+    "review/Authority_State_Dictionary.json": true,
+    "review/Stabilization_Corpus_Summary.json": true,
+    "review/previously_unrecoverable_recovery_queue.json": true
+  },
+  "workbook_hashes": {
+    "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx": {"expected":"50f4b72c2c46b541a12acd633efa6e9546d3eeaf25873ac3ae43e9a6309b421c","actual":"50f4b72c2c46b541a12acd633efa6e9546d3eeaf25873ac3ae43e9a6309b421c","pass":true},
+    "AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED.xlsx": {"expected":"d209b78bf295dc85fa47ef3fd62df3ed6863861183dc80173fc99cbff5997c77","actual":"d209b78bf295dc85fa47ef3fd62df3ed6863861183dc80173fc99cbff5997c77","pass":true},
+    "AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED_UPDATED.xlsx": {"expected":"86b3d643b8bd5138b674f7bd93229c01c0165c676ba06addf0263a5678b7ccbc","actual":"86b3d643b8bd5138b674f7bd93229c01c0165c676ba06addf0263a5678b7ccbc","pass":true},
+    "AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED.xlsx": {"expected":"b5ff0cd764eadeb4c58bc087944dbe5cf6d58d157784684d639ad5c16102069f","actual":"b5ff0cd764eadeb4c58bc087944dbe5cf6d58d157784684d639ad5c16102069f","pass":true}
+  },
+  "prior_mirror_reviews_present": true,
+  "recovery_and_unrecoverable_review_present": true,
+  "visual_review_present": true,
+  "pass": true
+}
