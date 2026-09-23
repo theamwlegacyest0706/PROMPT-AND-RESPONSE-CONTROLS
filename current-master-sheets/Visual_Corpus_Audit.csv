@@ -1,5 +1,5 @@
 Audit Item,Verified Current State,Correction / Control,
-Full THE AMW LEGACY Library image corpus,947 image artifacts = 688 model-generated + 259 non-generated,"Current /THE AMW LEGACY Library census verified 2026-09-21; supersedes the prior 756 / 524 / 232 count. Census is corpus scope, not approval count.",
+Full THE AMW LEGACY Library image corpus,997 image files in current live Library census,"Verified 2026-09-23 across the complete /THE AMW LEGACY recursive Library inventory. The prior 2026-09-21 947-image count (688 model-generated + 259 non-generated) is preserved as historical point-in-time evidence and is superseded for current corpus size. Current 997 count is corpus scope, not approval count; no generated/non-generated split is invented without a fresh classification pass.",
 Drive-approved/current visual authority,Indexed in Approved Visual Authority 9-19,Exact Drive current/approved artifacts control; source-evidence and transfer-gap rows keep their limited authority.,
 Generated Library images not separately approved/current,PRESERVED PROVENANCE / REVIEW DRAFT / NON-CONTROLLING,"Generation does not equal approval, update, save or Drive verification.",
 Founder criticism/rejection,NO DELETE / NO HIDE / NO ABANDON AUTHORITY,Rejected images remain provenance and cannot silently become current.,
