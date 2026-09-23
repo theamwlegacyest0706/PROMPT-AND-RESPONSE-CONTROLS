@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-23",
+  "scope": "ALL Legacy work, not visual-only",
+  "result": "PASS",
+  "current_master": {
+    "sheets": 55,
+    "nonempty_rows": 2177,
+    "source_json_sha256": "872da2a6fec7b4911d4f67ecc828b32c94462f0a90dc94571e975be7965aa479",
+    "controlling_github_export": "source-control/AMW_CURRENT_MASTER_ALL_SHEETS_FULL_2026-09-23.json.gz.b64"
+  },
+  "current_library_corpus": {
+    "files": 1150,
+    "generated": 849,
+    "nongenerated": 301
+  },
+  "github_validation": {
+    "repository": "theamwlegacyest0706/PROMPT-AND-RESPONSE-CONTROLS",
+    "corrected_full_export_commit": "aaca505d38742b2d352493a8016a319c4b50603e",
+    "final_validation_commit": "658c540282bda258eca2d33bae41f5f44bcacb8b",
+    "result": "PASS",
+    "exact_library_to_github_transfer_match": true
+  },
+  "authority": {
+    "corrected_full_export_current": true,
+    "initial_truncated_export_superseded_provenance_only": true
+  },
+  "all_work_domains": {
+    "governance_controls": true,
+    "funding_client_business": true,
+    "institutions_fleets": true,
+    "resource_legal_financial": true,
+    "awards": true,
+    "manuals_sops_forms_registers": true,
+    "website_launch_contracts_service_library": true,
+    "visuals_all_statuses": true,
+    "recovery_lineage": true,
+    "mirror_reviews_learning_assurance": true,
+    "stabilization_operationalization": true
+  },
+  "visual_presentation_controls": {
+    "individual": true,
+    "direct_in_chat": true,
+    "full_size_high_resolution": true,
+    "zoomable_openable": true,
+    "editable_revisable": true,
+    "detail_views_when_needed": true,
+    "no_board_contact_sheet_thumbnail_substitution": true,
+    "show_before_save_update": true
+  },
+  "business_registration": {
+    "complete": false,
+    "status": "OPEN BUSINESS-OPERABILITY ITEM"
+  },
+  "prior_failure_classes_carried_forward": [
+    "prompt_skimming_shortening",
+    "controls_named_not_executed",
+    "visual_format_substitution",
+    "finished_artifact_not_reviewed",
+    "edit_scope_breach",
+    "authority_state_conflation",
+    "founder_repeat_labor",
+    "cross_chat_recovery_gap",
+    "all_work_narrowed_to_visual_subset",
+    "initial_full_master_export_truncated"
+  ]
+}
