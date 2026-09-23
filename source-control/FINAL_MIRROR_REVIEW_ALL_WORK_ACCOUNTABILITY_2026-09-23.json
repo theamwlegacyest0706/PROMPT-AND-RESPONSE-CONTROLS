@@ -1,0 +1,106 @@
+{
+  "review_id": "MR-2026-09-23-ALL-WORK-ACCOUNTABILITY",
+  "date": "2026-09-23",
+  "level": "LEVEL 5 — AMW LEGACY TEST / SYSTEM-WIDE ACCOUNTABILITY",
+  "trigger": "Founder required ALL controls, safeguards, safe-gates/full-stops, ALL work created/drafted at every status, ALL Mirror Reviews, and explicit accountability for business-registration delay, weak/unusable funding delivery, insufficient funding-search breadth, unusable service recommendations, undisclosed service limitations, and failure to learn from recurring patterns.",
+  "scope": "ALL Legacy work. Visual corpus reviewed at corpus/status/authority level; any current or implicated finished artifact still requires artifact-specific review before presentation.",
+  "prior_mirror_reviews_cross_referenced": [
+    "MR-IR02",
+    "MR-50Y",
+    "MR-100Y",
+    "MR-2026-09-14-01",
+    "MR-2026-09-14-02",
+    "MR-2026-09-14-03",
+    "MR-2026-09-14-04",
+    "MR-2026-09-14-05",
+    "MR-2026-09-15-01",
+    "MR-2026-09-15-02",
+    "MR-2026-09-15-03",
+    "MR-2026-09-15-04",
+    "MR-2026-09-15-05",
+    "MR-2026-09-15-06",
+    "MR-2026-09-15-07",
+    "MR-2026-09-15-08",
+    "MR-2026-09-15-09",
+    "MR-2026-09-15-10",
+    "MR-2026-09-15-11",
+    "MR-2026-09-15-12",
+    "MR-2026-09-15-13",
+    "MR-2026-09-19-01",
+    "MR-2026-09-19-02",
+    "MR-2026-09-19-03",
+    "MR-2026-09-19-04",
+    "MR-2026-09-19-05",
+    "MR-2026-09-20-01",
+    "MR-2026-09-20-02",
+    "MR-2026-09-21-01",
+    "MR-2026-09-21-02",
+    "MR-2026-09-21-03",
+    "MR-2026-09-21-04",
+    "MR-2026-09-21-05",
+    "MR-2026-09-22-01"
+  ],
+  "prior_failure_patterns": {
+    "prompt_shortening_or_substitution": true,
+    "controls_known_but_not_executed": true,
+    "founder_repeat_labor": true,
+    "visual_substitution_or_preflight_failure": true,
+    "funding_eligibility_failure": true,
+    "save_or_state_conflation": true,
+    "cross_chat_recovery_failure": true,
+    "correction_not_changing_next_execution": true
+  },
+  "evidence": {
+    "python_all_work_review_result": "PASS",
+    "github_all_work_validation_result": "PASS",
+    "github_validation_commit": "14b7d684af1dbee8e205c1b7d19010ae930ded26",
+    "all_master_sheets": 55,
+    "all_prior_mirror_reviews": 34,
+    "library_manifest_unique_files": 1152,
+    "master_lock_controls": 25,
+    "control_safeguard_gate_stop_authority_rows": 1492,
+    "funding_eligibility_rows": 289,
+    "registration_launch_compliance_rows": 209
+  },
+  "findings_and_corrections": [
+    {
+      "finding": "ALL-work scope was previously narrowed too often to visual work or selected controls.",
+      "correction": "The validator now treats every visual and nonvisual workstream, every status class, every control/safeguard/safe-gate/full-stop, every Mirror Review, and the full Library manifest as one accountability corpus."
+    },
+    {
+      "finding": "Business registration remained incomplete while assistant effort repeatedly consumed time in visual/recovery correction cycles.",
+      "correction": "Registration/licensing/business-operability remains an OPEN, non-frozen priority lane. Visual work may not displace it when the Founder directs business-operability work."
+    },
+    {
+      "finding": "Funding recommendations previously reached the Founder before sufficient eligibility, usability, timing, and terms screening, and search breadth was not consistently expanded before delivery.",
+      "correction": "Existing funding gates are enforced before presentation: broaden discovery when needed; verify direct AMW/client/partner eligibility; eliminate debt/loan, closed/future, fee-gated, weak-fit, unreasonable match/reimbursement/reporting, mission-distorting, ownership/control, and otherwise unusable opportunities privately; deliver only verified survivors."
+    },
+    {
+      "finding": "Services/tools were sometimes presented before verifying that the Founder could actually use them or before material limitations were disclosed.",
+      "correction": "Existing intent/qualification/verification controls now apply to service/tool recommendations: verify availability, access/connection state, plan/region limits, write/read capability, and task-fit before recommending the service as a solution."
+    },
+    {
+      "finding": "Repeated failure patterns too often required another Founder correction before execution changed.",
+      "correction": "Existing ML-007/008/020/023 behavior is enforced: detected recurrence itself triggers review, correction, retest, and write-forward; Founder re-prompt is not the trigger."
+    },
+    {
+      "finding": "Rejected, superseded, draft, generated, source, gap, and quarantined work must remain preserved without being promoted.",
+      "correction": "Status is treated as authority metadata, not a preservation filter. Every state remains in the corpus; only current/approved authority governs active use."
+    }
+  ],
+  "checks": {
+    "all_prior_reviews_loaded": true,
+    "all_prior_pattern_classes_detected": true,
+    "python_pre_review_passed": true,
+    "github_pre_review_passed": true,
+    "all_55_workstreams_in_scope": true,
+    "full_library_manifest_in_scope": true,
+    "all_25_master_lock_controls_in_scope": true,
+    "registration_correction_applied": true,
+    "funding_correction_applied": true,
+    "service_limitation_correction_applied": true,
+    "pattern_learning_correction_applied": true
+  },
+  "result": "PASS",
+  "closure_rule": "No failure class is closed because it is explained or because a control exists. Closure requires the corrected execution to hold on the next applicable task without Founder reconstruction."
+}
