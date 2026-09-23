@@ -1,1 +1,403 @@
-The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+{
+  "date": "2026-09-23",
+  "source": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE_ALL_SHEETS.json",
+  "scope": "ALL 55 exported current-master sheets; no domain/status filtering",
+  "sheets": [
+    {
+      "sheet_file": "AMOS_Trigger_Register.csv",
+      "sha256": "5e4150a6a5519da867a19a39ff685bac264df9ac7034bca728cbc4710277fcfc",
+      "characters": 24705,
+      "rows": 69,
+      "nonempty_rows": 69
+    },
+    {
+      "sheet_file": "Approved_Visual_Authority_9-19.csv",
+      "sha256": "7759912b55ee47c82a9c3ce037b1fcf0d5bb542c029a60180bb14975097fd562",
+      "characters": 17501,
+      "rows": 65,
+      "nonempty_rows": 65
+    },
+    {
+      "sheet_file": "Authority_State_Dictionary.csv",
+      "sha256": "c09f0f82c982b9f4272708c39c8c3316f3872700f138964ee3184e6d2aaa724c",
+      "characters": 1873,
+      "rows": 15,
+      "nonempty_rows": 14
+    },
+    {
+      "sheet_file": "Award_Scoring_Template.csv",
+      "sha256": "4dca9f542d4227547b65577efe112bde798017e075e18cd2ffec7d6e51358b71",
+      "characters": 1475,
+      "rows": 25,
+      "nonempty_rows": 21
+    },
+    {
+      "sheet_file": "Barclay_Best_Buddy.csv",
+      "sha256": "1cb6a848a53e71a5d690112fe05c49d3e53de71167e6f746d56383e1171e872e",
+      "characters": 6060,
+      "rows": 45,
+      "nonempty_rows": 32
+    },
+    {
+      "sheet_file": "Campus_Interior_Control.csv",
+      "sha256": "3d341b877df8080eb9b09af22013b230edffbfab3099d890042df591d6c21fee",
+      "characters": 73552,
+      "rows": 151,
+      "nonempty_rows": 151
+    },
+    {
+      "sheet_file": "Client_Funding.csv",
+      "sha256": "e5ea8368789e836922e7e41bdf3e4f223997db670afeb2c6e0eeaec095b757b6",
+      "characters": 12451,
+      "rows": 23,
+      "nonempty_rows": 23
+    },
+    {
+      "sheet_file": "Contracts_Register.csv",
+      "sha256": "f2960f9ce5ec55ba7c7fcf2f98e87b88d37a4e591533b31067045e76d28af3a3",
+      "characters": 1186,
+      "rows": 10,
+      "nonempty_rows": 10
+    },
+    {
+      "sheet_file": "Dashboard.csv",
+      "sha256": "77a53b291af07a54d52a28213f2100d6e78200bd261f80837d6e7835defa19b7",
+      "characters": 11353,
+      "rows": 161,
+      "nonempty_rows": 157
+    },
+    {
+      "sheet_file": "Duplicate_Deletion_Log.csv",
+      "sha256": "e25e60bcd66d5d635dda4b31b42090d2305d643d19de8df11d64d68466faad61",
+      "characters": 11412,
+      "rows": 40,
+      "nonempty_rows": 40
+    },
+    {
+      "sheet_file": "Event_Readiness.csv",
+      "sha256": "8bdbf188f1b55663e0a7c23865cb04d6cd94fdceeb69782f51b9d70968cfa5d5",
+      "characters": 383,
+      "rows": 3,
+      "nonempty_rows": 3
+    },
+    {
+      "sheet_file": "Executive_Action.csv",
+      "sha256": "30f0179aeaa0ee6537b5770bceb6103bd00b4ff62243863f6866b745604d82bc",
+      "characters": 11999,
+      "rows": 30,
+      "nonempty_rows": 30
+    },
+    {
+      "sheet_file": "Financial_Control.csv",
+      "sha256": "ddefeaf9b21f7e758309a6db07647f97d71ae900f2bd31cbddfd1dd0713a466c",
+      "characters": 4025,
+      "rows": 17,
+      "nonempty_rows": 17
+    },
+    {
+      "sheet_file": "Fleet_Interior_Cross-Ref.csv",
+      "sha256": "b953d059275fc6aa0f5b192a04b7371136dea6da87427d2a683df505b803058d",
+      "characters": 38678,
+      "rows": 51,
+      "nonempty_rows": 51
+    },
+    {
+      "sheet_file": "Funding_Pipeline.csv",
+      "sha256": "d348735d44f06e5eb2218c685200369e570b8a1046d1619260becab298e2ebf9",
+      "characters": 32743,
+      "rows": 21,
+      "nonempty_rows": 21
+    },
+    {
+      "sheet_file": "G01_Operating_Controls.csv",
+      "sha256": "453f0fd997153bd160264b17775be6a32fd3813477b3e3a557a638db8328e590",
+      "characters": 7167,
+      "rows": 19,
+      "nonempty_rows": 19
+    },
+    {
+      "sheet_file": "Holiday_Readiness.csv",
+      "sha256": "6c3f8ab02f92120c86cd7fd334769bd7eba3e6415e311577cb73287b92ed2734",
+      "characters": 2916,
+      "rows": 17,
+      "nonempty_rows": 17
+    },
+    {
+      "sheet_file": "Holiday_Request_Status.csv",
+      "sha256": "9252ccdbedf87dc751d1570928649ae0e5efa1c293c354b2c2114e8b9ea74809",
+      "characters": 3674,
+      "rows": 20,
+      "nonempty_rows": 20
+    },
+    {
+      "sheet_file": "IP_Brand_Assets.csv",
+      "sha256": "ef271c2ec48938a0caaa4ccba9c43f7065a8e497fd03df9fedb0b5c244434e55",
+      "characters": 6056,
+      "rows": 25,
+      "nonempty_rows": 25
+    },
+    {
+      "sheet_file": "IP_Knockout_Filing.csv",
+      "sha256": "2ce8147b66d30d030a9f9b94316a49bc782f7225b667d8bd733af52496a94e02",
+      "characters": 8110,
+      "rows": 21,
+      "nonempty_rows": 21
+    },
+    {
+      "sheet_file": "IR03_Learning_Architecture.csv",
+      "sha256": "47bcca656d3c59c45fe66c7dc21281b0cf86c1660288d62595d0c9028aa0d721",
+      "characters": 2153,
+      "rows": 7,
+      "nonempty_rows": 7
+    },
+    {
+      "sheet_file": "Imagine_Aquarium_Magic.csv",
+      "sha256": "9c1c515f93dd182929710fca693fcd4967d96887cbee9146e1cc4e2d5c57f896",
+      "characters": 8728,
+      "rows": 28,
+      "nonempty_rows": 28
+    },
+    {
+      "sheet_file": "Institution_Governance.csv",
+      "sha256": "2a8faeacbae16a08e4b94518c877ddc272ed3875994fbe0896766bdce359a4c0",
+      "characters": 69828,
+      "rows": 48,
+      "nonempty_rows": 48
+    },
+    {
+      "sheet_file": "Institution_Interior_Cross-Ref.csv",
+      "sha256": "2c5825e5ca730c7cbe9c246daee52b51e4ba92ab0f5264e35f1cfbf4fc43021b",
+      "characters": 64894,
+      "rows": 48,
+      "nonempty_rows": 48
+    },
+    {
+      "sheet_file": "Leadership_Screening.csv",
+      "sha256": "796914413a47dd6f4a15a470d1707a010fdeec940904c8dd3a8ce25ee0398420",
+      "characters": 171,
+      "rows": 1,
+      "nonempty_rows": 1
+    },
+    {
+      "sheet_file": "Learning_Assurance.csv",
+      "sha256": "fd54c4782a773434be410d35229cfbba25f31ff0daecd59c2753ce64947d009d",
+      "characters": 2661,
+      "rows": 7,
+      "nonempty_rows": 7
+    },
+    {
+      "sheet_file": "Legacy_Awards_Control.csv",
+      "sha256": "b556940f24e4ecf32b2aef749ee2559f068ab75cb3431cdc484d66e15d3e3ec5",
+      "characters": 10523,
+      "rows": 44,
+      "nonempty_rows": 40
+    },
+    {
+      "sheet_file": "Legacy_Awards_Register.csv",
+      "sha256": "0733aa903c275daa8a3cfc79a984211f12e13a030d28da195afcd6eb15138956",
+      "characters": 22683,
+      "rows": 37,
+      "nonempty_rows": 37
+    },
+    {
+      "sheet_file": "Legacy_Institutions.csv",
+      "sha256": "2e0a28e40421e93d97a9bd0e6514a91df516734266b1ca2efeb065d0d5505382",
+      "characters": 43062,
+      "rows": 48,
+      "nonempty_rows": 48
+    },
+    {
+      "sheet_file": "Legal_Resource_Register.csv",
+      "sha256": "c87d3be61f2221b70ef1e9aae2b2d8f26cc75bf84759fbb4305e45f84bf22d5b",
+      "characters": 4186,
+      "rows": 15,
+      "nonempty_rows": 15
+    },
+    {
+      "sheet_file": "Master_Lock_Register.csv",
+      "sha256": "72f56bad349472856680d5e2e240ab15027efb04dbab835024d2b20acf82c463",
+      "characters": 33568,
+      "rows": 26,
+      "nonempty_rows": 26
+    },
+    {
+      "sheet_file": "Mirror_Review_Archive.csv",
+      "sha256": "0a5539b17bab742c02994f8915195ccae3c17e2faa601246f679c364a687a4e2",
+      "characters": 66090,
+      "rows": 36,
+      "nonempty_rows": 35
+    },
+    {
+      "sheet_file": "O_DAY_Fleet.csv",
+      "sha256": "c3e0b4fc9019eced3b0fbde5da5141ae5fe584ab67882d027e53aeca1c072860",
+      "characters": 4082,
+      "rows": 13,
+      "nonempty_rows": 13
+    },
+    {
+      "sheet_file": "Open_Recovery_Queue.csv",
+      "sha256": "fe7f58cd5dadeb41b8670379ce02f00ca215f878e6f0a215085a3488a93f9f1e",
+      "characters": 3536,
+      "rows": 13,
+      "nonempty_rows": 12
+    },
+    {
+      "sheet_file": "Operationalization_Register.csv",
+      "sha256": "e854a99ad4d5dbe0ead66a788c51d4d7d24b3eeca40c7d705f4570b4c3bbee7e",
+      "characters": 7388,
+      "rows": 14,
+      "nonempty_rows": 13
+    },
+    {
+      "sheet_file": "Payroll_Control.csv",
+      "sha256": "f0dd04fb466e9c430309291f1730c082ff730ef6b7ded0ec8715ee18de77a411",
+      "characters": 518,
+      "rows": 2,
+      "nonempty_rows": 2
+    },
+    {
+      "sheet_file": "Pond_Global_Controls.csv",
+      "sha256": "458832afa9a1a92eadb16bb3086abf899d045f98f4ab8ecd637ab54fa0d3b896",
+      "characters": 10716,
+      "rows": 23,
+      "nonempty_rows": 23
+    },
+    {
+      "sheet_file": "Preppiest_Pony.csv",
+      "sha256": "b23f1dbfc2f7ab7b03e4bbef7f1dce09c5ac38022e590ed865405b6f556e4aec",
+      "characters": 6112,
+      "rows": 27,
+      "nonempty_rows": 23
+    },
+    {
+      "sheet_file": "Recovered_Work_Register.csv",
+      "sha256": "9692e8f7f79b8a2b4332aea970dfd48ca381256228d39f03044b883509a2b2ee",
+      "characters": 91858,
+      "rows": 119,
+      "nonempty_rows": 118
+    },
+    {
+      "sheet_file": "Recovery_Crosswalk.csv",
+      "sha256": "c8c46dbf064d0157d66031981e79ae7bf3b669bd16d289bd3595da3365f6eb9d",
+      "characters": 44551,
+      "rows": 79,
+      "nonempty_rows": 79
+    },
+    {
+      "sheet_file": "Resource_Architecture.csv",
+      "sha256": "744563638a69f11b01cb93ba5ad87cb043adc6be67004eab55d634cafb74c226",
+      "characters": 3273,
+      "rows": 17,
+      "nonempty_rows": 17
+    },
+    {
+      "sheet_file": "Resource_Donations.csv",
+      "sha256": "00b7935454c7ce7d5e9d7768f8cffd1251ede0808a1b17fcab116eae48b10df2",
+      "characters": 158,
+      "rows": 1,
+      "nonempty_rows": 1
+    },
+    {
+      "sheet_file": "Resource_Reception.csv",
+      "sha256": "7cb963fa84e5eef9a3367fa635728f8ecf65165b2ca7a6dba6e955d723fe707b",
+      "characters": 193,
+      "rows": 1,
+      "nonempty_rows": 1
+    },
+    {
+      "sheet_file": "Service_Library.csv",
+      "sha256": "9d4b2860659edb3c94811bfac4578fc35376cdde4d1965352d1235b7a83f312c",
+      "characters": 3532,
+      "rows": 17,
+      "nonempty_rows": 17
+    },
+    {
+      "sheet_file": "Stabilization_Control_Center.csv",
+      "sha256": "c02ffddf7a0a517b55052c6130119ee5bb728417f80a6d715c06ef00ea38edf4",
+      "characters": 6037,
+      "rows": 69,
+      "nonempty_rows": 58
+    },
+    {
+      "sheet_file": "Stabilization_Corpus_Summary.csv",
+      "sha256": "7928857d1a43b916db18bea8381b0c340020f1b138052ec1be313608deb5fccd",
+      "characters": 1041,
+      "rows": 16,
+      "nonempty_rows": 15
+    },
+    {
+      "sheet_file": "Statement_Keyword_Audit.csv",
+      "sha256": "6b04a1ae1bc4a20dfb7f6a8ca25656a3ecdd7102e9ff2508883bf3a14a5aa3b9",
+      "characters": 52714,
+      "rows": 103,
+      "nonempty_rows": 103
+    },
+    {
+      "sheet_file": "Statement_Placement.csv",
+      "sha256": "aee2effbf84e34733153573bd4687c05fae0658aad3d192a47c728af924818e3",
+      "characters": 141961,
+      "rows": 350,
+      "nonempty_rows": 350
+    },
+    {
+      "sheet_file": "Steward_Recruitment.csv",
+      "sha256": "59480ba595c7ad62a290936b113bc39974a6436400372efe5bda059681b88937",
+      "characters": 165,
+      "rows": 1,
+      "nonempty_rows": 1
+    },
+    {
+      "sheet_file": "Supersession_Control.csv",
+      "sha256": "f7a5f016f0b5a2b582923ba2c9ad6ca360a177d7b804dcbabf7d0670e86424d7",
+      "characters": 9880,
+      "rows": 26,
+      "nonempty_rows": 26
+    },
+    {
+      "sheet_file": "Venue_Register.csv",
+      "sha256": "625a851c4f732080023ff7da330560e04164566ce615eee0299ef20b470dccb7",
+      "characters": 2666,
+      "rows": 7,
+      "nonempty_rows": 7
+    },
+    {
+      "sheet_file": "Visual_Corpus_Audit.csv",
+      "sha256": "8183b3a4a0924e1252319d0ab34d0a37d34da3f5bfbbc25132018991666efcaa",
+      "characters": 2184,
+      "rows": 12,
+      "nonempty_rows": 12
+    },
+    {
+      "sheet_file": "Volunteers.csv",
+      "sha256": "5dba4337efa16753da3fee8cf7b7aa4e7208b0038edf61b20f8c7eb70153839a",
+      "characters": 161,
+      "rows": 1,
+      "nonempty_rows": 1
+    },
+    {
+      "sheet_file": "Website_Launch.csv",
+      "sha256": "49be1ff179c38c85b770a3b4693742077087da771db894f37bf327cac4673ab6",
+      "characters": 2347,
+      "rows": 16,
+      "nonempty_rows": 16
+    },
+    {
+      "sheet_file": "Workstream_Reconciliation.csv",
+      "sha256": "4ca2dd61ea26504be0d1e1d0aaeecd3d25859650aec76f4f69609cb0e7b9a38a",
+      "characters": 64440,
+      "rows": 125,
+      "nonempty_rows": 125
+    }
+  ],
+  "checks": {
+    "all_55_sheets_indexed": true,
+    "all_sheet_hashes_unique_entries": true,
+    "master_lock_present": true,
+    "mirror_archive_present": true,
+    "funding_pipeline_present": true,
+    "client_funding_present": true,
+    "website_launch_present": true,
+    "workstream_reconciliation_present": true
+  },
+  "result": "PASS"
+}
