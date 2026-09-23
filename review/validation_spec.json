@@ -1,0 +1,6 @@
+{
+  "required_prompt_concepts":["ALWAYS READ THE PROMPT COMPLETELY","GitHub is a mandatory pre-execution gate","actual-artifact Mirror Review","Python","GitHub","all controls","previously stated unrecoverable work","Mirror Reviews"],
+  "required_sources":["current master","historical master 2026-09-19","historical master 2026-09-15","historical master 2026-09-13","Mirror Review Archive","Recovery Crosswalk","Open Recovery Queue","Visual Corpus Audit","Recovered Work Register"],
+  "completion_gates":["FULL_PROMPT_READ","ALL_SOURCE_CROSS_REFERENCE","ACTUAL_ARTIFACT_MIRROR_REVIEW","PYTHON_PASS","GITHUB_PASS"],
+  "rule":"No Legacy work or visual may be presented as complete unless every applicable gate is PASS. GitHub PASS requires repository-backed source/version evidence; a local-only package cannot be marked GitHub PASS."
+}
