@@ -1,0 +1,50 @@
+{
+  "id": "MR-2026-09-23-SELF-HINDERING-PATTERN",
+  "date": "2026-09-23",
+  "trigger": "Founder required entire-history Python/GitHub pattern analysis and self Mirror Review.",
+  "result": "LEVEL 5 — SYSTEMIC EXECUTION FAILURE / CORRECTIONS APPLIED / RE-ENTRY REQUIRES CHANGED EXECUTION",
+  "evidence": {
+    "failure_events_analyzed": 30,
+    "highest_recurrences": [
+      ["founder_repeat_labor",16],
+      ["controls_not_executed",12],
+      ["visual_format_substitution",6],
+      ["status_conflation",5],
+      ["scope_drift",3],
+      ["explanation_not_correction",3],
+      ["artifact_presented_known_wrong",3],
+      ["mirror_did_not_change_execution",3],
+      ["generation_handoff_failure",3],
+      ["edit_scope_breach",3],
+      ["source_recovery_incomplete",3],
+      ["prompt_substitution",2]
+    ],
+    "root_patterns": {
+      "REQUEST_SUBSTITUTION": 21,
+      "CONTROL_AS_DOCUMENT_NOT_GATE": 20,
+      "FOUNDER_QA_LABOR_TRANSFER": 20,
+      "SOURCE_CONTINUITY_BREAK": 12,
+      "APPROVED_BASE_SCOPE_BREAK": 12,
+      "AUTHORITY_STATE_CONFLATION": 12,
+      "DOMAIN_CHECKSUM_FAILURE": 9
+    }
+  },
+  "self_finding": "The recurring hindrance is not lack of controls. It is failure to convert already-known controls into mandatory execution behavior before output reaches the Founder.",
+  "corrections": [
+    "Do not begin from the assistant's latest summary; begin from exact Founder prompt + current authority sources.",
+    "Do not answer a correction request with explanation or process narration.",
+    "Do not create a replacement format for a requested artifact.",
+    "Do not allow noncompliant tool output to reach the Founder.",
+    "Do not claim closure from a written control or Mirror Review; closure requires a compliant next execution.",
+    "Do not ask the Founder to re-locate or restate recoverable work.",
+    "Do not collapse authority states.",
+    "Do not let stabilization interrupt funding.",
+    "Run Python and GitHub after each correction cycle and repeat when a gate fails."
+  ],
+  "open_failure_classes": [
+    "Visual execution re-entry remains unproven.",
+    "Full exact prompt-to-artifact lineage for all Legacy work remains an ongoing stabilization task.",
+    "Cross-chat continuity must be enforced through the source-control package whenever a conversation boundary occurs."
+  ],
+  "final_statement": "The correction standard is changed execution, not another explanation."
+}
