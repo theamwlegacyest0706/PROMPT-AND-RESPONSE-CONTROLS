@@ -1,0 +1,19 @@
+{
+  "current_master": {
+    "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "observed_library_version": 7,
+    "corrected_candidate_sha256": "10e57474eaa7e8776ae081db6e0c399e677a0e4e2addc08320eb4df89728d03c",
+    "name": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx"
+  },
+  "source_of_truth_order": [
+    "Founder prompt",
+    "current non-superseded controls",
+    "exact current artifact",
+    "current master + Library/Drive source",
+    "prior Mirror Reviews/recovery records",
+    "historical provenance",
+    "assistant summary only as navigation"
+  ],
+  "preservation_rule": "Generated, Library-present, Founder-approved, Update-and-Saved, Current-Controlled, Superseded, Rejected, Draft, Source Evidence, Recovery Gap and Quarantined remain distinct. Status governs authority/use, not preservation.",
+  "library_access": "Native ChatGPT Library read/write access is established; do not re-request it."
+}
