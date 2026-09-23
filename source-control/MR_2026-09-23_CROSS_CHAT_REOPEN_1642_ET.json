@@ -1,0 +1,80 @@
+{
+  "review_id": "MR-2026-09-23-CROSS-CHAT-REOPEN-1642ET",
+  "date": "2026-09-23",
+  "level": "LEVEL 5 — REOPENED RECURSIVE STABILIZATION / SELF MIRROR REVIEW",
+  "trigger": "Founder identified immediate recurrence after prior PASS: session-visible/project history was treated as the available Legacy history, the complete preserved source corpus was not re-ingested before acting, and actual requested renderings were not surfaced.",
+  "source_scope": {
+    "current_master_sheets": 55,
+    "prior_mirror_reviews_cross_referenced": 34,
+    "live_library_manifest": {
+      "total_entries": 1159,
+      "files": 1155,
+      "folders": 4,
+      "image_files": 997,
+      "pages_scanned": 12
+    },
+    "historical_masters": [
+      "2026-09-13",
+      "2026-09-15",
+      "2026-09-19"
+    ],
+    "required_source_classes": [
+      "current master",
+      "historical masters",
+      "all Mirror Reviews",
+      "Recovery Crosswalk",
+      "Open Recovery Queue",
+      "Recovered Work Register",
+      "Visual Corpus Audit",
+      "Approved Visual Authority",
+      "Authority State Dictionary",
+      "Stabilization records",
+      "complete Library inventory",
+      "superseded/obsolete/partial paths",
+      "cross-chat recovered history"
+    ]
+  },
+  "findings_and_corrections": [
+    {
+      "failure": "cross_chat_recovery_failure",
+      "status": "RECURRED",
+      "correction": "Never use session-visible context as the AMW Legacy boundary. On any Legacy continuation or new chat, re-ingest the preserved cross-chat, Library, current/historical master, recovery, authority, visual-corpus, stabilization, and obsolete/partial source package before substantive execution."
+    },
+    {
+      "failure": "correction_not_changing_next_execution",
+      "status": "RECURRED",
+      "correction": "A prior PASS cannot close a failure class. Closure requires the corrected behavior to hold on the next applicable task; recurrence reopens the class automatically."
+    },
+    {
+      "failure": "visual_substitution_or_non_display",
+      "status": "RECURRED",
+      "correction": "When the Founder asks to see actual renderings, surface the exact preserved artifact files. Do not substitute summaries, contact sheets, inventories, or status descriptions."
+    },
+    {
+      "failure": "state_conflation",
+      "status": "CORRECTED",
+      "correction": "Keep GENERATED, LIBRARY-PRESENT, FOUNDER-APPROVED, CURRENT-CONTROLLED, SAVED, DRIVE-VERIFIED, REJECTED and QUARANTINED distinct. Showing an artifact never promotes its authority state."
+    }
+  ],
+  "rendering_authority_corrections": {
+    "Barclay's 24 Hour Oopsie Hospital": "Exact recovered/current controlled hospital source exists and is shown directly; no regenerated substitute.",
+    "Mini & Future Stewards' World": "Current controlled, Founder-approved exact source transferred and Drive-verified.",
+    "Percy's Pitch": "Library-present provenance; not Update-and-Saved; no promotion.",
+    "Coverage Made To Last": "Preserved rendering remains non-controlling/quarantined pending a compliant re-entry artifact.",
+    "Lovee's Legacy": "Historical naming-error provenance only; current volleyball institution is INSTANT WINS VOLLEYBALL.",
+    "Imagine Aquarium Magic bus interiors": "Preserved generated review artifacts; current master still holds compliant bus-interior rendering OPEN; no promotion."
+  },
+  "python_precheck": {
+    "current_master_55_sheets": true,
+    "all_required_materialized_source_packages_present": true,
+    "prior_failure_pattern_cross_chat_recovery": true,
+    "prior_failure_pattern_next_execution_recurrence": true,
+    "prior_closure_rule_requires_next_task_hold": true
+  },
+  "github_write_forward": {
+    "current_library_manifest_path": "source-control/LIBRARY_CORPUS_MANIFEST_CURRENT_2026-09-23_1642_ET.json",
+    "current_library_manifest_commit": "9bba1f5b0f15c2c9e1feb79261c21d22af1ccf6d"
+  },
+  "result": "CORRECTIONS WRITTEN FORWARD — PRIOR PASS REOPENED; FINAL PYTHON/GITHUB RETEST REQUIRED",
+  "closure_rule": "No failure class is closed because it is explained or because a control exists. Closure requires the corrected execution to hold on the next applicable task without Founder reconstruction."
+}
