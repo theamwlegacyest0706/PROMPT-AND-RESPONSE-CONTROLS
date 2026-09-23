@@ -1,0 +1,24 @@
+{
+  "id":"MR-2026-09-23-FINAL-RECURSIVE-CYCLE",
+  "scope":"Exact Founder prompt; all available controls, prompts, safeguards, produced work, visual records, prior Mirror Reviews, recovery/unrecoverable work, Library inventory, current and historical master source; Python and GitHub parity",
+  "cross_references":[
+    "Full current and historical master workbooks and all-sheet JSON memory",
+    "Complete Mirror Review archive",
+    "Recovery Crosswalk and Recovered Work Register",
+    "Open Recovery Queue and previously-unrecoverable review queue",
+    "Visual Corpus Audit and Approved Visual Authority",
+    "Authority State Dictionary",
+    "Complete /THE AMW LEGACY Library inventory: 1,148 files across six paginated GitHub parts",
+    "Exact current Founder prompt"
+  ],
+  "corrections":[
+    "Corrected Python workbook path mapping to the exact preserved workbook bytes in workbooks/.",
+    "Preserved the exact Founder prompt verbatim in both Python source and GitHub.",
+    "Expanded GitHub from partial summaries to full current and historical master all-sheet content.",
+    "Expanded GitHub from a 500-item partial Library inventory to a complete 1,148-file paginated inventory.",
+    "Added full Mirror Review, recovery, visual authority, authority-state, and stabilization records.",
+    "Preserved binary-artifact exact-source rule: inventory identity is not permission to reconstruct an artifact."
+  ],
+  "result":"PYTHON PASS / GITHUB REQUIRED-SOURCE PRESENCE PASS",
+  "operating_gate":"No Legacy work or rendering is complete until the actual artifact passes applicable Mirror Review, Python, and GitHub before presentation."
+}
