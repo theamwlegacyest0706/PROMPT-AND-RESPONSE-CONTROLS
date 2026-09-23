@@ -1,0 +1,20 @@
+Field / Element,Recovered / Controlled Content,Status,Source,Control Note
+Instrument,HCPP-INT-01 — INTERNAL STEWARD STATUS RECORD / Steward Request Status,CONTROLLED / SOURCE VERIFIED,AMW Master Controlled Compendium + Holiday Community Partnership Resource Suite,Internal use only.
+Request Type,Holiday Resource (F03A); Community Meal (F03B),CONTROLLED / EXACT VALUES,Controlled compendium,Do not merge request types merely because cross-routing exists.
+Request Received Date,Date request was received,CONTROLLED FIELD,Controlled compendium,Record per request.
+Request Number,Controlled request identifier,CONTROLLED FIELD,Controlled compendium,Record per request.
+Household / Participant,Participant or household name,CONTROLLED FIELD,Controlled compendium,Use minimum necessary information.
+Primary Contact,Contact information,CONTROLLED FIELD,Controlled compendium,Use approved contact fields.
+Current Status,Received; Reviewing; Additional Information Requested; Fulfilled; Partially Fulfilled; Connected to Other Resource; Waitlisted; Declined (No Available Resources); No Response / Closed; Other,CONTROLLED / EXACT VALUES,AMW Master Controlled Compendium — HCPP-INT-01,"These are request-status values, not Holiday Pilot readiness statuses."
+Notes / Steward Actions Taken,Record notes/actions taken,CONTROLLED FIELD,Holiday Resource Suite,Preserve dignity and necessary context.
+Steward Name,Responsible Steward,CONTROLLED FIELD,Holiday Resource Suite,Record accountability without blame.
+Date / Time Updated,Last status update,CONTROLLED FIELD,Holiday Resource Suite,Maintain continuity.
+Next Review Date,Next review date if applicable,CONTROLLED FIELD,Holiday Resource Suite,Use when follow-up is required.
+Workflow,Received → Reviewing → Additional Information Requested / Fulfilled / Partially Fulfilled / Connected to Other Resource / Waitlisted / Declined (No Available Resources) / No Response-Closed / Other,CONTROLLED SOURCE WORKFLOW,AMW Internal Operating Compendium,"Preserved alongside exact HCPP-INT-01 checkbox values; slash/hyphen variation is source-formatting, not a new status."
+Form Flow,arrival → primary action → necessary/conditional questions → review/submit → confirmation → internal routing,CONTROLLED SOURCE FLOW,AMW Internal Operating Compendium,Applies to Holiday door/form handling.
++ Add Future Legacy Creator,Adds only another child-specific block; parent/guardian and household information is not duplicated.,LOCKED DIGITAL-FORM BEHAVIOR,HCPP-F03A controlled source,Preserve as one-click/additional-child behavior.
+Request Acknowledgment,"Submitting a request does not guarantee that a resource will be available. AMW will receive the request respectfully, determine what it can responsibly do, and provide an appropriate Return.",CONTROLLED / EXACT SOURCE,HCPP-F03A,Do not convert request submission into a resource guarantee.
+Public Flyer Expression,REQUEST WITH DIGNITY,CONTROLLED PUBLIC ASSET,Holiday Community Partnership Resource Suite,Toy Drive family-facing expression; not a replacement for START A REQUEST CTA.
+Historical / Source Campaign Expression,WE DON’T JUST MEET NEEDS. WE BUILD LEGACIES.,SOURCE-ASSET / HISTORICAL — NOT CURRENT CORE BRAND,Holiday Legacy branding/campaign source,Preserve provenance; do not promote to current core brand or trademark status without separate control.
+Source Routing Label,CONTRIBUTE TO THE TOY DRIVE,SOURCE / ROUTING LABEL,Holiday door architecture source,Current controlled CTA remains I’D LIKE TO CONTRIBUTE.
+Source Routing Label,"CONTRIBUTE FOOD, TIME, RESOURCES, OR SUPPORT",SOURCE / ROUTING LABEL,Holiday door architecture source,Current controlled CTA remains I’D LIKE TO HELP.
