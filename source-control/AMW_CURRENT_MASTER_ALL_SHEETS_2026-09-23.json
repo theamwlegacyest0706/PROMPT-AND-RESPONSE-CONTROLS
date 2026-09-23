@@ -997,7 +997,8 @@
           "State, local and private opportunities; each listing must be verified at orig...",
           "Multiple live opportunities",
           "Continuous",
-          "Free source",          "Opportunity-specific",
+          "Free source",
+          "Opportunity-specific",
           "Opportunity-specific",
           "ACTIVE SOURCE FEED",
           "https://business.maryland.gov/nonprofit-opportunities/",
@@ -1996,7 +1997,8 @@
           "CONTROL — PAYROLL-READY / NOT YET ACTIVATED",
           "15th and 30th; last calendar day when no 30th",
           "No active employee/payroll entry",
-          "Activation prerequisite",          null,
+          "Activation prerequisite",
+          null,
           null,
           null,
           "Authorized preparer",
@@ -2995,7 +2997,8 @@
           "AMW Client-Facing Service Guide & Legacy Roadmap — Print & Publish Ready",
           "1R-kQQHzKJzdDfLwZ0vMaU9H1yF3Aw5TM",
           "AMW CLIENT SERVICE GUIDE & LEGACY ROADMAP — CLIENT READY",
-          "1mxsH0nj8uG9XFEKDBXMBXu9MoXp4Q4gl",          "e9ead40b68bca3ea21080d0aaa7d9fe08c5bbdef3103db00f26a3ac707a443e0",
+          "1mxsH0nj8uG9XFEKDBXMBXu9MoXp4Q4gl",
+          "e9ead40b68bca3ea21080d0aaa7d9fe08c5bbdef3103db00f26a3ac707a443e0",
           "PERMANENTLY DELETED — BYTE IDENTICAL",
           "2026-09-03"
         ],
@@ -3994,7 +3997,8 @@
           "OPERATIONAL GLOBAL STANDARD — ACTIVE",
           "Founder direction",
           "2026-09-21"
-        ],        [
+        ],
+        [
           "JLC-002",
           "Water Quality Non-Negotiables",
           "Global",
@@ -4993,7 +4997,8 @@
         ],
         [
           "Final Average",
-          0,          null,
+          0,
+          null,
           "Verification Checklist",
           null,
           null,
@@ -5992,7 +5997,8 @@
           "Founder + readiness safeguard — 2026-09-05"
         ],
         [
-          "IAM-017",          "Visual Authority",
+          "IAM-017",
+          "Visual Authority",
           "September 5, 2026 Founder-confirmed building/exterior-fleet visual governs current design character.",
           "Written register outranks image-generated species labels, slogans, counts or technical claims.",
           "CURRENT CONTROLLED VISUAL",
@@ -6991,7 +6997,8 @@
           null,
           null,
           null
-        ],        [
+        ],
+        [
           null,
           null,
           null,
