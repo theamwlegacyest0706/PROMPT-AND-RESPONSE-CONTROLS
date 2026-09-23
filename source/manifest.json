@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-09-23T17:33:00Z",
+  "workbooks": [
+    {"file":"AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx","sha256":"50f4b72c2c46b541a12acd633efa6e9546d3eeaf25873ac3ae43e9a6309b421c","sheet_count":55},
+    {"file":"AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED.xlsx","sha256":"d209b78bf295dc85fa47ef3fd62df3ed6863861183dc80173fc99cbff5997c77","sheet_count":50},
+    {"file":"AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED_UPDATED.xlsx","sha256":"86b3d643b8bd5138b674f7bd93229c01c0165c676ba06addf0263a5678b7ccbc","sheet_count":48},
+    {"file":"AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED.xlsx","sha256":"b5ff0cd764eadeb4c58bc087944dbe5cf6d58d157784684d639ad5c16102069f","sheet_count":51}
+  ],
+  "preservation_rule":"All statuses preserved; status governs authority/use, not whether source is retained.",
+  "github_gate":"Must not be marked PASS without repository-backed source/version evidence."
+}
