@@ -1,0 +1,82 @@
+{
+  "scope": "ALL Legacy work; visual work is one subset only",
+  "prompt_controls": [
+    "ML-004 Prompt Fidelity / Cross-Reference",
+    "ML-006 No Blank Slate / Control Inheritance",
+    "ML-007 Daily Mirror Review / Self-Governing Correction",
+    "ML-008 Known Correction Auto-Execution",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-010 Approved Artifact Preservation / Additive-View Control",
+    "ML-011 Exact Scope Isolation",
+    "ML-012 Repeated Failure Escalation",
+    "ML-013 Fleet Specification Checksum & Purpose Lock",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-017 Cross-Domain Eligibility / Demographic / Resource Qualification Full-Stop",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review / No Founder Re-Prompt Required",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility / Physical Depiction Gate",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation Gate",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review",
+    "ML-024 Stabilization Mode / Single Source of Truth",
+    "ML-025 Funding Continuity"
+  ],
+  "visual_presentation_controls": [
+    "present each visual individually",
+    "directly visible in chat",
+    "full-size/high-resolution review image",
+    "individually openable and zoomable",
+    "individually editable/revisable",
+    "detail views/crops available when needed for inspection",
+    "no PDF/ZIP/contact sheet/board/collage/tiny-thumbnail/manifest/screenshot substitution as the only review surface",
+    "show actual visual before Save/Update",
+    "Founder-review state until explicit approval/save direction"
+  ],
+  "source_preservation_controls": [
+    "use exact current controlled/Founder-approved source",
+    "preserve exact original and provenance",
+    "approved base frozen outside Founder-named changes",
+    "edit-only means only named scope may change",
+    "do not regenerate/recompose for edit-only work",
+    "fail-stop if method cannot preserve base",
+    "generated/rejected derivative cannot override current authority",
+    "finished artifact must pass before presentation"
+  ],
+  "all_work_domains": [
+    "controls/governance/AMOS/IR02/IR03/continuity",
+    "all Founder prompts/corrections and conversation work",
+    "manuals/SOPs/forms/registers/operating architecture",
+    "institutions/fleets/campus/interiors",
+    "funding/client/business-registration/legal/resource/financial work",
+    "website/launch/contracts/service library",
+    "awards",
+    "visuals and every authority/status layer",
+    "Mirror Reviews/learning assurance",
+    "recovery/supersession/provenance/source-version lineage",
+    "stabilization/operationalization"
+  ],
+  "preserved_statuses": [
+    "current",
+    "approved",
+    "saved",
+    "draft",
+    "rejected",
+    "superseded",
+    "historical",
+    "generated",
+    "Library-present",
+    "source",
+    "gap",
+    "quarantined",
+    "provenance"
+  ],
+  "current_business_registration": "OPEN / NOT COMPLETE per Founder statement 2026-09-23",
+  "current_library_census": {
+    "total_files": 1134,
+    "generated": 849,
+    "nongenerated": 285,
+    "fingerprint": "0x1a7678f4ff4af941"
+  }
+}
