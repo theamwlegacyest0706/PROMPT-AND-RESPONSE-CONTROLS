@@ -1,0 +1,40 @@
+{
+  "pass": true,
+  "checks": {
+    "prompt:ALWAYS READ THE PROMPT COMPLETELY": true,
+    "prompt:SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY": true,
+    "prompt:Python": true,
+    "prompt:GitHub": true,
+    "prompt:all controls": true,
+    "prompt:prompts": true,
+    "prompt:safeguards": true,
+    "prompt:produced work": true,
+    "prompt:previous Mirror Reviews": true,
+    "prompt:all of the visual renderings": true,
+    "prompt:across the chats": true,
+    "prompt:legacy database": true,
+    "prompt:repeat the cycle": true,
+    "prompt:do not provide me with an excuse or explanation": true,
+    "prompt:entire chat history": true,
+    "prompt:Mirror Review on yourself": true,
+    "prompt_sha_matches_audit": true,
+    "failure_history_analyzed": true,
+    "self_mirror_level5": true,
+    "changed_execution_standard": true,
+    "funding_never_freezes": true,
+    "github_required_sources_present": true,
+    "three_prompt_copies_same_git_blob": true
+  },
+  "prompt_sha256": "8cff953a10e579e6c641b49417aa87883560a89c85670501df2f30ccf9f51dfc",
+  "event_count": 30,
+  "root_pattern_scores": {
+    "REQUEST_SUBSTITUTION": 21,
+    "CONTROL_AS_DOCUMENT_NOT_GATE": 20,
+    "FOUNDER_QA_LABOR_TRANSFER": 20,
+    "SOURCE_CONTINUITY_BREAK": 12,
+    "APPROVED_BASE_SCOPE_BREAK": 12,
+    "AUTHORITY_STATE_CONFLATION": 12,
+    "DOMAIN_CHECKSUM_FAILURE": 9
+  },
+  "next_behavior": "corrections/results first; no substitute format; Python->GitHub gate before substantive Legacy execution; repeat on failure"
+}
