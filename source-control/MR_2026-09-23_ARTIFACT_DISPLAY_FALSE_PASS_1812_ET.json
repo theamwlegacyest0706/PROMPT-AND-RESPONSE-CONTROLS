@@ -1,0 +1,42 @@
+{
+  "review_id": "MR-2026-09-23-ARTIFACT-DISPLAY-FALSE-PASS-1812ET",
+  "date": "2026-09-23",
+  "level": "LEVEL 5 — FAIL / REOPEN",
+  "exact_python_result": "FAIL FOUND / CORRECTION REQUIRED BEFORE CLOSURE",
+  "source_review_facts": {
+    "python_all_work_result": "PASS",
+    "python_scope": "ALL Legacy work, all controls/safeguards/safe-gates/full-stops, all Mirror Reviews, all statuses",
+    "master_lock_controls_loaded": 25,
+    "missing_master_lock_ids": [],
+    "prior_mirror_reviews_loaded": 34,
+    "gate_safeguard_rows_loaded": 1492
+  },
+  "invalidated_prior_claim": {
+    "prior_claim": "The actual files are now displayed above",
+    "founder_observation": "There are no photos above.",
+    "prior_artifact_display_gate_status": "PASS — exact requested artifacts surfaced without authority promotion",
+    "corrected_status": "INVALIDATED / FAIL",
+    "reason": "The validation checked artifact retrieval/tool execution, but did not verify the Founder-visible response surface. Tool retrieval is not equivalent to user-visible presentation."
+  },
+  "prior_failure_patterns_confirmed": [
+    "controls_known_but_not_executed",
+    "founder_repeat_labor",
+    "visual_substitution_or_preflight_failure",
+    "cross_chat_recovery_failure",
+    "correction_not_changing_next_execution"
+  ],
+  "controls_triggered": [
+    "ML-008",
+    "ML-009",
+    "ML-018",
+    "ML-020",
+    "ML-023"
+  ],
+  "corrections": [
+    "Do not mark an artifact-display gate PASS from backend retrieval alone.",
+    "For a Founder request to see an actual rendering, user-visible presentation must be verified by the response surface; if that cannot be verified, do not claim the image was shown.",
+    "Preserve the exact image asset and authority state separately from whether the UI displayed it.",
+    "A prior PASS is reopened automatically when the next applicable execution contradicts it."
+  ],
+  "result": "FAIL FOUND / PRIOR ARTIFACT-DISPLAY PASS INVALIDATED / CORRECTION WRITTEN FORWARD"
+}
