@@ -1,0 +1,132 @@
+[
+  [
+    "THE AMW LEGACY \u2014 OPEN RECOVERY & STABILIZATION QUEUE",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Only genuine unresolved items belong here. Do not ask the Founder to recreate an item until the recovery path is exhausted.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "QUEUE ID",
+    "ITEM",
+    "CLASS",
+    "CURRENT STATUS",
+    "RECOVERY / CORRECTION ACTION",
+    "FOUNDER INPUT NEEDED?",
+    "BLOCKS DEVELOPMENT?",
+    "CLOSE ONLY WHEN"
+  ],
+  [
+    "STAB-001",
+    "Full 1,074-file Library corpus authority classification",
+    "Corpus stabilization",
+    "OPEN",
+    "Assign each file Generated/Library-Present/Approved/Saved/Current/Superseded/Rejected/Draft/Source/Gap/Quarantined; preserve every file",
+    "NO",
+    "YES",
+    "Every file has state + lineage pointer"
+  ],
+  [
+    "STAB-002",
+    "All 756 image artifacts row-by-row authority classification",
+    "Visual stabilization",
+    "OPEN",
+    "Expand visual authority beyond current approved subset; preserve drafts/rejected/provenance distinctly",
+    "NO",
+    "YES for new visual development",
+    "Every image has authority state + institution/workstream + lineage"
+  ],
+  [
+    "STAB-003",
+    "High-risk visual lineage: sports fleets",
+    "Repeated failure class",
+    "QUARANTINED",
+    "Reconcile exact source visual + 110 Founder edits + institution palette/identity/fleet controls; do not re-render during stabilization",
+    "NO",
+    "YES",
+    "One later Founder-directed artifact passes full recursive gate"
+  ],
+  [
+    "STAB-004",
+    "Percy's Pitch Baseball Complex rendering",
+    "Save-state clarification",
+    "STABLE STATUS",
+    "Preserve Library visual as provenance; do not label Update-and-Saved unless Founder directs",
+    "NO",
+    "NO",
+    "Status remains correctly separated"
+  ],
+  [
+    "STAB-005",
+    "Prompt-to-artifact lineage for current 47 institutions",
+    "Lineage stabilization",
+    "OPEN",
+    "Map original/latest controlling prompt, latest Founder correction, exact current artifact, save/update evidence and superseded versions",
+    "NO",
+    "YES for redesign",
+    "47/47 institutions mapped"
+  ],
+  [
+    "STAB-006",
+    "Historical master workbook lineage",
+    "Master-record stabilization",
+    "IN PROGRESS",
+    "Keep all historical masters; designate one current master; record predecessor/successor chain instead of deleting old versions",
+    "NO",
+    "NO",
+    "Every master marked current or provenance"
+  ],
+  [
+    "STAB-007",
+    "Prior 'missing/unrecoverable' claims",
+    "Recovery integrity",
+    "IN PROGRESS",
+    "Recheck all such claims using full recovery sequence and correct false negatives",
+    "NO",
+    "YES where affected",
+    "Every claim verified or converted to true Recovery Gap"
+  ],
+  [
+    "STAB-008",
+    "Current registration/licensing/funding/client-operability lane",
+    "Urgent business operations",
+    "OPEN \u2014 NOT FROZEN",
+    "Keep separate from visual-development freeze so business readiness can advance",
+    "ONLY for decisions/signatures that truly require Founder",
+    "NO",
+    "Operational next actions are current and evidence-based"
+  ],
+  [
+    "STAB-009",
+    "Imagine Aquarium Magic \u2014 Aquarium Bus Interiors",
+    "Founder-directed visual execution",
+    "OPEN / QUARANTINED \u2014 SEPTEMBER 22 GENERATED INTERIORS REVIEWED; NO VERIFIED RE-ENTRY",
+    "September 22 produced five named Aquarium interior files plus later derivatives. Preserve them as generated/library-present provenance. Do not promote them: actual-artifact review found invented image text/branding and insufficient evidence that each finished artifact satisfies exact vehicle mission, accessibility, checksum and institution-specific inheritance. Keep September 5 authority unchanged; no re-render during stabilization absent Founder direction.",
+    "NO \u2014 current controls and recovered sources are sufficient for classification/recovery",
+    "NO \u2014 Imagine operational control remains active; blocks only false visual-completion/re-entry claims",
+    "One Founder-directed future execution must pass ML-009\u2013015/018/019/021/022 actual-artifact review, exact checksum/purpose/accessibility/source checks, and receive Founder approval/save before CURRENT-CONTROLLED status."
+  ]
+]
