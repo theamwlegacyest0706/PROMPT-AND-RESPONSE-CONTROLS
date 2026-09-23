@@ -1,0 +1,17 @@
+Area,Status,Evidence / Condition,Owner,Next Action
+Venue,VERIFY,Venue must be selected and event-specific conditions verified,Program/Event Steward,Advance qualified venues
+Food / Service,OPEN,Food/source/service model not yet verified,Program/Event Steward,Secure source/partner and safety plan
+Toys / Resources,OPEN,Promise does not equal possession,Resource Steward,Build actual possessed-resource ledger
+Staffing,OPEN,Roles/volunteers not yet assigned,COO / Event Steward,Staffing plan and volunteer agreements
+Transportation,OPEN,Event-specific,Event Steward,Determine need
+Insurance / Safety,OPEN,Event-specific,COO,Verify with host/venue
+Accessibility,OPEN,Venue/service-specific,Event Steward,Accessibility review
+Digital / QR,BUILD,Four mobile doors specified; deployment required,CTO / CMO,Deploy and test downstream handling
+Consent,READY DESIGN,Publicity choice separate from service,Program Steward,Use separate consent flow
+Contingency,OPEN,IRC readiness needed,COO,Create event contingency plan
+Return,OPEN,Post-event learning/return required,COO / Program Steward,Schedule Return before launch
+Holiday Pilot Readiness Board,LOCKED / BUILD,"Named readiness board; existing area rows collectively track venue, food/service, toys/resources, staffing, transportation/logistics, insurance/safety, accessibility, digital/QR, consent, contingency and Return.",Program / COO,Use this sheet as the controlled readiness board; do not claim readiness until blockers are verified.
+QR Map / Four Mobile Doors,BUILD,Door 1: Request Holiday Resources / START A REQUEST; Door 2: Contribute to Toy Drive / I’D LIKE TO CONTRIBUTE; Door 3: Join the Table / Request Meal Support / JOIN THE TABLE / REQUEST MEAL SUPPORT; Door 4: Help Set the Table / I’D LIKE TO HELP.,CTO / CMO / Program,Deploy each route to its intended downstream form/path and test on mobile.
+Cross-Routing,LOCKED CONTROL,A person may be shown another relevant Holiday route when appropriate; cross-routing does not erase the purpose of the route they intentionally chose.,CTO / Program Steward,Preserve route context when offering another path.
+Intentional-Submission Boundary,LOCKED CONTROL,Availability of another route does not mean the person intentionally submitted into that other pathway; preserve consent/context and do not silently merge submissions.,CTO / Program Steward,Keep separate submission records unless the person intentionally completes/authorizes another pathway.
+Request Status / HCPP-INT-01,READY DESIGN,Participant/request workflow is maintained separately from pilot-readiness status: Received; Reviewing; Additional Information Requested; Fulfilled; Partially Fulfilled; Connected to Other Resource; Waitlisted; Declined (No Available Resources); No Response / Closed; Other.,Program Steward,Use Holiday Request Status record when a real F03A/F03B request arrives; do not confuse request status with event-readiness status.
