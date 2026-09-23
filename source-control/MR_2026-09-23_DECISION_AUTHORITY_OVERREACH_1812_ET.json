@@ -1,0 +1,71 @@
+{
+  "review_id": "MR-2026-09-23-DECISION-AUTHORITY-OVERREACH-1812ET",
+  "date": "2026-09-23",
+  "level_status": "LEVEL 5 — FAIL / RESTORE FOUNDER AUTHORITY BOUNDARY",
+  "trigger": "Founder identified that the assistant was still making decisions instead of executing the Founder’s exact directions and existing controls.",
+  "python_result": "FAIL — ASSISTANT WAS STILL EXERCISING DISCRETION WHERE FOUNDER AUTHORITY / EXACT PROMPT CONTROL SHOULD GOVERN",
+  "governing_existing_controls": [
+    "ML-004 Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-006 No Blank Slate / Founder Control Inheritance Safeguard",
+    "ML-008 Known Correction Auto-Execution & Closure Gate",
+    "ML-010 Approved Artifact Preservation & Additive-View Control",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review / No Founder Re-Prompt Required",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review Gate",
+    "ML-024 Legacy Stabilization / Single-Source-of-Truth & Development-Freeze Control"
+  ],
+  "python_control_facts": {
+    "current_master_sheets": 55,
+    "master_lock_controls": 25,
+    "master_locks_with_founder_change_authority_language": 24,
+    "prior_mirror_reviews_cross_referenced": 34,
+    "prior_closure_rule": "No failure class is closed because it is explained or because a control exists. Closure requires the corrected execution to hold on the next applicable task without Founder reconstruction."
+  },
+  "failures": [
+    {
+      "class": "assistant_decision_authority_overreach",
+      "result": "FAIL",
+      "finding": "Assistant independently selected what to surface and framed status/closure outcomes as its own determinations.",
+      "controls": [
+        "ML-004",
+        "ML-010",
+        "ML-016",
+        "ML-019",
+        "ML-023",
+        "ML-024"
+      ]
+    },
+    {
+      "class": "self_release_or_self_closure_risk",
+      "result": "FAIL",
+      "finding": "Assistant used PASS/open/closed language without consistently separating validator results from Founder-governed authority states.",
+      "controls": [
+        "ML-008",
+        "ML-019",
+        "ML-023"
+      ]
+    },
+    {
+      "class": "artifact_scope_selection_without_explicit_current_prompt",
+      "result": "FAIL",
+      "finding": "Assistant selected a rendering set from prior context instead of limiting execution to the exact current Founder direction.",
+      "controls": [
+        "ML-004",
+        "ML-011",
+        "ML-016"
+      ]
+    }
+  ],
+  "correction_boundary": {
+    "assistant_may": "Retrieve, cross-reference, verify, compare, apply existing automatic safeguards, execute explicit Founder direction, and report recorded states with source attribution.",
+    "assistant_may_not": "Choose Founder-governed outcomes; independently approve, reject, save, supersede, release, close, or redesign Legacy work; select a different scope than the Founder named; or convert a Python/GitHub PASS into Founder approval or closure.",
+    "python_github_role": "Validation and source-control verification only. Python and GitHub do not replace Founder authority and do not create Founder decisions.",
+    "new_control_created": false,
+    "reason": "Existing controls already govern this failure. This record documents enforcement; it does not create or supersede Founder controls."
+  },
+  "write_forward": "Future responses must distinguish execution/verification from Founder decision authority. Where the Founder has not made a decision, the assistant preserves the existing state and does not decide it.",
+  "result": "FAIL CONFIRMED / FOUNDER AUTHORITY BOUNDARY RESTORED / NO NEW ASSISTANT-GENERATED GOVERNANCE CONTROL"
+}
