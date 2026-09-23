@@ -1,0 +1,53 @@
+{
+  "all_controls_scope": [
+    "ML-001 through ML-025",
+    "all non-ML controls in Statement Placement, AMOS, G01, IR02/IR03, Learning & Assurance",
+    "all institution-, fleet-, campus-, interior-, funding-, resource-, legal-, financial-, awards-, stabilization-, and operationalization controls"
+  ],
+  "all_safe_guards_and_safe_gates": [
+    "all safeguards",
+    "all full-stops",
+    "all preflight gates",
+    "all kill switches",
+    "all quarantine/re-entry gates",
+    "all eligibility/qualification gates",
+    "all save/update durability controls",
+    "all source/authority/supersession gates"
+  ],
+  "all_work_scope": [
+    "all created work",
+    "all drafted work",
+    "all current work",
+    "all approved/saved work",
+    "all rejected work",
+    "all superseded work",
+    "all historical work",
+    "all generated work",
+    "all source/provenance work",
+    "all gaps and quarantined work",
+    "all visual and nonvisual work"
+  ],
+  "all_mirror_reviews": [
+    "every Mirror Review in the archive",
+    "daily/self-governing reviews",
+    "system-wide reviews",
+    "visual reviews",
+    "funding/resource reviews",
+    "recovery/stabilization reviews",
+    "all correction/closure findings"
+  ],
+  "accountability_failure_classes": [
+    "business-registration delay",
+    "funding leads not actually qualified as usable",
+    "failure to broaden funding discovery/search sufficiently",
+    "services/tools suggested that the Founder could not use",
+    "services/tools suggested without disclosing material limitations before recommendation",
+    "waiting for Founder correction instead of learning from repeated failure patterns",
+    "prompt skimming/shortening",
+    "known controls named but not executed",
+    "Founder forced to repeat/reconstruct controls",
+    "cross-chat recovery gaps",
+    "authority-state conflation",
+    "artifact review after presentation instead of before"
+  ]
+}
