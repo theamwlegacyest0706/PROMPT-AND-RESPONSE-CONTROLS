@@ -1,0 +1,37 @@
+{
+  "scope": "/THE AMW LEGACY",
+  "total_files": 1148,
+  "total_parts": 6,
+  "parts": [
+    {
+      "part": 1,
+      "count": 200,
+      "commit": "799bcc44e3d2efd77a9f50f791b9d5b4eaece8c0"
+    },
+    {
+      "part": 2,
+      "count": 200,
+      "commit": "315cfded250e8d81e30f37ae2425b907a67a4a63"
+    },
+    {
+      "part": 3,
+      "count": 200,
+      "commit": "00a5e869db1e1d4edf1e2bc8b3de1061d879e534"
+    },
+    {
+      "part": 4,
+      "count": 200,
+      "commit": "66083e121cbfb2a929a97e769a134e9b71e27126"
+    },
+    {
+      "part": 5,
+      "count": 200,
+      "commit": "6baed74b1630503596e182ab3045e8cdda12c16b"
+    },
+    {
+      "part": 6,
+      "count": 148,
+      "commit": "19db604ec70d96e939d7ba35ff094e432e40936a"
+    }
+  ]
+}
