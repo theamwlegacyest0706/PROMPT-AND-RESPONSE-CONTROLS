@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-23",
+  "founder_prompt_sha256": "7ac514590eb08bf886f9dbb1a6d2847b60af1a2e6aade8f04b486de6bee54751",
+  "status": "CURRENT CHAT CORRECTIVE-CLOSEOUT ONLY — FRESH PROJECT CHAT REQUIRED FOR NEXT RENDERING ATTEMPT",
+  "task": "Produce and show Imagine Aquarium Magic bus interiors; do not ask Founder to repeat controls.",
+  "source_authority": [
+    "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx version 7",
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "validation_spec.json",
+    "current-master-sheets/Imagine_Aquarium_Magic.csv",
+    "current-master-sheets/Fleet_Interior_Cross-Ref.csv",
+    "current-master-sheets/Campus_Interior_Control.csv",
+    "review/HINDERING_BEHAVIOR_PATTERN_AUDIT_2026-09-23.json",
+    "review/Mirror_Review_2026-09-23_FINAL_RECURSIVE_CYCLE.json"
+  ],
+  "rendering_scope": {
+    "format": "SEPARATE full-frame photorealistic/cinematic interior renderings; NO board/collage/poster/exterior",
+    "institution": "Imagine Aquarium Magic only",
+    "fleet_checksum": "3 converted school buses + 3 Mega Buses + 3 coach buses",
+    "educational_units": "1 educational Mega Bus + 1 educational coach bus",
+    "palette": "Deep Navy/Midnight + Emerald Green + Slate Gray; restrained Antique Gold + Warm Ivory accents",
+    "baseline": [
+      "durable easy-clean mission-safe materials",
+      "climate control/air quality",
+      "stable high-capacity Wi-Fi",
+      "TVs/digital displays",
+      "flexible track/swivel/recline seating where safe/legal",
+      "stowable furniture/equipment",
+      "moon-roof/skylight where feasible",
+      "platform-appropriate kitchen/kitchenette and enclosed restroom",
+      "washer/dryer where safely feasible",
+      "secure storage/travel securement",
+      "renewable/solar auxiliary energy",
+      "USB/USB-C charging",
+      "GPS/security/communications",
+      "emergency readiness",
+      "at least one intentionally empty chair in every depicted seating environment"
+    ],
+    "school_bus": "safe passenger seating + secure storage + digital aquatic-learning displays using non-live content; no invented ADA/Mixed/Non-ADA designation",
+    "standard_mega": "safe passenger seating retained + lounge/study + real kitchenette + real enclosed restroom + secure storage + displays/charging/Wi-Fi",
+    "educational_mega": "safe passenger seating retained + mobile aquatic-learning classroom + immersive digital displays + non-live water-quality demo equipment + stowable tables + real kitchenette/restroom + secure equipment storage",
+    "standard_coach": "safe passenger seating + real kitchenette + real enclosed restroom + secure storage + displays/charging/Wi-Fi",
+    "educational_coach": "safe passenger seating retained + aquatic-learning/outreach classroom + interactive digital displays + non-live educational models/instruments + stowable worktables + real kitchenette/restroom + secure storage"
+  },
+  "prohibited": [
+    "Legacy-wide collage/presentation board/poster",
+    "other institutions",
+    "exterior redesign",
+    "new fleet counts",
+    "invented mobility assignment",
+    "live-animal transport/display without separate verified authorization",
+    "new slogans/departments/staffing roles",
+    "promotion to approved/saved/current-controlled before Founder approval"
+  ],
+  "current_chat_failure_artifacts": [
+    "3b273d0c-8af5-4562-af64-e5331f9c93be — rejected collage",
+    "e8f67c32-e3d7-42ab-887b-e17e156c0365 — rejected collage",
+    "9cfb9bdb-b511-4d0d-9d32-c793d017abda — rejected collage",
+    "502d96d8-7694-4167-a255-911803827370 — rejected collage",
+    "496f8300-eaec-4c68-9958-19a56691eff4 — rejected collage"
+  ],
+  "founder_repeat_rule": "Do not ask Founder to restate any Aquarium Bus Interior requirement in the fresh Project chat. Retrieve this handoff and current master automatically.",
+  "funding_continuity": "Urgent and never frozen."
+}
