@@ -1,0 +1,22 @@
+{
+  "pre_action_gates": [
+    "FULL_PROMPT_READ",
+    "PYTHON_FIRST_PASS",
+    "GITHUB_REPOSITORY_CROSS_REFERENCE",
+    "CURRENT_CONTROL_CROSS_REFERENCE",
+    "PRIOR_MIRROR_REVIEW_CROSS_REFERENCE"
+  ],
+  "artifact_gates": [
+    "EXACT_SOURCE",
+    "ALLOWED_CHANGE_SCOPE",
+    "AUTHORITY_STATE",
+    "ACTUAL_FINISHED_ARTIFACT_REVIEW",
+    "NO_UNSUPPORTED_SAVE_APPROVAL_CURRENT_CLAIM"
+  ],
+  "final_gates": [
+    "FINAL_MIRROR_REVIEW",
+    "FINAL_PYTHON_PASS",
+    "FINAL_GITHUB_CROSS_REFERENCE"
+  ],
+  "on_failure": "Make correctable corrections and repeat the Mirror Review + Python + GitHub cycle. Do not substitute apology, explanation, a new control, or a repeat Library-permission request."
+}
