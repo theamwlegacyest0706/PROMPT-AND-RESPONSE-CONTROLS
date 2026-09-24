@@ -25,6 +25,42 @@
       "source": "AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.docx",
       "github_path": "chat-sources/AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.txt",
       "status": "CONTROLLED COMPENDIUM / DERIVED FROM RECOVERED WORK"
+    },
+    {
+      "period": "historical chat source",
+      "source": "AMW COMPLETE UPLOADED CHAT WORK RECORD",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_COMPLETE_UPLOADED_CHAT_WORK_RECORD.txt",
+      "status": "RAW CHAT WORK SOURCE"
+    },
+    {
+      "period": "historical chat source",
+      "source": "CHATGPT Failures — Original Full Uploaded AMW Chat Source",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/CHATGPT_FAILURES_ORIGINAL_FULL_UPLOADED_AMW_CHAT_SOURCE.txt",
+      "status": "RAW RECOVERY / CHAT SOURCE"
+    },
+    {
+      "period": "historical chat source",
+      "source": "AMW Chat Work — Monday 1:49 AM",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_MONDAY_1_49_AM.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "historical chat source",
+      "source": "AMW Chat Work — Thursday 7:09 PM",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_THURSDAY_7_09_PM.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-04",
+      "source": "AMW Chat Work — Aug 4",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_4.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-21",
+      "source": "AMW Chat Work — Aug 21",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_21.txt",
+      "status": "RAW CHAT SOURCE"
     }
   ],
   "later_project_chat_history": [
@@ -165,5 +201,34 @@
     "Statement Placement",
     "current Project conversation context",
     "retrieved prior-conversation context"
-  ]
+  ],
+  "raw_workstream_sources": [
+    {
+      "source": "AMW WEBSITE & BRAND DEVELOPMENT — WATERMARKED",
+      "github_path": "source-corpus/full-ingest-2026-09-23/website/AMW_WEBSITE_AND_BRAND_DEVELOPMENT_WATERMARKED.txt",
+      "class": "website/brand raw source"
+    },
+    {
+      "source": "AMW CONTROLLED POLICIES, STANDARDS & SAFEGUARDS — WATERMARKED",
+      "github_path": "source-corpus/full-ingest-2026-09-23/policies/AMW_CONTROLLED_POLICIES_STANDARDS_SAFEGUARDS_WATERMARKED.txt",
+      "class": "policy/safeguard raw source"
+    },
+    {
+      "source": "AMW GOVERNANCE, CONSTITUTION & AMOS — WATERMARKED",
+      "github_path": "source-corpus/full-ingest-2026-09-23/governance/AMW_GOVERNANCE_CONSTITUTION_AMOS_WATERMARKED.txt",
+      "class": "governance/AMOS raw source"
+    },
+    {
+      "source": "AMW INTERNAL CONTROLLED OPERATIONS — WATERMARKED",
+      "github_path": "source-corpus/full-ingest-2026-09-23/operations/AMW_INTERNAL_CONTROLLED_OPERATIONS_WATERMARKED.txt",
+      "class": "operations raw source"
+    }
+  ],
+  "completeness_correction": {
+    "prior_complete_source_pass_invalidated": true,
+    "reason": "Additional accessible raw chat and workstream sources were found after the earlier complete-source PASS.",
+    "raw_later_project_chat_transcripts_complete": false,
+    "full_visual_binary_corpus_in_python_complete": false,
+    "authority": "PYTHON_COMPLETE_SOURCE_CORPUS_VALIDATION_2026-09-23"
+  }
 }
