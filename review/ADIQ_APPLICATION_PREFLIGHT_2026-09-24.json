@@ -1,0 +1,31 @@
+{
+  "id": "ADIQ-APPLICATION-PREFLIGHT-2026-09-24",
+  "date": "2026-09-24",
+  "opportunity": "AdIQ Cares Small Business Grant Program",
+  "award": "$2,500 quarterly cash grant",
+  "source": "https://www.adiq.com/adiq-cares.html",
+  "gate_result": "PASS — QUALIFIED / ACTIVE / SUBMIT",
+  "controls": {
+    "application_fee": "$0 / none stated",
+    "loan_or_debt": "No",
+    "required_match": "None stated",
+    "reimbursement_only": "No; ACH disbursement stated",
+    "mandatory_training": "None",
+    "paid_membership_or_purchase": "None required",
+    "registration_prerequisite": "No formal state registration or good-standing prerequisite stated on current public application",
+    "reporting": "No recurring performance/expenditure reporting stated on current public page",
+    "publicity": "Winner announced on social media; no broad application-content license stated on current public page",
+    "final_award_terms": "Re-check before acceptance"
+  },
+  "application_fields": {
+    "name": "Alicia Walker",
+    "phone": "(202) 923-8905",
+    "business_name": "ALICIA AND MYLES WALKER",
+    "business_type": "Organizational Consulting / Nonprofit & Community Capacity-Building",
+    "city_state": "Hyattsville, MD",
+    "challenge": "AMW is a new Maryland consulting firm serving nonprofits and community organizations. We are building our client base while operating on limited startup capital, which makes it difficult to invest consistently in outreach, visibility, and the core tools needed to reach organizations that could benefit from our services.",
+    "grant_help": "The $2,500 would strengthen our immediate operating and client-acquisition capacity by supporting our website and online visibility, outreach and marketing, communications/software, and essential startup compliance and administrative costs. That would help us reach more nonprofits and community organizations while keeping our services accessible."
+  },
+  "visual_corpus_review": "No new visual requested or created. Existing visual authority/quarantine states remain unchanged and do not pause funding under ML-025.",
+  "submission_state": "APPLICATION CONTENT COMPLETE; LIVE FORM SUBMISSION REQUIRES A BROWSER WRITE ACTION. DO NOT MARK APPLIED UNTIL A SUBMISSION CONFIRMATION IS ACTUALLY RECEIVED."
+}
