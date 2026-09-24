@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-09-24T15:42:00-04:00",
+  "authoritative_active_archive": "current-master-sheets/Mirror_Review_Archive.csv",
+  "active_unique_mirror_review_ids": 43,
+  "stale_review_json": "review/Mirror_Review_Archive_FULL.json",
+  "stale_unique_mirror_review_ids": 35,
+  "discrepancy": 8,
+  "correction": "Mirror_Review_Archive_FULL.json is incomplete for completeness counting. Use the current-master CSV as active archive authority until a rebuilt FULL JSON is generated from that CSV.",
+  "status": "CORRECTED AUTHORITY MISMATCH / STALE JSON PRESERVED AS PROVENANCE"
+}
