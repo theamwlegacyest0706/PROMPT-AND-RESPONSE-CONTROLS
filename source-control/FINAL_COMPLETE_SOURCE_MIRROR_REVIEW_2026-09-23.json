@@ -1,0 +1,58 @@
+{
+  "review_id": "MR-2026-09-23-COMPLETE-SOURCE-CORPUS",
+  "date": "2026-09-23",
+  "scope": "ALL accessible Legacy-related source layers: raw chats, recovered later-chat index, current master, controls/safeguards/safe-gates/full-stops, policies, website/launch, every work status, every Mirror Review, and Library manifest evidence.",
+  "source_metrics": {
+    "master_sheets": 55,
+    "master_nonempty_rows": 2179,
+    "master_lock_controls": 25,
+    "mirror_reviews": 34,
+    "later_chat_records": 25,
+    "raw_verbatim_chat_chars": 55010,
+    "chat_failures_chars": 56197,
+    "controlled_compendium_chars": 36340,
+    "weekly_source_chars": 2416,
+    "github_complete_source_validation_commit": "7a45a7602db7b277b44dd7921f460ce4b329105c",
+    "current_library_files": 1157
+  },
+  "checks": {
+    "exact_prompt_loaded": true,
+    "all_55_master_sheets": true,
+    "all_25_ML_controls": true,
+    "all_34_Mirror_Reviews": true,
+    "all_status_layers_preserved": true,
+    "website_launch_current_master": true,
+    "google_sites_raw_chat_history": true,
+    "website_design_raw_chat_history": true,
+    "governance_raw_chat_history": true,
+    "registration_formation_raw_history": true,
+    "funding_raw_history": true,
+    "service_architecture_raw_history": true,
+    "recovery_failure_history": true,
+    "controlled_compendium_loaded": true,
+    "weekly_source_loaded": true,
+    "later_chat_recovery_index_loaded": true,
+    "github_complete_source_validation_passed": true,
+    "github_complete_source_validation_commit_recorded": true,
+    "current_library_manifest_count_recorded": true
+  },
+  "corrections": [
+    "Do not use the current master workbook as a substitute for raw chat history.",
+    "Treat the July 29–August 29 verbatim chat export and CHATGPT Failures as raw source evidence.",
+    "Treat later Project-history records as recovered/indexed chat evidence unless a raw transcript export exists; never label those summaries as verbatim.",
+    "Keep website design/Google Sites history tied to the raw chat source and Website & Launch tied to the current master.",
+    "Keep all controls, safeguards, safe-gates/full-stops, policies, Mirror Reviews, and all work statuses in the validation corpus.",
+    "Keep every Library artifact in the corpus by full Library manifest; rejected/superseded/draft work is preserved but does not become active authority.",
+    "Business registration, funding-search quality, service usability/limitations, and repeated-pattern failures remain accountability classes, not side notes.",
+    "No future Legacy task may begin from a visual-only, control-only, or current-only subset."
+  ],
+  "critical_status": {
+    "raw_later_chat_transcripts_complete": false,
+    "later_chat_recovery_status": "INDEXED/RECOVERED FROM PROJECT HISTORY + CONTROLLED RECORDS; NOT FALSELY LABELED VERBATIM",
+    "business_registration": "OPEN / NOT COMPLETE",
+    "funding_accountability": "ACTIVE",
+    "service_usability_limitations_accountability": "ACTIVE",
+    "repeat_failure_pattern_accountability": "ACTIVE"
+  },
+  "result": "PASS"
+}
