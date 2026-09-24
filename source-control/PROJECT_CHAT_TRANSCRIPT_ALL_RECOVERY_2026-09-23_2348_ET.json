@@ -1,0 +1,112 @@
+{
+  "review_id": "PROJECT-CHAT-TRANSCRIPT-ALL-2026-09-23-2348ET",
+  "python_first": true,
+  "raw_historical_sources_processed": [
+    {
+      "file": "AMW COMPLETE UPLOADED CHAT WORK RECORD.docx",
+      "bytes": 58426,
+      "sha256": "67a2434edde765d09d9ad241358b98c670c31d86a3955076b65a3be22950e590",
+      "characters_extracted": 54516,
+      "nonblank_lines": 569
+    },
+    {
+      "file": "CHATGPT Failures — Original Full Uploaded AMW Chat Source.docx",
+      "bytes": 428294,
+      "sha256": "37728c2a38b221011642650c92a920eefddea19ff4ecce85168a0cd79f851b56",
+      "characters_extracted": 54382,
+      "nonblank_lines": 567
+    },
+    {
+      "file": "AMW Chat Work — Monday 1:49 AM.docx",
+      "bytes": 43969,
+      "sha256": "8bb1047f73c63aba40851624bf26133b3c6914576836d692038109009adb8b3d",
+      "characters_extracted": 17826,
+      "nonblank_lines": 68
+    },
+    {
+      "file": "AMW Chat Work — Thursday 7:09 PM.docx",
+      "bytes": 41382,
+      "sha256": "21c06859393ef0a89377e0f4ad19dd34627b8b6258098c797b6dc47a213355c3",
+      "characters_extracted": 10642,
+      "nonblank_lines": 92
+    },
+    {
+      "file": "AMW Chat Work — Aug 4.docx",
+      "bytes": 43467,
+      "sha256": "55c76931669cdd3697e677d386598d6adaf5e246e99f593ef0e8040670922b4c",
+      "characters_extracted": 15322,
+      "nonblank_lines": 342
+    },
+    {
+      "file": "AMW Chat Work — Aug 21.docx",
+      "bytes": 38705,
+      "sha256": "60693e1b95d6f5868c73cc24e6c86152468ede140d9c64f8e22a19368395ce96",
+      "characters_extracted": 4196,
+      "nonblank_lines": 22
+    },
+    {
+      "file": "AMW Chat Work — Jul 29.docx",
+      "bytes": 37837,
+      "sha256": "5a92761fba1135cfe916e5930b10358c750c28708d997e409351e67b7b4fff2d",
+      "characters_extracted": 2437,
+      "nonblank_lines": 45
+    },
+    {
+      "file": "AMW Chat Work — Aug 7 Part 1.docx",
+      "bytes": 37993,
+      "sha256": "2504c9b4b1feb857133350da1a0cf9c1da6c64a1f6eb8065db334e3638ccae1b",
+      "characters_extracted": 2888,
+      "nonblank_lines": 5
+    },
+    {
+      "file": "AMW Chat Work — Aug 7 Part 2.docx",
+      "bytes": 37505,
+      "sha256": "0f4805b4ebfedcf6a61f191070385d0a15f86ee2dd9754e6b0d710fa2020c253",
+      "characters_extracted": 1839,
+      "nonblank_lines": 14
+    },
+    {
+      "file": "AMW Complete Chat Work Verbatim — 2026-07-29 through 2026-08-29.docx",
+      "bytes": 58823,
+      "sha256": "cce8ff82dc50931c98da28bd0f4c10c4997faddfdad463e77f4d4655eb49763e",
+      "characters_extracted": 54422,
+      "nonblank_lines": 569
+    }
+  ],
+  "raw_historical_source_count": 10,
+  "later_project_chat_titles_indexed": [
+    "AMW funding opportunities identified for action",
+    "AMW Complete Weekly Archive",
+    "AMW Friday Research Scan",
+    "AMW Nonprofit Sector Brief",
+    "Search confirmed AMW work",
+    "Statement-register recovery conversation",
+    "Show Institution Visuals",
+    "Design Betty’s Botanical Garden",
+    "Funding controls / application execution conversation",
+    "Intake/application control conversation",
+    "AMW Daily Briefing — 2026-09-10",
+    "Correct Legacy Village Design",
+    "Continue Legacy Chat",
+    "Enable Memory",
+    "Daily Legacy Mirror Review — 2026-09-13",
+    "Tax Deduction For Grow House",
+    "Mini Fridge Deduction",
+    "Daily Legacy Mirror Review — 2026-09-15",
+    "Flooring Campus Design",
+    "Daily Legacy Mirror Review — 2026-09-17",
+    "AMW Daily Briefing — 2026-09-17",
+    "Stabilization Corrections Operationalization",
+    "AMW Daily Briefing — 2026-09-21",
+    "Run Python GitHub Review",
+    "Current control/Mirror Review chat — 2026-09-23"
+  ],
+  "later_project_chat_count": 25,
+  "status": {
+    "raw_verbatim_through_2026_08_29": "PRESENT / PROCESSED",
+    "later_project_chat_message_level_raw_transcripts": "NOT COMPLETELY MATERIALIZED",
+    "recovered_project_history": "PRESENT AS INDEX / CONTROLLED RECORD / PROJECT CONTEXT",
+    "false_complete_claim": "PROHIBITED",
+    "overall": "OPEN / FAIL — PROJECT-CHAT TRANSCRIPTS CANNOT BE CALLED COMPLETE UNTIL RAW MESSAGE-LEVEL SOURCES EXIST FOR REMAINING DATES"
+  }
+}
