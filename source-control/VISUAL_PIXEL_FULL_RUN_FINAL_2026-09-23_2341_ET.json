@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-09-23T23:41:00-04:00",
+  "scope": "ALL image files recursively listed under /THE AMW LEGACY; every manifest item sent through files image_file native-pixel read; no status filtering",
+  "manifest_path": "source-control/VISUAL_BINARY_ALL_IMAGES_MANIFEST_2026-09-23.json",
+  "manifest_total": 1008,
+  "pixel_read_attempted": 1008,
+  "native_pixel_reads_ok": 1007,
+  "native_pixel_reads_unavailable": 1,
+  "failed_items": [
+    {
+      "checkpoint": "source-control/visual-pixel-checkpoints/PIXEL_READ_0660_0719.json",
+      "index": 700,
+      "file_id": "file_0000000026a8822fb492e61d7ac88e6f",
+      "library_file_id": "libfile_b94be9b494c881919e02a75e021f2f3f",
+      "name": "Mini Stewards’ World Campus and Fleet.png",
+      "path": "/THE AMW LEGACY/Mini Stewards’ World Campus and Fleet.png",
+      "mime_type": "image/png",
+      "size_bytes": 3362834,
+      "model_generated": true,
+      "read_ok": false,
+      "width": null,
+      "height": null,
+      "pixel_asset_pointer": null,
+      "read_warnings": [
+        "Native image pixels were unavailable; returned extracted text only."
+      ]
+    }
+  ],
+  "retry": {
+    "file_id": "file_0000000026a8822fb492e61d7ac88e6f",
+    "name": "Mini Stewards’ World Campus and Fleet.png",
+    "additional_attempts": 3,
+    "result": "NATIVE PIXELS UNAVAILABLE ON ALL THREE RETRIES; EXTRACTED IMAGE TEXT REMAINS ACCESSIBLE"
+  },
+  "completion_statement": "ALL 1008 image records were actually run through the native image/pixel read path. 1007 returned native pixel assets. One file returned extracted image text only after the original attempt plus three retries; it is preserved as an explicit binary-access exception, not silently counted as pixel-decoded.",
+  "checkpoints": [
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0000_0059.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0060_0119.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0120_0179.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0180_0239.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0240_0299.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0300_0359.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0360_0419.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0420_0479.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0480_0539.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0540_0599.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0600_0659.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0660_0719.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0720_0779.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0780_0839.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0840_0899.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0900_0959.json",
+    "source-control/visual-pixel-checkpoints/PIXEL_READ_0960_1007.json"
+  ],
+  "result": "ALL IMAGE RECORDS ATTEMPTED; 1007/1008 NATIVE PIXEL-DECODED; 1 EXPLICIT NATIVE-PIXEL ACCESS EXCEPTION"
+}
