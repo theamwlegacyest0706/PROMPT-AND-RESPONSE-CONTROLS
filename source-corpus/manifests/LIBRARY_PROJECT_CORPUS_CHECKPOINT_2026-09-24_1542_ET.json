@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-09-24T15:42:00-04:00",
+  "scope": "LIVE /THE AMW LEGACY Library + current Project conversation surface + GitHub source-control corpus",
+  "current_prompt_sha256": "13e81a5259f0248f05f003172ae7c41abbe726379b8402caefcd6b57f9882981",
+  "current_prompt_commit": "8144e55421c85f1ab487d9f6b6933017d55e4a9c",
+  "library": {
+    "total_entries": 1189,
+    "folders": 4,
+    "files": 1185,
+    "generated_files": 869,
+    "uploaded_files": 316,
+    "images": 1019,
+    "pages_scanned": 12,
+    "by_extension": {
+      "png": 1019,
+      "docx": 53,
+      "pdf": 20,
+      "txt": 3,
+      "zip": 22,
+      "json": 22,
+      "b64": 1,
+      "mp4": 1,
+      "html": 2,
+      "xlsx": 41,
+      "csv": 1
+    }
+  },
+  "prior_manifest": {
+    "path": "source-corpus/manifests/LIBRARY_FULL_LIVE_MANIFEST_2026-09-23_2050_ET.json",
+    "prior_entries": 1172,
+    "prior_files": 1168,
+    "prior_images": 1008
+  },
+  "delta": {
+    "added_files": 17,
+    "removed_files": 0,
+    "new_images": 11,
+    "added": [
+      "AMW_CURRENT_FULL_PROJECT_RECOVERY_MIRROR_REVIEW_2026-09-23.json",
+      "AMW_FINAL_PYTHON_GITHUB_SOURCE_COVERAGE_2026-09-23.json",
+      "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE_CORRECTED_2026-09-23.xlsx",
+      "AMW_PYTHON_FULL_SOURCE_COVERAGE_2026-09-23.json",
+      "AMW_PYTHON_SOURCE_FILE_HASHES_2026-09-23.csv",
+      "PROJECT_WIDE_RECOVERY_MIRROR_REVIEW_2026-09-23.json",
+      "chart-1(20260924-045046).png",
+      "chart-2(20260924-045047).png",
+      "chart-3(20260924-045049).png",
+      "chart-4(20260924-045050).png",
+      "Screenshot 2026-09-24 1.28.38 AM.png",
+      "Screenshot 2026-09-24 12.01.32 AM.png",
+      "Screenshot 2026-09-24 12.02.51 AM.png",
+      "Screenshot 2026-09-24 12.10.18 AM.png",
+      "Screenshot 2026-09-24 12.10.23 AM.png",
+      "Screenshot 2026-09-24 12.12.35 AM.png",
+      "Screenshot 2026-09-24 12.12.40 AM.png"
+    ]
+  },
+  "visual_delta_review": {
+    "reviewed_via_project_image_layer": 11,
+    "generated_presentation_boards": [
+      "chart-1(20260924-045046).png",
+      "chart-2(20260924-045047).png",
+      "chart-3(20260924-045049).png",
+      "chart-4(20260924-045050).png"
+    ],
+    "screenshot_evidence": [
+      "Screenshot 2026-09-24 1.28.38 AM.png",
+      "Screenshot 2026-09-24 12.01.32 AM.png",
+      "Screenshot 2026-09-24 12.02.51 AM.png",
+      "Screenshot 2026-09-24 12.10.18 AM.png",
+      "Screenshot 2026-09-24 12.10.23 AM.png",
+      "Screenshot 2026-09-24 12.12.35 AM.png",
+      "Screenshot 2026-09-24 12.12.40 AM.png"
+    ],
+    "authority_check": "None of the 11 filenames appears in Approved Visual Authority 9-19, Visual Corpus Audit, or Open Recovery Queue.",
+    "status": "UNREGISTERED NEW VISUAL SOURCE / PROVENANCE-REVIEW ONLY. NOT CURRENT VISUAL AUTHORITY UNLESS THE FOUNDER SEPARATELY APPROVES/SAVES IT."
+  },
+  "project_conversation_surface": {
+    "items": 27
+  },
+  "transcript_state": {
+    "historical_raw_sources_preserved": true,
+    "later_project_history_records": 26,
+    "later_raw_message_by_message_transcripts_complete": false,
+    "rule": "Later Project chats remain indexed/recovered and must not be mislabeled verbatim until raw message-level source is actually available."
+  },
+  "result": "CURRENT CORPUS CHECKPOINT COMPLETE; EXPLICIT RAW-LATER-CHAT GAP REMAINS OPEN"
+}
