@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-23",
+  "scope": "Complete accessible THE AMW LEGACY source-control closeout: raw chats where available, later chat recovery index, current master, all controls/safeguards/full-stops/policies, website/launch, every work status, all Mirror Reviews, full Library manifest, and accountability failure classes.",
+  "sources": {
+    "prompt_sha": "02a4d5714f5811f3175e6939f3980650691045c0",
+    "crossrefs_sha": "0b89602227692d22fa7b3c13440fd4734a1d2cd7",
+    "master_part_shas": [
+      "f26659f604fbc3a7669040756b06286eae198592",
+      "600ae2d19998e3831000d2aee88f58dfc65c516a",
+      "043dfe45cef609bf2e8b8689c48cad950751cbbf",
+      "e3eb80f168ba9b103202976729aae7e73db09177"
+    ],
+    "verbatim_chat_sha": "cf8b06d8de093f6c764bf63eccd39ba4612eadb9",
+    "chat_failures_sha": "be0800ddb47c8a395b201decc901b6f561c66ccc",
+    "weekly_sha": "e33e3243e3ea811a9af3f051bd63d4dbb856535e",
+    "compendium_sha": "d6f6469a1883b619cff59be1f466c16dcdddb776",
+    "chat_index_sha": "7ea504c5c00c49da6502698811ce67c5f33d8706",
+    "library_manifest_sha": "8d7e06a1b1bbdb5bec16d6d60500b181a018cf52",
+    "python_mirror_review_sha": "1957cd0ed08b96eafa169d63bd4361f4c8aadb62"
+  },
+  "metrics": {
+    "master_lines": 22937,
+    "master_sheets": 55,
+    "master_nonempty_rows": 2179,
+    "ml_controls": 25,
+    "mirror_reviews": 34,
+    "later_chat_records": 25,
+    "library_files": 1158
+  },
+  "checks": {
+    "no_parse_errors": true,
+    "prompt_is_current": true,
+    "previous_crossrefs_present": true,
+    "master_reconstructed_22937_lines": true,
+    "master_55_sheets": true,
+    "master_2179_nonempty_rows": true,
+    "all_25_ml_controls": true,
+    "all_34_mirror_reviews": true,
+    "website_launch_present": true,
+    "funding_present": true,
+    "registration_compliance_present": true,
+    "policies_controls_present": true,
+    "safeguards_fullstops_present": true,
+    "verbatim_chat_source_complete": true,
+    "chat_failures_source_complete": true,
+    "weekly_source_complete": true,
+    "compendium_source_complete": true,
+    "later_chat_index_25_records": true,
+    "later_chats_not_falsely_called_verbatim": true,
+    "library_manifest_1158_files": true,
+    "final_python_mirror_review_pass": true,
+    "mirror_review_library_count": true,
+    "mirror_review_preserves_raw_later_chat_limit": true,
+    "business_registration_open": true,
+    "funding_accountability_active": true,
+    "service_limit_accountability_active": true,
+    "repeated_failure_accountability_active": true
+  },
+  "result": "PASS"
+}
