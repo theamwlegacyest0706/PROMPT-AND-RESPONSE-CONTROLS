@@ -1,0 +1,849 @@
+{
+  "generated_at": "2026-09-23T23:49:00-04:00",
+  "scope": "Fleet-related subset of ALL 1008 Legacy image files, filename/path classification only; no authority inferred from filename",
+  "all_image_count": 1008,
+  "fleet_related_image_count": 103,
+  "sports_named_fleet_derivative_count": 33,
+  "aquarium_named_fleet_image_count": 8,
+  "controls": [
+    "Exact current controlled fleet composition and quantity must be preserved; no generic or substituted fleet.",
+    "Every fleet rendering must physically show both exterior and interior views for each vehicle family unless Founder explicitly requests exterior-only.",
+    "Accessibility/mixed/non-ADA distinctions are shown only where Founder-assigned; never inferred.",
+    "22nd-century school-bus modernization preserves exact count, purpose, mission-specific interior, institution palette/branding, and does not create new vehicle categories.",
+    "Rejected/non-controlling/generated provenance does not become current authority merely because it exists in the visual corpus."
+  ],
+  "correction_findings": [
+    "The live image corpus is 1008, so prior 756-image reviews are stale for current corpus completeness.",
+    "There are 103 fleet-related image files by filename/path classification.",
+    "There are 33 sports-named fleet derivatives; corpus presence must remain separate from Founder approval/current authority.",
+    "There are 8 Aquarium-named fleet images; September 22 generation provenance does not by itself close the controlled Aquarium interior request.",
+    "Fleet-rendering failure class remains governed by pre-tool checksum, purpose lock, contamination fail-stop, rendering-type lock, exact-scope isolation, and verified re-entry."
+  ],
+  "fleet_items": [
+    {
+      "file_id": "file_00000000a718822f92ef424ca160b77c",
+      "library_file_id": "libfile_2779035001408191bbd408d765038e67",
+      "name": "01_IMAGINE_AQUARIUM_MAGIC_SCHOOL_BUS_INTERIOR.png",
+      "path": "/THE AMW LEGACY/01_IMAGINE_AQUARIUM_MAGIC_SCHOOL_BUS_INTERIOR.png",
+      "size_bytes": 1313281,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000262c822fb9153fab1ff32634",
+      "library_file_id": "libfile_37e3b3be5be88191a91fdccb3a5118bc",
+      "name": "02_IMAGINE_AQUARIUM_MAGIC_STANDARD_MEGA_BUS_INTERIOR.png",
+      "path": "/THE AMW LEGACY/02_IMAGINE_AQUARIUM_MAGIC_STANDARD_MEGA_BUS_INTERIOR.png",
+      "size_bytes": 1206709,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000240c822f98f687432ea9bf3c",
+      "library_file_id": "libfile_c6f035c53b8081918de1bdceecb8d878",
+      "name": "03_IMAGINE_AQUARIUM_MAGIC_EDUCATIONAL_MEGA_BUS_INTERIOR.png",
+      "path": "/THE AMW LEGACY/03_IMAGINE_AQUARIUM_MAGIC_EDUCATIONAL_MEGA_BUS_INTERIOR.png",
+      "size_bytes": 1587014,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000001570822fa6a7d3517894e316",
+      "library_file_id": "libfile_a17f2e5790f881919a5d4287b459d657",
+      "name": "04_IMAGINE_AQUARIUM_MAGIC_STANDARD_COACH_BUS_INTERIOR.png",
+      "path": "/THE AMW LEGACY/04_IMAGINE_AQUARIUM_MAGIC_STANDARD_COACH_BUS_INTERIOR.png",
+      "size_bytes": 1215782,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000007c24822f8a284bc808a67354",
+      "library_file_id": "libfile_9405f402a90081918ed239f64fbfd2c2",
+      "name": "04_RECREATION_AND_TRANSPORTATION_3X.png",
+      "path": "/THE AMW LEGACY/04_RECREATION_AND_TRANSPORTATION_3X.png",
+      "size_bytes": 2056769,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000d88c822fb14cb075f2651366",
+      "library_file_id": "libfile_9d1e2460108481918b785ffcf4424811",
+      "name": "05_IMAGINE_AQUARIUM_MAGIC_EDUCATIONAL_COACH_BUS_INTERIOR.png",
+      "path": "/THE AMW LEGACY/05_IMAGINE_AQUARIUM_MAGIC_EDUCATIONAL_COACH_BUS_INTERIOR.png",
+      "size_bytes": 1420105,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000072c822f9fd7f45b12b543e4",
+      "library_file_id": "libfile_de8986db06b08191b5f6ae45c57dad64",
+      "name": "Alex’s Swing Golf Legacy Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet Infographic.png",
+      "size_bytes": 3125752,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000002e94822f8f0451db0e4a139d",
+      "library_file_id": "libfile_d60ca8ae68f08191acdc86a5434040e1",
+      "name": "Alex’s Swing Golf Legacy Fleet Overview.png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet Overview.png",
+      "size_bytes": 3010870,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006fc4822f8892775fd1e7717b",
+      "library_file_id": "libfile_3b6461db3c4c81918f910a8696fdf806",
+      "name": "Alex’s Swing Golf Legacy Fleet(1).png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet(1).png",
+      "size_bytes": 2785933,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000003ac4822fad10177340724982",
+      "library_file_id": "libfile_ed7b8e157c4c81919b91df6cc9a8538b",
+      "name": "Alex’s Swing Golf Legacy Fleet(2).png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet(2).png",
+      "size_bytes": 3130772,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000ea74822f8ed02a6bb67b4374",
+      "library_file_id": "libfile_4eef27eb0e048191a4748d39783fc820",
+      "name": "Alex’s Swing Golf Legacy Fleet.png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet.png",
+      "size_bytes": 2866209,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000f7b0822fac04edde14806e8b",
+      "library_file_id": "libfile_8b1818997f4081918dc6d6f401bf49bd",
+      "name": "Always Welcomed: Mobile Care Fleet.png",
+      "path": "/THE AMW LEGACY/Always Welcomed: Mobile Care Fleet.png",
+      "size_bytes": 3020999,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006b8c822f93f5644ccba8d2b5",
+      "library_file_id": "libfile_dd899b88188481919181e321fafa1534",
+      "name": "AMW Fashion Fleet Concept Board.png",
+      "path": "/THE AMW LEGACY/AMW Fashion Fleet Concept Board.png",
+      "size_bytes": 3050557,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000da7c822fa7a835263a145406",
+      "library_file_id": "libfile_059047f1d1c0819182a0bfe9cfdb85f0",
+      "name": "AMW Legacy Campus and Fleet Vision.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Campus and Fleet Vision.png",
+      "size_bytes": 3296302,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000005d7c822f9d77209c40a96218",
+      "library_file_id": "libfile_38b417a002a481918720cef19bc36b56",
+      "name": "AMW Legacy Fleet and Uniforms Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet and Uniforms Board.png",
+      "size_bytes": 3073247,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000a148822f92d66175edf41718",
+      "library_file_id": "libfile_f1259b0bedc48191bb6392a9b326b496",
+      "name": "AMW Legacy Fleet Infographic Poster.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet Infographic Poster.png",
+      "size_bytes": 2782656,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000005284822fb7cfcd041df37865",
+      "library_file_id": "libfile_6c373e87770081918dec59cf9185d016",
+      "name": "AMW Legacy Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet Infographic.png",
+      "size_bytes": 2749588,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000007f00822f9a28de695a87b0f3",
+      "library_file_id": "libfile_f3480f0cc1088191b21063c60d40994b",
+      "name": "AMW Legacy Fleet: A Cleaner Tomorrow.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet: A Cleaner Tomorrow.png",
+      "size_bytes": 3455291,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006938822f8bb83cbdb800bbaa",
+      "library_file_id": "libfile_856abc42552c8191a8942f66b0ea2e38",
+      "name": "AMW Legacy Fleet: Mobility Creates Opportunity.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet: Mobility Creates Opportunity.png",
+      "size_bytes": 3319240,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000009ed0822fae16dbccb7dbebf2",
+      "library_file_id": "libfile_1042093ad5c48191be4a58214685f5b9",
+      "name": "AMW Legacy Pet Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Pet Fleet Showcase.png",
+      "size_bytes": 3206772,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006934822fb6dc46310df7f6ba",
+      "library_file_id": "libfile_b4664d1ecbcc81919f8fa7f513aeda2d",
+      "name": "AMW Legacy Sports Fleet Blueprint(1).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint(1).png",
+      "size_bytes": 3270369,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000082c0822faf5bdf97665accf0",
+      "library_file_id": "libfile_edcb4f4a517481919be1ea00ba0cf62b",
+      "name": "AMW Legacy Sports Fleet Blueprint(2).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint(2).png",
+      "size_bytes": 3096172,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006b38822fb4ba3e3e77e018a1",
+      "library_file_id": "libfile_e6ee10b8553c8191a11747e52d418e47",
+      "name": "AMW Legacy Sports Fleet Blueprint(3).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint(3).png",
+      "size_bytes": 3125040,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006c44822f80a990615bf9e890",
+      "library_file_id": "libfile_c8a975d5534c81918606b802cabfd6c8",
+      "name": "AMW Legacy Sports Fleet Blueprint.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint.png",
+      "size_bytes": 3275842,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000f22c822fa908db8132aa54cb",
+      "library_file_id": "libfile_398cc7703a088191b52bcc9e8c6e5b5e",
+      "name": "AMW Legacy Sports Fleet Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Board.png",
+      "size_bytes": 3124421,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000010d0822f971427a436f1dac5",
+      "library_file_id": "libfile_3f4f848baa088191ab9f2097c4a43815",
+      "name": "AMW Legacy Sports Fleet Concept Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Concept Board.png",
+      "size_bytes": 3252887,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000bcb0822fb93f0b661b1f886e",
+      "library_file_id": "libfile_4959bd951308819180f9cd54ef3a788e",
+      "name": "AMW Legacy Sports Fleet Guide.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Guide.png",
+      "size_bytes": 3181554,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000024ec822f9205873ed8215bc1",
+      "library_file_id": "libfile_00c63eb1201881919d0377f831eed6b4",
+      "name": "AMW Legacy Sports Fleet Infographic(1).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(1).png",
+      "size_bytes": 3144754,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000005484822f87702cc26c10b59b",
+      "library_file_id": "libfile_bbb0f41d71e881918104060a9456514d",
+      "name": "AMW Legacy Sports Fleet Infographic(2).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(2).png",
+      "size_bytes": 3412704,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000b130822fa4495383324cb421",
+      "library_file_id": "libfile_64d2451a9c0481918f19f4d992358859",
+      "name": "AMW Legacy Sports Fleet Infographic(3).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(3).png",
+      "size_bytes": 3400192,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000c2a8822fb44ca36272129122",
+      "library_file_id": "libfile_aaaae8e795208191b4d5d0a0e3b66419",
+      "name": "AMW Legacy Sports Fleet Infographic(4).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(4).png",
+      "size_bytes": 3242499,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000d984822f939e799c50515b04",
+      "library_file_id": "libfile_f8887b3d39688191b200c6ae6c9e2539",
+      "name": "AMW Legacy Sports Fleet Infographic(5).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(5).png",
+      "size_bytes": 3174737,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000002298822f925a4eb49a272e6d",
+      "library_file_id": "libfile_1af22cf091788191bfc49add712ea992",
+      "name": "AMW Legacy Sports Fleet Infographic(6).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(6).png",
+      "size_bytes": 3088278,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000009618822f98f60dc9f8a2fcf1",
+      "library_file_id": "libfile_ae69233d22b081919a283f467efaf913",
+      "name": "AMW Legacy Sports Fleet Infographic(7).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(7).png",
+      "size_bytes": 3196693,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000ddcc822fa5fd5438d6b1fbd0",
+      "library_file_id": "libfile_ddcb2d02847c8191a5f6aae00dadf2c9",
+      "name": "AMW Legacy Sports Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic.png",
+      "size_bytes": 3014923,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000e250822f8554821e541df1f1",
+      "library_file_id": "libfile_abd6c23c92188191bc4dc03dfcf33238",
+      "name": "AMW Legacy Sports Fleet Portfolio.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Portfolio.png",
+      "size_bytes": 3004598,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000090cc822f94a3a8ed33ad1e90",
+      "library_file_id": "libfile_b991242918a88191a5840e9f9f9d6c32",
+      "name": "AMW Legacy Sports Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Showcase.png",
+      "size_bytes": 3174842,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000e8d0822f83a83f9a1dfe285a",
+      "library_file_id": "libfile_80d7018527088191b157bf1b088aaf97",
+      "name": "AMW Legacy Sports Fleet.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet.png",
+      "size_bytes": 3025742,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000003568822fb99e3d1c124090ad",
+      "library_file_id": "libfile_5040b834ad3881919412af342a20bc72",
+      "name": "AMW Legacy Transportation Fleet Chart.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Transportation Fleet Chart.png",
+      "size_bytes": 2847814,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000db9c82098f4da6622af9badd",
+      "library_file_id": "libfile_cfe6da415fc88191a613c6c84e79924d",
+      "name": "AMW Roofing Institution Campus and Fleet.png",
+      "path": "/THE AMW LEGACY/AMW Roofing Institution Campus and Fleet.png",
+      "size_bytes": 3219521,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000b4c4822fa65c6ef73bc43706",
+      "library_file_id": "libfile_86191d23767c8191a9aacf4503fde280",
+      "name": "AMW_LEGACY_FLEET_BARCLAY_EXACT_CONTROLLED_WRAP_CORRECTION.png",
+      "path": "/THE AMW LEGACY/AMW_LEGACY_FLEET_BARCLAY_EXACT_CONTROLLED_WRAP_CORRECTION.png",
+      "size_bytes": 2686708,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000031ec822f8c8dcb4ff5f61126",
+      "library_file_id": "libfile_d2535a8fe5508191932e9e942f38da4f",
+      "name": "AMW_Legacy_Fleet_Design_Board.png",
+      "path": "/THE AMW LEGACY/AMW_Legacy_Fleet_Design_Board.png",
+      "size_bytes": 3260282,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000007300822f83e2740e92093e04",
+      "library_file_id": "libfile_ac053cb118948191b22dfac65d1be2c5",
+      "name": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+      "path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+      "size_bytes": 893345,
+      "model_generated": false
+    },
+    {
+      "file_id": "file_00000000a164822fbd0b25f6df6dca68",
+      "library_file_id": "libfile_3692aa62b6448191b88c9c799b4b802d",
+      "name": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING.png",
+      "path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING.png",
+      "size_bytes": 381884,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000da78822fb4de9325d3a8a726",
+      "library_file_id": "libfile_77ec5ffab3dc819184795a5adf19be14",
+      "name": "AVONS_LACROSSE_LEGACY_COMPLEX_2_SUPPLY_SCHOOL_BUSES_REVIEW.png",
+      "path": "/THE AMW LEGACY/AVONS_LACROSSE_LEGACY_COMPLEX_2_SUPPLY_SCHOOL_BUSES_REVIEW.png",
+      "size_bytes": 2996969,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000583c822fb733f94a99224756",
+      "library_file_id": "libfile_ef2504afa4108191b342043d44b74458",
+      "name": "Avon’s Lacrosse Legacy Complex Fleet Poster.png",
+      "path": "/THE AMW LEGACY/Avon’s Lacrosse Legacy Complex Fleet Poster.png",
+      "size_bytes": 3242679,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000009308822f870b9a96fcc99c55",
+      "library_file_id": "libfile_207c1d0cfbec819190e44de43fac95f8",
+      "name": "Barclay’s Fleet: Mobility Creates Opportunity.png",
+      "path": "/THE AMW LEGACY/Barclay’s Fleet: Mobility Creates Opportunity.png",
+      "size_bytes": 2954515,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000009670822f80882c4b07920358",
+      "library_file_id": "libfile_c6b1a684159c8191a552a159fbacea14",
+      "name": "Barclay’s Rescue Pawtrol Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/Barclay’s Rescue Pawtrol Fleet Showcase.png",
+      "size_bytes": 2706544,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000040b481fda450bf321a5e7d2a",
+      "library_file_id": "libfile_f564a2144f308191ad5b705ccd448f97",
+      "name": "Coverage Made to Last Campus & Fleet.png",
+      "path": "/THE AMW LEGACY/Coverage Made to Last Campus & Fleet.png",
+      "size_bytes": 3318941,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006da4822fb89b7cdcac5dbd93",
+      "library_file_id": "libfile_aac248644cb08191879b38aa90f5be24",
+      "name": "IMAGINE_AQUARIUM_MAGIC_BUS_INTERIORS_FOUNDER_REVIEW_2026-09-21.png",
+      "path": "/THE AMW LEGACY/IMAGINE_AQUARIUM_MAGIC_BUS_INTERIORS_FOUNDER_REVIEW_2026-09-21.png",
+      "size_bytes": 1136302,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000034d0822fb5737fe2784656e8",
+      "library_file_id": "libfile_813a771dac588191a78ce7cb38b5302d",
+      "name": "IMAGINE_AQUARIUMS_22ND_CENTURY_SCHOOL_BUS_EXTERIOR_SOURCE.png",
+      "path": "/THE AMW LEGACY/IMAGINE_AQUARIUMS_22ND_CENTURY_SCHOOL_BUS_EXTERIOR_SOURCE.png",
+      "size_bytes": 940156,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000004f3c820997dfa4233bc830b6",
+      "library_file_id": "libfile_4d8485bf0a6c8191b2e58335dfb0da34",
+      "name": "IMAGINE_AQUARIUMS_SCHOOL_BUS_INTERIOR_SOURCE.png",
+      "path": "/THE AMW LEGACY/IMAGINE_AQUARIUMS_SCHOOL_BUS_INTERIOR_SOURCE.png",
+      "size_bytes": 896134,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000004ff0822fb9b49f37f461ff02",
+      "library_file_id": "libfile_041695ba555881919f55ef96eaada5d4",
+      "name": "Instant Wins Volleyball Campus & Fleet.png",
+      "path": "/THE AMW LEGACY/Instant Wins Volleyball Campus & Fleet.png",
+      "size_bytes": 3037139,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000027e4822f89c6d86f0d031f02",
+      "library_file_id": "libfile_91b0b4eeebf08191a89371d9f903b3d9",
+      "name": "Legacy Campus Mobility Coach.png",
+      "path": "/THE AMW LEGACY/Legacy Campus Mobility Coach.png",
+      "size_bytes": 2490073,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000008ae8822f8d83eb208eaa5ee9",
+      "library_file_id": "libfile_aa05361dcf748191b85db8f28fd9ea75",
+      "name": "Legacy Comfort Shuttle Concept.png",
+      "path": "/THE AMW LEGACY/Legacy Comfort Shuttle Concept.png",
+      "size_bytes": 2545608,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000001434822fb6b48d74eecc11c6",
+      "library_file_id": "libfile_85db939b98a8819190275f696d21089b",
+      "name": "Legacy Learning & Resource Bus.png",
+      "path": "/THE AMW LEGACY/Legacy Learning & Resource Bus.png",
+      "size_bytes": 2515829,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006914822f9602a386a62f3be3",
+      "library_file_id": "libfile_eb7f237e8460819180b54a79b9e73e98",
+      "name": "Legacy Sports Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/Legacy Sports Fleet Infographic.png",
+      "size_bytes": 2999006,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000003bc8822fb8250f994134689e",
+      "library_file_id": "libfile_41b8bcfb7f4081918c89b906f019ffa0",
+      "name": "Legacy Village Fleet & Uniforms Plan.png",
+      "path": "/THE AMW LEGACY/Legacy Village Fleet & Uniforms Plan.png",
+      "size_bytes": 2888529,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000004a20822f85f682adaee2dd30",
+      "library_file_id": "libfile_5fe0bbfc1f2c8191baf913e9477990c1",
+      "name": "Legacy Village Transportation Fleet Board.png",
+      "path": "/THE AMW LEGACY/Legacy Village Transportation Fleet Board.png",
+      "size_bytes": 2949565,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000004d60822f93dd3e26aeba8d4a",
+      "library_file_id": "libfile_d04ecb46d6d08191a4a3af5071d60b6f",
+      "name": "Legacy Village Transportation Fleet Vision.png",
+      "path": "/THE AMW LEGACY/Legacy Village Transportation Fleet Vision.png",
+      "size_bytes": 3004542,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000001de0822f921350feede33596",
+      "library_file_id": "libfile_ee894f60c94c8191896ba6fb8046f7ae",
+      "name": "Legacy Welcome & Respite Coach.png",
+      "path": "/THE AMW LEGACY/Legacy Welcome & Respite Coach.png",
+      "size_bytes": 2461344,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000001768822fb3d1bb3f99c2b51f",
+      "library_file_id": "libfile_60f66ed2b3dc8191a426ed78a69c9dec",
+      "name": "Let Love Win Fleet Presentation Board.png",
+      "path": "/THE AMW LEGACY/Let Love Win Fleet Presentation Board.png",
+      "size_bytes": 2903091,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000002ec8822f9e8cff8adf070943",
+      "library_file_id": "libfile_cba44cffb7d88191bd8c0fc6a7986227",
+      "name": "Let Love Win Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/Let Love Win Fleet Showcase.png",
+      "size_bytes": 3030283,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000013ac822fbd1cf29573cdbfbb",
+      "library_file_id": "libfile_ccaa1bec17248191affbbd6fc1d25d5f",
+      "name": "Let Love Win Transportation Fleet(1).png",
+      "path": "/THE AMW LEGACY/Let Love Win Transportation Fleet(1).png",
+      "size_bytes": 2887044,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000005f4822f86d0bf27a2f00069",
+      "library_file_id": "libfile_2d37edeb5e6881919d6314a3d6d0d833",
+      "name": "Let Love Win Transportation Fleet.png",
+      "path": "/THE AMW LEGACY/Let Love Win Transportation Fleet.png",
+      "size_bytes": 2804510,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000ac6c822f92656793e9c8d753",
+      "library_file_id": "libfile_95f37845a50c8191b6ae84abc661f559",
+      "name": "Live in the Moment: Fleet and Facility Guide.png",
+      "path": "/THE AMW LEGACY/Live in the Moment: Fleet and Facility Guide.png",
+      "size_bytes": 3158585,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000026a8822fb492e61d7ac88e6f",
+      "library_file_id": "libfile_b94be9b494c881919e02a75e021f2f3f",
+      "name": "Mini Stewards’ World Campus and Fleet.png",
+      "path": "/THE AMW LEGACY/Mini Stewards’ World Campus and Fleet.png",
+      "size_bytes": 3362834,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000007258822f94046c3653d25eca",
+      "library_file_id": "libfile_0c30d22559608191aeb9ca2fc36d4e58",
+      "name": "MTCRV_06_FLEET_AND_UNIFORMS_ZOOM.png",
+      "path": "/THE AMW LEGACY/MTCRV_06_FLEET_AND_UNIFORMS_ZOOM.png",
+      "size_bytes": 2925665,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000f398822fb6305a76b5f2d75a",
+      "library_file_id": "libfile_55d9dee5b9988191963b2d5193739c95",
+      "name": "Myles’ Mobile Haven Fleet Concept.png",
+      "path": "/THE AMW LEGACY/Myles’ Mobile Haven Fleet Concept.png",
+      "size_bytes": 2946598,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000008480822f85295a76c59d037e",
+      "library_file_id": "libfile_da13066d592481918551ae6eb62f3635",
+      "name": "Nic’s Fashion Idea Fleet Concept Board.png",
+      "path": "/THE AMW LEGACY/Nic’s Fashion Idea Fleet Concept Board.png",
+      "size_bytes": 3006112,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000009040822f82e43721df94895b",
+      "library_file_id": "libfile_e7ba8f14a5108191b56745fd25e5c2b7",
+      "name": "Nic’s Fashion Idea Fleet Infographic(1).png",
+      "path": "/THE AMW LEGACY/Nic’s Fashion Idea Fleet Infographic(1).png",
+      "size_bytes": 3069410,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000001274822f8aa9f900570ac132",
+      "library_file_id": "libfile_0030803a2a3c81918583c3da92b779f3",
+      "name": "Nic’s Fashion Idea Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/Nic’s Fashion Idea Fleet Infographic.png",
+      "size_bytes": 2984843,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000004e58822faa20559b24e78610",
+      "library_file_id": "libfile_02e792429b948191b287d54752cbd32c",
+      "name": "O’Day’s Legacy Garage Fleet Blueprint.png",
+      "path": "/THE AMW LEGACY/O’Day’s Legacy Garage Fleet Blueprint.png",
+      "size_bytes": 2769752,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000f1148243a8053460f29e447e",
+      "library_file_id": "libfile_10bbaa0306788191af4e77a43922881e",
+      "name": "Phoenix Plaza Theatre Fleet & Uniforms.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Fleet & Uniforms.png",
+      "size_bytes": 2852342,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000a3fc81fbbdb9d5ccd91d0684",
+      "library_file_id": "libfile_97a6062da71c81919b9cd4bf2ec1e1e0",
+      "name": "Phoenix Plaza Theatre Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Fleet Showcase.png",
+      "size_bytes": 2579584,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000ce0881f8ba67db67e24aa650",
+      "library_file_id": "libfile_41884a0296fc8191bc98a52c7071a424",
+      "name": "Phoenix Plaza Theatre Transportation & Uniform Plan.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Transportation & Uniform Plan.png",
+      "size_bytes": 2957332,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000006f30822f8ab9dffca3b1e032",
+      "library_file_id": "libfile_04bacb3eba4c8191a6bd2ae3a99f8a8f",
+      "name": "The AMW Legacy Fleet Poster.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Poster.png",
+      "size_bytes": 3308200,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000002fd0822fbcc2f3e6c2693734",
+      "library_file_id": "libfile_7b7e3546324c819193f2f7eee026e409",
+      "name": "The AMW Legacy Fleet Registry.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Registry.png",
+      "size_bytes": 2084180,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000985c822fa49072452a348cea",
+      "library_file_id": "libfile_585050798f50819196a296e601ea7997",
+      "name": "The AMW Legacy Fleet Showcase(1).png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Showcase(1).png",
+      "size_bytes": 3074305,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000001c2c822fbe685ca9a38d3e5c",
+      "library_file_id": "libfile_389f1a9e6cbc8191aad60ce48a2cbd9c",
+      "name": "The AMW Legacy Fleet Showcase(2).png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Showcase(2).png",
+      "size_bytes": 2965898,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000e548822f841980ffcab9b52f",
+      "library_file_id": "libfile_c0b71aaa550c8191b59126062581ef95",
+      "name": "The AMW Legacy Fleet Showcase(3).png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Showcase(3).png",
+      "size_bytes": 2972227,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000a604822f8bc6e047da372062",
+      "library_file_id": "libfile_ebffab08044881919d18788f61d7bfe9",
+      "name": "The AMW Legacy Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Showcase.png",
+      "size_bytes": 3232620,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000008960822fa6db39d42d29f567",
+      "library_file_id": "libfile_042856c2034c8191b387d2829e1e4b2d",
+      "name": "The AMW Legacy Fleet Vision(1).png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Vision(1).png",
+      "size_bytes": 3125939,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000cf24822fb235b513e5022caf",
+      "library_file_id": "libfile_c9bbdf2f6c6c8191850c346ff866ef70",
+      "name": "The AMW Legacy Fleet Vision(2).png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Vision(2).png",
+      "size_bytes": 3215169,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000f248822f86b82cd06dcdaab5",
+      "library_file_id": "libfile_f88ff6cee240819199096e910bb66316",
+      "name": "The AMW Legacy Fleet Vision.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Fleet Vision.png",
+      "size_bytes": 3160641,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000baf4822f9eb634b1bbb187c1",
+      "library_file_id": "libfile_595941bd2f4c8191ac092dccdfc8ecae",
+      "name": "The AMW Legacy Futuristic Fleet Poster.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Futuristic Fleet Poster.png",
+      "size_bytes": 3408401,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000a4cc822f8aab7030e17ab64c",
+      "library_file_id": "libfile_cfbdb6d7e7d881918523d1b83e19a38b",
+      "name": "The AMW Legacy Power Fleet.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Power Fleet.png",
+      "size_bytes": 3300580,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000c844822f8f03a0303c00c752",
+      "library_file_id": "libfile_7fae89d1a70c81919bc3c3b7a0536cc0",
+      "name": "The AMW Legacy Sports Fleet Plan.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Sports Fleet Plan.png",
+      "size_bytes": 3162732,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000000260822f994cbf931c90c6e3",
+      "library_file_id": "libfile_ec9383aabc008191aa8ad665bf749d00",
+      "name": "The AMW Legacy Sports Fleet Poster.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Sports Fleet Poster.png",
+      "size_bytes": 3259756,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000acb0822f826107f4c67f9e32",
+      "library_file_id": "libfile_658f6b55eb38819191a9f53952311a2f",
+      "name": "The AMW Legacy Sports Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Sports Fleet Showcase.png",
+      "size_bytes": 3154368,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000087e4822f8edf29005f456539",
+      "library_file_id": "libfile_3b5fef4039848191b87c12e732911404",
+      "name": "The AMW Legacy Sustainable Fleet Campus.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Sustainable Fleet Campus.png",
+      "size_bytes": 3130839,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_0000000089ac822fa88c734faaa3807c",
+      "library_file_id": "libfile_3cb63f15b8848191a3df17d00853dff8",
+      "name": "The AMW Legacy Sustainable Mobility Fleet.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Sustainable Mobility Fleet.png",
+      "size_bytes": 3305865,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000bdc0822f83f3a657d23bbbe8",
+      "library_file_id": "libfile_d95a0a7cd6048191b065e96b6ea950fe",
+      "name": "The AMW Legacy Transportation Fleet.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Transportation Fleet.png",
+      "size_bytes": 2914890,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000e1e0822fa3cd34c8b059858b",
+      "library_file_id": "libfile_da2ec6e0c57c8191ad662423489b60e1",
+      "name": "The AMW Legacy Transportation Fleets.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy Transportation Fleets.png",
+      "size_bytes": 3216091,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000005a00822fa86f88cd9c5b8599",
+      "library_file_id": "libfile_9a5a1a84959c8191bac0cb1bdb3dfca5",
+      "name": "The AMW Legacy: 22nd Century Fleet.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy: 22nd Century Fleet.png",
+      "size_bytes": 3240453,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000a0a0822f8683c8234807a9fc",
+      "library_file_id": "libfile_ced6ed05d77c8191a403819520b60e3c",
+      "name": "The AMW Legacy: 22nd Century Fleets.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy: 22nd Century Fleets.png",
+      "size_bytes": 3185785,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000009de4822fa184c73fb4835c2e",
+      "library_file_id": "libfile_34c5159039108191bf97590475f5686d",
+      "name": "The AMW Legacy: Fleet of Tomorrow.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy: Fleet of Tomorrow.png",
+      "size_bytes": 3216178,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000007f98822f92b7840c07dcb56f",
+      "library_file_id": "libfile_5462290a72648191a7a3de4f86050e8d",
+      "name": "The AMW Legacy: Fleets for Tomorrow.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy: Fleets for Tomorrow.png",
+      "size_bytes": 3246166,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000cbfc822f8ee31ab3f80a6c89",
+      "library_file_id": "libfile_3ea36296afc081919f2f702bc39a8ba1",
+      "name": "The AMW Legacy: Futuristic Community Fleet.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy: Futuristic Community Fleet.png",
+      "size_bytes": 3304420,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000d494822f868b1368d7f3043c",
+      "library_file_id": "libfile_d4eacc13fcb08191b8a5089f9a61a307",
+      "name": "The AMW Legacy: Futuristic Fleet Designs.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy: Futuristic Fleet Designs.png",
+      "size_bytes": 3220046,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000f8b0822fb3ea59fc02e3f1d4",
+      "library_file_id": "libfile_bb66809d46d08191b496015f956cb1ac",
+      "name": "The AMW Legacy: One Fleet, Many Destinations.png",
+      "path": "/THE AMW LEGACY/The AMW Legacy: One Fleet, Many Destinations.png",
+      "size_bytes": 3211725,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_00000000d534822fb90595382dc9e0f5",
+      "library_file_id": "libfile_58a328c21bfc8191b18b65c9751cb4ce",
+      "name": "The Legacy’s Power Sustainable Fleet.png",
+      "path": "/THE AMW LEGACY/The Legacy’s Power Sustainable Fleet.png",
+      "size_bytes": 3343304,
+      "model_generated": true
+    },
+    {
+      "file_id": "file_000000000b7c822fbb03acad2c191f50",
+      "library_file_id": "libfile_126b654557708191bb89e731c6c40546",
+      "name": "The_Legacys_Power_Fleet_Interiors_CONTROLLED.png",
+      "path": "/THE AMW LEGACY/The_Legacys_Power_Fleet_Interiors_CONTROLLED.png",
+      "size_bytes": 152703,
+      "model_generated": true
+    }
+  ],
+  "result": "FLEET VISUAL CORPUS IDENTIFIED; AUTHORITY MUST BE RESOLVED THROUGH CONTROL REGISTERS, NOT CORPUS PRESENCE"
+}
