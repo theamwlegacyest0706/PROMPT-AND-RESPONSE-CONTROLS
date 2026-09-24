@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-09-23T23:27:00-04:00",
+  "prompt_sha256": "050f30f626ffb306db428514dea855ef00328449694d325b72165fac6c91ec05",
+  "master_sha256": "45890a9095ee6f026631aacc321a09c4851b4ec629083cdbb6a58d1a623242dc",
+  "mirror_archive_sha256": "f6851c2f2687b88081e5b6a34057327d95bd21ae77b6bd225443991131d25485",
+  "prompt_checks": {
+    "always_read_complete": true,
+    "python_required": true,
+    "github_required": true,
+    "all_visual_renderings_required": true,
+    "all_legacy_work_required": true,
+    "project_chat_transcripts_required": true,
+    "visual_binary_pixel_all_required": true
+  },
+  "status": "PROMPT INGESTED INTO PYTHON; FULL TRANSCRIPT + 1008-IMAGE PIXEL READ EXECUTION REQUIRED BEFORE COMPLETE CLAIM"
+}
