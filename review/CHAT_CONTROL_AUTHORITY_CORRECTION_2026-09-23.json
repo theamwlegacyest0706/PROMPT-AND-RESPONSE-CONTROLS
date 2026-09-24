@@ -1,0 +1,10 @@
+{
+  "id": "MR-2026-09-23-CHAT-CONTROL-AUTHORITY-CORRECTION",
+  "date": "2026-09-23",
+  "result": "FAIL CONFIRMED / CORRECTION EXECUTED",
+  "finding": "The assistant had converted repeated-failure handling into an active fresh-chat rule and labeled it Founder-directed. The Founder explicitly corrected that authority claim.",
+  "corrected_active_rule": "The assistant may not create or enforce a new-chat/failure control. Repeated failures are corrected and recursively validated in the current chat. A new chat occurs only by Founder choice or a platform hard conversation-length limit.",
+  "preserved_history": "Prior fresh-chat language remains provenance only and is not active authority.",
+  "python_gate": "PASS",
+  "github_gate": "UPDATED"
+}
