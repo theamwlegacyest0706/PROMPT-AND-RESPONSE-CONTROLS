@@ -1,0 +1,78 @@
+{
+  "review_id": "MR-2026-09-23-PROJECT-WIDE-RECOVERY-REPEAT",
+  "scope": "ALL presently accessible THE AMW LEGACY Project, chat, Library, current-master, policy, website, visual, recovery, provenance, and accountability source layers.",
+  "python_first_pass": "PASS",
+  "github_inventory": {
+    "current_master_sheets": 55,
+    "chat_source_records": 6,
+    "full_ingest_raw_chat_files": 9,
+    "website_source_files": 1,
+    "governance_source_files": 1,
+    "operations_source_files": 1,
+    "policy_safeguard_source_files": 1,
+    "review_recovery_records": 21
+  },
+  "python_sources": {
+    "master_lock_controls": 25,
+    "archived_mirror_reviews": 34,
+    "raw_verbatim_chat_chars": 55010,
+    "failure_archive_chars": 56197,
+    "controlled_compendium_chars": 42053,
+    "current_master_sheets": 55,
+    "current_conversation_project_files": 26
+  },
+  "visual_binary_audit": {
+    "manifest_total": 1008,
+    "native_pixel_attempted": 1008,
+    "native_pixel_ok": 1007,
+    "native_pixel_exception": 1,
+    "exception_name": "Mini Stewards’ World Campus and Fleet.png",
+    "status": "EXPLICIT ACCESS GAP — NOT SILENTLY COUNTED AS PIXEL-DECODED"
+  },
+  "chat_transcript_audit": {
+    "historical_raw_sources_present": true,
+    "later_project_history_index_present": true,
+    "raw_later_project_chat_transcripts_complete": false,
+    "status": "EXPLICIT RECOVERY GAP — LATER CHATS MAY BE INDEXED/RECOVERED BUT NOT CALLED VERBATIM WITHOUT RAW TRANSCRIPT"
+  },
+  "required_work_classes": {
+    "controls_safeguards_fullstops_safegates": true,
+    "policies_governance_amos_ir02_ir03_continuity": true,
+    "website_design_google_sites_brand_launch": true,
+    "business_registration_compliance": true,
+    "funding_client_resource_legal_financial": true,
+    "institutions_fleets_interiors_awards": true,
+    "visuals_all_statuses_and_provenance": true,
+    "all_mirror_reviews_recovery_supersession": true,
+    "draft_rejected_superseded_historical_generated_source_gap_quarantined": true
+  },
+  "accountability_classes": {
+    "business_registration_delay": "ACTIVE / OPEN",
+    "funding_quality_and_search_breadth": "ACTIVE",
+    "service_tool_usability_and_limitations": "ACTIVE",
+    "repeated_failure_pattern_learning": "ACTIVE",
+    "cross_chat_recovery_gap": "ACTIVE",
+    "false_complete_claim_prevention": "ACTIVE"
+  },
+  "corrections": [
+    "Do not equate the 55-sheet current master with the entire Project.",
+    "Do not equate Library files with complete raw Project-chat transcripts.",
+    "Use raw/verbatim chat sources where available; use recovered/indexed Project-history records where raw transcripts are unavailable.",
+    "Keep website/brand, governance, operations, policies/safeguards, business, funding, visuals, recovery and current-master layers separate and cross-referenced.",
+    "Keep the one visual native-pixel exception open until actual pixels can be retrieved; do not call 1008/1008 pixel-decoded.",
+    "Do not claim all chats are fully verbatim while later raw Project-chat transcripts remain unavailable.",
+    "For future Legacy tasks, reload the entire accessible corpus into Python first, validate against GitHub second, then execute and recursively Mirror Review."
+  ],
+  "checks": {
+    "github_55_55_master_sheets": true,
+    "github_chat_source_layer": true,
+    "github_raw_full_ingest_chat_layer": true,
+    "github_website_governance_operations_policies": true,
+    "all_25_master_locks": true,
+    "all_34_archived_mirror_reviews": true,
+    "all_required_work_classes_present": true,
+    "later_chat_gap_not_falsely_closed": true,
+    "visual_pixel_exception_not_falsely_closed": true
+  },
+  "result": "PASS FOR ALL PRESENTLY ACCESSIBLE SOURCE LAYERS / EXPLICIT GAPS REMAIN"
+}
