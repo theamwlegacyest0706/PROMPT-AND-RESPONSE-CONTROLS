@@ -1,0 +1,907 @@
+{
+  "generated_at": "2026-09-24",
+  "offset": 90,
+  "count": 90,
+  "records": [
+    {
+      "file_id": "file_00000000d2b0822f9e7fdfabe82e1233",
+      "name": "a_wide_high_resolution_brand_identity_presentatio.png",
+      "path": "/THE AMW LEGACY/a_wide_high_resolution_brand_identity_presentatio.png",
+      "source_size_bytes": 2292854,
+      "width": 1915,
+      "height": 821,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d2b0822f9e7fdfabe82e1233"
+    },
+    {
+      "file_id": "file_000000006ac0822f9993bcc3d0ca06c2",
+      "name": "ae56e7d4-78d2-41c8-bc54-140fc2ddf4bf(1).png",
+      "path": "/THE AMW LEGACY/ae56e7d4-78d2-41c8-bc54-140fc2ddf4bf(1).png",
+      "source_size_bytes": 4196359,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006ac0822f9993bcc3d0ca06c2"
+    },
+    {
+      "file_id": "file_0000000076c4822f9a7769db86296861",
+      "name": "ae56e7d4-78d2-41c8-bc54-140fc2ddf4bf(2).png",
+      "path": "/THE AMW LEGACY/ae56e7d4-78d2-41c8-bc54-140fc2ddf4bf(2).png",
+      "source_size_bytes": 4196359,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000076c4822f9a7769db86296861"
+    },
+    {
+      "file_id": "file_00000000a728822f8f752df804be5b7c",
+      "name": "ae56e7d4-78d2-41c8-bc54-140fc2ddf4bf.png",
+      "path": "/THE AMW LEGACY/ae56e7d4-78d2-41c8-bc54-140fc2ddf4bf.png",
+      "source_size_bytes": 4196359,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a728822f8f752df804be5b7c"
+    },
+    {
+      "file_id": "file_000000003360822fa219c3974c4da90a",
+      "name": "af0c265b-9a22-4ed5-9a64-acff01dab897.png",
+      "path": "/THE AMW LEGACY/af0c265b-9a22-4ed5-9a64-acff01dab897.png",
+      "source_size_bytes": 4199781,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003360822fa219c3974c4da90a"
+    },
+    {
+      "file_id": "file_000000005640822fa2ec3ee9c604c79e",
+      "name": "Alex’s Swing Golf Legacy Campus(1).png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Campus(1).png",
+      "source_size_bytes": 2999301,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005640822fa2ec3ee9c604c79e"
+    },
+    {
+      "file_id": "file_000000003f8c822f9517362cca5e5c8d",
+      "name": "Alex’s Swing Golf Legacy Campus.png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Campus.png",
+      "source_size_bytes": 3068463,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003f8c822f9517362cca5e5c8d"
+    },
+    {
+      "file_id": "file_00000000072c822f9fd7f45b12b543e4",
+      "name": "Alex’s Swing Golf Legacy Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet Infographic.png",
+      "source_size_bytes": 3125752,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000072c822f9fd7f45b12b543e4"
+    },
+    {
+      "file_id": "file_000000002e94822f8f0451db0e4a139d",
+      "name": "Alex’s Swing Golf Legacy Fleet Overview.png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet Overview.png",
+      "source_size_bytes": 3010870,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002e94822f8f0451db0e4a139d"
+    },
+    {
+      "file_id": "file_000000006fc4822f8892775fd1e7717b",
+      "name": "Alex’s Swing Golf Legacy Fleet(1).png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet(1).png",
+      "source_size_bytes": 2785933,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006fc4822f8892775fd1e7717b"
+    },
+    {
+      "file_id": "file_000000003ac4822fad10177340724982",
+      "name": "Alex’s Swing Golf Legacy Fleet(2).png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet(2).png",
+      "source_size_bytes": 3130772,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003ac4822fad10177340724982"
+    },
+    {
+      "file_id": "file_00000000ea74822f8ed02a6bb67b4374",
+      "name": "Alex’s Swing Golf Legacy Fleet.png",
+      "path": "/THE AMW LEGACY/Alex’s Swing Golf Legacy Fleet.png",
+      "source_size_bytes": 2866209,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ea74822f8ed02a6bb67b4374"
+    },
+    {
+      "file_id": "file_000000005678822f8c06177dab3978ae",
+      "name": "All-Season Sports Complex Concept Board.png",
+      "path": "/THE AMW LEGACY/All-Season Sports Complex Concept Board.png",
+      "source_size_bytes": 3160110,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005678822f8c06177dab3978ae"
+    },
+    {
+      "file_id": "file_000000005a70822fa354eb34ad3e264f",
+      "name": "All-Year Sports Complex Vision Board.png",
+      "path": "/THE AMW LEGACY/All-Year Sports Complex Vision Board.png",
+      "source_size_bytes": 3062115,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005a70822fa354eb34ad3e264f"
+    },
+    {
+      "file_id": "file_000000001a3c822f96296a5e05e4a9f0",
+      "name": "Always Welcomed Medical Campus Concept Board.png",
+      "path": "/THE AMW LEGACY/Always Welcomed Medical Campus Concept Board.png",
+      "source_size_bytes": 3047520,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001a3c822f96296a5e05e4a9f0"
+    },
+    {
+      "file_id": "file_00000000a970822f8b17611029c4be46",
+      "name": "Always Welcomed Medical Campus.png",
+      "path": "/THE AMW LEGACY/Always Welcomed Medical Campus.png",
+      "source_size_bytes": 3076363,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a970822f8b17611029c4be46"
+    },
+    {
+      "file_id": "file_00000000f7b0822fac04edde14806e8b",
+      "name": "Always Welcomed: Mobile Care Fleet.png",
+      "path": "/THE AMW LEGACY/Always Welcomed: Mobile Care Fleet.png",
+      "source_size_bytes": 3020999,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f7b0822fac04edde14806e8b"
+    },
+    {
+      "file_id": "file_000000005600822f8061fcedf9aea902",
+      "name": "AMW Bridging Legacies Campus Entrance.png",
+      "path": "/THE AMW LEGACY/AMW Bridging Legacies Campus Entrance.png",
+      "source_size_bytes": 3178484,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005600822f8061fcedf9aea902"
+    },
+    {
+      "file_id": "file_000000006b8c822f93f5644ccba8d2b5",
+      "name": "AMW Fashion Fleet Concept Board.png",
+      "path": "/THE AMW LEGACY/AMW Fashion Fleet Concept Board.png",
+      "source_size_bytes": 3050557,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006b8c822f93f5644ccba8d2b5"
+    },
+    {
+      "file_id": "file_00000000da7c822fa7a835263a145406",
+      "name": "AMW Legacy Campus and Fleet Vision.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Campus and Fleet Vision.png",
+      "source_size_bytes": 3296302,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000da7c822fa7a835263a145406"
+    },
+    {
+      "file_id": "file_00000000c688822f8f7fc8c9a8d79839",
+      "name": "AMW Legacy Campus Phoenix Map.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Campus Phoenix Map.png",
+      "source_size_bytes": 3250871,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c688822f8f7fc8c9a8d79839"
+    },
+    {
+      "file_id": "file_00000000c7b4822f844906f25294a771",
+      "name": "AMW Legacy Campus: Just Love Ponds.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Campus: Just Love Ponds.png",
+      "source_size_bytes": 3682995,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c7b4822f844906f25294a771"
+    },
+    {
+      "file_id": "file_00000000a6c4820e8a01aa030a6eda7b",
+      "name": "AMW Legacy Center Concept Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Center Concept Board.png",
+      "source_size_bytes": 2559052,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a6c4820e8a01aa030a6eda7b"
+    },
+    {
+      "file_id": "file_00000000623481f787503915381998ec",
+      "name": "AMW Legacy Corporate Strategy Dashboard.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Corporate Strategy Dashboard.png",
+      "source_size_bytes": 2396937,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000623481f787503915381998ec"
+    },
+    {
+      "file_id": "file_0000000032c0822fac98a1c6fe990926",
+      "name": "AMW Legacy Entrance and Just Love Pond.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Entrance and Just Love Pond.png",
+      "source_size_bytes": 3137232,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000032c0822fac98a1c6fe990926"
+    },
+    {
+      "file_id": "file_000000005d7c822f9d77209c40a96218",
+      "name": "AMW Legacy Fleet and Uniforms Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet and Uniforms Board.png",
+      "source_size_bytes": 3073247,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005d7c822f9d77209c40a96218"
+    },
+    {
+      "file_id": "file_00000000a148822f92d66175edf41718",
+      "name": "AMW Legacy Fleet Infographic Poster.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet Infographic Poster.png",
+      "source_size_bytes": 2782656,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a148822f92d66175edf41718"
+    },
+    {
+      "file_id": "file_000000005284822fb7cfcd041df37865",
+      "name": "AMW Legacy Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet Infographic.png",
+      "source_size_bytes": 2749588,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005284822fb7cfcd041df37865"
+    },
+    {
+      "file_id": "file_000000007f00822f9a28de695a87b0f3",
+      "name": "AMW Legacy Fleet: A Cleaner Tomorrow.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet: A Cleaner Tomorrow.png",
+      "source_size_bytes": 3455291,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007f00822f9a28de695a87b0f3"
+    },
+    {
+      "file_id": "file_000000006938822f8bb83cbdb800bbaa",
+      "name": "AMW Legacy Fleet: Mobility Creates Opportunity.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Fleet: Mobility Creates Opportunity.png",
+      "source_size_bytes": 3319240,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006938822f8bb83cbdb800bbaa"
+    },
+    {
+      "file_id": "file_000000003f5c820ebef82ae3d844d511",
+      "name": "AMW Legacy Garage and Woodworking Center.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Garage and Woodworking Center.png",
+      "source_size_bytes": 2642201,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003f5c820ebef82ae3d844d511"
+    },
+    {
+      "file_id": "file_000000004fa4822fb77f2623ce85529c",
+      "name": "AMW Legacy Institutions Campus Collage.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Institutions Campus Collage.png",
+      "source_size_bytes": 3077910,
+      "width": 1312,
+      "height": 1199,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004fa4822fb77f2623ce85529c"
+    },
+    {
+      "file_id": "file_000000005abc822f8e3a9f0f95e01b22",
+      "name": "AMW Legacy Just Love Campus Collage.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Just Love Campus Collage.png",
+      "source_size_bytes": 3445438,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005abc822f8e3a9f0f95e01b22"
+    },
+    {
+      "file_id": "file_000000004990822f93b6d99c0e47065d",
+      "name": "AMW Legacy Koi Pond Concept Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Koi Pond Concept Board.png",
+      "source_size_bytes": 2916721,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004990822f93b6d99c0e47065d"
+    },
+    {
+      "file_id": "file_000000007ba0822fb2c85b8ee10a7a8c",
+      "name": "AMW Legacy Koi Pond Garden.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Koi Pond Garden.png",
+      "source_size_bytes": 2926696,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007ba0822fb2c85b8ee10a7a8c"
+    },
+    {
+      "file_id": "file_000000004ea8822fa842723d401eaeb0",
+      "name": "AMW Legacy Lake Koi Garden.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Lake Koi Garden.png",
+      "source_size_bytes": 2789614,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004ea8822fa842723d401eaeb0"
+    },
+    {
+      "file_id": "file_00000000c49c822f97bdff06d79d9b89",
+      "name": "AMW Legacy Lake: A Living Ecosystem.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Lake: A Living Ecosystem.png",
+      "source_size_bytes": 2807104,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c49c822f97bdff06d79d9b89"
+    },
+    {
+      "file_id": "file_0000000049fc822f9513bddb9fce2b5d",
+      "name": "AMW Legacy Organizational Portfolio Infographic.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Organizational Portfolio Infographic.png",
+      "source_size_bytes": 2129857,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000049fc822f9513bddb9fce2b5d"
+    },
+    {
+      "file_id": "file_000000009ed0822fae16dbccb7dbebf2",
+      "name": "AMW Legacy Pet Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Pet Fleet Showcase.png",
+      "source_size_bytes": 3206772,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009ed0822fae16dbccb7dbebf2"
+    },
+    {
+      "file_id": "file_000000006934822fb6dc46310df7f6ba",
+      "name": "AMW Legacy Sports Fleet Blueprint(1).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint(1).png",
+      "source_size_bytes": 3270369,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006934822fb6dc46310df7f6ba"
+    },
+    {
+      "file_id": "file_0000000082c0822faf5bdf97665accf0",
+      "name": "AMW Legacy Sports Fleet Blueprint(2).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint(2).png",
+      "source_size_bytes": 3096172,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000082c0822faf5bdf97665accf0"
+    },
+    {
+      "file_id": "file_000000006b38822fb4ba3e3e77e018a1",
+      "name": "AMW Legacy Sports Fleet Blueprint(3).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint(3).png",
+      "source_size_bytes": 3125040,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006b38822fb4ba3e3e77e018a1"
+    },
+    {
+      "file_id": "file_000000006c44822f80a990615bf9e890",
+      "name": "AMW Legacy Sports Fleet Blueprint.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Blueprint.png",
+      "source_size_bytes": 3275842,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006c44822f80a990615bf9e890"
+    },
+    {
+      "file_id": "file_00000000f22c822fa908db8132aa54cb",
+      "name": "AMW Legacy Sports Fleet Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Board.png",
+      "source_size_bytes": 3124421,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f22c822fa908db8132aa54cb"
+    },
+    {
+      "file_id": "file_0000000010d0822f971427a436f1dac5",
+      "name": "AMW Legacy Sports Fleet Concept Board.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Concept Board.png",
+      "source_size_bytes": 3252887,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000010d0822f971427a436f1dac5"
+    },
+    {
+      "file_id": "file_00000000bcb0822fb93f0b661b1f886e",
+      "name": "AMW Legacy Sports Fleet Guide.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Guide.png",
+      "source_size_bytes": 3181554,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bcb0822fb93f0b661b1f886e"
+    },
+    {
+      "file_id": "file_0000000024ec822f9205873ed8215bc1",
+      "name": "AMW Legacy Sports Fleet Infographic(1).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(1).png",
+      "source_size_bytes": 3144754,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000024ec822f9205873ed8215bc1"
+    },
+    {
+      "file_id": "file_000000005484822f87702cc26c10b59b",
+      "name": "AMW Legacy Sports Fleet Infographic(2).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(2).png",
+      "source_size_bytes": 3412704,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005484822f87702cc26c10b59b"
+    },
+    {
+      "file_id": "file_00000000b130822fa4495383324cb421",
+      "name": "AMW Legacy Sports Fleet Infographic(3).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(3).png",
+      "source_size_bytes": 3400192,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b130822fa4495383324cb421"
+    },
+    {
+      "file_id": "file_00000000c2a8822fb44ca36272129122",
+      "name": "AMW Legacy Sports Fleet Infographic(4).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(4).png",
+      "source_size_bytes": 3242499,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c2a8822fb44ca36272129122"
+    },
+    {
+      "file_id": "file_00000000d984822f939e799c50515b04",
+      "name": "AMW Legacy Sports Fleet Infographic(5).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(5).png",
+      "source_size_bytes": 3174737,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d984822f939e799c50515b04"
+    },
+    {
+      "file_id": "file_000000002298822f925a4eb49a272e6d",
+      "name": "AMW Legacy Sports Fleet Infographic(6).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(6).png",
+      "source_size_bytes": 3088278,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002298822f925a4eb49a272e6d"
+    },
+    {
+      "file_id": "file_000000009618822f98f60dc9f8a2fcf1",
+      "name": "AMW Legacy Sports Fleet Infographic(7).png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic(7).png",
+      "source_size_bytes": 3196693,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009618822f98f60dc9f8a2fcf1"
+    },
+    {
+      "file_id": "file_00000000ddcc822fa5fd5438d6b1fbd0",
+      "name": "AMW Legacy Sports Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Infographic.png",
+      "source_size_bytes": 3014923,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ddcc822fa5fd5438d6b1fbd0"
+    },
+    {
+      "file_id": "file_00000000e250822f8554821e541df1f1",
+      "name": "AMW Legacy Sports Fleet Portfolio.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Portfolio.png",
+      "source_size_bytes": 3004598,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e250822f8554821e541df1f1"
+    },
+    {
+      "file_id": "file_0000000090cc822f94a3a8ed33ad1e90",
+      "name": "AMW Legacy Sports Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet Showcase.png",
+      "source_size_bytes": 3174842,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000090cc822f94a3a8ed33ad1e90"
+    },
+    {
+      "file_id": "file_00000000e8d0822f83a83f9a1dfe285a",
+      "name": "AMW Legacy Sports Fleet.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sports Fleet.png",
+      "source_size_bytes": 3025742,
+      "width": 1223,
+      "height": 1286,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e8d0822f83a83f9a1dfe285a"
+    },
+    {
+      "file_id": "file_0000000061f0822f84e6fc2d161ba3e7",
+      "name": "AMW Legacy Sustainable Mobility Hub.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Sustainable Mobility Hub.png",
+      "source_size_bytes": 3174375,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000061f0822f84e6fc2d161ba3e7"
+    },
+    {
+      "file_id": "file_000000003568822fb99e3d1c124090ad",
+      "name": "AMW Legacy Transportation Fleet Chart.png",
+      "path": "/THE AMW LEGACY/AMW Legacy Transportation Fleet Chart.png",
+      "source_size_bytes": 2847814,
+      "width": 1374,
+      "height": 1145,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003568822fb99e3d1c124090ad"
+    },
+    {
+      "file_id": "file_00000000e718822f9f86424a8fb0c846",
+      "name": "AMW Legacy: Cleaner Tomorrow, Together.png",
+      "path": "/THE AMW LEGACY/AMW Legacy: Cleaner Tomorrow, Together.png",
+      "source_size_bytes": 3317691,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e718822f9f86424a8fb0c846"
+    },
+    {
+      "file_id": "file_000000004104822fa1a84da36fc2d61f",
+      "name": "AMW Recovery Village Master Plan.png",
+      "path": "/THE AMW LEGACY/AMW Recovery Village Master Plan.png",
+      "source_size_bytes": 3121030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004104822fa1a84da36fc2d61f"
+    },
+    {
+      "file_id": "file_00000000db9c82098f4da6622af9badd",
+      "name": "AMW Roofing Institution Campus and Fleet.png",
+      "path": "/THE AMW LEGACY/AMW Roofing Institution Campus and Fleet.png",
+      "source_size_bytes": 3219521,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000db9c82098f4da6622af9badd"
+    },
+    {
+      "file_id": "file_00000000a060822f8c8091f92f0fef0c",
+      "name": "AMW_LEGACY_12_INSTITUTION_VISUALS_APPROVAL_BOARD.png",
+      "path": "/THE AMW LEGACY/AMW_LEGACY_12_INSTITUTION_VISUALS_APPROVAL_BOARD.png",
+      "source_size_bytes": 2743613,
+      "width": 2200,
+      "height": 1700,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a060822f8c8091f92f0fef0c"
+    },
+    {
+      "file_id": "file_000000008634822fa6ceddd07775db38",
+      "name": "AMW_Legacy_Campus_Corrected_Masterplan(1).png",
+      "path": "/THE AMW LEGACY/AMW_Legacy_Campus_Corrected_Masterplan(1).png",
+      "source_size_bytes": 3363905,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008634822fa6ceddd07775db38"
+    },
+    {
+      "file_id": "file_000000004e28822f9b88878c18484284",
+      "name": "AMW_Legacy_Campus_Corrected_Masterplan.png",
+      "path": "/THE AMW LEGACY/AMW_Legacy_Campus_Corrected_Masterplan.png",
+      "source_size_bytes": 3363905,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004e28822f9b88878c18484284"
+    },
+    {
+      "file_id": "file_00000000b4c4822fa65c6ef73bc43706",
+      "name": "AMW_LEGACY_FLEET_BARCLAY_EXACT_CONTROLLED_WRAP_CORRECTION.png",
+      "path": "/THE AMW LEGACY/AMW_LEGACY_FLEET_BARCLAY_EXACT_CONTROLLED_WRAP_CORRECTION.png",
+      "source_size_bytes": 2686708,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b4c4822fa65c6ef73bc43706"
+    },
+    {
+      "file_id": "file_0000000031ec822f8c8dcb4ff5f61126",
+      "name": "AMW_Legacy_Fleet_Design_Board.png",
+      "path": "/THE AMW LEGACY/AMW_Legacy_Fleet_Design_Board.png",
+      "source_size_bytes": 3260282,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000031ec822f8c8dcb4ff5f61126"
+    },
+    {
+      "file_id": "file_0000000015b0822f967a42574702ae9c",
+      "name": "AMW_Legacy_Just_Love_Pond_Entrance_Atlas_Page_1.png",
+      "path": "/THE AMW LEGACY/AMW_Legacy_Just_Love_Pond_Entrance_Atlas_Page_1.png",
+      "source_size_bytes": 354196,
+      "width": 2600,
+      "height": 3400,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000015b0822f967a42574702ae9c"
+    },
+    {
+      "file_id": "file_0000000058cc822f9be9f7410598173b",
+      "name": "AMW_Legacy_Just_Love_Pond_Entrance_Atlas_Page_2.png",
+      "path": "/THE AMW LEGACY/AMW_Legacy_Just_Love_Pond_Entrance_Atlas_Page_2.png",
+      "source_size_bytes": 314975,
+      "width": 2600,
+      "height": 3400,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000058cc822f9be9f7410598173b"
+    },
+    {
+      "file_id": "file_000000006a74822fb1ba62ae25187667",
+      "name": "AMW_Legacy_Just_Love_Pond_Entrance_Atlas_Page_3.png",
+      "path": "/THE AMW LEGACY/AMW_Legacy_Just_Love_Pond_Entrance_Atlas_Page_3.png",
+      "source_size_bytes": 299448,
+      "width": 2600,
+      "height": 3400,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006a74822fb1ba62ae25187667"
+    },
+    {
+      "file_id": "file_00000000cc24822fa6430a6927a8692c",
+      "name": "AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_01.png",
+      "path": "/THE AMW LEGACY/AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_01.png",
+      "source_size_bytes": 3008906,
+      "width": 1960,
+      "height": 1474,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000cc24822fa6430a6927a8692c"
+    },
+    {
+      "file_id": "file_000000003cb8822fa472c0adb115ada8",
+      "name": "AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_02.png",
+      "path": "/THE AMW LEGACY/AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_02.png",
+      "source_size_bytes": 2934364,
+      "width": 1960,
+      "height": 1474,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003cb8822fa472c0adb115ada8"
+    },
+    {
+      "file_id": "file_000000000b28822f922705b588fc50ab",
+      "name": "AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_03.png",
+      "path": "/THE AMW LEGACY/AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_03.png",
+      "source_size_bytes": 3640379,
+      "width": 1960,
+      "height": 1474,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000b28822f922705b588fc50ab"
+    },
+    {
+      "file_id": "file_0000000083c4822f9ba5f52919ded070",
+      "name": "AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_04.png",
+      "path": "/THE AMW LEGACY/AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_04.png",
+      "source_size_bytes": 3627356,
+      "width": 1960,
+      "height": 1474,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000083c4822f9ba5f52919ded070"
+    },
+    {
+      "file_id": "file_00000000fcbc822f90e1f2b9344c182d",
+      "name": "AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_05.png",
+      "path": "/THE AMW LEGACY/AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_05.png",
+      "source_size_bytes": 3446013,
+      "width": 1960,
+      "height": 1474,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fcbc822f90e1f2b9344c182d"
+    },
+    {
+      "file_id": "file_000000004d78822fa4e0d2531a452969",
+      "name": "AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_06.png",
+      "path": "/THE AMW LEGACY/AMW_SAVED_UPDATED_VISUALS_CONTACT_SHEET_06.png",
+      "source_size_bytes": 2801033,
+      "width": 1960,
+      "height": 1474,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004d78822fa4e0d2531a452969"
+    },
+    {
+      "file_id": "file_000000007300822f83e2740e92093e04",
+      "name": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+      "path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+      "source_size_bytes": 893345,
+      "width": 2048,
+      "height": 1228,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007300822f83e2740e92093e04"
+    },
+    {
+      "file_id": "file_00000000a164822fbd0b25f6df6dca68",
+      "name": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING.png",
+      "path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING.png",
+      "source_size_bytes": 381884,
+      "width": 5000,
+      "height": 3000,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a164822fbd0b25f6df6dca68"
+    },
+    {
+      "file_id": "file_00000000cf08822f9d417d83ce7367e7",
+      "name": "amw_visual_001(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_001(1).png",
+      "source_size_bytes": 3674087,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000cf08822f9d417d83ce7367e7"
+    },
+    {
+      "file_id": "file_00000000f3dc822faabcba911668ae56",
+      "name": "amw_visual_001.png",
+      "path": "/THE AMW LEGACY/amw_visual_001.png",
+      "source_size_bytes": 2721891,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f3dc822faabcba911668ae56"
+    },
+    {
+      "file_id": "file_00000000a590822fad0c7dfc680030fd",
+      "name": "amw_visual_002(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_002(1).png",
+      "source_size_bytes": 3642866,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a590822fad0c7dfc680030fd"
+    },
+    {
+      "file_id": "file_00000000cf6c822fb5325fbfe9c28f22",
+      "name": "amw_visual_002.png",
+      "path": "/THE AMW LEGACY/amw_visual_002.png",
+      "source_size_bytes": 2691685,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000cf6c822fb5325fbfe9c28f22"
+    },
+    {
+      "file_id": "file_000000002ab8822f8f76399b0597a582",
+      "name": "amw_visual_003(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_003(1).png",
+      "source_size_bytes": 3712142,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002ab8822f8f76399b0597a582"
+    },
+    {
+      "file_id": "file_000000008cc0822fa957d283e551fbab",
+      "name": "amw_visual_003.png",
+      "path": "/THE AMW LEGACY/amw_visual_003.png",
+      "source_size_bytes": 2807104,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008cc0822fa957d283e551fbab"
+    },
+    {
+      "file_id": "file_000000007ce0822fbfe5f8b222dbe956",
+      "name": "amw_visual_004(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_004(1).png",
+      "source_size_bytes": 3636362,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007ce0822fbfe5f8b222dbe956"
+    },
+    {
+      "file_id": "file_00000000d200822fafe88c74ef3af871",
+      "name": "amw_visual_004.png",
+      "path": "/THE AMW LEGACY/amw_visual_004.png",
+      "source_size_bytes": 2609362,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d200822fafe88c74ef3af871"
+    },
+    {
+      "file_id": "file_000000001b4c822fa723f0dae9c2072e",
+      "name": "amw_visual_005(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_005(1).png",
+      "source_size_bytes": 3936269,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001b4c822fa723f0dae9c2072e"
+    },
+    {
+      "file_id": "file_00000000a5d0822f85347d2a4c45d960",
+      "name": "amw_visual_005.png",
+      "path": "/THE AMW LEGACY/amw_visual_005.png",
+      "source_size_bytes": 3100143,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a5d0822f85347d2a4c45d960"
+    },
+    {
+      "file_id": "file_000000002544822fbda3a599e824b8fb",
+      "name": "amw_visual_006(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_006(1).png",
+      "source_size_bytes": 3454337,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002544822fbda3a599e824b8fb"
+    },
+    {
+      "file_id": "file_000000001a84822fbde7cb4798e12f44",
+      "name": "amw_visual_006.png",
+      "path": "/THE AMW LEGACY/amw_visual_006.png",
+      "source_size_bytes": 2472065,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001a84822fbde7cb4798e12f44"
+    }
+  ]
+}
