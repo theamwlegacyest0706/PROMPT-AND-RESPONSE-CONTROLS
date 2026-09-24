@@ -1,0 +1,1193 @@
+{
+  "generated_at": "2026-09-23",
+  "scope": "Accessible Google Drive sources returned by broad Legacy searches; metadata index only, preserving current/historical/recovered/draft/provenance sources without status filtering.",
+  "search_terms": [
+    "AMW",
+    "THE AMW LEGACY",
+    "CHATGPT",
+    "AMW website",
+    "AMW controls",
+    "AMW Mirror Review",
+    "AMW funding",
+    "AMW visual"
+  ],
+  "unique_items": 98,
+  "items": [
+    {
+      "id": "1wB-dInhHQaA87Cb5G7LAreidhW-_KXw-",
+      "title": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-12_CURRENT_CONTROLLED.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1wB-dInhHQaA87Cb5G7LAreidhW-_KXw-/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": "353370",
+      "created_at": "2026-09-02T02:00:22.555Z",
+      "updated_at": "2026-09-12T18:43:21.204Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "1u5jKvvqK1l98OQdP9_RDtamD3DDhz4ugGtwCP6Ihu_0",
+      "title": "AMW LEGACY INSTITUTIONAL & CAMPUS ARCHITECTURE — CROSS-REFERENCE CONTROL",
+      "url": "https://docs.google.com/document/d/1u5jKvvqK1l98OQdP9_RDtamD3DDhz4ugGtwCP6Ihu_0/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "25992480",
+      "created_at": "2026-09-03T04:46:55.453Z",
+      "updated_at": "2026-09-20T04:02:48.432Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "18Ep5-ZBqwu3GmkUpEgqARkhtbEslFlNyKRwzvtYFD2o",
+      "title": "AMW LEGACY — MIRROR REVIEW ARCHIVE & STRENGTHENED SELF-GOVERNANCE CONTROL — 2026-09-14",
+      "url": "https://docs.google.com/document/d/18Ep5-ZBqwu3GmkUpEgqARkhtbEslFlNyKRwzvtYFD2o/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "62343",
+      "created_at": "2026-09-14T23:35:33.602Z",
+      "updated_at": "2026-09-23T03:58:34.365Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "14gHlzY9L70GmkgzY7Yr5GDm5oarsj5o5",
+      "title": "AMW_CLIENT_FACING_COMPLETE_PRINT_BINDER_2026-08-31.pdf",
+      "url": "https://drive.google.com/file/d/14gHlzY9L70GmkgzY7Yr5GDm5oarsj5o5/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "2177482",
+      "created_at": "2026-08-31T16:05:11.285Z",
+      "updated_at": "2026-08-31T16:05:11.285Z",
+      "parent_ids": [
+        "1RCoV1OHW-fd4B6vb55sLfgROyzWJyWu5"
+      ]
+    },
+    {
+      "id": "1mr62lrpjrym-2XO3NOQP5tLmMbjl2IGG",
+      "title": "AMW_INTERNAL_STEWARD_BOARD_COMPLETE_PRINT_BINDER_2026-08-31.pdf",
+      "url": "https://drive.google.com/file/d/1mr62lrpjrym-2XO3NOQP5tLmMbjl2IGG/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "1995716",
+      "created_at": "2026-08-31T16:05:34.009Z",
+      "updated_at": "2026-08-31T16:05:34.009Z",
+      "parent_ids": [
+        "1h1-UIK0-s9KMKqEA2F0bzfy5tCeDEgwy"
+      ]
+    },
+    {
+      "id": "1XWKbuQBBL3ve9mCJIyQ2uS8el2oD5vrY",
+      "title": "AMW_INVESTOR_COMPLETE_PRINT_BINDER_2026-08-31.pdf",
+      "url": "https://drive.google.com/file/d/1XWKbuQBBL3ve9mCJIyQ2uS8el2oD5vrY/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "5360720",
+      "created_at": "2026-08-31T16:05:55.149Z",
+      "updated_at": "2026-08-31T16:05:55.149Z",
+      "parent_ids": [
+        "1q133Zy973qQma9pNZqkXpddN-Ps4D-OP"
+      ]
+    },
+    {
+      "id": "1yfnrRGLIgzsiYR8DnWjL8SEKl9PqYyd5",
+      "title": "AMW_PRO_SE_IP_FILING_KNOCKOUT_CLEARANCE_PACKET_2026-08-31.pdf",
+      "url": "https://drive.google.com/file/d/1yfnrRGLIgzsiYR8DnWjL8SEKl9PqYyd5/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "356693",
+      "created_at": "2026-08-31T17:09:46.579Z",
+      "updated_at": "2026-08-31T17:49:45.130Z",
+      "parent_ids": [
+        "10xLBiFsgIw6Kzw6LjaQlYF0OrTVwMm7B"
+      ]
+    },
+    {
+      "id": "1KcLy2gc7URfEJ8FiVqY2vjXwwFc7jCrI",
+      "title": "AMW COMPLETE GRAPHICS BRAND VISUAL ASSET PORTFOLIO",
+      "url": "https://docs.google.com/document/d/1KcLy2gc7URfEJ8FiVqY2vjXwwFc7jCrI/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "48999416",
+      "created_at": "2026-08-30T20:00:23.414Z",
+      "updated_at": "2026-08-30T20:00:23.414Z",
+      "parent_ids": [
+        "1Ihd5UItjNKgcWCZvByMuAhuDXz7vB5rK"
+      ]
+    },
+    {
+      "id": "11wQWn8lHeoUz2wXEAha3D0l7MQtbGedv",
+      "title": "AMW Complete Controlled Institutional Record — 2026-08-29",
+      "url": "https://docs.google.com/document/d/11wQWn8lHeoUz2wXEAha3D0l7MQtbGedv/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "52599",
+      "created_at": "2026-08-30T19:46:08.406Z",
+      "updated_at": "2026-08-30T19:46:08.406Z",
+      "parent_ids": [
+        "1wa5EFTGljfvV6gjRCb4vSHYRSg-7OQmh"
+      ]
+    },
+    {
+      "id": "195VZ6Wem3cCQdsTFe3rXZxIh_67OkjfoMVsgtkLHeZA",
+      "title": "AMW SAVE / UPDATE DIRECTIVE RECOVERY AUDIT — SEPTEMBER 2–12, 2026 — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/195VZ6Wem3cCQdsTFe3rXZxIh_67OkjfoMVsgtkLHeZA/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "5586",
+      "created_at": "2026-09-12T06:50:03.538Z",
+      "updated_at": "2026-09-20T06:49:19.126Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1Ychvy8jP7qX28SZzTmnTex0BxEaqewE_",
+      "title": "AMW_PRO_SE_IP_FILING_KNOCKOUT_CLEARANCE_PACKET_2026-08-31.docx",
+      "url": "https://docs.google.com/document/d/1Ychvy8jP7qX28SZzTmnTex0BxEaqewE_/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "552280",
+      "created_at": "2026-08-31T17:07:46.577Z",
+      "updated_at": "2026-08-31T17:49:36.627Z",
+      "parent_ids": [
+        "10xLBiFsgIw6Kzw6LjaQlYF0OrTVwMm7B"
+      ]
+    },
+    {
+      "id": "1pIrztlfi6QvhHDVOmVfXex1Sk21ejt_r",
+      "title": "AMW_INVESTOR_BUSINESS_PLAN_VERIFIED_2026-08-31.pdf",
+      "url": "https://drive.google.com/file/d/1pIrztlfi6QvhHDVOmVfXex1Sk21ejt_r/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "248113",
+      "created_at": "2026-08-31T16:06:03.710Z",
+      "updated_at": "2026-08-31T16:06:03.710Z",
+      "parent_ids": [
+        "1q133Zy973qQma9pNZqkXpddN-Ps4D-OP"
+      ]
+    },
+    {
+      "id": "19-jVeS7Hr29gmULX15YpC65sck2J1JuM",
+      "title": "AMW_EXECUTIVE_RAW_COMPLETE_PRINT_BINDER_2026-08-31.pdf",
+      "url": "https://drive.google.com/file/d/19-jVeS7Hr29gmULX15YpC65sck2J1JuM/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "1120009",
+      "created_at": "2026-08-31T16:07:01.941Z",
+      "updated_at": "2026-08-31T16:07:01.941Z",
+      "parent_ids": [
+        "1gl3gZVQeam_ClaL5wc-UooLudCnAior9"
+      ]
+    },
+    {
+      "id": "1gmyi-5tS275G-vgShhRvR-GdRsl0jedrKgfPAWPLv2c",
+      "title": "AMW VISUAL EXECUTION & FOUNDER APPROVAL GATE — HARD CONTROL",
+      "url": "https://docs.google.com/document/d/1gmyi-5tS275G-vgShhRvR-GdRsl0jedrKgfPAWPLv2c/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "9728",
+      "created_at": "2026-09-11T04:33:35.392Z",
+      "updated_at": "2026-09-15T00:25:27.361Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "16rYwUAP1CKoPaDiaCDHO7rxnNR0fNn8kzsGR9Btz-fY",
+      "title": "AMW INTERIOR DESIGN & LEGACY CREATOR FURNISHINGS STANDARD — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/16rYwUAP1CKoPaDiaCDHO7rxnNR0fNn8kzsGR9Btz-fY/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "3809",
+      "created_at": "2026-09-02T03:21:14.822Z",
+      "updated_at": "2026-09-08T19:49:40.014Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1abfrjxgXttD0IN4gFiC6bGhJ6Bz8avwE_X90PvLPvak",
+      "title": "AMW LEGACY-WIDE HUMANE PARTICIPATION, INSTITUTIONAL GOVERNANCE & COMPLIANCE CONTROL — CURRENT CONTROLLED — 2026-09-12",
+      "url": "https://docs.google.com/document/d/1abfrjxgXttD0IN4gFiC6bGhJ6Bz8avwE_X90PvLPvak/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "5930",
+      "created_at": "2026-09-12T07:01:53.249Z",
+      "updated_at": "2026-09-12T07:02:26.686Z",
+      "parent_ids": [
+        "0AG1IMyyUJqcCUk9PVA"
+      ]
+    },
+    {
+      "id": "1Be5HUlpyv2Pf2C_vZUtIVdLsDtBMrqFW",
+      "title": "AMW Brand IP Seals Award — Recovered Work",
+      "url": "https://docs.google.com/document/d/1Be5HUlpyv2Pf2C_vZUtIVdLsDtBMrqFW/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "41159",
+      "created_at": "2026-08-30T20:01:42.965Z",
+      "updated_at": "2026-08-30T20:01:42.965Z",
+      "parent_ids": [
+        "1qJXuq3GKQ4O8hEBDPA2X5EnPN3FQeSYV"
+      ]
+    },
+    {
+      "id": "1IuWTmIgi29kz6aYAcWXNFTH9dcscxwJ1",
+      "title": "AMW FRIDAY REVIEW — FOUNDER INTEGRATED SOURCE — 2026-09-04.pdf",
+      "url": "https://drive.google.com/file/d/1IuWTmIgi29kz6aYAcWXNFTH9dcscxwJ1/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "90324",
+      "created_at": "2026-09-07T03:41:58.310Z",
+      "updated_at": "2026-09-07T03:41:58.310Z",
+      "parent_ids": [
+        "1AHjhVaFeGJzcYKJVMPJ9jSYRiNAdX5Lx"
+      ]
+    },
+    {
+      "id": "1MCrVpKy1NsXXuMyqTg33GSoLEZ3zX0zV",
+      "title": "AMW_FRIDAY_REVIEW_FOUNDER_CROSS_REFERENCE_2026-09-04.pdf",
+      "url": "https://drive.google.com/file/d/1MCrVpKy1NsXXuMyqTg33GSoLEZ3zX0zV/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "90324",
+      "created_at": "2026-09-05T03:03:50.632Z",
+      "updated_at": "2026-09-05T03:03:50.632Z",
+      "parent_ids": [
+        "1mAAHOVtoH30ibEcErQWub4V0z98Sl3b1"
+      ]
+    },
+    {
+      "id": "1ZfxdeKyUKyVcgSWddR6kOXW752I3S-UO",
+      "title": "AMW_22_NEW_INSTITUTION_SITE_OPERATION_MANUALS_PERMANENT_DRAFT_2026-09-10.docx",
+      "url": "https://docs.google.com/document/d/1ZfxdeKyUKyVcgSWddR6kOXW752I3S-UO/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "60296",
+      "created_at": "2026-09-10T17:20:01.770Z",
+      "updated_at": "2026-09-12T07:12:32.859Z",
+      "parent_ids": [
+        "1L0Ozm1yS-2wHdbfi85ajPXwmhzUW5C_T"
+      ]
+    },
+    {
+      "id": "1NKDYyFwrk3MBLCDwE9snH35chxfEcNx6NE2OHKeiiu8",
+      "title": "AMW LEGACY INSTITUTION UNIFORMS — CURRENT CONTROLLED VISUAL — 2026-09-05",
+      "url": "https://docs.google.com/document/d/1NKDYyFwrk3MBLCDwE9snH35chxfEcNx6NE2OHKeiiu8/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "5206572",
+      "created_at": "2026-09-05T21:27:27.300Z",
+      "updated_at": "2026-09-11T18:14:10.394Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1rGZGu80JfDukqC1oKUsNhKCANa5ZCTQiFLGadOMjsyY",
+      "title": "AMW FOUNDER SAVE / UPDATE DIRECTIVE — AUTOMATIC DURABILITY CONTROL — CURRENT CONTROLLED — 2026-09-12",
+      "url": "https://docs.google.com/document/d/1rGZGu80JfDukqC1oKUsNhKCANa5ZCTQiFLGadOMjsyY/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "2508",
+      "created_at": "2026-09-12T06:47:42.386Z",
+      "updated_at": "2026-09-12T06:47:56.004Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1XKSSdHWNIO0tsOdpvEgqkPy1qkfHK21byW63ClZnE1w",
+      "title": "SLOANE'S STONES — AMW LEGACY PEBBLE GARDEN — CURRENT CONTROLLED DESIGN",
+      "url": "https://docs.google.com/document/d/1XKSSdHWNIO0tsOdpvEgqkPy1qkfHK21byW63ClZnE1w/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "4066",
+      "created_at": "2026-09-03T19:27:51.339Z",
+      "updated_at": "2026-09-08T19:51:58.998Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1iarY8VS_f8TBf50v-gqZJpiry3PAz9-p7X5KTr6fNaE",
+      "title": "AMW CYBERSECURITY INSTITUTION — CYBERSECURITY, INFORMATION STEWARDSHIP, CONTINUITY & ORGANIZATIONAL RESILIENCE CAPACITY STANDARD — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/1iarY8VS_f8TBf50v-gqZJpiry3PAz9-p7X5KTr6fNaE/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "5019",
+      "created_at": "2026-09-04T16:30:31.280Z",
+      "updated_at": "2026-09-04T16:37:18.999Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1RwzCJJLIuPL0g0IHGvxnzwisX0nzOkc5ewEwEC4wUns",
+      "title": "AMW LEGACY FLEET INTERIOR STANDARD — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/1RwzCJJLIuPL0g0IHGvxnzwisX0nzOkc5ewEwEC4wUns/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "7118",
+      "created_at": "2026-09-08T19:08:21.497Z",
+      "updated_at": "2026-09-08T19:35:56.270Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "10Kj4VSbTqx1OwiIZSFiR_IT8EzbH3RVr",
+      "title": "AMW_INTERNAL_OPERATING_MOU_2026-08-31.docx",
+      "url": "https://docs.google.com/document/d/10Kj4VSbTqx1OwiIZSFiR_IT8EzbH3RVr/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "541667",
+      "created_at": "2026-08-31T17:10:04.201Z",
+      "updated_at": "2026-08-31T17:10:14.984Z",
+      "parent_ids": [
+        "1h1-UIK0-s9KMKqEA2F0bzfy5tCeDEgwy"
+      ]
+    },
+    {
+      "id": "16NPCw5tpWH5sV3aLSDex5l9dNZhnO9Yq8yOAn5GT3eo",
+      "title": "AMW INDUSTRIAL INSTITUTIONS — COMMON AREA, SAFETY & WORKFORCE SUPPORT STANDARD — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/16NPCw5tpWH5sV3aLSDex5l9dNZhnO9Yq8yOAn5GT3eo/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "2879",
+      "created_at": "2026-09-03T15:52:04.998Z",
+      "updated_at": "2026-09-08T03:42:21.012Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1tyl2nIDrLMgBR07MkIl1-lrV-WWejEm-SQ7-ELus-Zw",
+      "title": "AMW STEWARD COMMON AREA — LEGACY-WIDE STANDARD — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/1tyl2nIDrLMgBR07MkIl1-lrV-WWejEm-SQ7-ELus-Zw/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "2224",
+      "created_at": "2026-09-08T03:41:33.475Z",
+      "updated_at": "2026-09-08T19:50:00.390Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1RMEjWib4xTzCxzC3tQuf2Xcu1asc8tZzBdyOJaCkH34",
+      "title": "AMW LEGACY FLEET EMERGENCY SUPPLY CAPACITY STANDARD — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/1RMEjWib4xTzCxzC3tQuf2Xcu1asc8tZzBdyOJaCkH34/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "2582",
+      "created_at": "2026-09-08T18:57:31.559Z",
+      "updated_at": "2026-09-08T18:58:13.041Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1JnhTYIeDqLYCpefXdlLJQv_hc3y06qZEyL-PgC0q0h4",
+      "title": "JUST LOVE COY LAKE — THE AMW LEGACY LAKE — CURRENT CONTROLLED DESIGN",
+      "url": "https://docs.google.com/document/d/1JnhTYIeDqLYCpefXdlLJQv_hc3y06qZEyL-PgC0q0h4/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "3852",
+      "created_at": "2026-09-03T20:40:07.657Z",
+      "updated_at": "2026-09-03T21:43:47.065Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "10tlbZznHRnI9JtOMtPcSnGZbYM1rE0Mk",
+      "title": "AMW_BRAND_BOOK_VERIFIED_6x9_2026-08-31.pdf",
+      "url": "https://drive.google.com/file/d/10tlbZznHRnI9JtOMtPcSnGZbYM1rE0Mk/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "2509557",
+      "created_at": "2026-08-31T16:06:17.118Z",
+      "updated_at": "2026-08-31T16:06:17.118Z",
+      "parent_ids": [
+        "1q133Zy973qQma9pNZqkXpddN-Ps4D-OP"
+      ]
+    },
+    {
+      "id": "1Ts7JsEorCFEGE1EU4beud4hS2qRMWqhu",
+      "title": "AMW BRAND BOOK — INTERNAL MASTER — WATERMARKED.pdf",
+      "url": "https://drive.google.com/file/d/1Ts7JsEorCFEGE1EU4beud4hS2qRMWqhu/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "3715736",
+      "created_at": "2026-08-30T22:16:04.330Z",
+      "updated_at": "2026-08-30T22:16:04.330Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1dco6nKA4iWatDmJlACqCYuIsBbvK0w4ZXbCY4pqT8H8",
+      "title": "THE SOUL OF AMW — CURRENT CONTROLLED",
+      "url": "https://docs.google.com/document/d/1dco6nKA4iWatDmJlACqCYuIsBbvK0w4ZXbCY4pqT8H8/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "4916",
+      "created_at": "2026-09-02T03:49:47.592Z",
+      "updated_at": "2026-09-02T03:58:55.712Z",
+      "parent_ids": [
+        "10xLBiFsgIw6Kzw6LjaQlYF0OrTVwMm7B"
+      ]
+    },
+    {
+      "id": "1OG3pBbMBre5BqBJ5j0cPu81kJmUTn_Nt",
+      "title": "AMW_Legacy_Campus_Interactive_Digital_Tour (1).html",
+      "url": "https://drive.google.com/file/d/1OG3pBbMBre5BqBJ5j0cPu81kJmUTn_Nt/view?usp=drivesdk",
+      "mime_type": "text/html",
+      "size": "60147516",
+      "created_at": "2026-09-02T03:30:36.566Z",
+      "updated_at": "2026-09-02T03:30:40.259Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "1yzhFDH-xg-6m0IQWw2dbGrnD6-aeGIQI",
+      "title": "AMW_Legacy_Campus_Interactive_Digital_Tour.html",
+      "url": "https://drive.google.com/file/d/1yzhFDH-xg-6m0IQWw2dbGrnD6-aeGIQI/view?usp=drivesdk",
+      "mime_type": "text/html",
+      "size": "60147516",
+      "created_at": "2026-09-02T03:13:41.058Z",
+      "updated_at": "2026-09-02T03:13:45.739Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "1BXotDjaGwCqHfByuuC21Kd105JuALdAo",
+      "title": "AMW BRAND BOOK — INTERNAL MASTER — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1BXotDjaGwCqHfByuuC21Kd105JuALdAo/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "2549238",
+      "created_at": "2026-08-30T22:15:54.426Z",
+      "updated_at": "2026-08-30T22:15:54.426Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ",
+      "title": "THE AMW LEGACY — COMPLETE WORK ARCHIVE — 2026-08-30",
+      "url": "https://drive.google.com/drive/folders/1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size": null,
+      "created_at": "2026-08-30T19:44:38.696Z",
+      "updated_at": "2026-08-30T19:44:38.696Z",
+      "parent_ids": [
+        "0AG1IMyyUJqcCUk9PVA"
+      ]
+    },
+    {
+      "id": "16teAhwI-SN2V03qT9tLCQM4CT97w_B6t",
+      "title": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED_FINAL.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/16teAhwI-SN2V03qT9tLCQM4CT97w_B6t/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": "435012",
+      "created_at": "2026-09-20T04:02:12.189Z",
+      "updated_at": "2026-09-20T04:02:12.189Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "1ltTlmS3Jd7X5F59mCTPLs8lLBueMbxYy",
+      "title": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1ltTlmS3Jd7X5F59mCTPLs8lLBueMbxYy/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": "434442",
+      "created_at": "2026-09-20T03:58:58.565Z",
+      "updated_at": "2026-09-20T03:58:58.565Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "1-8WCv56nNjCBqoX7XMUxmmYDJJRO9TpA",
+      "title": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1-8WCv56nNjCBqoX7XMUxmmYDJJRO9TpA/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": "371500",
+      "created_at": "2026-09-13T05:37:04.905Z",
+      "updated_at": "2026-09-13T05:37:04.905Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "19EKu7b6Y9yBgBl2z6M3f9Jq3TUf81IEa",
+      "title": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/19EKu7b6Y9yBgBl2z6M3f9Jq3TUf81IEa/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": "404208",
+      "created_at": "2026-09-14T04:16:21.934Z",
+      "updated_at": "2026-09-16T00:39:47.826Z",
+      "parent_ids": [
+        "1mousu49rX4X5ZdJJVMMZRFdB7UCjrcRQ"
+      ]
+    },
+    {
+      "id": "1eYKee_RF7cC5XyipTeTbxZa2wpVFp-04",
+      "title": "AMW Consulting Firm",
+      "url": "https://drive.google.com/drive/folders/1eYKee_RF7cC5XyipTeTbxZa2wpVFp-04",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size": null,
+      "created_at": "2026-08-06T06:06:04.189Z",
+      "updated_at": "2026-08-06T06:12:33.832Z",
+      "parent_ids": [
+        "0AG1IMyyUJqcCUk9PVA"
+      ]
+    },
+    {
+      "id": "1QQ_iHL2nvNppmDBRCqLFkRKmookeUIzZH5HoVye8u9Q",
+      "title": "CHATGPT Failures",
+      "url": "https://docs.google.com/document/d/1QQ_iHL2nvNppmDBRCqLFkRKmookeUIzZH5HoVye8u9Q/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "42172",
+      "created_at": "2026-08-29T21:15:03.132Z",
+      "updated_at": "2026-09-01T17:37:48.786Z",
+      "parent_ids": [
+        "1cAy88D1Zxmf6Oan-AA5Q3HxM3VohaX8Z"
+      ]
+    },
+    {
+      "id": "1cLw6nzAaZjCeBhRsqHXnUwqBvR6Fclez-wv4fpZQ6a0",
+      "title": "READ FIRST — LEGACY APPROVED VISUALS — 2026-09-05",
+      "url": "https://docs.google.com/document/d/1cLw6nzAaZjCeBhRsqHXnUwqBvR6Fclez-wv4fpZQ6a0/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "11119",
+      "created_at": "2026-09-06T03:18:18.466Z",
+      "updated_at": "2026-09-20T06:49:30.847Z",
+      "parent_ids": [
+        "17urzxo4C8hXccz5kA3kReRJp1rCRwatk"
+      ]
+    },
+    {
+      "id": "1Pd4wKC6dBQHl4PFLxmBkjQCj2cw9zKVy",
+      "title": "CHATGPT Failures — Original Full Uploaded AMW Chat Source",
+      "url": "https://docs.google.com/document/d/1Pd4wKC6dBQHl4PFLxmBkjQCj2cw9zKVy/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "428294",
+      "created_at": "2026-08-30T20:06:05.149Z",
+      "updated_at": "2026-08-30T20:06:05.149Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1ACoEE0LZ7AlP5rrb51KCnp4-rzTQlOEC",
+      "title": "AMW COMPLETE UPLOADED CHAT WORK RECORD",
+      "url": "https://docs.google.com/document/d/1ACoEE0LZ7AlP5rrb51KCnp4-rzTQlOEC/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "58426",
+      "created_at": "2026-08-30T20:02:59.194Z",
+      "updated_at": "2026-08-30T20:02:59.194Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "14NZ9sfTjLPVhRXoNvMmuc1zjBJEDTvdt",
+      "title": "AMW Complete Chat Work Verbatim — 2026-07-29 through 2026-08-29",
+      "url": "https://docs.google.com/document/d/14NZ9sfTjLPVhRXoNvMmuc1zjBJEDTvdt/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "58823",
+      "created_at": "2026-08-30T19:55:33.397Z",
+      "updated_at": "2026-08-30T19:55:33.397Z",
+      "parent_ids": [
+        "1cAy88D1Zxmf6Oan-AA5Q3HxM3VohaX8Z"
+      ]
+    },
+    {
+      "id": "1tHLU1fraOvopMfPmyKUZpQqth7aC5xSZ",
+      "title": "AMW LEGAL FORMATION CONTROLS — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1tHLU1fraOvopMfPmyKUZpQqth7aC5xSZ/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "58728",
+      "created_at": "2026-08-30T22:18:22.683Z",
+      "updated_at": "2026-08-30T22:18:22.683Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1vZ68lE5GkmQBJMoiJ7rABl702iNR7L3m",
+      "title": "AMW Business Plan — Controlled Draft — 2026-08-28",
+      "url": "https://docs.google.com/document/d/1vZ68lE5GkmQBJMoiJ7rABl702iNR7L3m/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "44911",
+      "created_at": "2026-08-30T20:05:17.528Z",
+      "updated_at": "2026-08-30T20:05:17.528Z",
+      "parent_ids": [
+        "18TwyEl-1drw6fP8qYu_H_8yjRNnZdXCz"
+      ]
+    },
+    {
+      "id": "1bPOVVNgUs3d3i8cc5Xt0xmd4UXVYtQLPtSqAck4ZxZs",
+      "title": "THE LEGACY TABLE — PHYSICAL DESIGN & STATEMENT PLACEMENT STANDARD — FOUNDER-DIRECTED",
+      "url": "https://docs.google.com/document/d/1bPOVVNgUs3d3i8cc5Xt0xmd4UXVYtQLPtSqAck4ZxZs/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "2003",
+      "created_at": "2026-09-03T15:53:49.273Z",
+      "updated_at": "2026-09-08T19:49:52.055Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1aY_E0soyyieyCucV4YlpGGRJmDeWkxhH",
+      "title": "AMW BUSINESS PLAN — CURRENT CONTROLLED — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1aY_E0soyyieyCucV4YlpGGRJmDeWkxhH/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "55970",
+      "created_at": "2026-08-30T22:17:21.133Z",
+      "updated_at": "2026-08-30T22:17:21.133Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1llcfLIxqOHb4iz_jkU_hlEuseYj9VgwNxA8-65wgR4Q",
+      "title": "CHRYS' MASTER WOOD WORKING LEGACY CENTER — INSTITUTION DESIGN STANDARD — CURRENT CONTROLLED DESIGN",
+      "url": "https://docs.google.com/document/d/1llcfLIxqOHb4iz_jkU_hlEuseYj9VgwNxA8-65wgR4Q/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "3026",
+      "created_at": "2026-09-03T15:52:54.122Z",
+      "updated_at": "2026-09-08T19:51:50.316Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "1WUssawOszoW1Tg6--JuvaQcWbNd7Ej0d",
+      "title": "AMW GOVERNANCE, CONSTITUTION & AMOS — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1WUssawOszoW1Tg6--JuvaQcWbNd7Ej0d/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "60123",
+      "created_at": "2026-08-30T22:19:04.502Z",
+      "updated_at": "2026-08-30T22:19:04.502Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1VIaBDYan45dRz9NvIdJ4L8ag71FqLzrH",
+      "title": "AMW NARRATIVE, MISSION & VALUES — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1VIaBDYan45dRz9NvIdJ4L8ag71FqLzrH/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "59939",
+      "created_at": "2026-08-30T22:18:13.777Z",
+      "updated_at": "2026-08-30T22:18:13.777Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1KMlv_ioJGcutY0DWVjFbURvk7rKOl0_U",
+      "title": "AMW Full Record Reconciliation PDF — Source Preservation",
+      "url": "https://docs.google.com/document/d/1KMlv_ioJGcutY0DWVjFbURvk7rKOl0_U/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "2015836",
+      "created_at": "2026-08-30T20:04:10.497Z",
+      "updated_at": "2026-08-30T20:04:10.497Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1lcIDSRbU5xTcPesppLwCEHzRWH9y8EV_",
+      "title": "AMW LEGAL RESOURCE SYSTEM — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1lcIDSRbU5xTcPesppLwCEHzRWH9y8EV_/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "54232",
+      "created_at": "2026-08-30T22:17:29.691Z",
+      "updated_at": "2026-08-30T22:17:29.691Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1Oc-aRweomBHUSM0FWAxfGj2hd30OkZGd",
+      "title": "AMW Full Record Reconciliation — 2026-08-29",
+      "url": "https://docs.google.com/document/d/1Oc-aRweomBHUSM0FWAxfGj2hd30OkZGd/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "49929",
+      "created_at": "2026-08-30T20:05:31.455Z",
+      "updated_at": "2026-08-30T20:05:31.455Z",
+      "parent_ids": [
+        "1cAy88D1Zxmf6Oan-AA5Q3HxM3VohaX8Z"
+      ]
+    },
+    {
+      "id": "1BLCaObMC89uxBybjUV5KRvyqJMZmcLmr",
+      "title": "AMW CONTROLLED POLICIES, STANDARDS & SAFEGUARDS — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1BLCaObMC89uxBybjUV5KRvyqJMZmcLmr/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "52613",
+      "created_at": "2026-08-30T22:16:36.659Z",
+      "updated_at": "2026-08-30T22:16:36.659Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1s9cw_0XEs233kN3u4BseH1Dj7ay_xgIQ",
+      "title": "AMW Chat Work — Monday 1:49 AM",
+      "url": "https://docs.google.com/document/d/1s9cw_0XEs233kN3u4BseH1Dj7ay_xgIQ/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "43969",
+      "created_at": "2026-08-30T20:01:28.900Z",
+      "updated_at": "2026-08-30T20:01:28.900Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1ODbvdqME3gGe_YFaQ0KgpNsY3Mmve0ko",
+      "title": "AMW WEBSITE & BRAND DEVELOPMENT — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1ODbvdqME3gGe_YFaQ0KgpNsY3Mmve0ko/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "57340",
+      "created_at": "2026-08-30T22:18:47.895Z",
+      "updated_at": "2026-08-30T22:18:47.895Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1om8oLiumLMijS_aTPrAbRWAJowlMsD0i",
+      "title": "AMW INTERNAL CONTROLLED OPERATIONS — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1om8oLiumLMijS_aTPrAbRWAJowlMsD0i/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "56181",
+      "created_at": "2026-08-30T22:16:55.594Z",
+      "updated_at": "2026-08-30T22:16:55.594Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1qm-2hx9Z0qF0tDirhdTDFicUEaknUadV",
+      "title": "AMW WORKFORCE, CONTRACTS & BOARD — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1qm-2hx9Z0qF0tDirhdTDFicUEaknUadV/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "56843",
+      "created_at": "2026-08-30T22:18:30.914Z",
+      "updated_at": "2026-08-30T22:18:30.914Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1Ap0Z6JVtqf_UmXs47EC_SIWRYlVVcEya",
+      "title": "AMW_SOURCE_RECOVERY_PROVENANCE_CROSS_WORK_2026-09-13.docx",
+      "url": "https://docs.google.com/document/d/1Ap0Z6JVtqf_UmXs47EC_SIWRYlVVcEya/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "41318",
+      "created_at": "2026-09-13T05:37:12.582Z",
+      "updated_at": "2026-09-13T05:37:12.582Z",
+      "parent_ids": [
+        "1hCsOFETJgf4JBHCeWviKq6s5uWxltYXe"
+      ]
+    },
+    {
+      "id": "1UHFbdJIPM6Ifbk2oBzRmOWmOaukX7Ca-",
+      "title": "AMW BRAND, IP, SEALS & IAM LEGACY AWARD — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1UHFbdJIPM6Ifbk2oBzRmOWmOaukX7Ca-/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "52756",
+      "created_at": "2026-08-30T22:19:13.744Z",
+      "updated_at": "2026-08-30T22:19:13.744Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1QuTKZNI4hVtWKsJ-R1LLAvqDbVIf_pGr",
+      "title": "AMW BUSINESS, FINANCIAL & PAYROLL — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1QuTKZNI4hVtWKsJ-R1LLAvqDbVIf_pGr/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "51817",
+      "created_at": "2026-08-30T22:18:56.234Z",
+      "updated_at": "2026-08-30T22:18:56.234Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "18cbl5cezFUE9bn69AK8peSZChNHAFm2U",
+      "title": "AMW Chat Work — Thursday 7:09 PM",
+      "url": "https://docs.google.com/document/d/18cbl5cezFUE9bn69AK8peSZChNHAFm2U/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "41382",
+      "created_at": "2026-08-30T20:01:35.767Z",
+      "updated_at": "2026-08-30T20:01:35.767Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1cspW-W2D2Tky4LKRo1mGbKhaY3iqdqA3",
+      "title": "AMW Chat Work — Aug 4",
+      "url": "https://docs.google.com/document/d/1cspW-W2D2Tky4LKRo1mGbKhaY3iqdqA3/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "43467",
+      "created_at": "2026-08-30T20:00:59.068Z",
+      "updated_at": "2026-08-30T20:00:59.068Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1pvApfwTh94-Gu92LGnWAUk4yjDQlp8Et",
+      "title": "AMW_IP_KNOCKOUT_SEARCH_UPDATE_2026-09-01.pdf",
+      "url": "https://drive.google.com/file/d/1pvApfwTh94-Gu92LGnWAUk4yjDQlp8Et/view?usp=drivesdk",
+      "mime_type": "application/pdf",
+      "size": "351680",
+      "created_at": "2026-09-01T15:50:39.780Z",
+      "updated_at": "2026-09-01T15:50:39.780Z",
+      "parent_ids": [
+        "10xLBiFsgIw6Kzw6LjaQlYF0OrTVwMm7B"
+      ]
+    },
+    {
+      "id": "1h_O61D-WKBvlcrjJEx0MiLSk8IHRgR42",
+      "title": "AMW_IP_KNOCKOUT_SEARCH_UPDATE_2026-09-01.docx",
+      "url": "https://docs.google.com/document/d/1h_O61D-WKBvlcrjJEx0MiLSk8IHRgR42/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "1195630",
+      "created_at": "2026-09-01T15:50:31.987Z",
+      "updated_at": "2026-09-01T15:50:31.987Z",
+      "parent_ids": [
+        "10xLBiFsgIw6Kzw6LjaQlYF0OrTVwMm7B"
+      ]
+    },
+    {
+      "id": "1krR8GFF1w4FbNQJj3dsIFTW6eH3ddMmD",
+      "title": "AMW INTERNAL CONTROLLED INSTITUTIONAL MANUAL — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1krR8GFF1w4FbNQJj3dsIFTW6eH3ddMmD/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "52360",
+      "created_at": "2026-08-30T22:17:04.081Z",
+      "updated_at": "2026-08-30T22:17:04.081Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "10PAFsrL_BA32iP8aRqQAznM-pjnq2ZXO",
+      "title": "AMW Chat Work — Aug 21",
+      "url": "https://docs.google.com/document/d/10PAFsrL_BA32iP8aRqQAznM-pjnq2ZXO/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "38705",
+      "created_at": "2026-08-30T20:01:22.133Z",
+      "updated_at": "2026-08-30T20:01:22.133Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "10V5-yRMFBTRON_SH3sViB98kpaeMvNyO",
+      "title": "AMW FRIDAY REVIEW — FOUNDER INTEGRATED SOURCE — 2026-09-04.docx",
+      "url": "https://docs.google.com/document/d/10V5-yRMFBTRON_SH3sViB98kpaeMvNyO/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "41807",
+      "created_at": "2026-09-07T03:41:46.248Z",
+      "updated_at": "2026-09-07T03:41:46.248Z",
+      "parent_ids": [
+        "1AHjhVaFeGJzcYKJVMPJ9jSYRiNAdX5Lx"
+      ]
+    },
+    {
+      "id": "1tfdYwJptehnThhpvkreT26Kge9pjSvyg",
+      "title": "AMW_FRIDAY_REVIEW_FOUNDER_CROSS_REFERENCE_2026-09-04.docx",
+      "url": "https://docs.google.com/document/d/1tfdYwJptehnThhpvkreT26Kge9pjSvyg/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "41807",
+      "created_at": "2026-09-05T03:03:42.998Z",
+      "updated_at": "2026-09-05T03:03:42.998Z",
+      "parent_ids": [
+        "1mAAHOVtoH30ibEcErQWub4V0z98Sl3b1"
+      ]
+    },
+    {
+      "id": "1CL39Wq8qiNBykK11p22gBIXKVdAGAT32",
+      "title": "AMW FUNDING, APPLICATIONS & RESOURCES — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1CL39Wq8qiNBykK11p22gBIXKVdAGAT32/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "53350",
+      "created_at": "2026-08-30T22:18:05.302Z",
+      "updated_at": "2026-08-30T22:18:05.302Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1BOpj_a3lqhMCg2_vlxauSWu7lJCAGdYd",
+      "title": "AMW SAFE CREDENTIAL REGISTER — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1BOpj_a3lqhMCg2_vlxauSWu7lJCAGdYd/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "50483",
+      "created_at": "2026-08-30T22:17:39.395Z",
+      "updated_at": "2026-08-30T22:17:39.395Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "18xJ7bby9aFeJ-_s_IUXntkOFVCtf1Azy",
+      "title": "AMW Recovery Correction Ledger — 2026-08-29",
+      "url": "https://docs.google.com/document/d/18xJ7bby9aFeJ-_s_IUXntkOFVCtf1Azy/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "40352",
+      "created_at": "2026-08-30T20:05:41.177Z",
+      "updated_at": "2026-08-30T20:05:41.177Z",
+      "parent_ids": [
+        "1cAy88D1Zxmf6Oan-AA5Q3HxM3VohaX8Z"
+      ]
+    },
+    {
+      "id": "12ZNRrVkuP3y9X58VVnZXA9AC4bkgrK5ccnU3Tt1mTMI",
+      "title": "O'DAY'S LEGACY GARAGE — AUTOMOTIVE INSTITUTION DESIGN STANDARD — CURRENT CONTROLLED DESIGN",
+      "url": "https://docs.google.com/document/d/12ZNRrVkuP3y9X58VVnZXA9AC4bkgrK5ccnU3Tt1mTMI/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "6958",
+      "created_at": "2026-09-03T05:03:40.885Z",
+      "updated_at": "2026-09-08T19:50:52.148Z",
+      "parent_ids": [
+        "1voXKuzFcA-mMea9wl6lAtew8vRYsEmY6"
+      ]
+    },
+    {
+      "id": "142Og_rr475JJJHXd4KMre2I3VugiSBTJ",
+      "title": "AMW Master Index and Weekly Review — 2026-08-29",
+      "url": "https://docs.google.com/document/d/142Og_rr475JJJHXd4KMre2I3VugiSBTJ/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "40264",
+      "created_at": "2026-08-30T19:55:18.165Z",
+      "updated_at": "2026-08-30T19:55:18.165Z",
+      "parent_ids": [
+        "1wa5EFTGljfvV6gjRCb4vSHYRSg-7OQmh"
+      ]
+    },
+    {
+      "id": "1OvXjdjydeF9Q33Hm5yLCPpTrqDXAbGr1",
+      "title": "AMW COMMUNITY & LEGACY PROGRAMS — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1OvXjdjydeF9Q33Hm5yLCPpTrqDXAbGr1/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "53433",
+      "created_at": "2026-08-30T22:18:38.919Z",
+      "updated_at": "2026-08-30T22:18:38.919Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1HoDwJyJgj6Bzh6In1mQK7Y2RKW7YI6Kv",
+      "title": "AMW INTERNAL AMOS POLICIES, CONTROLS & FORMS REGISTER — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1HoDwJyJgj6Bzh6In1mQK7Y2RKW7YI6Kv/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "51513",
+      "created_at": "2026-08-30T22:17:12.739Z",
+      "updated_at": "2026-08-30T22:17:12.739Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1zW_9ajgYh1bA17hOGvP0wKbT1l_Cj7Pp",
+      "title": "Historical AMW Draft Conversion Package — Counsel Review",
+      "url": "https://docs.google.com/document/d/1zW_9ajgYh1bA17hOGvP0wKbT1l_Cj7Pp/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "40547",
+      "created_at": "2026-08-30T20:05:24.019Z",
+      "updated_at": "2026-08-30T20:05:24.019Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1BdQC9LVmtPEOpJa4RrLW0OduFtPEhTRl",
+      "title": "AMW_13_FLEET_OPERATION_MANUALS_PERMANENT_DRAFT_2026-09-10.docx",
+      "url": "https://docs.google.com/document/d/1BdQC9LVmtPEOpJa4RrLW0OduFtPEhTRl/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "51232",
+      "created_at": "2026-09-10T17:20:10.000Z",
+      "updated_at": "2026-09-12T07:12:48.002Z",
+      "parent_ids": [
+        "1L0Ozm1yS-2wHdbfi85ajPXwmhzUW5C_T"
+      ]
+    },
+    {
+      "id": "12SVxwHc29kXpipi66ZzNkzLUagDWcIVU",
+      "title": "AMW SERVICE ARCHITECTURE LIBRARY — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/12SVxwHc29kXpipi66ZzNkzLUagDWcIVU/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "49098",
+      "created_at": "2026-08-30T22:17:57.062Z",
+      "updated_at": "2026-08-30T22:17:57.062Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1JirNKM8ghPRyGQhYCTX6AuIsPo8oYkeXr1LW8vfZxEc",
+      "title": "TRANSFER REQUIRED — EXACT RAW LEGACY VISUAL SOURCES — 2026-09-12",
+      "url": "https://docs.google.com/document/d/1JirNKM8ghPRyGQhYCTX6AuIsPo8oYkeXr1LW8vfZxEc/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "2617",
+      "created_at": "2026-09-12T06:52:21.780Z",
+      "updated_at": "2026-09-12T06:52:36.328Z",
+      "parent_ids": [
+        "17urzxo4C8hXccz5kA3kReRJp1rCRwatk"
+      ]
+    },
+    {
+      "id": "1m9QGjgaIhpm8PYkVtPHxM0fa_P-TlXLG",
+      "title": "AMW Founder-Private Weekly Review — 2026-08-30 — DO NOT SHARE",
+      "url": "https://docs.google.com/document/d/1m9QGjgaIhpm8PYkVtPHxM0fa_P-TlXLG/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "40174",
+      "created_at": "2026-08-30T20:39:35.654Z",
+      "updated_at": "2026-08-30T20:39:35.654Z",
+      "parent_ids": [
+        "1ueI5e7Pz78wONl_A7s_5wQvpi_kFPfhJ"
+      ]
+    },
+    {
+      "id": "1EJB8XJvLYaBp4LF-Y7DLI-zF2Qaa65YH",
+      "title": "AMW_EXISTING_13_OPERATION_MANUALS_RECONCILIATION_ADDENDUM_PERMANENT_DRAFT_2026-09-10.docx",
+      "url": "https://docs.google.com/document/d/1EJB8XJvLYaBp4LF-Y7DLI-zF2Qaa65YH/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "45186",
+      "created_at": "2026-09-10T17:19:44.737Z",
+      "updated_at": "2026-09-12T07:12:40.216Z",
+      "parent_ids": [
+        "1L0Ozm1yS-2wHdbfi85ajPXwmhzUW5C_T"
+      ]
+    },
+    {
+      "id": "1BgLhD2MuoiHSML8EGe4JSKv1PXbnFWIM",
+      "title": "AMW STEWARD HANDBOOK — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1BgLhD2MuoiHSML8EGe4JSKv1PXbnFWIM/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "50305",
+      "created_at": "2026-08-30T22:19:24.421Z",
+      "updated_at": "2026-08-30T22:19:24.421Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1Z_mdHvc-tPPzJjSr5bYwQJkIIFzvRj7Q",
+      "title": "AMW INSTITUTIONAL THRESHOLD CARD — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1Z_mdHvc-tPPzJjSr5bYwQJkIIFzvRj7Q/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "49672",
+      "created_at": "2026-08-30T22:20:08.393Z",
+      "updated_at": "2026-08-30T22:20:08.393Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1NW4_MI9jI57OSXi21vySWlGRVB_Uce0cv0SgSOfLQis",
+      "title": "READ FIRST — LEGACY VISUALS STATUS — 2026-09-06",
+      "url": "https://docs.google.com/document/d/1NW4_MI9jI57OSXi21vySWlGRVB_Uce0cv0SgSOfLQis/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "4432",
+      "created_at": "2026-09-06T03:35:03.367Z",
+      "updated_at": "2026-09-16T00:41:57.154Z",
+      "parent_ids": [
+        "1xw6rdWTXOZbaseFVMdA1PJsDu8N9_L-9"
+      ]
+    },
+    {
+      "id": "1THCB3LyRw1u6rq6p49Kc3vP-GUR6uDmb",
+      "title": "PRE-RECONCILIATION — AMW Campus Design and Source Notes.txt",
+      "url": "https://drive.google.com/file/d/1THCB3LyRw1u6rq6p49Kc3vP-GUR6uDmb/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "size": "2916",
+      "created_at": "2026-09-03T04:52:29.849Z",
+      "updated_at": "2026-09-03T04:52:29.849Z",
+      "parent_ids": [
+        "1KviSTqZQ0M1Gfq-Ly3yGLUKuvF-SxujB"
+      ]
+    },
+    {
+      "id": "1KSzz8ii0wx_ERohnozgNc8znw70ao35a",
+      "title": "AMW STEWARD WELCOME HOME PACK — WATERMARKED.docx",
+      "url": "https://docs.google.com/document/d/1KSzz8ii0wx_ERohnozgNc8znw70ao35a/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "49883",
+      "created_at": "2026-08-30T22:19:31.899Z",
+      "updated_at": "2026-08-30T22:19:31.899Z",
+      "parent_ids": [
+        "1OPlQFJW3qLSl2UV9U4OGHrtu2nid3y9G"
+      ]
+    },
+    {
+      "id": "1IDHP14U2GtFMdTK1OK2E-sr94nD2vERq-F_Gpp02JL8",
+      "title": "LEGACY VILLAGE FAMILY HOUSING — VISUAL & DEVELOPMENT CONTROL — 2026-09-10",
+      "url": "https://docs.google.com/document/d/1IDHP14U2GtFMdTK1OK2E-sr94nD2vERq-F_Gpp02JL8/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "6509",
+      "created_at": "2026-09-10T22:57:06.740Z",
+      "updated_at": "2026-09-11T17:22:02.602Z",
+      "parent_ids": [
+        "13fY1q8eEzxytDhX7nAIWixWLYOJ5vDNs"
+      ]
+    },
+    {
+      "id": "1vrt0Gy-fCgQT-cKZO0lGe_mY3fuupudZWqRNnsYjfus",
+      "title": "LOVEE'S LEGACY — TRIPLE MIRROR REVIEW — 2026-09-19",
+      "url": "https://docs.google.com/document/d/1vrt0Gy-fCgQT-cKZO0lGe_mY3fuupudZWqRNnsYjfus/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "1876",
+      "created_at": "2026-09-19T05:01:10.859Z",
+      "updated_at": "2026-09-19T05:01:58.406Z",
+      "parent_ids": [
+        "0AG1IMyyUJqcCUk9PVA"
+      ]
+    },
+    {
+      "id": "1gzyI6i36tAkjzeocq4QyYndYElvhXcaJYqPybsqXgXA",
+      "title": "LOVEE'S LEGACY — MIRROR REVIEW 3 — EXECUTION CORRECTIONS — 2026-09-19",
+      "url": "https://docs.google.com/document/d/1gzyI6i36tAkjzeocq4QyYndYElvhXcaJYqPybsqXgXA/edit?usp=drivesdk",
+      "mime_type": "application/vnd.google-apps.document",
+      "size": "1981",
+      "created_at": "2026-09-19T05:02:38.484Z",
+      "updated_at": "2026-09-19T05:02:49.006Z",
+      "parent_ids": [
+        "0AG1IMyyUJqcCUk9PVA"
+      ]
+    },
+    {
+      "id": "1ElPy_ReIhI22yXFVO-8NpDz4SG1Us3Jt",
+      "title": "AMW_AMOS_MANUALS_CONTROL_INHERITANCE_STANDARD_2026-09-13.docx",
+      "url": "https://docs.google.com/document/d/1ElPy_ReIhI22yXFVO-8NpDz4SG1Us3Jt/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "40235",
+      "created_at": "2026-09-13T05:37:08.865Z",
+      "updated_at": "2026-09-13T05:37:08.865Z",
+      "parent_ids": [
+        "1hCsOFETJgf4JBHCeWviKq6s5uWxltYXe"
+      ]
+    },
+    {
+      "id": "1-4ZKimHenmDUUD-x-84p1XcqxxCghw8V",
+      "title": "AMW Chat Work — Aug 7 Part 1",
+      "url": "https://docs.google.com/document/d/1-4ZKimHenmDUUD-x-84p1XcqxxCghw8V/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "37993",
+      "created_at": "2026-08-30T20:01:07.306Z",
+      "updated_at": "2026-08-30T20:01:07.306Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1bpk34MyPlIi5OmI6Gq-PXnUoJqBAbrkV",
+      "title": "AMW Chat Work — Jul 29",
+      "url": "https://docs.google.com/document/d/1bpk34MyPlIi5OmI6Gq-PXnUoJqBAbrkV/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "37837",
+      "created_at": "2026-08-30T20:00:52.231Z",
+      "updated_at": "2026-08-30T20:00:52.231Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    },
+    {
+      "id": "1PbsE7_PPbHOmPcouh1OSuO652IFejt4t",
+      "title": "THE AMW LEGACY — AMW Weekly Update",
+      "url": "https://docs.google.com/document/d/1PbsE7_PPbHOmPcouh1OSuO652IFejt4t/edit?usp=drivesdk&ouid=107537610547898063642&rtpof=true&sd=true",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "11602",
+      "created_at": "2026-08-30T20:05:56.167Z",
+      "updated_at": "2026-08-30T20:05:56.167Z",
+      "parent_ids": [
+        "1qmmBSmJ1uWU07O3ayvg0Na5gB_vYl93c"
+      ]
+    }
+  ]
+}
