@@ -1,0 +1,169 @@
+{
+  "generated_at": "2026-09-23",
+  "scope": "All accessible Legacy-related chat/history sources. Raw transcript files are identified separately from later Project-history/recovery records; summaries are not mislabeled as verbatim transcripts.",
+  "raw_chat_sources": [
+    {
+      "period": "2026-07-29 through 2026-08-29",
+      "source": "AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29",
+      "github_path": "chat-sources/AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29.txt",
+      "status": "VERBATIM SOURCE"
+    },
+    {
+      "period": "early Legacy history / recovery source",
+      "source": "CHATGPT Failures.docx",
+      "github_path": "chat-sources/CHATGPT_Failures_SOURCE.txt",
+      "status": "RAW RECOVERY SOURCE"
+    },
+    {
+      "period": "2026-08-29",
+      "source": "THE AMW LEGACY - AMW Weekly Update.docx",
+      "github_path": "chat-sources/THE_AMW_LEGACY_AMW_WEEKLY_UPDATE_2026-08-29.txt",
+      "status": "SOURCE EVIDENCE"
+    },
+    {
+      "period": "2026-08-30",
+      "source": "AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.docx",
+      "github_path": "chat-sources/AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.txt",
+      "status": "CONTROLLED COMPENDIUM / DERIVED FROM RECOVERED WORK"
+    }
+  ],
+  "later_project_chat_history": [
+    {
+      "date": "2026-08-16",
+      "title": "AMW funding opportunities identified for action",
+      "coverage": "funding research, eligibility, action controls"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "AMW Complete Weekly Archive",
+      "coverage": "save/update, archive, recovery, preservation controls"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "AMW Friday Research Scan",
+      "coverage": "research scan, Founder prompt fidelity, controls"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "AMW Nonprofit Sector Brief",
+      "coverage": "Maryland/DC/federal nonprofit-sector monitoring"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Search confirmed AMW work",
+      "coverage": "visual recovery, Legacy institutions, operation manuals, source recovery"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Statement-register recovery conversation",
+      "coverage": "exhaustive statement/placement recovery across chats and sources"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Show Institution Visuals",
+      "coverage": "institution visual authority, Just Love Pond, visual prompt controls"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Design Betty’s Botanical Garden",
+      "coverage": "institution design, controlled visual and written specifications"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Funding controls / application execution conversation",
+      "coverage": "eligibility gates, Coach K, Shophand, application logging"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Intake/application control conversation",
+      "coverage": "Founder voice, no invented facts, controlled answer reuse, funding gates"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "AMW Daily Briefing",
+      "coverage": "Legacy controls and institutional-fleet school-bus updates"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Correct Legacy Village Design",
+      "coverage": "visual correction, approved design preservation, hostile-takeover account context"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Continue Legacy Chat",
+      "coverage": "Stewards’ Common Area exact-change control, Blazzing Blades rendering"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Enable Memory",
+      "coverage": "IR02 Mirror Review adjustment set and institutional review controls"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Daily Legacy Mirror Review",
+      "coverage": "daily self-governing review, save/durability corrections"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Tax Deduction For Grow House",
+      "coverage": "Legacy home-office plant/grow-house tax question"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Mini Fridge Deduction",
+      "coverage": "Legacy home-office equipment tax question / purchase parameters"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Daily Legacy Mirror Review",
+      "coverage": "institution status corrections, approved Making the Changes, Barclay’s Oopsie, Turning the Page"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Flooring Campus Design",
+      "coverage": "Laying the Path campus/fleet/uniform controls and Maryland tax control"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Daily Legacy Mirror Review",
+      "coverage": "all-work preservation/status controls, no inference of Founder intent"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "AMW Daily Briefing",
+      "coverage": "all-work production/preservation, current/draft/rejected/superseded lineage"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Stabilization Corrections Operationalization",
+      "coverage": "stabilization trigger, current Stabilization Master, recursive Mirror Review"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "AMW Daily Briefing",
+      "coverage": "Python/GitHub full-source control rule and source-package requirements"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Run Python GitHub Review",
+      "coverage": "Python + GitHub full-source control, all statuses, recursive validation"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Current control/Mirror Review chat",
+      "coverage": "all controls, safeguards, safe-gates, all work, registration/funding/service-limit accountability"
+    }
+  ],
+  "later_chat_source_status": "Project-history/recovery index; not represented as verbatim transcript unless a raw export exists.",
+  "controlling_extraction_sources": [
+    "current 55-sheet stabilization master",
+    "Mirror Review Archive",
+    "Recovered Work Register",
+    "Workstream Reconciliation",
+    "Recovery Crosswalk",
+    "Supersession Control",
+    "Statement Placement",
+    "current Project conversation context",
+    "retrieved prior-conversation context"
+  ]
+}
