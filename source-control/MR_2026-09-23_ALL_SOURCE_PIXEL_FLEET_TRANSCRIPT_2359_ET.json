@@ -1,0 +1,71 @@
+{
+  "review_id": "MR-2026-09-23-ALL-SOURCE-PIXEL-FLEET-TRANSCRIPT",
+  "date": "2026-09-23",
+  "level": "LEVEL 5 — AMW LEGACY TEST / FAIL → RESTORE + STRENGTHEN",
+  "trigger": "Founder re-issued the complete recursive control prompt, identified continued week-long fleet-rendering failure, ordered completion of Project-chat transcripts, and ordered the visual binary/pixel run for ALL work.",
+  "prior_reviews_cross_referenced": [
+    "MR-2026-09-14-03 Full-Chat control-execution accountability",
+    "MR-2026-09-14-04 Repeated Fleet-Rendering Failure",
+    "MR-2026-09-14-05 System-Wide Execution Failure",
+    "MR-2026-09-15-01 Repeated Failure to Auto-Trigger Mirror Review",
+    "MR-2026-09-20-02 Stabilization Mirror Review",
+    "MR-2026-09-21-01 Recursive Operationalization Mirror Review",
+    "MR-2026-09-21-04 Imagine Aquarium Magic presentation-board rejection",
+    "MR-2026-09-23-SOURCE-CORPUS-INCOMPLETE-PASS-2100ET"
+  ],
+  "verified_current_corpus": {
+    "all_library_files": 1172,
+    "all_images": 1008,
+    "model_generated_images": 744,
+    "non_generated_images": 264,
+    "fleet_related_images_by_filename_path": 103,
+    "sports_named_fleet_derivatives": 33,
+    "aquarium_named_fleet_images": 8
+  },
+  "visual_binary_pixel_execution": {
+    "attempted_all_images": 1008,
+    "native_pixel_assets_returned": 1007,
+    "native_pixel_exceptions": 1,
+    "exception": "Mini Stewards’ World Campus and Fleet.png — native pixel asset unavailable after original attempt plus three retries; extracted image text remains accessible.",
+    "record": "source-control/VISUAL_PIXEL_FULL_RUN_FINAL_2026-09-23_2341_ET.json"
+  },
+  "transcript_execution": {
+    "historical_raw_exact_sources_preserved": true,
+    "later_project_chat_index_records": 26,
+    "later_project_raw_message_by_message_transcripts_complete": false,
+    "recovery_queue_added": "STAB-010",
+    "record": "chat-sources/PROJECT_CHAT_TRANSCRIPT_COMPLETION_AUDIT_2026-09-23_2347_ET.json"
+  },
+  "fleet_rendering_execution_findings": {
+    "aquarium_five_standalones_reviewed_at_pixel_level": true,
+    "aquarium_five_result": "5/5 FAIL controlled re-entry",
+    "reasons": [
+      "School-bus file substituted a luxury galley/screen interior for the controlled aquarium-learning/tank interior and omitted exterior.",
+      "Standard Mega Bus file is a generic galley/media interior and omitted exterior.",
+      "Educational Mega Bus file is a generic computer classroom with unrelated leaf-style branding and does not physically establish aquatic learning/outreach; exterior omitted.",
+      "Standard Coach file is a generic lounge/media coach and omitted exterior.",
+      "Educational Coach file is a generic table/lounge classroom with unrelated AMW/leaf-style branding and does not physically establish aquatic learning/outreach; exterior omitted."
+    ],
+    "authority": "All five remain rejected/non-controlling provenance; September 5 current Aquarium visual and written controls remain authority.",
+    "record": "source-control/MR_2026-09-23_AQUARIUM_FIVE_PIXEL_VISUAL_REVIEW_2355_ET.json"
+  },
+  "corrections_executed": [
+    "Corrected current live corpus counts from stale prior counts to 1,172 total Library files and 1,008 images.",
+    "Corrected image split to 744 model-generated and 264 non-generated.",
+    "Updated Stabilization Control Center, Dashboard, Visual Corpus Audit, and Open Recovery Queue.",
+    "Ran every one of the 1,008 image records through the native image/pixel read path; preserved the single native-pixel exception explicitly.",
+    "Created a 103-item fleet-visual subset audit without treating corpus presence as authority.",
+    "Reviewed the five current Aquarium standalone interior files against actual pixels plus controlled source visuals and rejected all five as noncompliant.",
+    "Added STAB-010 so incomplete later Project-chat raw transcripts cannot be hidden behind a summary/index or transferred back to the Founder.",
+    "Preserved exact historical transcript sources as raw/verbatim only where source evidence supports that label."
+  ],
+  "open_items": [
+    "Later Project-chat exact raw message-by-message transcripts remain a true source-recovery gap.",
+    "Mini Stewards’ World Campus and Fleet.png remains a one-file native-pixel access exception.",
+    "The compliant Imagine Aquarium Magic standalone replacement rendering set remains open; existing five files do not close it.",
+    "Combined sports-fleet compliant replacement remains quarantined/open under existing control until a future Founder-directed execution passes the full gate.",
+    "Row-by-row authority/lineage classification remains open for the full 1,172-file corpus and 1,008-image corpus."
+  ],
+  "authority_boundary": "No new Founder control, approval, save state, supersession, or release is created by this Mirror Review. It records recovery, validation, and correction only.",
+  "result": "FAILURE CONFIRMED; CORRECTIONS EXECUTED; FALSE-COMPLETE CLAIM PROHIBITED; OPEN SOURCE/RENDERING EXCEPTIONS PRESERVED"
+}
