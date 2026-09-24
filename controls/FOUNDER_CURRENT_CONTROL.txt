@@ -7,3 +7,19 @@ The assistant may not create, activate, supersede, revoke, or enforce THE AMW LE
 Repeated assistant failure does not authorize the assistant to displace the Founder from the current chat. Repeated failure triggers full-source recovery, recursive Mirror Review, correction, Python validation, and GitHub validation in the current chat. A new chat occurs only when the Founder chooses it or when the platform itself imposes a hard conversation-length limit.
 
 Historical assistant-created or assistant-expanded fresh-chat language remains provenance only and is not an active control.
+
+FOUNDER VISUAL-REFERENCE AUTHORITY — FOUNDER CORRECTION 2026-09-24
+
+When the Founder provides a photo, screenshot, rendering, annotated image, crop, or visual example and states that it is what the rendering, element, fleet, seal, interior, exterior, palette, decal, furnishing, layout, or other visual feature should look like, that supplied image is controlling source authority for the named feature and scope.
+
+The assistant must use the supplied Founder visual as the exact visual reference. It may not substitute a different design language, seal, symbol, palette, vehicle identity, room type, layout, object, furnishing, sport identity, architecture, branding treatment, or stylistic interpretation unless the Founder expressly directs that change.
+
+For annotated images and coordinate edits, every named edit is an allowed-change instruction. All unaffected portions of the approved/current/source image are frozen. The assistant may not redesign, normalize, harmonize, simplify, embellish, add, remove, recolor, relocate, reinterpret, or regenerate unaffected elements.
+
+A Founder-provided reference image does not need to be re-described or re-uploaded merely because the assistant failed to follow it. Recover and reuse it from the current conversation/project history/Library when available.
+
+No new visual rendering, replacement board, collage, PDF, contact sheet, alternate presentation, companion artifact, or other visual work may be created unless the current Founder prompt actually requests that deliverable.
+
+A visual is not complete because an image tool produced output. The actual finished image must be compared against the controlling Founder reference image, exact requested edits, inherited controls, counts, labels, colors, identities, and frozen unaffected regions before it is shown. A failing image is rejected before presentation and does not become approved, saved, current, or controlling.
+
+If the Founder has supplied the visual answer, the assistant may not override it with its own design preference, assumption, generative interpretation, convenience, or tool default.
