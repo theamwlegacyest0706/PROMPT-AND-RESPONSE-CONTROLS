@@ -1,0 +1,907 @@
+{
+  "generated_at": "2026-09-24",
+  "offset": 720,
+  "count": 90,
+  "records": [
+    {
+      "file_id": "file_000000009650822f804827d6018ff6ca",
+      "name": "Percy’s Pitch All-Season Sports Complex.png",
+      "path": "/THE AMW LEGACY/Percy’s Pitch All-Season Sports Complex.png",
+      "source_size_bytes": 3433300,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009650822f804827d6018ff6ca"
+    },
+    {
+      "file_id": "file_00000000fa9c822fbab166862c543f93",
+      "name": "Percy’s Pitch: A Lifetime of Opportunity.png",
+      "path": "/THE AMW LEGACY/Percy’s Pitch: A Lifetime of Opportunity.png",
+      "source_size_bytes": 3294813,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fa9c822fbab166862c543f93"
+    },
+    {
+      "file_id": "file_00000000b078822fb79473cf39a745c8",
+      "name": "Percy’s Pitch: All-Season Athletic Complex.png",
+      "path": "/THE AMW LEGACY/Percy’s Pitch: All-Season Athletic Complex.png",
+      "source_size_bytes": 3233597,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b078822fb79473cf39a745c8"
+    },
+    {
+      "file_id": "file_00000000e5f4822f970b459bc284c11c",
+      "name": "Percy’s Pitch: All-Season Sports Campus.png",
+      "path": "/THE AMW LEGACY/Percy’s Pitch: All-Season Sports Campus.png",
+      "source_size_bytes": 3307736,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e5f4822f970b459bc284c11c"
+    },
+    {
+      "file_id": "file_000000009a7c822f8d7de7df71c4b61c",
+      "name": "Percy’s Pitch: All-Season Stadium Complex.png",
+      "path": "/THE AMW LEGACY/Percy’s Pitch: All-Season Stadium Complex.png",
+      "source_size_bytes": 3250031,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009a7c822f8d7de7df71c4b61c"
+    },
+    {
+      "file_id": "file_00000000c9c4820daa1bf9ad4b7cfc96",
+      "name": "Phoenix Plaza Theatre at Night(1).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre at Night(1).png",
+      "source_size_bytes": 2888486,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c9c4820daa1bf9ad4b7cfc96"
+    },
+    {
+      "file_id": "file_00000000e0c0822fa9477f293f4209e5",
+      "name": "Phoenix Plaza Theatre at Night.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre at Night.png",
+      "source_size_bytes": 2914423,
+      "width": 1672,
+      "height": 941,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e0c0822fa9477f293f4209e5"
+    },
+    {
+      "file_id": "file_0000000094bc81f78f445556dde715ca",
+      "name": "Phoenix Plaza Theatre Branding Board.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Branding Board.png",
+      "source_size_bytes": 2522487,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000094bc81f78f445556dde715ca"
+    },
+    {
+      "file_id": "file_0000000075b4822fb5e70d0c988c8453",
+      "name": "Phoenix Plaza Theatre Concept Board(1).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Concept Board(1).png",
+      "source_size_bytes": 2937316,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000075b4822fb5e70d0c988c8453"
+    },
+    {
+      "file_id": "file_00000000c67c81fd81cde226f7020adf",
+      "name": "Phoenix Plaza Theatre Concept Board.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Concept Board.png",
+      "source_size_bytes": 2886652,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c67c81fd81cde226f7020adf"
+    },
+    {
+      "file_id": "file_00000000f1148243a8053460f29e447e",
+      "name": "Phoenix Plaza Theatre Fleet & Uniforms.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Fleet & Uniforms.png",
+      "source_size_bytes": 2852342,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f1148243a8053460f29e447e"
+    },
+    {
+      "file_id": "file_00000000a3fc81fbbdb9d5ccd91d0684",
+      "name": "Phoenix Plaza Theatre Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Fleet Showcase.png",
+      "source_size_bytes": 2579584,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a3fc81fbbdb9d5ccd91d0684"
+    },
+    {
+      "file_id": "file_00000000ce0881f8ba67db67e24aa650",
+      "name": "Phoenix Plaza Theatre Transportation & Uniform Plan.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Transportation & Uniform Plan.png",
+      "source_size_bytes": 2957332,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ce0881f8ba67db67e24aa650"
+    },
+    {
+      "file_id": "file_00000000732881f8a52e848697b128c0",
+      "name": "Phoenix Plaza Theatre Under the Stars(1).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Under the Stars(1).png",
+      "source_size_bytes": 2849028,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000732881f8a52e848697b128c0"
+    },
+    {
+      "file_id": "file_000000003ad881f5b503841cc40703e9",
+      "name": "Phoenix Plaza Theatre Under the Stars(2).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Under the Stars(2).png",
+      "source_size_bytes": 2999588,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003ad881f5b503841cc40703e9"
+    },
+    {
+      "file_id": "file_00000000a57481f6bc609e77d23129c6",
+      "name": "Phoenix Plaza Theatre Under the Stars.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Under the Stars.png",
+      "source_size_bytes": 2851470,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a57481f6bc609e77d23129c6"
+    },
+    {
+      "file_id": "file_000000000530822fbba007e05891fdf7",
+      "name": "Phoenix Plaza Theatre Vision Board(1).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Vision Board(1).png",
+      "source_size_bytes": 2845596,
+      "width": 1672,
+      "height": 941,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000530822fbba007e05891fdf7"
+    },
+    {
+      "file_id": "file_00000000284c822f96b5f66e64ee887f",
+      "name": "Phoenix Plaza Theatre Vision Board(2).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Vision Board(2).png",
+      "source_size_bytes": 2868570,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000284c822f96b5f66e64ee887f"
+    },
+    {
+      "file_id": "file_00000000e5a4822f95b2e008cff506fe",
+      "name": "Phoenix Plaza Theatre Vision Board(3).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Vision Board(3).png",
+      "source_size_bytes": 2990513,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e5a4822f95b2e008cff506fe"
+    },
+    {
+      "file_id": "file_000000004b88822faade003fdac83567",
+      "name": "Phoenix Plaza Theatre Vision Board(4).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Vision Board(4).png",
+      "source_size_bytes": 3099156,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004b88822faade003fdac83567"
+    },
+    {
+      "file_id": "file_0000000066ac822f8089cc1b49fa446a",
+      "name": "Phoenix Plaza Theatre Vision Board(5).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Vision Board(5).png",
+      "source_size_bytes": 2911176,
+      "width": 1672,
+      "height": 941,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000066ac822f8089cc1b49fa446a"
+    },
+    {
+      "file_id": "file_00000000dd70822fb8c6775d658d20ca",
+      "name": "Phoenix Plaza Theatre Vision Board.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre Vision Board.png",
+      "source_size_bytes": 3192947,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000dd70822fb8c6775d658d20ca"
+    },
+    {
+      "file_id": "file_00000000a8c0822fa63a627d22dd80a3",
+      "name": "Phoenix Plaza Theatre: A Brighter Tomorrow(1).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: A Brighter Tomorrow(1).png",
+      "source_size_bytes": 2942391,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a8c0822fa63a627d22dd80a3"
+    },
+    {
+      "file_id": "file_00000000f2bc822f8ff6524e8716d0ca",
+      "name": "Phoenix Plaza Theatre: A Brighter Tomorrow(2).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: A Brighter Tomorrow(2).png",
+      "source_size_bytes": 2981171,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f2bc822f8ff6524e8716d0ca"
+    },
+    {
+      "file_id": "file_00000000d888822f82bdd5813ecc6a48",
+      "name": "Phoenix Plaza Theatre: A Brighter Tomorrow(3).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: A Brighter Tomorrow(3).png",
+      "source_size_bytes": 2831757,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d888822f82bdd5813ecc6a48"
+    },
+    {
+      "file_id": "file_000000007f9c822f9d1f91e1a00d5a0a",
+      "name": "Phoenix Plaza Theatre: A Brighter Tomorrow(4).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: A Brighter Tomorrow(4).png",
+      "source_size_bytes": 2983489,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007f9c822f9d1f91e1a00d5a0a"
+    },
+    {
+      "file_id": "file_000000006cd88230a160514034f1099f",
+      "name": "Phoenix Plaza Theatre: A Brighter Tomorrow(5).png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: A Brighter Tomorrow(5).png",
+      "source_size_bytes": 2983906,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006cd88230a160514034f1099f"
+    },
+    {
+      "file_id": "file_000000005920822f9104a1f4d8c0e1b8",
+      "name": "Phoenix Plaza Theatre: A Brighter Tomorrow.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: A Brighter Tomorrow.png",
+      "source_size_bytes": 3119092,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005920822f9104a1f4d8c0e1b8"
+    },
+    {
+      "file_id": "file_000000002124822f96265e4318248bc2",
+      "name": "Phoenix Plaza Theatre: A Year-Round Stage.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: A Year-Round Stage.png",
+      "source_size_bytes": 3034528,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002124822f96265e4318248bc2"
+    },
+    {
+      "file_id": "file_00000000f574822f900c100c5273bde1",
+      "name": "Phoenix Plaza Theatre: Just Love Pond.png",
+      "path": "/THE AMW LEGACY/Phoenix Plaza Theatre: Just Love Pond.png",
+      "source_size_bytes": 3083825,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f574822f900c100c5273bde1"
+    },
+    {
+      "file_id": "file_00000000719481f99eabad24bd937de0",
+      "name": "PHOENIX_PLAZA_THEATRE_CURRENT_CONTROLLED_VISUAL_2026-09-10.png",
+      "path": "/THE AMW LEGACY/PHOENIX_PLAZA_THEATRE_CURRENT_CONTROLLED_VISUAL_2026-09-10.png",
+      "source_size_bytes": 1232928,
+      "width": 924,
+      "height": 614,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000719481f99eabad24bd937de0"
+    },
+    {
+      "file_id": "file_000000005404822f924a758aa8fcb794",
+      "name": "Pouring It Back In: Café & Market Campus.png",
+      "path": "/THE AMW LEGACY/Pouring It Back In: Café & Market Campus.png",
+      "source_size_bytes": 3217872,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005404822f924a758aa8fcb794"
+    },
+    {
+      "file_id": "file_000000003848822fa4663e6a2d03837e",
+      "name": "Pouring It Back In: Community Market Master Plan.png",
+      "path": "/THE AMW LEGACY/Pouring It Back In: Community Market Master Plan.png",
+      "source_size_bytes": 3327358,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003848822fa4663e6a2d03837e"
+    },
+    {
+      "file_id": "file_00000000a5f4822fbf5f386ff0adaf64",
+      "name": "Recovery Village Architectural Master Plan.png",
+      "path": "/THE AMW LEGACY/Recovery Village Architectural Master Plan.png",
+      "source_size_bytes": 3052883,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a5f4822fbf5f386ff0adaf64"
+    },
+    {
+      "file_id": "file_000000000b54822f825798b390213e1b",
+      "name": "Recovery Village Architectural Vision Board(1).png",
+      "path": "/THE AMW LEGACY/Recovery Village Architectural Vision Board(1).png",
+      "source_size_bytes": 3164262,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000b54822f825798b390213e1b"
+    },
+    {
+      "file_id": "file_00000000250c822f944eb0194c1f616a",
+      "name": "Recovery Village Architectural Vision Board.png",
+      "path": "/THE AMW LEGACY/Recovery Village Architectural Vision Board.png",
+      "source_size_bytes": 3082623,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000250c822f944eb0194c1f616a"
+    },
+    {
+      "file_id": "file_0000000008a4822f88f84f9707709717",
+      "name": "Recovery Village Campus Blueprint(1).png",
+      "path": "/THE AMW LEGACY/Recovery Village Campus Blueprint(1).png",
+      "source_size_bytes": 3255210,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000008a4822f88f84f9707709717"
+    },
+    {
+      "file_id": "file_000000004ad8822f84ced6f3c9a872ca",
+      "name": "Recovery Village Campus Blueprint.png",
+      "path": "/THE AMW LEGACY/Recovery Village Campus Blueprint.png",
+      "source_size_bytes": 2940754,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004ad8822f84ced6f3c9a872ca"
+    },
+    {
+      "file_id": "file_00000000d768822f8717c6d670d8165f",
+      "name": "Recovery Village Campus Concept Board(1).png",
+      "path": "/THE AMW LEGACY/Recovery Village Campus Concept Board(1).png",
+      "source_size_bytes": 3346614,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d768822f8717c6d670d8165f"
+    },
+    {
+      "file_id": "file_000000000018822fac9270d38ff6a71d",
+      "name": "Recovery Village Campus Concept Board.png",
+      "path": "/THE AMW LEGACY/Recovery Village Campus Concept Board.png",
+      "source_size_bytes": 3045367,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000018822fac9270d38ff6a71d"
+    },
+    {
+      "file_id": "file_000000007b2c822f8e59a76ddcec253a",
+      "name": "Recovery Village Campus Masterplan.png",
+      "path": "/THE AMW LEGACY/Recovery Village Campus Masterplan.png",
+      "source_size_bytes": 3199382,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007b2c822f8e59a76ddcec253a"
+    },
+    {
+      "file_id": "file_00000000e420822fbb8342f9e8e36651",
+      "name": "Recovery Village Master Plan Board.png",
+      "path": "/THE AMW LEGACY/Recovery Village Master Plan Board.png",
+      "source_size_bytes": 2999662,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e420822fbb8342f9e8e36651"
+    },
+    {
+      "file_id": "file_0000000076c4822f8990271d249c9255",
+      "name": "Recovery Village Masterplan Infographic.png",
+      "path": "/THE AMW LEGACY/Recovery Village Masterplan Infographic.png",
+      "source_size_bytes": 3071743,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000076c4822f8990271d249c9255"
+    },
+    {
+      "file_id": "file_000000005b78822f99b56b401686007c",
+      "name": "Recovery Village: A Brighter Tomorrow.png",
+      "path": "/THE AMW LEGACY/Recovery Village: A Brighter Tomorrow.png",
+      "source_size_bytes": 3240456,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005b78822f99b56b401686007c"
+    },
+    {
+      "file_id": "file_00000000a2e8822faf67dac531f1a0a6",
+      "name": "Screenshot 2026-09-04 3.12.10 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.12.10 PM(1).png",
+      "source_size_bytes": 359523,
+      "width": 714,
+      "height": 517,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a2e8822faf67dac531f1a0a6"
+    },
+    {
+      "file_id": "file_00000000dbd8822f8cb9c46441ca8fe5",
+      "name": "Screenshot 2026-09-04 3.12.10 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.12.10 PM(2).png",
+      "source_size_bytes": 359523,
+      "width": 714,
+      "height": 517,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000dbd8822f8cb9c46441ca8fe5"
+    },
+    {
+      "file_id": "file_0000000050f4822f85697954c522a95d",
+      "name": "Screenshot 2026-09-04 3.12.10 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.12.10 PM.png",
+      "source_size_bytes": 359523,
+      "width": 714,
+      "height": 517,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000050f4822f85697954c522a95d"
+    },
+    {
+      "file_id": "file_00000000bbf0822f9c5ee7ee8fb1cee2",
+      "name": "Screenshot 2026-09-04 3.50.53 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.50.53 PM(1).png",
+      "source_size_bytes": 2418979,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bbf0822f9c5ee7ee8fb1cee2"
+    },
+    {
+      "file_id": "file_000000009bb0822fa65ffd9aff9ae550",
+      "name": "Screenshot 2026-09-04 3.50.53 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.50.53 PM(2).png",
+      "source_size_bytes": 2418979,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009bb0822fa65ffd9aff9ae550"
+    },
+    {
+      "file_id": "file_00000000b5f4822f8b3ab0c44002c480",
+      "name": "Screenshot 2026-09-04 3.50.53 PM(3).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.50.53 PM(3).png",
+      "source_size_bytes": 2418979,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b5f4822f8b3ab0c44002c480"
+    },
+    {
+      "file_id": "file_00000000eacc822f999bf6780d4d800c",
+      "name": "Screenshot 2026-09-04 3.50.53 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.50.53 PM.png",
+      "source_size_bytes": 2418979,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000eacc822f999bf6780d4d800c"
+    },
+    {
+      "file_id": "file_00000000e17c822faa2593ee05b1790e",
+      "name": "Screenshot 2026-09-04 3.51.06 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.51.06 PM(1).png",
+      "source_size_bytes": 2132417,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e17c822faa2593ee05b1790e"
+    },
+    {
+      "file_id": "file_0000000082a4822f95e09494e72ef97c",
+      "name": "Screenshot 2026-09-04 3.51.06 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.51.06 PM(2).png",
+      "source_size_bytes": 2132417,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000082a4822f95e09494e72ef97c"
+    },
+    {
+      "file_id": "file_00000000079c822fa55b8324c3c6646f",
+      "name": "Screenshot 2026-09-04 3.51.06 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.51.06 PM.png",
+      "source_size_bytes": 2132417,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000079c822fa55b8324c3c6646f"
+    },
+    {
+      "file_id": "file_000000003850822fa7bea2d662d67c03",
+      "name": "Screenshot 2026-09-04 3.51.25 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.51.25 PM(1).png",
+      "source_size_bytes": 2226567,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003850822fa7bea2d662d67c03"
+    },
+    {
+      "file_id": "file_000000007bfc822fa932c03b4a1c9e16",
+      "name": "Screenshot 2026-09-04 3.51.25 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.51.25 PM(2).png",
+      "source_size_bytes": 2226567,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007bfc822fa932c03b4a1c9e16"
+    },
+    {
+      "file_id": "file_00000000aed0822fb822f74b87deafe3",
+      "name": "Screenshot 2026-09-04 3.51.25 PM(3).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.51.25 PM(3).png",
+      "source_size_bytes": 2226567,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000aed0822fb822f74b87deafe3"
+    },
+    {
+      "file_id": "file_000000009580822fa2887c57834b891c",
+      "name": "Screenshot 2026-09-04 3.51.25 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.51.25 PM.png",
+      "source_size_bytes": 2226567,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009580822fa2887c57834b891c"
+    },
+    {
+      "file_id": "file_00000000408c822f8f629cc3cadc4fbe",
+      "name": "Screenshot 2026-09-04 3.53.59 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.53.59 PM(1).png",
+      "source_size_bytes": 1605783,
+      "width": 1109,
+      "height": 765,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000408c822f8f629cc3cadc4fbe"
+    },
+    {
+      "file_id": "file_000000007e10822f97c71c0eba495fc5",
+      "name": "Screenshot 2026-09-04 3.53.59 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.53.59 PM(2).png",
+      "source_size_bytes": 1605783,
+      "width": 1109,
+      "height": 765,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007e10822f97c71c0eba495fc5"
+    },
+    {
+      "file_id": "file_00000000059c822f8fbfb8d31be81a10",
+      "name": "Screenshot 2026-09-04 3.53.59 PM(3).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.53.59 PM(3).png",
+      "source_size_bytes": 1605783,
+      "width": 1109,
+      "height": 765,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000059c822f8fbfb8d31be81a10"
+    },
+    {
+      "file_id": "file_000000007a68822f8f9d999e15ce8939",
+      "name": "Screenshot 2026-09-04 3.53.59 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.53.59 PM.png",
+      "source_size_bytes": 1605783,
+      "width": 1109,
+      "height": 765,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007a68822f8f9d999e15ce8939"
+    },
+    {
+      "file_id": "file_0000000097b8822faa3395b2255dcfeb",
+      "name": "Screenshot 2026-09-04 3.55.13 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.55.13 PM(1).png",
+      "source_size_bytes": 2460182,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000097b8822faa3395b2255dcfeb"
+    },
+    {
+      "file_id": "file_00000000c7d8822f89d26d2c70a7d1e6",
+      "name": "Screenshot 2026-09-04 3.55.13 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.55.13 PM(2).png",
+      "source_size_bytes": 2460182,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c7d8822f89d26d2c70a7d1e6"
+    },
+    {
+      "file_id": "file_000000000040822fa8ebd324cf3e8fb9",
+      "name": "Screenshot 2026-09-04 3.55.13 PM(3).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.55.13 PM(3).png",
+      "source_size_bytes": 2460182,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000040822fa8ebd324cf3e8fb9"
+    },
+    {
+      "file_id": "file_000000009de0822fbc9a5ee045256191",
+      "name": "Screenshot 2026-09-04 3.55.13 PM(4).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.55.13 PM(4).png",
+      "source_size_bytes": 2460182,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009de0822fbc9a5ee045256191"
+    },
+    {
+      "file_id": "file_00000000360c822f9b6694ad5b7eb26b",
+      "name": "Screenshot 2026-09-04 3.55.13 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 3.55.13 PM.png",
+      "source_size_bytes": 2460182,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000360c822f9b6694ad5b7eb26b"
+    },
+    {
+      "file_id": "file_000000002404822fbe5bd75a0af0e4e5",
+      "name": "Screenshot 2026-09-04 4.24.16 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 4.24.16 PM(1).png",
+      "source_size_bytes": 562566,
+      "width": 1126,
+      "height": 452,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002404822fbe5bd75a0af0e4e5"
+    },
+    {
+      "file_id": "file_00000000ef40822fbcbf2aa5210e0262",
+      "name": "Screenshot 2026-09-04 4.24.16 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 4.24.16 PM(2).png",
+      "source_size_bytes": 562566,
+      "width": 1126,
+      "height": 452,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ef40822fbcbf2aa5210e0262"
+    },
+    {
+      "file_id": "file_000000002ad4822fb9b57a05c61ee232",
+      "name": "Screenshot 2026-09-04 4.24.16 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-04 4.24.16 PM.png",
+      "source_size_bytes": 562566,
+      "width": 1126,
+      "height": 452,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002ad4822fb9b57a05c61ee232"
+    },
+    {
+      "file_id": "file_000000006874822f9ae88ee349037f21",
+      "name": "Screenshot 2026-09-05 11.08.04 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-05 11.08.04 PM.png",
+      "source_size_bytes": 1341757,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006874822f9ae88ee349037f21"
+    },
+    {
+      "file_id": "file_00000000e76c822fb3aa73c434ccb66a",
+      "name": "Screenshot 2026-09-07 2.38.42 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-07 2.38.42 AM.png",
+      "source_size_bytes": 3574184,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e76c822fb3aa73c434ccb66a"
+    },
+    {
+      "file_id": "file_000000007ad8822fac9de2bb818ae67d",
+      "name": "Screenshot 2026-09-07 2.38.48 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-07 2.38.48 AM.png",
+      "source_size_bytes": 3088944,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007ad8822fac9de2bb818ae67d"
+    },
+    {
+      "file_id": "file_00000000a608822f92a0585600f7339b",
+      "name": "Screenshot 2026-09-07 2.39.14 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-07 2.39.14 AM.png",
+      "source_size_bytes": 2293660,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a608822f92a0585600f7339b"
+    },
+    {
+      "file_id": "file_000000001d5c822f8dcb73536348ad20",
+      "name": "Screenshot 2026-09-07 2.39.26 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-07 2.39.26 AM.png",
+      "source_size_bytes": 2200372,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001d5c822f8dcb73536348ad20"
+    },
+    {
+      "file_id": "file_0000000067a4822f8eab7d5e392c6fc8",
+      "name": "Screenshot 2026-09-10 1.10.42 AM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 1.10.42 AM(1).png",
+      "source_size_bytes": 3334392,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000067a4822f8eab7d5e392c6fc8"
+    },
+    {
+      "file_id": "file_000000000594822f9c377292df86e6ec",
+      "name": "Screenshot 2026-09-10 1.10.42 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 1.10.42 AM.png",
+      "source_size_bytes": 3334392,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000594822f9c377292df86e6ec"
+    },
+    {
+      "file_id": "file_00000000c5bc822fb451b91d8446e771",
+      "name": "Screenshot 2026-09-10 1.11.15 AM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 1.11.15 AM(1).png",
+      "source_size_bytes": 3320541,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c5bc822fb451b91d8446e771"
+    },
+    {
+      "file_id": "file_00000000e358822fadc20e5cadf6cb49",
+      "name": "Screenshot 2026-09-10 1.11.15 AM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 1.11.15 AM(2).png",
+      "source_size_bytes": 3320541,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e358822fadc20e5cadf6cb49"
+    },
+    {
+      "file_id": "file_000000009f20822fa929c468cefe144c",
+      "name": "Screenshot 2026-09-10 1.11.15 AM(3).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 1.11.15 AM(3).png",
+      "source_size_bytes": 3320541,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009f20822fa929c468cefe144c"
+    },
+    {
+      "file_id": "file_000000004d90822faa88cec926a8ef8a",
+      "name": "Screenshot 2026-09-10 1.11.15 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 1.11.15 AM.png",
+      "source_size_bytes": 3320541,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004d90822faa88cec926a8ef8a"
+    },
+    {
+      "file_id": "file_0000000009bc822fa52df6dc5ae183eb",
+      "name": "Screenshot 2026-09-10 1.27.50 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 1.27.50 AM.png",
+      "source_size_bytes": 3131006,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000009bc822fa52df6dc5ae183eb"
+    },
+    {
+      "file_id": "file_0000000020988230879fe82a20c6384f",
+      "name": "Screenshot 2026-09-10 11.48.54 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 11.48.54 AM.png",
+      "source_size_bytes": 1737548,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000020988230879fe82a20c6384f"
+    },
+    {
+      "file_id": "file_00000000d61081f5a2cdf8a6b6435270",
+      "name": "Screenshot 2026-09-10 11.49.04 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 11.49.04 AM.png",
+      "source_size_bytes": 1727081,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d61081f5a2cdf8a6b6435270"
+    },
+    {
+      "file_id": "file_00000000fa80822fb1552162e8059845",
+      "name": "Screenshot 2026-09-10 12.39.45 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 12.39.45 AM.png",
+      "source_size_bytes": 2241612,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fa80822fb1552162e8059845"
+    },
+    {
+      "file_id": "file_000000004644822facf43f8581a808e0",
+      "name": "Screenshot 2026-09-10 2.04.33 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 2.04.33 AM.png",
+      "source_size_bytes": 366489,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004644822facf43f8581a808e0"
+    },
+    {
+      "file_id": "file_000000003810822fb68cf60be2d37f41",
+      "name": "Screenshot 2026-09-10 2.04.52 AM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 2.04.52 AM.png",
+      "source_size_bytes": 344993,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003810822fb68cf60be2d37f41"
+    },
+    {
+      "file_id": "file_00000000722c81faa04a9eb8ca8dd26b",
+      "name": "Screenshot 2026-09-10 2.45.33 PM(1).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 2.45.33 PM(1).png",
+      "source_size_bytes": 1928423,
+      "width": 1277,
+      "height": 594,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000722c81faa04a9eb8ca8dd26b"
+    },
+    {
+      "file_id": "file_000000007acc822f9a3f7aa1caea50d6",
+      "name": "Screenshot 2026-09-10 2.45.33 PM(2).png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 2.45.33 PM(2).png",
+      "source_size_bytes": 1928423,
+      "width": 1277,
+      "height": 594,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007acc822f9a3f7aa1caea50d6"
+    },
+    {
+      "file_id": "file_00000000ad3081f5a480ed079fefa01b",
+      "name": "Screenshot 2026-09-10 2.45.33 PM.png",
+      "path": "/THE AMW LEGACY/Screenshot 2026-09-10 2.45.33 PM.png",
+      "source_size_bytes": 1928423,
+      "width": 1277,
+      "height": 594,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ad3081f5a480ed079fefa01b"
+    }
+  ]
+}
