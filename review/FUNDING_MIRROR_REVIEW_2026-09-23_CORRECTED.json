@@ -7,11 +7,12 @@
     "No loans/debt, equity/ownership/IP surrender, required match, reimbursement-only structure, mandatory paid membership, hidden purchase/course requirement, or fixed training burden that materially diverts operating capacity.",
     "Precise eligibility, live status, reporting, publicity/name-likeness, use restrictions and award terms must be verified before advancement.",
     "Already-applied opportunities remain outcome tracking and are not re-presented as new.",
-    "Current legal status must be represented as ALICIA AND MYLES WALKER, Maryland General Partnership; planned LLC conversion is not current legal status.",
+    "Current Founder-confirmed funding eligibility fact: AMW is not currently registered as a business. Any opportunity requiring a legally registered business, state good standing, LLC/corporation registration, SAM.gov entity registration, or equivalent current business-registration proof fails the active AMW application gate unless the Founder later confirms that registration has been completed.",
     "Funding continuity remains urgent and never freezes during stabilization.",
     "Founder specifically reopened Verizon Small Business Digital Ready on 2026-09-23 and will complete the two qualifying courses/events by COB Friday 2026-09-25. This override applies to Verizon only."
   ],
   "corrections": [
+    "Apply the Founder-confirmed unregistered-business hard gate before presenting any new funding opportunity. Do not recommend an opportunity that requires current business registration or state good standing.",
     "Remove WomensNet Amber/Startup from PURSUE under the $0-fee hard gate.",
     "Remove Hey Helen from PURSUE under the $0-fee hard gate.",
     "Remove Her Agenda Breakthrough from PURSUE under the $0-fee hard gate.",
@@ -44,14 +45,14 @@
       "award": "$10,000",
       "status": "QUALIFIED — ACTIVE / PULL AFTER COURSE UNLOCK",
       "founder_override": "Founder will complete the two qualifying Verizon courses/events by COB Friday 2026-09-25. This specific override reopens Verizon only.",
-      "gate_result": "PASS subject to completion of two qualifying free resources and final live-application term check before submission."
+      "gate_result": "PASS under the Founder-specific Verizon override, subject to completion of two qualifying free resources by COB Friday 2026-09-25 and a final live-application check that no current business-registration requirement has been introduced. Finalist W-9/ACH/business-financial verification remains a later verification gate."
     },
     {
       "opportunity": "AdIQ Cares Small Business Grant Program",
       "award": "$2,500 quarterly cash grant",
       "status": "QUALIFIED — ACTIVE / SUBMIT",
-      "gate_result": "PASS: open to any U.S.-based small business; no purchase/subscription required; no repayment; cash sent by ACH; applications year-round; no recurring reporting requirement or broad application-content license identified on the current first-party grant page; winners are announced on social media."
+      "gate_result": "PASS on the current first-party grant page: open to any U.S.-based small business; no purchase/subscription required; no repayment; no application fee or formal business-registration prerequisite is stated; applications are year-round; winner publicity is limited to social announcement in the published page. Final award terms must be checked before acceptance."
     }
   ],
-  "final_result": "CORRECTIONS EXECUTED; VERIFIED ACTIVE SURVIVORS FROM THIS SWEEP: VERIZON $10,000 AND ADIQ CARES $2,500. ALL OTHER REVIEWED ITEMS REMAIN OUTCOME-TRACKING, HOLD, EXCLUDED, CLOSED, OR NOT PRECISELY ALIGNED UNDER CURRENT CONTROLS."
+  "final_result": "CORRECTIONS EXECUTED; CURRENT FOUNDER-APPLICABLE ACTIVE SURVIVORS: VERIZON $10,000 (SPECIFIC FOUNDER OVERRIDE; TWO FREE RESOURCES BY 2026-09-25; FINAL LIVE REGISTRATION/VERIFICATION CHECK REQUIRED) AND ADIQ CARES $2,500 (NO FORMAL REGISTRATION PREREQUISITE STATED ON CURRENT FIRST-PARTY PAGE). ALL FEE-BEARING, DEBT, MATCH, REIMBURSEMENT-ONLY, BROAD-RIGHTS, REPORTING-BURDEN, CURRENT-REGISTRATION-REQUIRED, ALREADY-SUBMITTED, CLOSED, OR MISALIGNED ITEMS ARE NOT TO BE PRESENTED AS NEW QUALIFIED FUNDING."
 }
