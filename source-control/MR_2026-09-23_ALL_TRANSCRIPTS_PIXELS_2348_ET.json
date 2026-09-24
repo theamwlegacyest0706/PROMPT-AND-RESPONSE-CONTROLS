@@ -1,0 +1,30 @@
+{
+  "review_id": "MR-2026-09-23-ALL-TRANSCRIPTS-PIXELS",
+  "date": "2026-09-23",
+  "level": "LEVEL 5 — RESTORE / STRENGTHEN / FAIL-STOP",
+  "trigger": "Founder ordered ALL Project-chat transcripts and ALL visual binary/pixel files after repeated fleet-rendering failures.",
+  "findings": [
+    "Live Library census = 1,172 files; 1,008 images = 744 model-generated + 264 non-generated/unknown.",
+    "Ten raw historical chat/chat-recovery DOCX sources were processed through Python.",
+    "Twenty-five later Project-chat records are indexed/recovered, but raw message-level verbatim transcripts are not completely materialized.",
+    "All 1,008 visual files are enumerated, but raw-byte materialization for the Library image corpus is not currently available to Python; first 50 test yielded 0 raw binaries and 50 authorization-path warnings.",
+    "Python decoded and pixel-hashed the only locally exposed visual binary; therefore all-pixel completion remains OPEN.",
+    "Fleet visual failure class remains open/quarantined where unresolved; no generated derivative is promoted merely because it exists."
+  ],
+  "corrections": [
+    "Corrected Stabilization Control Center from stale 756 images / 1,074 files to current 1,008 images / 1,172 files.",
+    "Added STAB-010 Project-chat transcript recovery gate.",
+    "Added STAB-011 all-visual-binary/pixel decode gate.",
+    "Added raw visual-binary/pixel fail-stop to Visual Corpus Audit.",
+    "Created all-1,008 visual manifest in GitHub.",
+    "Created Project-chat transcript recovery audit in GitHub.",
+    "Preserved NO FALSE COMPLETENESS: later chats are not labeled verbatim and visual pixels are not labeled fully reviewed."
+  ],
+  "python_second_pass": "PASS FOR TRUTHFUL CORRECTION STATE; OPEN GATES REMAIN OPEN",
+  "open_items": [
+    "Raw message-level transcript source for later Project chats remains incomplete.",
+    "All 1,008 raw visual binaries remain to be materially exposed to Python for full pixel decode/hash.",
+    "High-risk fleet rendering classes remain subject to their existing quarantine/re-entry gates."
+  ],
+  "result": "CORRECTIONS EXECUTED; FALSE COMPLETENESS BLOCKED; OPEN TRANSCRIPT/PIXEL GATES PRESERVED"
+}
