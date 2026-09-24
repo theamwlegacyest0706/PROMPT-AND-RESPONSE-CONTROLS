@@ -50,5 +50,29 @@
     "overall": "PASS FOR ACCESSIBLE-SOURCE INGEST AND GITHUB SHEET PARITY; FAIL FOR CLAIMING ALL-DATES VERBATIM CHAT COMPLETENESS"
   },
   "authority_boundary": "No Python/GitHub PASS is a Founder decision. No missing-source gap is converted into a completed state by assistant interpretation.",
-  "result": "CORRECTIONS EXECUTED; ACCESSIBLE-SOURCE PACKAGE + 55/55 GITHUB SHEET PARITY VERIFIED; ALL-DATES VERBATIM CHAT COMPLETENESS REMAINS AN EXPLICIT RECOVERY GAP."
+  "result": "CORRECTIONS EXECUTED; ALL PRESENTLY ACCESSIBLE SOURCE LAYERS INGESTED; GITHUB CURRENT-MASTER PARITY 55/55 VERIFIED; LATER RAW VERBATIM CHAT TRANSCRIPT COMPLETENESS REMAINS AN EXPLICIT RECOVERY GAP.",
+  "final_recursive_retest": {
+    "accessible_source_package": "PASS",
+    "github_current_master_parity": "55/55 — PASS",
+    "live_library_snapshot": {
+      "files": 1168,
+      "image_files": 1008,
+      "folders": 4
+    },
+    "all_dates_raw_verbatim_chat_history": "FAIL / EXPLICIT RECOVERY GAP — LATER RAW VERBATIM CHAT TRANSCRIPTS ARE NOT COMPLETE",
+    "overall": "PASS FOR ALL PRESENTLY ACCESSIBLE SOURCE INGEST + 55/55 GITHUB MASTER-SHEET PARITY; FAIL FOR ANY CLAIM THAT ALL LEGACY CHATS EXIST AS COMPLETE RAW VERBATIM TRANSCRIPTS",
+    "authority": "technical validation only; does not create Founder approval, closure, supersession, release, save authority, or any Legacy decision."
+  },
+  "latest_live_library_snapshot": {
+    "files": 1168,
+    "image_files": 1008,
+    "folders": 4
+  },
+  "latest_write_forward_commits": {
+    "library_manifest_commit": "4a7097b952e48d2c2e8bf64b3357e11ffe1edfae",
+    "open_recovery_queue_count_commit": "8038bcae619f45992f660c0cb35dcd0bd1a3183e",
+    "visual_corpus_count_commit": "d14546019f7b55444061ec9fd4ba89d4ecd2880e",
+    "chat_recovery_index_commit": "b283a1e633f07281f885a638724385304d8f631a",
+    "mirror_archive_commit": "ad84b2201f54ff8de14e936932fdf0ef22d82424"
+  }
 }
