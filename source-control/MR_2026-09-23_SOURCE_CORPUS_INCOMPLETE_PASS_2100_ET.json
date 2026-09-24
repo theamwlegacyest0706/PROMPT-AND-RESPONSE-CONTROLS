@@ -1,0 +1,24 @@
+{
+  "review_id": "MR-2026-09-23-SOURCE-CORPUS-INCOMPLETE-PASS-2100ET",
+  "date": "2026-09-23",
+  "level": "LEVEL 5 — FAIL / RESTORE + STRENGTHEN",
+  "trigger": "Founder challenged whether all Legacy chats, safeguards, work, full-stops, controls, policies, website design and related work had actually been provided to Python and GitHub.",
+  "findings": [
+    "The prior complete-source PASS was overbroad.",
+    "Additional accessible raw chat sources existed in Drive and were not in the earlier GitHub source package.",
+    "Raw website, policy/safeguard, governance/AMOS and operations sources were not all in the earlier source package.",
+    "The current master is comprehensive for controlled/recovered state but is not a substitute for raw chat history.",
+    "Later Project-chat history remains partly recovered/indexed rather than raw verbatim transcript.",
+    "The full visual corpus is inventoried in the Library manifest, but every visual binary has not been loaded into the Python validation pass."
+  ],
+  "corrections": [
+    "Added additional raw chat sources to GitHub and Python.",
+    "Added raw website, policy/safeguard, governance/AMOS and operations source files to GitHub.",
+    "Expanded the Legacy chat-history recovery index.",
+    "Added a 98-item broad Drive Legacy source index to GitHub.",
+    "Preserved the full 1,158-file Library manifest and all four current-master source parts in GitHub.",
+    "Re-ran Python and GitHub validation and kept remaining raw-source gaps explicit instead of calling them complete."
+  ],
+  "authority_boundary": "This review records source completeness and execution failure only. It does not create Founder decisions, approvals, supersessions or releases.",
+  "result": "PRIOR COMPLETE-SOURCE PASS INVALIDATED; SOURCE PACKAGE EXPANDED; REMAINING RAW-LATER-CHAT AND FULL-VISUAL-BINARY GAPS OPEN"
+}
