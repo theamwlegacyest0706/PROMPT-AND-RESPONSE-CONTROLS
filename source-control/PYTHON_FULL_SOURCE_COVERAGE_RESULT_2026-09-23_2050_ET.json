@@ -1,0 +1,32 @@
+{
+  "review_id": "PYTHON-FULL-SOURCE-COVERAGE-2026-09-23-2050ET",
+  "exact_python_result": "FAIL — FULL VERBATIM CHAT HISTORY IS NOT YET COMPLETELY MATERIALIZED",
+  "facts": {
+    "current_master_sheets": 55,
+    "master_locks_loaded": 25,
+    "missing_master_locks": [],
+    "required_source_categories_present": "20/20",
+    "website_and_launch_present": true,
+    "known_complete_chat_gap_detected": true,
+    "live_library_files_at_python_run": 1158,
+    "live_library_folders_at_python_run": 4,
+    "complete_all_dates_verbatim_claim_allowed": false
+  },
+  "correction": "Do not call the Python/GitHub corpus 'all Legacy chats' while the controlled Recovery Crosswalk says the available export is not a complete message-by-message transcript for every date. Preserve and ingest every available chat/source file, current/historical master, policy/control source, website/launch source, visual/recovery/authority source, and live Library manifest; keep the remaining verbatim-chat gap explicit rather than pretending it is complete.",
+  "github_corrections_after_python": [
+    {
+      "path": "current-master-sheets/Website_Launch.csv",
+      "commit": "dfeebcadbf8128b6db31cf8431460676671d375a"
+    },
+    {
+      "path": "current-master-sheets/Workstream_Reconciliation.csv",
+      "commit": "c54a32ba07d8c7e0cba5bfbf8cd4a131da19613f"
+    },
+    {
+      "path": "source-corpus/manifests/LIBRARY_FULL_LIVE_MANIFEST_2026-09-23_2050_ET.json",
+      "commit": "9880dbce4ee8eef45b7718039867809e3aa28d28"
+    }
+  ],
+  "github_current_master_sheets_after_correction": 55,
+  "prior_complete_source_result_correction": "Prior 'PASS' can mean complete accessible source layers were included, but it cannot be read as proof that every later historical chat exists in raw verbatim form. Later chat records remain recovered/indexed where raw transcripts are unavailable."
+}
