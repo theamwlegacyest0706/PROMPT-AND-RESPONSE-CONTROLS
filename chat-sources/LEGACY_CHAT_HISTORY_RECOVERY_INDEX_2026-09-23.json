@@ -253,8 +253,16 @@
     "raw_later_project_chat_transcripts_complete": false,
     "full_visual_binary_corpus_in_python_complete": false,
     "authority": "PYTHON_COMPLETE_SOURCE_CORPUS_VALIDATION_2026-09-23",
-    "python_raw_chat_source_count": 10
+    "python_raw_chat_source_count": 10,
+    "visual_binary_pixel_execution": {
+      "manifest_total": 1008,
+      "native_pixel_read_attempted": 1008,
+      "native_pixel_assets_returned": 1007,
+      "native_pixel_exception": 1,
+      "final_record": "source-control/VISUAL_PIXEL_FULL_RUN_FINAL_2026-09-23_2341_ET.json"
+    },
+    "project_chat_transcript_audit": "chat-sources/PROJECT_CHAT_TRANSCRIPT_COMPLETION_AUDIT_2026-09-23_2347_ET.json"
   },
-  "current_founder_prompt_source": "source-control/FOUNDER_PROMPT_EXACT_CURRENT_2026-09-23_2050_ET.txt",
+  "current_founder_prompt_source": "source-control/FOUNDER_PROMPT_EXACT_CURRENT_2026-09-23_2327_ET.txt",
   "current_full_source_mirror_review": "source-control/MR_2026-09-23_FULL_SOURCE_COMPLETENESS_2050_ET.json"
 }
