@@ -1,10 +1,10 @@
 {
   "generated_at": "2026-09-23",
-  "scope": "ALL files recursively listed under /THE AMW LEGACY; generated + non-generated; no status filtering",
+  "scope": "ALL files recursively listed under /THE AMW LEGACY; generated and non-generated; no status filtering",
   "pages": 6,
-  "total_files": 1156,
+  "total_files": 1157,
   "generated": 849,
-  "nongenerated": 307,
+  "nongenerated": 308,
   "items": [
     {
       "name": "01_CAMPUS_ENTRANCE_3X.png",
@@ -8325,6 +8325,19 @@
       "size_bytes": 428294,
       "created_at": "2026-08-31T04:09:34+00:00",
       "modified_at": "2026-08-31T04:09:39.026491+00:00",
+      "model_generated": false,
+      "role": "editor",
+      "file_provider": "native"
+    },
+    {
+      "name": "CHATGPT_Failures_FULL_TEXT_2026-09-23.txt",
+      "path": "/THE AMW LEGACY/_GIT_SOURCE_CONTROL/CHATGPT_Failures_FULL_TEXT_2026-09-23.txt",
+      "file_id": "file_00000000c570822f895e11f319a51574",
+      "library_file_id": "libfile_1f42bac82da08191a552caf2db6bbc22",
+      "mime_type": "text/plain",
+      "size_bytes": 56800,
+      "created_at": "2026-09-24T00:51:47+00:00",
+      "modified_at": "2026-09-24T00:51:47.990057+00:00",
       "model_generated": false,
       "role": "editor",
       "file_provider": "native"
