@@ -1,0 +1,108 @@
+{
+  "generated_at": "2026-09-24T15:42:00-04:00",
+  "governing_rule": "controls/BINARY_ARTIFACT_EXACT_SOURCE_RULE.md",
+  "note": "Project-backed raw bytes are not exposed for direct GitHub upload in this cycle. Exact Library identity and review status are preserved here; exact artifact retrieval remains through the Legacy Library.",
+  "artifacts": [
+    {
+      "name": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE_CORRECTED_2026-09-23.xlsx",
+      "path": "/THE AMW LEGACY/AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE_CORRECTED_2026-09-23.xlsx",
+      "file_id": "file_000000004aa0822fa5260c3aaa873608",
+      "library_file_id": "libfile_49576d03b6308191a4b7b6b45df44e43",
+      "size_bytes": 482069,
+      "model_generated": true,
+      "status": "BINARY SOURCE / CONTENT REPRESENTED BY CURRENT-MASTER SHEET EXPORTS; EXACT BINARY REMAINS IN LIBRARY"
+    },
+    {
+      "name": "chart-1(20260924-045046).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-045046).png",
+      "file_id": "file_00000000cd20822fa52670c97977f152",
+      "library_file_id": "libfile_791f4bd87ad881918ec9917526153cfd",
+      "size_bytes": 2691685,
+      "model_generated": true,
+      "status": "GENERATED PRESENTATION BOARD / PROVENANCE-REVIEW ONLY / NOT CURRENT AUTHORITY"
+    },
+    {
+      "name": "chart-2(20260924-045047).png",
+      "path": "/THE AMW LEGACY/chart-2(20260924-045047).png",
+      "file_id": "file_000000001614822f90912ef28855661f",
+      "library_file_id": "libfile_80f5df0240e88191acf37b9fc9bf3453",
+      "size_bytes": 2991030,
+      "model_generated": true,
+      "status": "GENERATED PRESENTATION BOARD / PROVENANCE-REVIEW ONLY / NOT CURRENT AUTHORITY"
+    },
+    {
+      "name": "chart-3(20260924-045049).png",
+      "path": "/THE AMW LEGACY/chart-3(20260924-045049).png",
+      "file_id": "file_00000000c004822f8b04fb8a845333ed",
+      "library_file_id": "libfile_b00d7e8968f48191b66bbbd97db96f82",
+      "size_bytes": 2875835,
+      "model_generated": true,
+      "status": "GENERATED PRESENTATION BOARD / PROVENANCE-REVIEW ONLY / NOT CURRENT AUTHORITY"
+    },
+    {
+      "name": "chart-4(20260924-045050).png",
+      "path": "/THE AMW LEGACY/chart-4(20260924-045050).png",
+      "file_id": "file_000000000fe8822fb653f834abc4eae6",
+      "library_file_id": "libfile_f9ac7528ca348191897fa7d639ca2353",
+      "size_bytes": 240723,
+      "model_generated": true,
+      "status": "GENERATED SCHOOL-BUS COMPARISON / PROVENANCE-REVIEW ONLY / NOT CURRENT AUTHORITY"
+    },
+    {
+      "name": "Screenshot 2026-09-24 1.28.38 AM.png",
+      "file_id": "file_0000000086fc822faa9e5e09d827f03a",
+      "library_file_id": "libfile_c24065ce17788191ab191b797eb412d1",
+      "size_bytes": 228781,
+      "model_generated": false,
+      "status": "FOUNDER/USER SCREENSHOT EVIDENCE / PROVENANCE"
+    },
+    {
+      "name": "Screenshot 2026-09-24 12.01.32 AM.png",
+      "file_id": "file_0000000065ac822fbc7a6070c9264ed4",
+      "library_file_id": "libfile_b8ccadde36cc8191ad13bf08a4f81eb4",
+      "size_bytes": 1914779,
+      "model_generated": false,
+      "status": "FOUNDER/USER SCREENSHOT EVIDENCE / PROVENANCE"
+    },
+    {
+      "name": "Screenshot 2026-09-24 12.02.51 AM.png",
+      "file_id": "file_000000003bb8822fa297b3c939dceab5",
+      "library_file_id": "libfile_78312e44888481919cea3ef800a162ef",
+      "size_bytes": 1819851,
+      "model_generated": false,
+      "status": "FOUNDER/USER SCREENSHOT EVIDENCE / PROVENANCE"
+    },
+    {
+      "name": "Screenshot 2026-09-24 12.10.18 AM.png",
+      "file_id": "file_000000005444822f9a6b22f93aba0b4d",
+      "library_file_id": "libfile_a9bf2ba53e9c8191b1bff43b637ab80b",
+      "size_bytes": 2242126,
+      "model_generated": false,
+      "status": "FOUNDER/USER SCREENSHOT EVIDENCE / PROVENANCE"
+    },
+    {
+      "name": "Screenshot 2026-09-24 12.10.23 AM.png",
+      "file_id": "file_000000001b24822fb37a7e7c972a34d1",
+      "library_file_id": "libfile_4118202f3ed08191bd74ca92fdc14c51",
+      "size_bytes": 2112563,
+      "model_generated": false,
+      "status": "FOUNDER/USER SCREENSHOT EVIDENCE / PROVENANCE"
+    },
+    {
+      "name": "Screenshot 2026-09-24 12.12.35 AM.png",
+      "file_id": "file_00000000bd28822f954ec0a988f1132b",
+      "library_file_id": "libfile_4a473672c5448191ba0ae15f5dc06083",
+      "size_bytes": 442198,
+      "model_generated": false,
+      "status": "FOUNDER/USER SCREENSHOT EVIDENCE / PROVENANCE"
+    },
+    {
+      "name": "Screenshot 2026-09-24 12.12.40 AM.png",
+      "file_id": "file_000000009a74822f86d3a4bc38539026",
+      "library_file_id": "libfile_7e21a521d15c8191aebc9445c2f224c6",
+      "size_bytes": 454535,
+      "model_generated": false,
+      "status": "FOUNDER/USER SCREENSHOT EVIDENCE / PROVENANCE"
+    }
+  ]
+}
