@@ -2,7 +2,7 @@ THE AMW LEGACY — OPEN RECOVERY & STABILIZATION QUEUE,,,,,,,
 Only genuine unresolved items belong here. Do not ask the Founder to recreate an item until the recovery path is exhausted.,,,,,,,
 ,,,,,,,
 QUEUE ID,ITEM,CLASS,CURRENT STATUS,RECOVERY / CORRECTION ACTION,FOUNDER INPUT NEEDED?,BLOCKS DEVELOPMENT?,CLOSE ONLY WHEN
-STAB-001,"Full 1,168-file current Library corpus authority classification",Corpus stabilization,OPEN,Assign each file Generated/Library-Present/Approved/Saved/Current/Superseded/Rejected/Draft/Source/Gap/Quarantined; preserve every file,NO,YES,Every file has state + lineage pointer
+STAB-001,"Full 1,172-file current Library corpus authority classification",Corpus stabilization,OPEN,Assign each file Generated/Library-Present/Approved/Saved/Current/Superseded/Rejected/Draft/Source/Gap/Quarantined; preserve every file,NO,YES,Every file has state + lineage pointer
 STAB-002,All 1,008 current image files row-by-row authority classification,Visual stabilization,OPEN,Expand visual authority beyond current approved subset; preserve drafts/rejected/provenance distinctly,NO,YES for new visual development,Every image has authority state + institution/workstream + lineage
 STAB-003,High-risk visual lineage: sports fleets,Repeated failure class,QUARANTINED,Reconcile exact source visual + 110 Founder edits + institution palette/identity/fleet controls; do not re-render during stabilization,NO,YES,One later Founder-directed artifact passes full recursive gate
 STAB-004,Percy's Pitch Baseball Complex rendering,Save-state clarification,STABLE STATUS,Preserve Library visual as provenance; do not label Update-and-Saved unless Founder directs,NO,NO,Status remains correctly separated
