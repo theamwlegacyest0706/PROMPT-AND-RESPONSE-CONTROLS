@@ -61,6 +61,24 @@
       "source": "AMW Chat Work — Aug 21",
       "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_21.txt",
       "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-07-29",
+      "source": "AMW Chat Work — Jul 29",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_JUL_29.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-07",
+      "source": "AMW Chat Work — Aug 7 Part 1",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_7_PART_1.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-07",
+      "source": "AMW Chat Work — Aug 7 Part 2",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_7_PART_2.txt",
+      "status": "RAW CHAT SOURCE"
     }
   ],
   "later_project_chat_history": [
@@ -234,7 +252,8 @@
     "reason": "Additional accessible raw chat and workstream sources were found after the earlier complete-source PASS.",
     "raw_later_project_chat_transcripts_complete": false,
     "full_visual_binary_corpus_in_python_complete": false,
-    "authority": "PYTHON_COMPLETE_SOURCE_CORPUS_VALIDATION_2026-09-23"
+    "authority": "PYTHON_COMPLETE_SOURCE_CORPUS_VALIDATION_2026-09-23",
+    "python_raw_chat_source_count": 10
   },
   "current_founder_prompt_source": "source-control/FOUNDER_PROMPT_EXACT_CURRENT_2026-09-23_2050_ET.txt",
   "current_full_source_mirror_review": "source-control/MR_2026-09-23_FULL_SOURCE_COMPLETENESS_2050_ET.json"
