@@ -1,49 +1,39 @@
 {
   "date": "2026-09-23",
-  "python_scope": "Current 55-sheet master + 3 historical master exports + Mirror Review archive + 9 raw DOCX sources loaded directly into Python",
+  "python_scope": "Current 55-sheet master + three historical master exports + Mirror Review archive + 10 raw chat/chat-recovery DOCX sources + raw website, policy/safeguard, and governance/AMOS sources",
   "current_master": {
     "sheets": 55,
     "nonempty_rows": 2179,
-    "master_lock_controls": 25,
-    "mirror_reviews": 34,
-    "coverage_counts": {
-      "safeguard": 173,
-      "full_stop_hyphenated": 72,
-      "policy": 36,
-      "website": 30,
-      "google_sites": 1,
-      "mirror_review": 254,
-      "founder": 1613,
-      "visual": 1168,
-      "rendering": 187,
-      "funding": 270,
-      "registration": 80,
-      "governance": 250,
-      "AMOS": 279,
-      "IR02": 87,
-      "recovery": 295,
-      "supersession": 77,
-      "control": 2974
-    }
+    "master_locks": 25,
+    "mirror_reviews": 34
   },
-  "raw_sources_loaded": [
+  "raw_chat_sources_loaded": 10,
+  "raw_workstream_sources_loaded": 3,
+  "raw_chat_sources": [
     "AMW COMPLETE UPLOADED CHAT WORK RECORD",
     "CHATGPT Failures — Original Full Uploaded AMW Chat Source",
-    "AMW Chat Work — Monday 1:49 AM",
-    "AMW Chat Work — Thursday 7:09 PM",
+    "AMW Complete Chat Work Verbatim — 2026-07-29 through 2026-08-29",
+    "AMW Chat Work — Jul 29",
     "AMW Chat Work — Aug 4",
+    "AMW Chat Work — Aug 7 Part 1",
+    "AMW Chat Work — Aug 7 Part 2",
     "AMW Chat Work — Aug 21",
+    "AMW Chat Work — Monday 1:49 AM",
+    "AMW Chat Work — Thursday 7:09 PM"
+  ],
+  "raw_workstream_sources": [
     "AMW WEBSITE & BRAND DEVELOPMENT — WATERMARKED",
     "AMW CONTROLLED POLICIES, STANDARDS & SAFEGUARDS — WATERMARKED",
     "AMW GOVERNANCE, CONSTITUTION & AMOS — WATERMARKED"
   ],
   "findings": {
     "prior_complete_source_PASS_was_incomplete": true,
-    "reason": "Additional accessible raw chat sources and raw website/policy/governance documents existed in Drive but were not included in the prior GitHub complete-source package.",
-    "later_project_chat_transcripts_complete": false,
-    "later_project_chat_status": "Indexed/recovered where raw transcript export is not currently available; not to be labeled verbatim.",
+    "additional_accessible_raw_sources_were_found_after_prior_PASS": true,
+    "raw_later_project_chat_transcripts_complete": false,
+    "raw_later_project_chat_status": "Later Project-history chats after the available raw exports remain indexed/recovered unless a verbatim export exists.",
     "full_visual_binary_corpus_loaded_into_python": false,
-    "visual_binary_status": "Full Library manifest is in GitHub; raw pixels for the entire visual corpus are not all loaded into this Python pass."
+    "full_visual_binary_status": "The full Library manifest is in GitHub; this Python pass does not contain every visual file's raw pixels.",
+    "current_master_is_not_a_substitute_for_raw_chat_history": true
   },
-  "result": "FAIL FOUND IN PRIOR 'COMPLETE' CLAIM — SOURCE PACKAGE EXPANDED; REMAINING RAW-LATER-CHAT AND FULL-VISUAL-BINARY GAPS MUST STAY EXPLICIT"
+  "result": "FAIL FOUND IN PRIOR COMPLETE-SOURCE PASS — RAW SOURCE INGEST EXPANDED; REMAINING RAW-LATER-CHAT AND FULL-VISUAL-BINARY GAPS REMAIN OPEN"
 }
