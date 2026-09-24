@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-23",
+  "scope": "ALL accessible Legacy-related chats, controls, safeguards, safe-gates/full-stops, policies, website design/launch, all created/drafted work, all statuses, all Mirror Reviews, current master, and full Library manifest",
+  "sources": {
+    "current_prompt_sha": "02a4d5714f5811f3175e6939f3980650691045c0",
+    "crossrefs_sha": "0b89602227692d22fa7b3c13440fd4734a1d2cd7",
+    "master_part_shas": [
+      "f26659f604fbc3a7669040756b06286eae198592",
+      "600ae2d19998e3831000d2aee88f58dfc65c516a",
+      "043dfe45cef609bf2e8b8689c48cad950751cbbf",
+      "e3eb80f168ba9b103202976729aae7e73db09177"
+    ],
+    "verbatim_chat_sha": "cf8b06d8de093f6c764bf63eccd39ba4612eadb9",
+    "failures_source_sha": "be0800ddb47c8a395b201decc901b6f561c66ccc",
+    "weekly_source_sha": "e33e3243e3ea811a9af3f051bd63d4dbb856535e",
+    "compendium_source_sha": "d6f6469a1883b619cff59be1f466c16dcdddb776",
+    "later_chat_index_sha": "7ea504c5c00c49da6502698811ce67c5f33d8706",
+    "library_manifest_sha": "5ccecbd833f85a65321434309891699f597e67ff"
+  },
+  "metrics": {
+    "master_sheets": 55,
+    "master_nonempty_rows": 2179,
+    "master_lock_controls": 25,
+    "mirror_reviews": 34,
+    "later_chat_records": 25,
+    "library_files": 1157,
+    "gate_term_classes_present": 12
+  },
+  "checks": {
+    "exact_current_prompt": true,
+    "prior_crossrefs_all_work": true,
+    "current_master_reassembles": true,
+    "master_55_sheets": true,
+    "master_2179_nonempty_rows": true,
+    "all_25_ml_controls": true,
+    "all_34_mirror_reviews": true,
+    "safeguards_fullstops_gates_present": true,
+    "policies_present": true,
+    "website_launch_sheet": true,
+    "funding_and_client_sheets": true,
+    "registration_compliance_sources": true,
+    "recovery_provenance_sources": true,
+    "all_status_classes": true,
+    "verbatim_chat_source_substantive": true,
+    "failures_source_substantive": true,
+    "weekly_source_present": true,
+    "compendium_source_substantive": true,
+    "later_chat_index_present": true,
+    "library_full_manifest": true,
+    "website_design_covered_by_chat_and_master": true,
+    "raw_and_recovered_chat_layers_distinguished": true
+  },
+  "result": "PASS"
+}
