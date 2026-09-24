@@ -1,0 +1,56 @@
+{
+  "review_id": "MR-2026-09-24-PROJECT-CORPUS-HANDOFF-CYCLE",
+  "scope": "Entire presently accessible THE AMW LEGACY Project corpus: prompt/control sources, safeguards/full-stops/gates, current master, all work statuses, raw/recovered chat layers, website/brand, business/funding/legal/resource work, visual corpus and new visual delta, Mirror Reviews, recovery/provenance, Library corpus, and GitHub handoff.",
+  "python_first_prompt_sha256": "13e81a5259f0248f05f003172ae7c41abbe726379b8402caefcd6b57f9882981",
+  "current_master": {
+    "sheets": 55,
+    "master_locks": "ML-001 through ML-025"
+  },
+  "live_library": {
+    "files": 1185,
+    "folders": 4,
+    "images": 1019,
+    "generated_files": 869,
+    "uploaded_files": 316
+  },
+  "delta_since_prior_github_manifest": {
+    "added_files": 17,
+    "removed_files": 0,
+    "new_images": 11
+  },
+  "visual_delta_review": {
+    "reviewed": 11,
+    "generated_boards_or_comparison_views": 4,
+    "screenshots_or_control_evidence": 7,
+    "authority_result": "None of the 11 filenames appears in current Approved Visual Authority / Visual Corpus Audit / Open Recovery Queue. Preserve as provenance/review evidence; do not promote to current authority without Founder approval/save direction."
+  },
+  "mirror_review_archive": {
+    "active_current_master_csv_unique_ids": 43,
+    "older_full_json_unique_ids": 35,
+    "correction": "Current-master CSV is the active archive authority for completeness counting; older FULL JSON is stale/incomplete provenance."
+  },
+  "chat_recovery": {
+    "historical_raw_sources_preserved": true,
+    "later_project_history_records": 26,
+    "raw_later_message_by_message_transcripts_complete": false,
+    "rule": "Do not claim all later Project chats are verbatim until raw message-level source is actually available."
+  },
+  "github_handoff": {
+    "exact_current_prompt_commit": "8144e55421c85f1ab487d9f6b6933017d55e4a9c",
+    "live_corpus_checkpoint_commit": "f6d33cb6ee866f467dc61e099cc5d8d1a8a19db0",
+    "binary_source_identity_manifest_commit": "c45b9c1a3a9fd472e4e0ee5c09852c9cc59c712c",
+    "mirror_archive_reconciliation_commit": "a38c4a2ac9c0ef94df9fea0727ff1b1c27b841a6",
+    "text_delta_records_transferred": 5,
+    "binary_exact_source_rule_applied": true
+  },
+  "corrections": [
+    "Do not stop the cycle after Python precheck; GitHub handoff, Mirror Review, post-review validation, and repeat-cycle closeout must all complete in the same requested execution.",
+    "Use the live Library corpus count, not stale prior checkpoint counts.",
+    "Treat the 55-sheet master as current operational control but not as a substitute for raw/recovered chat/source layers.",
+    "Use the current-master Mirror Review CSV as active archive authority until the stale FULL JSON is rebuilt.",
+    "Review new visual files through the Project image layer when raw-byte materialization is unavailable; preserve exact binary source identity in GitHub under the binary-artifact rule.",
+    "Do not promote generated boards, screenshots, rejected, superseded, draft, gap, or provenance items to current authority merely because they are handed off.",
+    "Keep the later raw Project-chat transcript gap explicit rather than making a false completeness claim."
+  ],
+  "result": "PASS FOR CURRENT ACCESSIBLE CORPUS / EXPLICIT RAW-LATER-CHAT GAP REMAINS OPEN"
+}
