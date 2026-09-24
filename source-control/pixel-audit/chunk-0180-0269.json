@@ -1,0 +1,907 @@
+{
+  "generated_at": "2026-09-24",
+  "offset": 180,
+  "count": 90,
+  "records": [
+    {
+      "file_id": "file_00000000d040822fb86c5311820cd8c0",
+      "name": "amw_visual_007(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_007(1).png",
+      "source_size_bytes": 984976,
+      "width": 678,
+      "height": 640,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d040822fb86c5311820cd8c0"
+    },
+    {
+      "file_id": "file_000000003844822f80c2f7e9309b0d9d",
+      "name": "amw_visual_007.png",
+      "path": "/THE AMW LEGACY/amw_visual_007.png",
+      "source_size_bytes": 984976,
+      "width": 678,
+      "height": 640,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003844822f80c2f7e9309b0d9d"
+    },
+    {
+      "file_id": "file_00000000a598822fb504799508ff3362",
+      "name": "amw_visual_008(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_008(1).png",
+      "source_size_bytes": 3955106,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a598822fb504799508ff3362"
+    },
+    {
+      "file_id": "file_0000000058ac822f895143be5cb8e7cf",
+      "name": "amw_visual_008.png",
+      "path": "/THE AMW LEGACY/amw_visual_008.png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000058ac822f895143be5cb8e7cf"
+    },
+    {
+      "file_id": "file_00000000ff10822fb8064386391c1213",
+      "name": "amw_visual_009(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_009(1).png",
+      "source_size_bytes": 3764365,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ff10822fb8064386391c1213"
+    },
+    {
+      "file_id": "file_000000005958822f8e83e15e6b00b125",
+      "name": "amw_visual_009.png",
+      "path": "/THE AMW LEGACY/amw_visual_009.png",
+      "source_size_bytes": 2769752,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005958822f8e83e15e6b00b125"
+    },
+    {
+      "file_id": "file_000000001e0c822f924ad261bfe81b84",
+      "name": "amw_visual_010(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_010(1).png",
+      "source_size_bytes": 3574184,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001e0c822f924ad261bfe81b84"
+    },
+    {
+      "file_id": "file_00000000bd10822f98c750b0bb36dec7",
+      "name": "amw_visual_010.png",
+      "path": "/THE AMW LEGACY/amw_visual_010.png",
+      "source_size_bytes": 3574184,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bd10822f98c750b0bb36dec7"
+    },
+    {
+      "file_id": "file_000000007e48822fb1259fedad70f1a9",
+      "name": "amw_visual_011(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_011(1).png",
+      "source_size_bytes": 2293660,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007e48822fb1259fedad70f1a9"
+    },
+    {
+      "file_id": "file_00000000d760822f8380e2b028980b57",
+      "name": "amw_visual_011(2).png",
+      "path": "/THE AMW LEGACY/amw_visual_011(2).png",
+      "source_size_bytes": 2293660,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d760822f8380e2b028980b57"
+    },
+    {
+      "file_id": "file_00000000db44822f82c5f59bc1bf5cd7",
+      "name": "amw_visual_011.png",
+      "path": "/THE AMW LEGACY/amw_visual_011.png",
+      "source_size_bytes": 2293660,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000db44822f82c5f59bc1bf5cd7"
+    },
+    {
+      "file_id": "file_000000000078822fa5900e5d75489a40",
+      "name": "amw_visual_012(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_012(1).png",
+      "source_size_bytes": 2200372,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000078822fa5900e5d75489a40"
+    },
+    {
+      "file_id": "file_0000000033b8822f922934376569bf65",
+      "name": "amw_visual_012(2).png",
+      "path": "/THE AMW LEGACY/amw_visual_012(2).png",
+      "source_size_bytes": 2200372,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000033b8822f922934376569bf65"
+    },
+    {
+      "file_id": "file_000000009df0822fb75cc784a64b4a74",
+      "name": "amw_visual_012.png",
+      "path": "/THE AMW LEGACY/amw_visual_012.png",
+      "source_size_bytes": 2200372,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009df0822fb75cc784a64b4a74"
+    },
+    {
+      "file_id": "file_000000000074822f908dab823202b763",
+      "name": "amw_visual_013(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_013(1).png",
+      "source_size_bytes": 3088944,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000074822f908dab823202b763"
+    },
+    {
+      "file_id": "file_00000000fe40822f8268a1ca6a446b94",
+      "name": "amw_visual_013(2).png",
+      "path": "/THE AMW LEGACY/amw_visual_013(2).png",
+      "source_size_bytes": 3088944,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fe40822f8268a1ca6a446b94"
+    },
+    {
+      "file_id": "file_0000000069a0822f9cf96012875660e8",
+      "name": "amw_visual_013.png",
+      "path": "/THE AMW LEGACY/amw_visual_013.png",
+      "source_size_bytes": 3088944,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000069a0822f9cf96012875660e8"
+    },
+    {
+      "file_id": "file_000000007abc822f99ae6f56ad73d738",
+      "name": "amw_visual_014(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_014(1).png",
+      "source_size_bytes": 3854561,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007abc822f99ae6f56ad73d738"
+    },
+    {
+      "file_id": "file_0000000075e4822fa1ea982dd39333bf",
+      "name": "amw_visual_014.png",
+      "path": "/THE AMW LEGACY/amw_visual_014.png",
+      "source_size_bytes": 2903645,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000075e4822fa1ea982dd39333bf"
+    },
+    {
+      "file_id": "file_000000006b6c822f920b45b390622a16",
+      "name": "amw_visual_015(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_015(1).png",
+      "source_size_bytes": 3970436,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006b6c822f920b45b390622a16"
+    },
+    {
+      "file_id": "file_0000000028bc822f8763be3146ab1f18",
+      "name": "amw_visual_015(2).png",
+      "path": "/THE AMW LEGACY/amw_visual_015(2).png",
+      "source_size_bytes": 3970436,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000028bc822f8763be3146ab1f18"
+    },
+    {
+      "file_id": "file_00000000d824822f8a8b64a81ff9d1f2",
+      "name": "amw_visual_015.png",
+      "path": "/THE AMW LEGACY/amw_visual_015.png",
+      "source_size_bytes": 2955916,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d824822f8a8b64a81ff9d1f2"
+    },
+    {
+      "file_id": "file_000000004630822fa7adee8e86245eda",
+      "name": "amw_visual_016(1).png",
+      "path": "/THE AMW LEGACY/amw_visual_016(1).png",
+      "source_size_bytes": 4044431,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004630822fa7adee8e86245eda"
+    },
+    {
+      "file_id": "file_00000000f37c822fa7dd63b568f8465c",
+      "name": "amw_visual_016.png",
+      "path": "/THE AMW LEGACY/amw_visual_016.png",
+      "source_size_bytes": 3126842,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f37c822fa7dd63b568f8465c"
+    },
+    {
+      "file_id": "file_00000000038c822f81e51841dd6965a2",
+      "name": "amw_visual_017.png",
+      "path": "/THE AMW LEGACY/amw_visual_017.png",
+      "source_size_bytes": 2077589,
+      "width": 2056,
+      "height": 765,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000038c822f81e51841dd6965a2"
+    },
+    {
+      "file_id": "file_00000000698c822f82fb49ed1a6004bc",
+      "name": "amw_visual_018.png",
+      "path": "/THE AMW LEGACY/amw_visual_018.png",
+      "source_size_bytes": 1077560,
+      "width": 1200,
+      "height": 1200,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000698c822f82fb49ed1a6004bc"
+    },
+    {
+      "file_id": "file_000000008e18822f9b076a3df5f4d694",
+      "name": "amw_visual_019.png",
+      "path": "/THE AMW LEGACY/amw_visual_019.png",
+      "source_size_bytes": 2930867,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008e18822f9b076a3df5f4d694"
+    },
+    {
+      "file_id": "file_00000000a7b0822faef1c764de31bac9",
+      "name": "amw_visual_020.png",
+      "path": "/THE AMW LEGACY/amw_visual_020.png",
+      "source_size_bytes": 879628,
+      "width": 1536,
+      "height": 410,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a7b0822faef1c764de31bac9"
+    },
+    {
+      "file_id": "file_00000000ad1c822faa12c845b062ebee",
+      "name": "amw_visual_021.png",
+      "path": "/THE AMW LEGACY/amw_visual_021.png",
+      "source_size_bytes": 1232928,
+      "width": 924,
+      "height": 614,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ad1c822faa12c845b062ebee"
+    },
+    {
+      "file_id": "file_0000000078d8822fbfa468d2e34587d4",
+      "name": "amw_visual_022.png",
+      "path": "/THE AMW LEGACY/amw_visual_022.png",
+      "source_size_bytes": 2579584,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000078d8822fbfa468d2e34587d4"
+    },
+    {
+      "file_id": "file_000000008d88822fb49217aac4845994",
+      "name": "amw_visual_023.png",
+      "path": "/THE AMW LEGACY/amw_visual_023.png",
+      "source_size_bytes": 444845,
+      "width": 560,
+      "height": 460,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008d88822fb49217aac4845994"
+    },
+    {
+      "file_id": "file_000000002ce0822fa35114d75706d3b5",
+      "name": "amw_visual_024.png",
+      "path": "/THE AMW LEGACY/amw_visual_024.png",
+      "source_size_bytes": 3004542,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002ce0822fa35114d75706d3b5"
+    },
+    {
+      "file_id": "file_000000000624822fbbcc1be87488d064",
+      "name": "amw_visual_025.png",
+      "path": "/THE AMW LEGACY/amw_visual_025.png",
+      "source_size_bytes": 3037176,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000624822fbbcc1be87488d064"
+    },
+    {
+      "file_id": "file_0000000064a8822fbd41967ab4c38e9a",
+      "name": "amw_visual_026.png",
+      "path": "/THE AMW LEGACY/amw_visual_026.png",
+      "source_size_bytes": 2363453,
+      "width": 1920,
+      "height": 1002,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000064a8822fbd41967ab4c38e9a"
+    },
+    {
+      "file_id": "file_00000000673c822f9e4f11278c53caf9",
+      "name": "amw_visual_027.png",
+      "path": "/THE AMW LEGACY/amw_visual_027.png",
+      "source_size_bytes": 4009710,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000673c822f9e4f11278c53caf9"
+    },
+    {
+      "file_id": "file_00000000f0f8822f81be82f9c22ee518",
+      "name": "amw_visual_028.png",
+      "path": "/THE AMW LEGACY/amw_visual_028.png",
+      "source_size_bytes": 2976905,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f0f8822f81be82f9c22ee518"
+    },
+    {
+      "file_id": "file_000000008504822fb8b0d7141f6fe113",
+      "name": "amw_visual_029.png",
+      "path": "/THE AMW LEGACY/amw_visual_029.png",
+      "source_size_bytes": 2810900,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008504822fb8b0d7141f6fe113"
+    },
+    {
+      "file_id": "file_00000000f3b0822f9464aee33308432b",
+      "name": "amw_visual_030.png",
+      "path": "/THE AMW LEGACY/amw_visual_030.png",
+      "source_size_bytes": 3067386,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f3b0822f9464aee33308432b"
+    },
+    {
+      "file_id": "file_0000000051a8822fa6aa3d251fd55814",
+      "name": "amw_visual_031.png",
+      "path": "/THE AMW LEGACY/amw_visual_031.png",
+      "source_size_bytes": 3153539,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000051a8822fa6aa3d251fd55814"
+    },
+    {
+      "file_id": "file_000000006cec822faf8a18a2831a81ae",
+      "name": "amw_visual_032.png",
+      "path": "/THE AMW LEGACY/amw_visual_032.png",
+      "source_size_bytes": 3084700,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006cec822faf8a18a2831a81ae"
+    },
+    {
+      "file_id": "file_00000000fe2c822f89eaadd9238302a0",
+      "name": "amw_visual_033.png",
+      "path": "/THE AMW LEGACY/amw_visual_033.png",
+      "source_size_bytes": 3839535,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fe2c822f89eaadd9238302a0"
+    },
+    {
+      "file_id": "file_000000004350822fa984c12571346fa4",
+      "name": "amw_visual_034.png",
+      "path": "/THE AMW LEGACY/amw_visual_034.png",
+      "source_size_bytes": 3183019,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004350822fa984c12571346fa4"
+    },
+    {
+      "file_id": "file_0000000044d8822fbe6b2d433df604fc",
+      "name": "amw_visual_035.png",
+      "path": "/THE AMW LEGACY/amw_visual_035.png",
+      "source_size_bytes": 4436539,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000044d8822fbe6b2d433df604fc"
+    },
+    {
+      "file_id": "file_00000000c1ac822fbf9348585edf05b6",
+      "name": "amw_visual_036.png",
+      "path": "/THE AMW LEGACY/amw_visual_036.png",
+      "source_size_bytes": 3023173,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c1ac822fbf9348585edf05b6"
+    },
+    {
+      "file_id": "file_0000000002a8822fb8c367a5f84b75cf",
+      "name": "amw_visual_037.png",
+      "path": "/THE AMW LEGACY/amw_visual_037.png",
+      "source_size_bytes": 3395354,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000002a8822fb8c367a5f84b75cf"
+    },
+    {
+      "file_id": "file_000000004294822f9b81068b10b1f52d",
+      "name": "amw_visual_038.png",
+      "path": "/THE AMW LEGACY/amw_visual_038.png",
+      "source_size_bytes": 3188724,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004294822f9b81068b10b1f52d"
+    },
+    {
+      "file_id": "file_000000007784822fb46fe6daf85275aa",
+      "name": "amw_visual_039.png",
+      "path": "/THE AMW LEGACY/amw_visual_039.png",
+      "source_size_bytes": 2966735,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007784822fb46fe6daf85275aa"
+    },
+    {
+      "file_id": "file_000000001e88822fb623af9d7f9071e3",
+      "name": "amw_visual_040.png",
+      "path": "/THE AMW LEGACY/amw_visual_040.png",
+      "source_size_bytes": 2211522,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001e88822fb623af9d7f9071e3"
+    },
+    {
+      "file_id": "file_0000000029b0822fbef62be836db4bf0",
+      "name": "amw_visual_041.png",
+      "path": "/THE AMW LEGACY/amw_visual_041.png",
+      "source_size_bytes": 4319266,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000029b0822fbef62be836db4bf0"
+    },
+    {
+      "file_id": "file_00000000a93c822fa48882d69d3ad4f2",
+      "name": "amw_visual_042.png",
+      "path": "/THE AMW LEGACY/amw_visual_042.png",
+      "source_size_bytes": 3285636,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a93c822fa48882d69d3ad4f2"
+    },
+    {
+      "file_id": "file_0000000024cc822f894b153cd8f394e7",
+      "name": "amw_visual_043.png",
+      "path": "/THE AMW LEGACY/amw_visual_043.png",
+      "source_size_bytes": 3076363,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000024cc822f894b153cd8f394e7"
+    },
+    {
+      "file_id": "file_00000000ede4822f86ac30c75a8ffeda",
+      "name": "amw_visual_044.png",
+      "path": "/THE AMW LEGACY/amw_visual_044.png",
+      "source_size_bytes": 3047520,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ede4822f86ac30c75a8ffeda"
+    },
+    {
+      "file_id": "file_00000000a7e4822faacff05e9991a481",
+      "name": "amw_visual_045.png",
+      "path": "/THE AMW LEGACY/amw_visual_045.png",
+      "source_size_bytes": 3008892,
+      "width": 1672,
+      "height": 941,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a7e4822faacff05e9991a481"
+    },
+    {
+      "file_id": "file_00000000bf2c822fb7d7dd65659572d2",
+      "name": "amw_visual_046.png",
+      "path": "/THE AMW LEGACY/amw_visual_046.png",
+      "source_size_bytes": 2862135,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bf2c822fb7d7dd65659572d2"
+    },
+    {
+      "file_id": "file_0000000074b0822fa196f99745d9a5be",
+      "name": "amw_visual_047.png",
+      "path": "/THE AMW LEGACY/amw_visual_047.png",
+      "source_size_bytes": 3281947,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000074b0822fa196f99745d9a5be"
+    },
+    {
+      "file_id": "file_000000002ef0822f87821399e9df7796",
+      "name": "amw_visual_048.png",
+      "path": "/THE AMW LEGACY/amw_visual_048.png",
+      "source_size_bytes": 2709743,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002ef0822f87821399e9df7796"
+    },
+    {
+      "file_id": "file_00000000b8f8822f9e82c1b1dd6b1edd",
+      "name": "amw_visual_049.png",
+      "path": "/THE AMW LEGACY/amw_visual_049.png",
+      "source_size_bytes": 2866209,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b8f8822f9e82c1b1dd6b1edd"
+    },
+    {
+      "file_id": "file_000000003a84822f8138ca9458d1a975",
+      "name": "amw_visual_050.png",
+      "path": "/THE AMW LEGACY/amw_visual_050.png",
+      "source_size_bytes": 3130772,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003a84822f8138ca9458d1a975"
+    },
+    {
+      "file_id": "file_000000001d58822fbe00debf40ddff08",
+      "name": "amw_visual_051.png",
+      "path": "/THE AMW LEGACY/amw_visual_051.png",
+      "source_size_bytes": 2866209,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001d58822fbe00debf40ddff08"
+    },
+    {
+      "file_id": "file_00000000260c822fa61c6097aa255d7e",
+      "name": "amw_visual_052.png",
+      "path": "/THE AMW LEGACY/amw_visual_052.png",
+      "source_size_bytes": 3020999,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000260c822fa61c6097aa255d7e"
+    },
+    {
+      "file_id": "file_00000000c47c822fbb1a66b4cf50012b",
+      "name": "amw_visual_053.png",
+      "path": "/THE AMW LEGACY/amw_visual_053.png",
+      "source_size_bytes": 4128302,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c47c822fbb1a66b4cf50012b"
+    },
+    {
+      "file_id": "file_000000008ac0822fa03d718f3561a12a",
+      "name": "amw_visual_054.png",
+      "path": "/THE AMW LEGACY/amw_visual_054.png",
+      "source_size_bytes": 3037139,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008ac0822fa03d718f3561a12a"
+    },
+    {
+      "file_id": "file_000000003cbc822fa5ff33d26b1e7915",
+      "name": "amw_visual_055.png",
+      "path": "/THE AMW LEGACY/amw_visual_055.png",
+      "source_size_bytes": 3139533,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003cbc822fa5ff33d26b1e7915"
+    },
+    {
+      "file_id": "file_00000000b634822fa6fc0d73bd1b1504",
+      "name": "amw_visual_056.png",
+      "path": "/THE AMW LEGACY/amw_visual_056.png",
+      "source_size_bytes": 2887044,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b634822fa6fc0d73bd1b1504"
+    },
+    {
+      "file_id": "file_000000003528822fa3fc3cc5cae5f5b4",
+      "name": "amw_visual_057.png",
+      "path": "/THE AMW LEGACY/amw_visual_057.png",
+      "source_size_bytes": 4030938,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003528822fa3fc3cc5cae5f5b4"
+    },
+    {
+      "file_id": "file_00000000e0ec822f8144c3c52d803c91",
+      "name": "amw_visual_058.png",
+      "path": "/THE AMW LEGACY/amw_visual_058.png",
+      "source_size_bytes": 4039047,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e0ec822f8144c3c52d803c91"
+    },
+    {
+      "file_id": "file_00000000ad1c822fb7896a3b50ff4135",
+      "name": "amw_visual_059.png",
+      "path": "/THE AMW LEGACY/amw_visual_059.png",
+      "source_size_bytes": 3269287,
+      "width": 1312,
+      "height": 1199,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ad1c822fb7896a3b50ff4135"
+    },
+    {
+      "file_id": "file_00000000e204822fa531e45c847be7a4",
+      "name": "amw_visual_060.png",
+      "path": "/THE AMW LEGACY/amw_visual_060.png",
+      "source_size_bytes": 3362834,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e204822fa531e45c847be7a4"
+    },
+    {
+      "file_id": "file_000000006dbc822f9c4a9915b237a77c",
+      "name": "amw_visual_061.png",
+      "path": "/THE AMW LEGACY/amw_visual_061.png",
+      "source_size_bytes": 2946598,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006dbc822f9c4a9915b237a77c"
+    },
+    {
+      "file_id": "file_000000002a70822fbefb0beb3318bb36",
+      "name": "amw_visual_062.png",
+      "path": "/THE AMW LEGACY/amw_visual_062.png",
+      "source_size_bytes": 3343763,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002a70822fbefb0beb3318bb36"
+    },
+    {
+      "file_id": "file_00000000eef8822f864902ad56e8e30d",
+      "name": "amw_visual_063.png",
+      "path": "/THE AMW LEGACY/amw_visual_063.png",
+      "source_size_bytes": 3354829,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000eef8822f864902ad56e8e30d"
+    },
+    {
+      "file_id": "file_000000003cc0822fb28cb4cb36f8df66",
+      "name": "amw_visual_064.png",
+      "path": "/THE AMW LEGACY/amw_visual_064.png",
+      "source_size_bytes": 2802248,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003cc0822fb28cb4cb36f8df66"
+    },
+    {
+      "file_id": "file_00000000ec00822f87b6c24de1d8d807",
+      "name": "amw_visual_065.png",
+      "path": "/THE AMW LEGACY/amw_visual_065.png",
+      "source_size_bytes": 2921302,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ec00822f87b6c24de1d8d807"
+    },
+    {
+      "file_id": "file_000000007de4822fbbc73064933e80c7",
+      "name": "amw_visual_066.png",
+      "path": "/THE AMW LEGACY/amw_visual_066.png",
+      "source_size_bytes": 2666608,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007de4822fbbc73064933e80c7"
+    },
+    {
+      "file_id": "file_000000001ac0822f94de08bf29f10293",
+      "name": "amw_visual_067.png",
+      "path": "/THE AMW LEGACY/amw_visual_067.png",
+      "source_size_bytes": 2875835,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001ac0822f94de08bf29f10293"
+    },
+    {
+      "file_id": "file_000000000e3c822fb4096d8fead12574",
+      "name": "amw_visual_068.png",
+      "path": "/THE AMW LEGACY/amw_visual_068.png",
+      "source_size_bytes": 3381159,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000e3c822fb4096d8fead12574"
+    },
+    {
+      "file_id": "file_00000000f484822f8ac1cb3c0a16c93f",
+      "name": "amw_visual_069.png",
+      "path": "/THE AMW LEGACY/amw_visual_069.png",
+      "source_size_bytes": 2713913,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f484822f8ac1cb3c0a16c93f"
+    },
+    {
+      "file_id": "file_00000000ce00822f8b1e6c5aeb1f423e",
+      "name": "AMW_VISUAL_CORPUS_COUNT_SUMMARY.png",
+      "path": "/THE AMW LEGACY/AMW_VISUAL_CORPUS_COUNT_SUMMARY.png",
+      "source_size_bytes": 62808,
+      "width": 1600,
+      "height": 900,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ce00822f8b1e6c5aeb1f423e"
+    },
+    {
+      "file_id": "file_00000000d97c822fb4d2ced1d0b98e57",
+      "name": "Aquarium Uniforms: A Brighter Tomorrow.png",
+      "path": "/THE AMW LEGACY/Aquarium Uniforms: A Brighter Tomorrow.png",
+      "source_size_bytes": 2311501,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d97c822fb4d2ced1d0b98e57"
+    },
+    {
+      "file_id": "file_00000000da78822fb4de9325d3a8a726",
+      "name": "AVONS_LACROSSE_LEGACY_COMPLEX_2_SUPPLY_SCHOOL_BUSES_REVIEW.png",
+      "path": "/THE AMW LEGACY/AVONS_LACROSSE_LEGACY_COMPLEX_2_SUPPLY_SCHOOL_BUSES_REVIEW.png",
+      "source_size_bytes": 2996969,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000da78822fb4de9325d3a8a726"
+    },
+    {
+      "file_id": "file_00000000f0cc822fbab0a28a547f1761",
+      "name": "Avon’s All-Year Lacrosse Legacy Complex.png",
+      "path": "/THE AMW LEGACY/Avon’s All-Year Lacrosse Legacy Complex.png",
+      "source_size_bytes": 3199805,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f0cc822fbab0a28a547f1761"
+    },
+    {
+      "file_id": "file_00000000583c822fb733f94a99224756",
+      "name": "Avon’s Lacrosse Legacy Complex Fleet Poster.png",
+      "path": "/THE AMW LEGACY/Avon’s Lacrosse Legacy Complex Fleet Poster.png",
+      "source_size_bytes": 3242679,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000583c822fb733f94a99224756"
+    },
+    {
+      "file_id": "file_000000001c84822fae50f38c9ae4606b",
+      "name": "Avon’s Lacrosse Legacy Complex Infographic.png",
+      "path": "/THE AMW LEGACY/Avon’s Lacrosse Legacy Complex Infographic.png",
+      "source_size_bytes": 3191604,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001c84822fae50f38c9ae4606b"
+    },
+    {
+      "file_id": "file_000000003168822fb96f5b73a2651623",
+      "name": "Avon’s Lacrosse Legacy Complex(1).png",
+      "path": "/THE AMW LEGACY/Avon’s Lacrosse Legacy Complex(1).png",
+      "source_size_bytes": 3280714,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003168822fb96f5b73a2651623"
+    },
+    {
+      "file_id": "file_000000006f08822f92b27b6bc9c315e1",
+      "name": "Avon’s Lacrosse Legacy Complex(2).png",
+      "path": "/THE AMW LEGACY/Avon’s Lacrosse Legacy Complex(2).png",
+      "source_size_bytes": 3266385,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006f08822f92b27b6bc9c315e1"
+    },
+    {
+      "file_id": "file_00000000e4f0822fbe85ad2f0474988e",
+      "name": "Avon’s Lacrosse Legacy Complex.png",
+      "path": "/THE AMW LEGACY/Avon’s Lacrosse Legacy Complex.png",
+      "source_size_bytes": 3146808,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e4f0822fbe85ad2f0474988e"
+    },
+    {
+      "file_id": "file_00000000fe88822f8fb51892d5d4beef",
+      "name": "b0d1fd50-b18e-4299-98bc-9a17935244a6.png",
+      "path": "/THE AMW LEGACY/b0d1fd50-b18e-4299-98bc-9a17935244a6.png",
+      "source_size_bytes": 4009710,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fe88822f8fb51892d5d4beef"
+    },
+    {
+      "file_id": "file_00000000a40c822fa1671bde21d9ad14",
+      "name": "b319721d-e05f-457a-a7f2-ac831fccf8a6.png",
+      "path": "/THE AMW LEGACY/b319721d-e05f-457a-a7f2-ac831fccf8a6.png",
+      "source_size_bytes": 219274,
+      "width": 1920,
+      "height": 1002,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a40c822fa1671bde21d9ad14"
+    },
+    {
+      "file_id": "file_00000000a900822fad1a8fcecf1be70c",
+      "name": "b7709143-84fc-49b1-a885-45e8d6223410.png",
+      "path": "/THE AMW LEGACY/b7709143-84fc-49b1-a885-45e8d6223410.png",
+      "source_size_bytes": 2301847,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a900822fad1a8fcecf1be70c"
+    },
+    {
+      "file_id": "file_0000000078f8822fa1423f57ae6cb60a",
+      "name": "b784f24b-721b-49cf-b05b-463cc4a45e0a.png",
+      "path": "/THE AMW LEGACY/b784f24b-721b-49cf-b05b-463cc4a45e0a.png",
+      "source_size_bytes": 4146082,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000078f8822fa1423f57ae6cb60a"
+    }
+  ]
+}
