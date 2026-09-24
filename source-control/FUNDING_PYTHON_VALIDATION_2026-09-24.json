@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-09-24T00:15:00-04:00",
+  "validation": "PASS",
+  "hard_gates": {
+    "zero_application_fee": true,
+    "no_debt_as_grant": true,
+    "no_equity_or_broad_ip_publicity_surrender": true,
+    "no_required_match": true,
+    "no_reimbursement_only": true,
+    "no_paid_membership_or_hidden_purchase": true,
+    "unregistered_business_gate_applied": true,
+    "already_submitted_not_recommended_as_new": true,
+    "no_fixed_opportunity_count": true,
+    "funding_never_frozen": true,
+    "verizon_override_specific_only": true
+  },
+  "qualified_active": [
+    "Verizon Small Business Digital Ready",
+    "AdIQ Cares Small Business Grant"
+  ],
+  "excluded_or_nonactive_examples": [
+    "WomensNet",
+    "Hey Helen",
+    "Her Agenda",
+    "Secretsos",
+    "Freed Fellowship",
+    "HerRise",
+    "Hustler's MicroGrant",
+    "Galaxy",
+    "Business Freedom",
+    "Marshalls Good Stuff Accelerator",
+    "Credibly",
+    "PGCEDC Accelerate AI"
+  ],
+  "outcome_tracking_only": [
+    "Coach K",
+    "Shophand",
+    "Awesome Foundation DC",
+    "TRANSFORM"
+  ]
+}
