@@ -1,0 +1,40 @@
+{
+  "validation_id": "PYTHON-GITHUB-FULL-SOURCE-RETEST-2026-09-23-2050ET",
+  "scope": "Founder prompt + all presently accessible Legacy source layers: raw/recovered chat sources, current/historical masters, controls, safeguards, full-stops, policies, website/launch, visuals, recovery/stabilization, all work statuses, and live Library manifest.",
+  "checks": {
+    "exact_current_founder_prompt_supplied_to_python": true,
+    "exact_current_founder_prompt_written_to_github": true,
+    "current_master_sheets_expected": 55,
+    "github_current_master_sheets_after_correction": 55,
+    "website_launch_sheet_in_github": true,
+    "workstream_reconciliation_sheet_in_github": true,
+    "master_locks_loaded": 25,
+    "missing_master_locks": [],
+    "required_source_classes_present_in_python": "20/20",
+    "historical_masters_present": [
+      "2026-09-13",
+      "2026-09-15",
+      "2026-09-19"
+    ],
+    "current_stabilization_master_present": true,
+    "mirror_review_recovery_visual_authority_sources_present": true,
+    "website_design_and_launch_sources_present": true,
+    "live_library_manifest_written_to_github": true,
+    "later_chat_raw_verbatim_transcripts_complete": false
+  },
+  "corrections_verified": [
+    "GitHub current-master-sheets was 53/55 and is now 55/55.",
+    "Website & Launch was missing as an individual GitHub current-master sheet and has been restored.",
+    "Workstream Reconciliation was missing as an individual GitHub current-master sheet and has been restored.",
+    "The exact current Founder prompt is now a source-control input rather than being reconstructed from an assistant summary.",
+    "All presently accessible raw/recovered chat layers remain in scope; recovered/indexed later-chat evidence is not mislabeled as verbatim.",
+    "No claim of complete all-dates verbatim chat history is permitted while the controlled Recovery Crosswalk says the export is not complete message-by-message for every date."
+  ],
+  "result": {
+    "accessible_source_package": "PASS AFTER CORRECTION",
+    "github_current_master_sheet_parity": "PASS \u2014 55/55",
+    "all_dates_verbatim_chat_history": "FAIL / RECOVERY GAP REMAINS",
+    "overall": "PASS FOR ACCESSIBLE-SOURCE INGEST AND GITHUB SHEET PARITY; FAIL FOR CLAIMING ALL-DATES VERBATIM CHAT COMPLETENESS"
+  },
+  "authority_boundary": "This is a technical validation result only. It does not create Founder approval, closure, supersession, release, save authority, or any other Legacy decision."
+}
