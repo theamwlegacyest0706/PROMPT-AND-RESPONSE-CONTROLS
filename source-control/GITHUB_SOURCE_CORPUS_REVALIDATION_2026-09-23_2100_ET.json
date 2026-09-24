@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-23",
+  "scope": "Revalidation after Founder challenged incomplete Python/GitHub source ingestion",
+  "checks": {
+    "python_validation_present": true,
+    "chat_recovery_index_present": true,
+    "drive_source_index_present": true,
+    "full_library_manifest_present": true,
+    "current_master_all_four_parts_present": true,
+    "raw_chat_ingest_expanded_to_current_recovered_set": true,
+    "raw_website_policy_governance_sources_added": true
+  },
+  "source_counts": {
+    "current_master_parts": 4,
+    "drive_index_items": 98,
+    "library_manifest_status": "present",
+    "python_raw_chat_sources_loaded": 10,
+    "chat_recovery_index_raw_source_records": 13
+  },
+  "explicit_open_gaps": [
+    "Raw later Project-chat transcripts remain incomplete where no verbatim export is available.",
+    "The full visual binary corpus is indexed by Library manifest but every raw visual pixel file has not been loaded into the Python validation pass.",
+    "Not every Drive workstream file is duplicated byte-for-byte into GitHub; the Drive source index preserves the accessible source inventory and the current master preserves controlled/recovered state."
+  ],
+  "prior_complete_pass_status": "INVALIDATED AS OVERBROAD",
+  "result": "PASS FOR SOURCE-INDEX/INGEST CORRECTION; NOT A CLAIM THAT EVERY RAW LATER CHAT OR EVERY VISUAL BINARY HAS BEEN INGESTED"
+}
