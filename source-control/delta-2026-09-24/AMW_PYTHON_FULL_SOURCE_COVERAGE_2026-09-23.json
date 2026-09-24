@@ -1,0 +1,378 @@
+{
+  "review_id": "PYTHON-FULL-SOURCE-COVERAGE-2026-09-23-2050ET",
+  "prompt_sha256": "ba4d127d998768ba1abd33ec7b4b76f84ec76eb70b9bb9ae8c9db3fd52d97c8a",
+  "python_result": "FAIL \u2014 FULL VERBATIM CHAT HISTORY IS NOT YET COMPLETELY MATERIALIZED",
+  "current_master": {
+    "sheet_count": 55,
+    "master_lock_count": 25,
+    "master_lock_ids": [
+      "ML-001",
+      "ML-002",
+      "ML-003",
+      "ML-004",
+      "ML-005",
+      "ML-006",
+      "ML-007",
+      "ML-008",
+      "ML-009",
+      "ML-010",
+      "ML-011",
+      "ML-012",
+      "ML-013",
+      "ML-014",
+      "ML-015",
+      "ML-016",
+      "ML-017",
+      "ML-018",
+      "ML-019",
+      "ML-020",
+      "ML-021",
+      "ML-022",
+      "ML-023",
+      "ML-024",
+      "ML-025"
+    ],
+    "website_launch_sheet_present": true,
+    "mirror_review_sheet_present": true,
+    "recovery_crosswalk_present": true,
+    "visual_corpus_audit_present": true,
+    "authority_dictionary_present": true
+  },
+  "live_library_inventory_input": {
+    "total_entries": 1162,
+    "files": 1158,
+    "folders": 4,
+    "pages_scanned": 12,
+    "github_manifest_path": "source-corpus/manifests/LIBRARY_FULL_LIVE_MANIFEST_2026-09-23_2050_ET.json",
+    "github_manifest_commit": "9880dbce4ee8eef45b7718039867809e3aa28d28"
+  },
+  "required_source_categories": {
+    "Founder prompt exact text": true,
+    "Verbatim chat source through 2026-08-29": true,
+    "Chat failure/history source": true,
+    "Full-chat reconciled register source": true,
+    "Controls / safeguards / policies": true,
+    "Master controlled compendium": true,
+    "Current master": true,
+    "Historical master 2026-09-13": true,
+    "Historical master 2026-09-15": true,
+    "Historical master 2026-09-19": true,
+    "Current stabilization master": true,
+    "Mirror Review archive": true,
+    "Recovery Crosswalk": true,
+    "Recovered Work Register": true,
+    "Open Recovery Queue": true,
+    "Visual Corpus Audit": true,
+    "Approved Visual Authority": true,
+    "Authority State Dictionary": true,
+    "Stabilization Corpus Summary": true,
+    "Website & Launch sheet": true
+  },
+  "source_files_ingested": [
+    {
+      "file": "AMW_Business_Plan_Controlled_Draft_2026-08-28.txt",
+      "path": "/mnt/data/amw_full_source/AMW_Business_Plan_Controlled_Draft_2026-08-28.txt",
+      "bytes": 20410,
+      "sha256": "35a80615e0f77b055cd1fd8aea84a7f4154c9c73308a42210eab0f7368239541",
+      "parsed_text": true,
+      "characters_ingested": 20350
+    },
+    {
+      "file": "AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29.txt",
+      "path": "/mnt/data/amw_full_source/AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29.txt",
+      "bytes": 55427,
+      "sha256": "92d221f06a2a3765be70373f30434886787e8a29e2ab9f26fb9d264fd910b942",
+      "parsed_text": true,
+      "characters_ingested": 55010
+    },
+    {
+      "file": "AMW_CONTROLLED_POLICIES_STANDARDS_SAFEGUARDS_2026-08-30.txt",
+      "path": "/mnt/data/amw_full_source/AMW_CONTROLLED_POLICIES_STANDARDS_SAFEGUARDS_2026-08-30.txt",
+      "bytes": 9534,
+      "sha256": "10712c1d4efa2ca4be1d220a777b6aba577f042d3f9fe8143ee91fbc10a63129",
+      "parsed_text": true,
+      "characters_ingested": 9514
+    },
+    {
+      "file": "AMW_CURRENT_MASTER_ALL_SHEETS_CURRENT_2026-09-23.json",
+      "path": "/mnt/data/amw_full_source/AMW_CURRENT_MASTER_ALL_SHEETS_CURRENT_2026-09-23.json",
+      "bytes": 1358959,
+      "sha256": "45890a9095ee6f026631aacc321a09c4851b4ec629083cdbb6a58d1a623242dc",
+      "parsed_text": true,
+      "characters_ingested": 1351465
+    },
+    {
+      "file": "AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.docx",
+      "path": "/mnt/data/amw_full_source/AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.docx",
+      "bytes": 174429,
+      "sha256": "740f9ae1e1c0c783f3528ab65ccaa5de570697a160c0f58beb30b742666db283",
+      "parsed_text": true,
+      "characters_ingested": 10983
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-03_CURRENT_CONTROLLED_FULL_CHAT_RECONCILED.txt",
+      "path": "/mnt/data/amw_full_source/AMW_MASTER_LAUNCH_REGISTERS_2026-09-03_CURRENT_CONTROLLED_FULL_CHAT_RECONCILED.txt",
+      "bytes": 279729,
+      "sha256": "b1aed2cdc368b866872ae61bc02e95f26c339029ea91237d496bc8184390213c",
+      "parsed_text": true,
+      "characters_ingested": 277998
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED_ALL_SHEETS.json",
+      "path": "/mnt/data/amw_full_source/AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED_ALL_SHEETS.json",
+      "bytes": 840832,
+      "sha256": "f2518ec2fdc85c8a9e2457f5cb5434caeaebbed5f81d49643b3e02d540b0e4d3",
+      "parsed_text": true,
+      "characters_ingested": 835042
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED_UPDATED_ALL_SHEETS.json",
+      "path": "/mnt/data/amw_full_source/AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED_UPDATED_ALL_SHEETS.json",
+      "bytes": 949084,
+      "sha256": "7b468b7e2803ef1c58e60a905e3cbf7bdd5ba071440f87132bf3cf776229e97a",
+      "parsed_text": true,
+      "characters_ingested": 942612
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED_ALL_SHEETS.json",
+      "path": "/mnt/data/amw_full_source/AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED_ALL_SHEETS.json",
+      "bytes": 1027834,
+      "sha256": "6ad3cb80c2f35f4ff661fa08d9fe64e705b431489d7ec1e1f3f06b7b4b29c4b1",
+      "parsed_text": true,
+      "characters_ingested": 1020698
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE_ALL_SHEETS.json",
+      "path": "/mnt/data/amw_full_source/AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE_ALL_SHEETS.json",
+      "bytes": 1080775,
+      "sha256": "ad8ceb1c8f392f2e638eeec29aef84586c70192af073d3023cffed3b187e1de4",
+      "parsed_text": true,
+      "characters_ingested": 1073281
+    },
+    {
+      "file": "CHATGPT Failures.txt",
+      "path": "/mnt/data/amw_full_source/CHATGPT Failures.txt",
+      "bytes": 56800,
+      "sha256": "65c77fa406f6f92a24aaa3aff1c9bfc81e994897ddd826a97c49f5ba8fbfd685",
+      "parsed_text": true,
+      "characters_ingested": 56197
+    },
+    {
+      "file": "AMW_CURRENT_MASTER_ALL_SHEETS_CURRENT_2026-09-23.json",
+      "path": "/mnt/data/amw_review/AMW_CURRENT_MASTER_ALL_SHEETS_CURRENT_2026-09-23.json",
+      "bytes": 1358959,
+      "sha256": "45890a9095ee6f026631aacc321a09c4851b4ec629083cdbb6a58d1a623242dc",
+      "parsed_text": true,
+      "characters_ingested": 1351465
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED_ALL_SHEETS.json",
+      "path": "/mnt/data/amw_review/AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED_ALL_SHEETS.json",
+      "bytes": 840832,
+      "sha256": "f2518ec2fdc85c8a9e2457f5cb5434caeaebbed5f81d49643b3e02d540b0e4d3",
+      "parsed_text": true,
+      "characters_ingested": 835042
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED_UPDATED_ALL_SHEETS.json",
+      "path": "/mnt/data/amw_review/AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED_UPDATED_ALL_SHEETS.json",
+      "bytes": 949084,
+      "sha256": "7b468b7e2803ef1c58e60a905e3cbf7bdd5ba071440f87132bf3cf776229e97a",
+      "parsed_text": true,
+      "characters_ingested": 942612
+    },
+    {
+      "file": "AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED_ALL_SHEETS.json",
+      "path": "/mnt/data/amw_review/AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED_ALL_SHEETS.json",
+      "bytes": 1027834,
+      "sha256": "6ad3cb80c2f35f4ff661fa08d9fe64e705b431489d7ec1e1f3f06b7b4b29c4b1",
+      "parsed_text": true,
+      "characters_ingested": 1020698
+    },
+    {
+      "file": "Approved_Visual_Authority_9_19.json",
+      "path": "/mnt/data/amw_review/Approved_Visual_Authority_9_19.json",
+      "bytes": 21053,
+      "sha256": "a1fb3b55d913dac23468def767b2cffc9795b3c9a28ad097e2f81150f880bddc",
+      "parsed_text": true,
+      "characters_ingested": 21053
+    },
+    {
+      "file": "Authority_State_Dictionary.json",
+      "path": "/mnt/data/amw_review/Authority_State_Dictionary.json",
+      "bytes": 2655,
+      "sha256": "c73c8b5d761e3f1ca086267c68e1c6b9babc921dc592999025089039da874f9a",
+      "parsed_text": true,
+      "characters_ingested": 2655
+    },
+    {
+      "file": "FINAL_MIRROR_REVIEW_ALL_WORK_ACCOUNTABILITY_2026-09-23.json",
+      "path": "/mnt/data/amw_review/FINAL_MIRROR_REVIEW_ALL_WORK_ACCOUNTABILITY_2026-09-23.json",
+      "bytes": 5598,
+      "sha256": "a2841ba5c195c98f674a3bd6295b5ffd1b0beec7a57238495110c09c53ebe2bf",
+      "parsed_text": true,
+      "characters_ingested": 5596
+    },
+    {
+      "file": "Mirror_Review_Archive.json",
+      "path": "/mnt/data/amw_review/Mirror_Review_Archive.json",
+      "bytes": 69212,
+      "sha256": "f6851c2f2687b88081e5b6a34057327d95bd21ae77b6bd225443991131d25485",
+      "parsed_text": true,
+      "characters_ingested": 69212
+    },
+    {
+      "file": "Open_Recovery_Queue.json",
+      "path": "/mnt/data/amw_review/Open_Recovery_Queue.json",
+      "bytes": 4397,
+      "sha256": "9046b6bbb2334ac98be07ddb1bc0f7e8b146fc00df566ec90adb6c62f8898251",
+      "parsed_text": true,
+      "characters_ingested": 4397
+    },
+    {
+      "file": "PYTHON_ALL_55_SHEET_INTEGRITY_INDEX_2026-09-23.json",
+      "path": "/mnt/data/amw_review/PYTHON_ALL_55_SHEET_INTEGRITY_INDEX_2026-09-23.json",
+      "bytes": 12376,
+      "sha256": "2b8ce226508895469ce1bce9024bda70a1dff76816f5a12380b9b9d40e8a800a",
+      "parsed_text": true,
+      "characters_ingested": 12376
+    },
+    {
+      "file": "PYTHON_ALL_WORK_ACCOUNTABILITY_REVIEW_2026-09-23.json",
+      "path": "/mnt/data/amw_review/PYTHON_ALL_WORK_ACCOUNTABILITY_REVIEW_2026-09-23.json",
+      "bytes": 4934,
+      "sha256": "752f14b8773461139cbf5ad4292ac2386c7e6d554235d4ba888bcb391a086c55",
+      "parsed_text": true,
+      "characters_ingested": 4934
+    },
+    {
+      "file": "Recovered_Work_Register.json",
+      "path": "/mnt/data/amw_review/Recovered_Work_Register.json",
+      "bytes": 102354,
+      "sha256": "13d3c9f8c407ba7443140d1469857f3bc9d9bdef7042561ea428b69d303daf7b",
+      "parsed_text": true,
+      "characters_ingested": 102354
+    },
+    {
+      "file": "Recovery_Crosswalk.json",
+      "path": "/mnt/data/amw_review/Recovery_Crosswalk.json",
+      "bytes": 50027,
+      "sha256": "bf00907fff622a17684169d6d89f8cc70a2cf54f3f557c9f5737d89cce2d483f",
+      "parsed_text": true,
+      "characters_ingested": 50027
+    },
+    {
+      "file": "Stabilization_Corpus_Summary.json",
+      "path": "/mnt/data/amw_review/Stabilization_Corpus_Summary.json",
+      "bytes": 1630,
+      "sha256": "d0ab0ee71c65eddbbe383b51db315609f4bb4aaa46b91796812e496ae467b9dc",
+      "parsed_text": true,
+      "characters_ingested": 1630
+    },
+    {
+      "file": "Visual_Corpus_Audit.json",
+      "path": "/mnt/data/amw_review/Visual_Corpus_Audit.json",
+      "bytes": 2620,
+      "sha256": "a315b8500224e3383d9310e431ee7bd92a8bffa1e31eec407fd7b473daf9109c",
+      "parsed_text": true,
+      "characters_ingested": 2620
+    }
+  ],
+  "historical_and_current_master_exports": {
+    "AMW_MASTER_LAUNCH_REGISTERS_2026-09-15_CURRENT_CONTROLLED_UPDATED_ALL_SHEETS.json": {
+      "sheet_or_export_count": 48,
+      "sample": [
+        "AMOS_Trigger_Register.csv",
+        "Award_Scoring_Template.csv",
+        "Barclay_Best_Buddy.csv",
+        "Campus_Interior_Control.csv",
+        "Client_Funding.csv",
+        "Contracts_Register.csv",
+        "Dashboard.csv",
+        "Duplicate_Deletion_Log.csv"
+      ]
+    },
+    "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE_ALL_SHEETS.json": {
+      "sheet_or_export_count": 55,
+      "sample": [
+        "AMOS_Trigger_Register.csv",
+        "Approved_Visual_Authority_9-19.csv",
+        "Authority_State_Dictionary.csv",
+        "Award_Scoring_Template.csv",
+        "Barclay_Best_Buddy.csv",
+        "Campus_Interior_Control.csv",
+        "Client_Funding.csv",
+        "Contracts_Register.csv"
+      ]
+    },
+    "AMW_MASTER_LAUNCH_REGISTERS_2026-09-13_CURRENT_CONTROLLED_STRENGTHENED_ALL_SHEETS.json": {
+      "sheet_or_export_count": 51,
+      "sample": [
+        "AMOS_Trigger_Register.csv",
+        "Award_Scoring_Template.csv",
+        "Barclay_Best_Buddy.csv",
+        "Campus_Interior_Control.csv",
+        "Client_Funding.csv",
+        "Contracts_Register.csv",
+        "Control_Inheritance_Gate.csv",
+        "Dashboard.csv"
+      ]
+    },
+    "AMW_MASTER_LAUNCH_REGISTERS_2026-09-19_CURRENT_CONTROLLED_RECONCILED_ALL_SHEETS.json": {
+      "sheet_or_export_count": 50,
+      "sample": [
+        "AMOS_Trigger_Register.csv",
+        "Approved_Visual_Authority_9-19.csv",
+        "Award_Scoring_Template.csv",
+        "Barclay_Best_Buddy.csv",
+        "Campus_Interior_Control.csv",
+        "Client_Funding.csv",
+        "Contracts_Register.csv",
+        "Dashboard.csv"
+      ]
+    },
+    "AMW_CURRENT_MASTER_ALL_SHEETS_CURRENT_2026-09-23.json": {
+      "sheet_or_export_count": 55,
+      "sample": [
+        "Dashboard",
+        "AMOS Trigger Register",
+        "Client Funding",
+        "Contracts Register",
+        "Event Readiness",
+        "Executive Action",
+        "Funding Pipeline",
+        "Holiday Readiness"
+      ]
+    }
+  },
+  "term_counts_across_ingested_text": {
+    "safeguard": 1558,
+    "full-stop": 597,
+    "full stop": 1,
+    "control": 25142,
+    "policy": 360,
+    "website": 338,
+    "Google Sites": 11,
+    "Mirror Review": 1792,
+    "Recovery Crosswalk": 243,
+    "visual": 8444,
+    "rejected": 89,
+    "superseded": 1188,
+    "historical": 1132,
+    "Founder": 13513,
+    "Update and Save": 71,
+    "Statement Placement": 3774,
+    "AMOS": 2952,
+    "funding": 2341,
+    "client": 2082,
+    "governance": 2486
+  },
+  "chat_history_completeness": {
+    "verbatim_2026_07_29_to_2026_08_29_present": true,
+    "chat_failures_source_present": true,
+    "full_chat_reconciled_register_present": true,
+    "known_not_complete_message_by_message_gap_detected": true,
+    "complete_all_dates_verbatim_claim_allowed": false
+  },
+  "correction": "Do not call the Python/GitHub corpus 'all Legacy chats' while the controlled Recovery Crosswalk itself says the available export is not a complete message-by-message transcript for every date. Preserve and ingest every available chat/source file, current/historical master, policy/control source, website/launch source, visual/recovery/authority source, and live Library manifest; keep the remaining verbatim-chat gap explicit rather than pretending it is complete."
+}
