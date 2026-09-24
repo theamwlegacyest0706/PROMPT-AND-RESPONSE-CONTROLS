@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-09-24T00:02:00-04:00",
+  "pass": "RECURSIVE PASS 2 AFTER CORRECTIONS",
+  "state": {
+    "live_library_files": 1172,
+    "live_images": 1008,
+    "model_generated_images": 744,
+    "non_generated_images": 264,
+    "pixel_attempted": 1008,
+    "pixel_native_ok": 1007,
+    "pixel_native_exception": 1,
+    "fleet_related_images": 103,
+    "sports_named_fleet_derivatives": 33,
+    "aquarium_named_fleet_images": 8,
+    "aquarium_five_reviewed": 5,
+    "aquarium_five_passed": 0,
+    "later_project_chat_raw_complete": false,
+    "later_project_chat_index_records": 26
+  },
+  "checks": {
+    "all_image_records_attempted": true,
+    "pixel_accounting_balances": true,
+    "image_split_balances": true,
+    "aquarium_five_actual_artifact_review_complete": true,
+    "aquarium_noncompliance_not_promoted": true,
+    "later_chat_gap_not_falsely_closed": true,
+    "all_scope_not_status_filtered": true,
+    "stale_756_count_superseded": true,
+    "stale_1074_file_count_superseded": true
+  },
+  "new_executable_corrections_found_in_this_pass": [],
+  "open_source_or_future_artifact_items": [
+    "Later Project-chat exact raw message-by-message transcripts are not available in the accessible source corpus.",
+    "Mini Stewards’ World Campus and Fleet.png returned no native pixel asset after repeated read attempts; extracted image text remains accessible.",
+    "Five Imagine Aquarium Magic standalone files fail controlled re-entry; compliant replacement rendering remains open.",
+    "Combined sports-fleet compliant replacement remains quarantined/open under existing controls.",
+    "Full row-by-row authority/lineage classification for 1,172 files / 1,008 images remains open."
+  ],
+  "result": "PASS FOR EXECUTED CORRECTIONS — NO NEW EXECUTABLE CORRECTION FOUND; TRUE SOURCE/ARTIFACT GAPS REMAIN OPEN AND MAY NOT BE CALLED COMPLETE"
+}
