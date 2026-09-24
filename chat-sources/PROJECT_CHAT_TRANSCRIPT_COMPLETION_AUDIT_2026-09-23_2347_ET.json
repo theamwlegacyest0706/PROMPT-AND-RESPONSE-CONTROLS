@@ -1,0 +1,255 @@
+{
+  "generated_at": "2026-09-23T23:47:00-04:00",
+  "scope": "Project-chat transcript completion review under Founder ALL directive",
+  "exact_raw_sources_present": [
+    {
+      "period": "2026-07-29 through 2026-08-29",
+      "source": "AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29",
+      "github_path": "chat-sources/AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29.txt",
+      "status": "VERBATIM SOURCE"
+    },
+    {
+      "period": "early Legacy history / recovery source",
+      "source": "CHATGPT Failures.docx",
+      "github_path": "chat-sources/CHATGPT_Failures_SOURCE.txt",
+      "status": "RAW RECOVERY SOURCE"
+    },
+    {
+      "period": "2026-08-29",
+      "source": "THE AMW LEGACY - AMW Weekly Update.docx",
+      "github_path": "chat-sources/THE_AMW_LEGACY_AMW_WEEKLY_UPDATE_2026-08-29.txt",
+      "status": "SOURCE EVIDENCE"
+    },
+    {
+      "period": "2026-08-30",
+      "source": "AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.docx",
+      "github_path": "chat-sources/AMW_MASTER_CONTROLLED_COMPENDIUM_2026-08-30.txt",
+      "status": "CONTROLLED COMPENDIUM / DERIVED FROM RECOVERED WORK"
+    },
+    {
+      "period": "historical chat source",
+      "source": "AMW COMPLETE UPLOADED CHAT WORK RECORD",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_COMPLETE_UPLOADED_CHAT_WORK_RECORD.txt",
+      "status": "RAW CHAT WORK SOURCE"
+    },
+    {
+      "period": "historical chat source",
+      "source": "CHATGPT Failures — Original Full Uploaded AMW Chat Source",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/CHATGPT_FAILURES_ORIGINAL_FULL_UPLOADED_AMW_CHAT_SOURCE.txt",
+      "status": "RAW RECOVERY / CHAT SOURCE"
+    },
+    {
+      "period": "historical chat source",
+      "source": "AMW Chat Work — Monday 1:49 AM",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_MONDAY_1_49_AM.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "historical chat source",
+      "source": "AMW Chat Work — Thursday 7:09 PM",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_THURSDAY_7_09_PM.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-04",
+      "source": "AMW Chat Work — Aug 4",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_4.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-21",
+      "source": "AMW Chat Work — Aug 21",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_21.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-07-29",
+      "source": "AMW Chat Work — Jul 29",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_JUL_29.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-07",
+      "source": "AMW Chat Work — Aug 7 Part 1",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_7_PART_1.txt",
+      "status": "RAW CHAT SOURCE"
+    },
+    {
+      "period": "2026-08-07",
+      "source": "AMW Chat Work — Aug 7 Part 2",
+      "github_path": "source-corpus/full-ingest-2026-09-23/chats/AMW_CHAT_WORK_AUG_7_PART_2.txt",
+      "status": "RAW CHAT SOURCE"
+    }
+  ],
+  "later_project_chats": [
+    {
+      "date": "2026-08-16",
+      "title": "AMW funding opportunities identified for action",
+      "coverage": "funding research, eligibility, action controls",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "AMW Complete Weekly Archive",
+      "coverage": "save/update, archive, recovery, preservation controls",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "AMW Friday Research Scan",
+      "coverage": "research scan, Founder prompt fidelity, controls",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "AMW Nonprofit Sector Brief",
+      "coverage": "Maryland/DC/federal nonprofit-sector monitoring",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Search confirmed AMW work",
+      "coverage": "visual recovery, Legacy institutions, operation manuals, source recovery",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Statement-register recovery conversation",
+      "coverage": "exhaustive statement/placement recovery across chats and sources",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Show Institution Visuals",
+      "coverage": "institution visual authority, Just Love Pond, visual prompt controls",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Design Betty’s Botanical Garden",
+      "coverage": "institution design, controlled visual and written specifications",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Funding controls / application execution conversation",
+      "coverage": "eligibility gates, Coach K, Shophand, application logging",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Intake/application control conversation",
+      "coverage": "Founder voice, no invented facts, controlled answer reuse, funding gates",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "AMW Daily Briefing",
+      "coverage": "Legacy controls and institutional-fleet school-bus updates",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Correct Legacy Village Design",
+      "coverage": "visual correction, approved design preservation, hostile-takeover account context",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Continue Legacy Chat",
+      "coverage": "Stewards’ Common Area exact-change control, Blazzing Blades rendering",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Enable Memory",
+      "coverage": "IR02 Mirror Review adjustment set and institutional review controls",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Daily Legacy Mirror Review",
+      "coverage": "daily self-governing review, save/durability corrections",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Tax Deduction For Grow House",
+      "coverage": "Legacy home-office plant/grow-house tax question",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Mini Fridge Deduction",
+      "coverage": "Legacy home-office equipment tax question / purchase parameters",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Daily Legacy Mirror Review",
+      "coverage": "institution status corrections, approved Making the Changes, Barclay’s Oopsie, Turning the Page",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Flooring Campus Design",
+      "coverage": "Laying the Path campus/fleet/uniform controls and Maryland tax control",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Daily Legacy Mirror Review",
+      "coverage": "all-work preservation/status controls, no inference of Founder intent",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "AMW Daily Briefing",
+      "coverage": "all-work production/preservation, current/draft/rejected/superseded lineage",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Stabilization Corrections Operationalization",
+      "coverage": "stabilization trigger, current Stabilization Master, recursive Mirror Review",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "AMW Daily Briefing",
+      "coverage": "Python/GitHub full-source control rule and source-package requirements",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Run Python GitHub Review",
+      "coverage": "Python + GitHub full-source control, all statuses, recursive validation",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Current control/Mirror Review chat",
+      "coverage": "all controls, safeguards, safe-gates, all work, registration/funding/service-limit accountability",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Full-source Python/GitHub completeness and Founder-authority correction",
+      "coverage": "Founder exact prompt persistence; full accessible Legacy source ingestion; 53/55 GitHub current-master sheet gap found and corrected; website/launch and Workstream Reconciliation restored; artifact-display false-PASS correction; decision-authority boundary; full-verbatim-chat recovery gap preserved.",
+      "transcript_state": "PROJECT-HISTORY/RECOVERY RECORD PRESENT; RAW MESSAGE-BY-MESSAGE EXPORT NOT PRESENT IN ACCESSIBLE SOURCE CORPUS"
+    }
+  ],
+  "source_checks": {
+    "library_named_chat_transcript_assets": [
+      "AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29.docx",
+      "AMW_COMPLETE_CHAT_WORK_VERBATIM_2026-07-29_to_2026-08-29.pdf",
+      "CHATGPT Failures.docx",
+      "CHATGPT_Failures_FULL_TEXT_2026-09-23.txt",
+      "THE_AMW_LEGACY_EVERYTHING_VERBATIM_SOURCE_AND_ARTIFACTS_2026-08-30.zip"
+    ],
+    "current_project_history_index_records": 26,
+    "raw_later_project_chat_transcripts_complete": false
+  },
+  "correction": "Historical exact transcript sources are preserved as exact/raw where supported. Later Project chats remain indexed by date/title/coverage and must not be mislabeled verbatim until a raw message-by-message source is actually available.",
+  "result": "HISTORICAL RAW TRANSCRIPT CORPUS PRESERVED; LATER PROJECT CHAT RAW TRANSCRIPTS REMAIN AN EXPLICIT SOURCE GAP — NO FALSE COMPLETE CLAIM"
+}
