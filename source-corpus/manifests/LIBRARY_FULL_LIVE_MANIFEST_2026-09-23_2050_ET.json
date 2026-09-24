@@ -1,22 +1,15 @@
 {
   "record": "THE AMW LEGACY — FULL LIVE LIBRARY SOURCE MANIFEST",
-  "generated_local": "2026-09-23T20:50:00-04:00",
-  "scope": "All recursively visible files and folders under /THE AMW LEGACY; no status filtering.",
+  "snapshot_local": "2026-09-23T20:50:00-04:00 — refreshed after source-correction outputs",
+  "scope": "All recursively visible files and folders under /THE AMW LEGACY at this snapshot; no status filtering.",
   "counts": {
-    "total_entries": 1162,
-    "files": 1158,
+    "total_entries": 1172,
+    "files": 1168,
     "folders": 4,
+    "image_files": 1008,
     "pages_scanned": 12
   },
-  "category_name_hits": {
-    "chat_sources": 5,
-    "controls_safeguards_policies": 106,
-    "website_brand_launch": 94,
-    "recovery_stabilization_history": 48,
-    "visuals_renderings": 1015,
-    "funding_business_operations": 25
-  },
-  "completeness_rule": "This is a live Library inventory, not a claim that every historical ChatGPT message exists as a verbatim file. Source gaps remain source gaps.",
+  "completeness_rule": "Snapshot count is not a claim that every historical ChatGPT message exists as a raw transcript. Raw later-chat gaps remain explicit.",
   "items": [
     {
       "name": "_GIT_SOURCE_CONTROL",
@@ -3867,6 +3860,38 @@
       "version": null
     },
     {
+      "name": "chart-1(20260924-010819).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010819).png",
+      "kind": "file",
+      "file_id": "file_000000009b74822f9f0f812d5de52a55",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
+      "name": "chart-1(20260924-010822).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010822).png",
+      "kind": "file",
+      "file_id": "file_00000000bc44822f89a7ef7c01d08268",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
+      "name": "chart-1(20260924-010828).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010828).png",
+      "kind": "file",
+      "file_id": "file_00000000efcc822f9a2e160b7522b9ed",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
+      "name": "chart-1(20260924-010830).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010830).png",
+      "kind": "file",
+      "file_id": "file_000000002f50822faf57d917ee071900",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
       "name": "chart-1(3).png",
       "path": "/THE AMW LEGACY/chart-1(3).png",
       "kind": "file",
@@ -4203,6 +4228,30 @@
       "version": null
     },
     {
+      "name": "chart-2(20260924-010820).png",
+      "path": "/THE AMW LEGACY/chart-2(20260924-010820).png",
+      "kind": "file",
+      "file_id": "file_00000000fdb4822fa0c004bb84ea7eeb",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
+      "name": "chart-2(20260924-010823).png",
+      "path": "/THE AMW LEGACY/chart-2(20260924-010823).png",
+      "kind": "file",
+      "file_id": "file_00000000680c822f91098f6b547c600f",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
+      "name": "chart-2(20260924-010829).png",
+      "path": "/THE AMW LEGACY/chart-2(20260924-010829).png",
+      "kind": "file",
+      "file_id": "file_000000001b74822faaeca22c66f4196a",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
       "name": "chart-2(3).png",
       "path": "/THE AMW LEGACY/chart-2(3).png",
       "kind": "file",
@@ -4435,6 +4484,14 @@
       "version": null
     },
     {
+      "name": "chart-3(20260924-010824).png",
+      "path": "/THE AMW LEGACY/chart-3(20260924-010824).png",
+      "kind": "file",
+      "file_id": "file_00000000d044822f91066b06448b0825",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
       "name": "chart-3(3).png",
       "path": "/THE AMW LEGACY/chart-3(3).png",
       "kind": "file",
@@ -4603,6 +4660,14 @@
       "version": null
     },
     {
+      "name": "chart-4(20260924-010825).png",
+      "path": "/THE AMW LEGACY/chart-4(20260924-010825).png",
+      "kind": "file",
+      "file_id": "file_00000000f920822fbf9fee89c9739a99",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
       "name": "chart-4(3).png",
       "path": "/THE AMW LEGACY/chart-4(3).png",
       "kind": "file",
@@ -4735,6 +4800,14 @@
       "path": "/THE AMW LEGACY/chart-5(20260923-035247).png",
       "kind": "file",
       "file_id": "file_000000006714822fa49ffe9bdf3f38ec",
+      "mime_type": "image/png",
+      "version": null
+    },
+    {
+      "name": "chart-5(20260924-010826).png",
+      "path": "/THE AMW LEGACY/chart-5(20260924-010826).png",
+      "kind": "file",
+      "file_id": "file_00000000fc2c822f91d700e04ea10073",
       "mime_type": "image/png",
       "version": null
     },
