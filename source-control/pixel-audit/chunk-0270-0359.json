@@ -1,0 +1,907 @@
+{
+  "generated_at": "2026-09-24",
+  "offset": 270,
+  "count": 90,
+  "records": [
+    {
+      "file_id": "file_000000002e3c822f908cdd63ac348865",
+      "name": "b8030b0d-15e3-4599-8010-49a01d561424(1).png",
+      "path": "/THE AMW LEGACY/b8030b0d-15e3-4599-8010-49a01d561424(1).png",
+      "source_size_bytes": 3968154,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002e3c822f908cdd63ac348865"
+    },
+    {
+      "file_id": "file_000000002c7c822fb64dad6ff41e1c62",
+      "name": "b8030b0d-15e3-4599-8010-49a01d561424(2).png",
+      "path": "/THE AMW LEGACY/b8030b0d-15e3-4599-8010-49a01d561424(2).png",
+      "source_size_bytes": 3968154,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002c7c822fb64dad6ff41e1c62"
+    },
+    {
+      "file_id": "file_0000000090fc81f6b11ac6ea5b0fbcac",
+      "name": "b8030b0d-15e3-4599-8010-49a01d561424.png",
+      "path": "/THE AMW LEGACY/b8030b0d-15e3-4599-8010-49a01d561424.png",
+      "source_size_bytes": 3968154,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000090fc81f6b11ac6ea5b0fbcac"
+    },
+    {
+      "file_id": "file_00000000d094822fb5898099b9cbed9c",
+      "name": "b9b0d506-3978-45dc-a1af-3ef579ac7efc(1).png",
+      "path": "/THE AMW LEGACY/b9b0d506-3978-45dc-a1af-3ef579ac7efc(1).png",
+      "source_size_bytes": 3940079,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d094822fb5898099b9cbed9c"
+    },
+    {
+      "file_id": "file_000000007b98822f9d2a5164acf0cae4",
+      "name": "b9b0d506-3978-45dc-a1af-3ef579ac7efc.png",
+      "path": "/THE AMW LEGACY/b9b0d506-3978-45dc-a1af-3ef579ac7efc.png",
+      "source_size_bytes": 3940079,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007b98822f9d2a5164acf0cae4"
+    },
+    {
+      "file_id": "file_00000000fd50822f9d01b9254a5b5114",
+      "name": "Barclays_24_Hour_Oopsie_Hospital_Current_Controlled_Source.png",
+      "path": "/THE AMW LEGACY/Barclays_24_Hour_Oopsie_Hospital_Current_Controlled_Source.png",
+      "source_size_bytes": 2875835,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fd50822f9d01b9254a5b5114"
+    },
+    {
+      "file_id": "file_000000003acc822f8245fdb017780ff2",
+      "name": "Barclays_Veterinary_Hospital_Design_Board.png",
+      "path": "/THE AMW LEGACY/Barclays_Veterinary_Hospital_Design_Board.png",
+      "source_size_bytes": 2875835,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003acc822f8245fdb017780ff2"
+    },
+    {
+      "file_id": "file_000000009308822f870b9a96fcc99c55",
+      "name": "Barclay’s Fleet: Mobility Creates Opportunity.png",
+      "path": "/THE AMW LEGACY/Barclay’s Fleet: Mobility Creates Opportunity.png",
+      "source_size_bytes": 2954515,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009308822f870b9a96fcc99c55"
+    },
+    {
+      "file_id": "file_000000009670822f80882c4b07920358",
+      "name": "Barclay’s Rescue Pawtrol Fleet Showcase.png",
+      "path": "/THE AMW LEGACY/Barclay’s Rescue Pawtrol Fleet Showcase.png",
+      "source_size_bytes": 2706544,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009670822f80882c4b07920358"
+    },
+    {
+      "file_id": "file_00000000151c81f5bef8e7d05cdc7bee",
+      "name": "be8ad861-66a2-416a-bc8b-0cbf38821782(1).png",
+      "path": "/THE AMW LEGACY/be8ad861-66a2-416a-bc8b-0cbf38821782(1).png",
+      "source_size_bytes": 4050990,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000151c81f5bef8e7d05cdc7bee"
+    },
+    {
+      "file_id": "file_00000000a0d881faa31e21f0fdd5d927",
+      "name": "be8ad861-66a2-416a-bc8b-0cbf38821782.png",
+      "path": "/THE AMW LEGACY/be8ad861-66a2-416a-bc8b-0cbf38821782.png",
+      "source_size_bytes": 4050990,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a0d881faa31e21f0fdd5d927"
+    },
+    {
+      "file_id": "file_00000000b9fc822f9ed0d02048b5591b",
+      "name": "Betty’s Botanical Garden Retreat.png",
+      "path": "/THE AMW LEGACY/Betty’s Botanical Garden Retreat.png",
+      "source_size_bytes": 3235247,
+      "width": 1312,
+      "height": 1199,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b9fc822f9ed0d02048b5591b"
+    },
+    {
+      "file_id": "file_000000009df0822fae0dc969de2bc0d0",
+      "name": "Blazing Blades Legacy Barbershop Blueprint(1).png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Blueprint(1).png",
+      "source_size_bytes": 2986142,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009df0822fae0dc969de2bc0d0"
+    },
+    {
+      "file_id": "file_000000004d10822f8bd24b622cd6a6b6",
+      "name": "Blazing Blades Legacy Barbershop Blueprint(2).png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Blueprint(2).png",
+      "source_size_bytes": 3007852,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004d10822f8bd24b622cd6a6b6"
+    },
+    {
+      "file_id": "file_000000007e40822f9c6ecc55c231be0a",
+      "name": "Blazing Blades Legacy Barbershop Blueprint.png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Blueprint.png",
+      "source_size_bytes": 2937626,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007e40822f9c6ecc55c231be0a"
+    },
+    {
+      "file_id": "file_00000000c700822faebe17f623bd9888",
+      "name": "BLAZING BLADES Legacy Barbershop Board(1).png",
+      "path": "/THE AMW LEGACY/BLAZING BLADES Legacy Barbershop Board(1).png",
+      "source_size_bytes": 2853713,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c700822faebe17f623bd9888"
+    },
+    {
+      "file_id": "file_0000000035b8822fba35b733acf15c85",
+      "name": "Blazing Blades Legacy Barbershop Board(2).png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Board(2).png",
+      "source_size_bytes": 3017231,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000035b8822fba35b733acf15c85"
+    },
+    {
+      "file_id": "file_00000000be28822fbf771fc14e2c11df",
+      "name": "Blazing Blades Legacy Barbershop Board(3).png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Board(3).png",
+      "source_size_bytes": 2810900,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000be28822fbf771fc14e2c11df"
+    },
+    {
+      "file_id": "file_000000001fe4822f8c94c022786e79e5",
+      "name": "Blazing Blades Legacy Barbershop Board.png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Board.png",
+      "source_size_bytes": 2877663,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001fe4822f8c94c022786e79e5"
+    },
+    {
+      "file_id": "file_000000004f68822fa9562549cf09535b",
+      "name": "Blazing Blades Legacy Barbershop Collage.png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Collage.png",
+      "source_size_bytes": 2846913,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004f68822fa9562549cf09535b"
+    },
+    {
+      "file_id": "file_000000005820822f9140444c79c3c8a1",
+      "name": "Blazing Blades Legacy Barbershop Concept Board(1).png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Concept Board(1).png",
+      "source_size_bytes": 3024572,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005820822f9140444c79c3c8a1"
+    },
+    {
+      "file_id": "file_00000000209c822fac63b00bf3e157aa",
+      "name": "Blazing Blades Legacy Barbershop Concept Board.png",
+      "path": "/THE AMW LEGACY/Blazing Blades Legacy Barbershop Concept Board.png",
+      "source_size_bytes": 2979751,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000209c822fac63b00bf3e157aa"
+    },
+    {
+      "file_id": "file_000000006348822fb4db89fd77e110b5",
+      "name": "Bridging Legacies at Sunset.png",
+      "path": "/THE AMW LEGACY/Bridging Legacies at Sunset.png",
+      "source_size_bytes": 3116713,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006348822fb4db89fd77e110b5"
+    },
+    {
+      "file_id": "file_00000000d840822f806db4afa1da01e8",
+      "name": "Bridging Legacies Campus Entrance.png",
+      "path": "/THE AMW LEGACY/Bridging Legacies Campus Entrance.png",
+      "source_size_bytes": 3301058,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d840822f806db4afa1da01e8"
+    },
+    {
+      "file_id": "file_000000007638822fa9a3ac7204d4964d",
+      "name": "Bridging_the_Legacies_actual_prior_visual.png",
+      "path": "/THE AMW LEGACY/Bridging_the_Legacies_actual_prior_visual.png",
+      "source_size_bytes": 1691808,
+      "width": 1800,
+      "height": 1100,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007638822fa9a3ac7204d4964d"
+    },
+    {
+      "file_id": "file_00000000fe98822f8384822f544d5202",
+      "name": "Building Better Futures: Campus Design Board.png",
+      "path": "/THE AMW LEGACY/Building Better Futures: Campus Design Board.png",
+      "source_size_bytes": 2685304,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fe98822f8384822f544d5202"
+    },
+    {
+      "file_id": "file_00000000fdf8822f90bb0ff8ff3af795",
+      "name": "c822ac39-9a58-47cd-b8b0-34554e9a8e25.png",
+      "path": "/THE AMW LEGACY/c822ac39-9a58-47cd-b8b0-34554e9a8e25.png",
+      "source_size_bytes": 2206336,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fdf8822f90bb0ff8ff3af795"
+    },
+    {
+      "file_id": "file_00000000bd68822f859db998ce15d705",
+      "name": "cdf94cdf-f2d1-4b77-b46d-2841ff933947.png",
+      "path": "/THE AMW LEGACY/cdf94cdf-f2d1-4b77-b46d-2841ff933947.png",
+      "source_size_bytes": 245766,
+      "width": 1680,
+      "height": 990,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bd68822f859db998ce15d705"
+    },
+    {
+      "file_id": "file_000000007808822f89f0bf0a74f55c1e",
+      "name": "ceceff1f-d863-4f6a-a6fa-508e7e9a5da7.png",
+      "path": "/THE AMW LEGACY/ceceff1f-d863-4f6a-a6fa-508e7e9a5da7.png",
+      "source_size_bytes": 3936269,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007808822f89f0bf0a74f55c1e"
+    },
+    {
+      "file_id": "file_000000009824822f8667c41b5a66a577",
+      "name": "cfed98dc-c73e-4b84-95fa-c312a843a877.png",
+      "path": "/THE AMW LEGACY/cfed98dc-c73e-4b84-95fa-c312a843a877.png",
+      "source_size_bytes": 1783414,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009824822f8667c41b5a66a577"
+    },
+    {
+      "file_id": "file_00000000e97c822f8801f951f5a26bd0",
+      "name": "chart-1(1).png",
+      "path": "/THE AMW LEGACY/chart-1(1).png",
+      "source_size_bytes": 481643,
+      "width": 2600,
+      "height": 3400,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e97c822f8801f951f5a26bd0"
+    },
+    {
+      "file_id": "file_0000000061b0822f988d9bbef1eff11c",
+      "name": "chart-1(10).png",
+      "path": "/THE AMW LEGACY/chart-1(10).png",
+      "source_size_bytes": 2918494,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000061b0822f988d9bbef1eff11c"
+    },
+    {
+      "file_id": "file_000000000bf0822f9e573fb42df58108",
+      "name": "chart-1(2).png",
+      "path": "/THE AMW LEGACY/chart-1(2).png",
+      "source_size_bytes": 324701,
+      "width": 2400,
+      "height": 3200,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000bf0822f9e573fb42df58108"
+    },
+    {
+      "file_id": "file_000000005c4c822f9d5e2d083296e938",
+      "name": "chart-1(20260911-044814).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-044814).png",
+      "source_size_bytes": 3947492,
+      "width": 1536,
+      "height": 1338,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005c4c822f9d5e2d083296e938"
+    },
+    {
+      "file_id": "file_0000000060e0822f916b974cf5b4042a",
+      "name": "chart-1(20260911-050212).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-050212).png",
+      "source_size_bytes": 3846533,
+      "width": 1536,
+      "height": 1403,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000060e0822f916b974cf5b4042a"
+    },
+    {
+      "file_id": "file_00000000f780822fa3086957d48ad618",
+      "name": "chart-1(20260911-053645).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-053645).png",
+      "source_size_bytes": 6008639,
+      "width": 1400,
+      "height": 2416,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f780822fa3086957d48ad618"
+    },
+    {
+      "file_id": "file_000000006ee8822fad116bbe52d06014",
+      "name": "chart-1(20260911-053919).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-053919).png",
+      "source_size_bytes": 2553834,
+      "width": 1536,
+      "height": 772,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006ee8822fad116bbe52d06014"
+    },
+    {
+      "file_id": "file_0000000070ac822f8512328dc5bf34bc",
+      "name": "chart-1(20260911-053925).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-053925).png",
+      "source_size_bytes": 2600396,
+      "width": 1536,
+      "height": 844,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000070ac822f8512328dc5bf34bc"
+    },
+    {
+      "file_id": "file_000000006280822fae6674aeb2f59972",
+      "name": "chart-1(20260911-151442).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-151442).png",
+      "source_size_bytes": 3051075,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006280822fae6674aeb2f59972"
+    },
+    {
+      "file_id": "file_00000000bc6881f69128f6f420e6999b",
+      "name": "chart-1(20260911-151445).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-151445).png",
+      "source_size_bytes": 3046414,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bc6881f69128f6f420e6999b"
+    },
+    {
+      "file_id": "file_00000000b8dc822f8cd023f54284fb99",
+      "name": "chart-1(20260911-160739).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-160739).png",
+      "source_size_bytes": 610290,
+      "width": 750,
+      "height": 625,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b8dc822f8cd023f54284fb99"
+    },
+    {
+      "file_id": "file_0000000018e481f5b5fb49f3de0c7989",
+      "name": "chart-1(20260911-165735).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-165735).png",
+      "source_size_bytes": 3911414,
+      "width": 1536,
+      "height": 1549,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000018e481f5b5fb49f3de0c7989"
+    },
+    {
+      "file_id": "file_0000000083588230a74b020a4a113105",
+      "name": "chart-1(20260911-165737).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-165737).png",
+      "source_size_bytes": 3911361,
+      "width": 1536,
+      "height": 1549,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000083588230a74b020a4a113105"
+    },
+    {
+      "file_id": "file_000000005b28822faa3981d08386b97b",
+      "name": "chart-1(20260911-172321).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-172321).png",
+      "source_size_bytes": 3005449,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005b28822faa3981d08386b97b"
+    },
+    {
+      "file_id": "file_0000000057a481f5b97b173e0c73c26a",
+      "name": "chart-1(20260911-173940).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-173940).png",
+      "source_size_bytes": 3132502,
+      "width": 1400,
+      "height": 1777,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000057a481f5b97b173e0c73c26a"
+    },
+    {
+      "file_id": "file_00000000333c81f5b64ae39d9be15003",
+      "name": "chart-1(20260911-173941).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-173941).png",
+      "source_size_bytes": 2292295,
+      "width": 1600,
+      "height": 735,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000333c81f5b64ae39d9be15003"
+    },
+    {
+      "file_id": "file_00000000371c822f83d44cc92052d916",
+      "name": "chart-1(20260911-174829).png",
+      "path": "/THE AMW LEGACY/chart-1(20260911-174829).png",
+      "source_size_bytes": 3841987,
+      "width": 1600,
+      "height": 1468,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000371c822f83d44cc92052d916"
+    },
+    {
+      "file_id": "file_00000000c00c822fad35732dd02d3f74",
+      "name": "chart-1(20260912-021801).png",
+      "path": "/THE AMW LEGACY/chart-1(20260912-021801).png",
+      "source_size_bytes": 2936939,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c00c822fad35732dd02d3f74"
+    },
+    {
+      "file_id": "file_000000005f04822f89c10836306a110f",
+      "name": "chart-1(20260912-021932).png",
+      "path": "/THE AMW LEGACY/chart-1(20260912-021932).png",
+      "source_size_bytes": 2800204,
+      "width": 1500,
+      "height": 1000,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005f04822f89c10836306a110f"
+    },
+    {
+      "file_id": "file_0000000000d0822fb5114eefb008d1c6",
+      "name": "chart-1(20260917-051904).png",
+      "path": "/THE AMW LEGACY/chart-1(20260917-051904).png",
+      "source_size_bytes": 2987177,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000000d0822fb5114eefb008d1c6"
+    },
+    {
+      "file_id": "file_000000001778822fa0470f5f9d8e39ac",
+      "name": "chart-1(20260918-223627).png",
+      "path": "/THE AMW LEGACY/chart-1(20260918-223627).png",
+      "source_size_bytes": 2796098,
+      "width": 1189,
+      "height": 1783,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001778822fa0470f5f9d8e39ac"
+    },
+    {
+      "file_id": "file_000000003630822fad38f332dc76c2fe",
+      "name": "chart-1(20260921-024451).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-024451).png",
+      "source_size_bytes": 2721891,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003630822fad38f332dc76c2fe"
+    },
+    {
+      "file_id": "file_000000000300822f957e7742d8050d75",
+      "name": "chart-1(20260921-025943).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-025943).png",
+      "source_size_bytes": 3354829,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000300822f957e7742d8050d75"
+    },
+    {
+      "file_id": "file_000000004554822fb9474c04849521a9",
+      "name": "chart-1(20260921-025953).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-025953).png",
+      "source_size_bytes": 3037176,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004554822fb9474c04849521a9"
+    },
+    {
+      "file_id": "file_000000000e90822f98f48c9e681de93a",
+      "name": "chart-1(20260921-030004).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030004).png",
+      "source_size_bytes": 2583763,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000e90822f98f48c9e681de93a"
+    },
+    {
+      "file_id": "file_0000000087e0822fb4e912ec1ec4e813",
+      "name": "chart-1(20260921-030015).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030015).png",
+      "source_size_bytes": 3010554,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000087e0822fb4e912ec1ec4e813"
+    },
+    {
+      "file_id": "file_000000003e0c822f8aeb29ed277a2647",
+      "name": "chart-1(20260921-030027).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030027).png",
+      "source_size_bytes": 2887044,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003e0c822f8aeb29ed277a2647"
+    },
+    {
+      "file_id": "file_000000005520822f87ba021a4c813e03",
+      "name": "chart-1(20260921-030038).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030038).png",
+      "source_size_bytes": 2946598,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005520822f87ba021a4c813e03"
+    },
+    {
+      "file_id": "file_00000000a978822fbcaa62be1572a97f",
+      "name": "chart-1(20260921-030048).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030048).png",
+      "source_size_bytes": 3285636,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a978822fbcaa62be1572a97f"
+    },
+    {
+      "file_id": "file_00000000c31c822fb4b98f566e201d04",
+      "name": "chart-1(20260921-030059).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030059).png",
+      "source_size_bytes": 3395354,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c31c822fb4b98f566e201d04"
+    },
+    {
+      "file_id": "file_000000004170822f8455857cf9760e0c",
+      "name": "chart-1(20260921-030111).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030111).png",
+      "source_size_bytes": 2967353,
+      "width": 1672,
+      "height": 941,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004170822f8455857cf9760e0c"
+    },
+    {
+      "file_id": "file_00000000c1b4822f8a58cbc8aba726fc",
+      "name": "chart-1(20260921-030115).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-030115).png",
+      "source_size_bytes": 2077589,
+      "width": 2056,
+      "height": 765,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c1b4822f8a58cbc8aba726fc"
+    },
+    {
+      "file_id": "file_000000002114822fadfd863b5de60255",
+      "name": "chart-1(20260921-062559).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-062559).png",
+      "source_size_bytes": 2875835,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002114822fadfd863b5de60255"
+    },
+    {
+      "file_id": "file_000000001544822fb18c815c1f0b8608",
+      "name": "chart-1(20260921-065913).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-065913).png",
+      "source_size_bytes": 1136302,
+      "width": 2000,
+      "height": 1500,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001544822fb18c815c1f0b8608"
+    },
+    {
+      "file_id": "file_000000009580822f8c0ccd8e21e38dc8",
+      "name": "chart-1(20260921-213816).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-213816).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009580822f8c0ccd8e21e38dc8"
+    },
+    {
+      "file_id": "file_0000000044e0822fa190e9fc7cf100b8",
+      "name": "chart-1(20260921-213818).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-213818).png",
+      "source_size_bytes": 728794,
+      "width": 960,
+      "height": 540,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000044e0822fa190e9fc7cf100b8"
+    },
+    {
+      "file_id": "file_000000009ef8822fad277d96a5ea3a79",
+      "name": "chart-1(20260921-213822).png",
+      "path": "/THE AMW LEGACY/chart-1(20260921-213822).png",
+      "source_size_bytes": 263988,
+      "width": 960,
+      "height": 540,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009ef8822fad277d96a5ea3a79"
+    },
+    {
+      "file_id": "file_000000009b1c81f8b833450619f48908",
+      "name": "chart-1(20260922-132030).png",
+      "path": "/THE AMW LEGACY/chart-1(20260922-132030).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009b1c81f8b833450619f48908"
+    },
+    {
+      "file_id": "file_00000000a3ac823094a8f55916ea6d7f",
+      "name": "chart-1(20260922-134134).png",
+      "path": "/THE AMW LEGACY/chart-1(20260922-134134).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a3ac823094a8f55916ea6d7f"
+    },
+    {
+      "file_id": "file_0000000004808230a445bcba211ac07e",
+      "name": "chart-1(20260922-134136).png",
+      "path": "/THE AMW LEGACY/chart-1(20260922-134136).png",
+      "source_size_bytes": 940156,
+      "width": 1520,
+      "height": 896,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000004808230a445bcba211ac07e"
+    },
+    {
+      "file_id": "file_000000006e9c822faefdee277ffaf39f",
+      "name": "chart-1(20260923-031316).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-031316).png",
+      "source_size_bytes": 1313281,
+      "width": 1600,
+      "height": 900,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006e9c822faefdee277ffaf39f"
+    },
+    {
+      "file_id": "file_000000000900822f86a3581dc0bf8c9b",
+      "name": "chart-1(20260923-034553).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-034553).png",
+      "source_size_bytes": 2182031,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000900822f86a3581dc0bf8c9b"
+    },
+    {
+      "file_id": "file_00000000924c822f9ca437e7c4d4c9e6",
+      "name": "chart-1(20260923-035242).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-035242).png",
+      "source_size_bytes": 1413831,
+      "width": 1536,
+      "height": 864,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000924c822f9ca437e7c4d4c9e6"
+    },
+    {
+      "file_id": "file_00000000de20822f804c1df733582469",
+      "name": "chart-1(20260923-035243).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-035243).png",
+      "source_size_bytes": 1553642,
+      "width": 1600,
+      "height": 900,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000de20822f804c1df733582469"
+    },
+    {
+      "file_id": "file_0000000051f8822f8ffb67ad3e9fb1ff",
+      "name": "chart-1(20260923-035248).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-035248).png",
+      "source_size_bytes": 1694988,
+      "width": 1600,
+      "height": 900,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000051f8822f8ffb67ad3e9fb1ff"
+    },
+    {
+      "file_id": "file_000000009924822f9111aa218bb8b088",
+      "name": "chart-1(20260923-035904).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-035904).png",
+      "source_size_bytes": 2875835,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009924822f9111aa218bb8b088"
+    },
+    {
+      "file_id": "file_000000005ad8822fadfce929bf1fefb9",
+      "name": "chart-1(20260923-035905).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-035905).png",
+      "source_size_bytes": 445810,
+      "width": 770,
+      "height": 285,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005ad8822fadfce929bf1fefb9"
+    },
+    {
+      "file_id": "file_00000000dd1c822f891173771989db71",
+      "name": "chart-1(20260923-035908).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-035908).png",
+      "source_size_bytes": 299900,
+      "width": 515,
+      "height": 285,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000dd1c822f891173771989db71"
+    },
+    {
+      "file_id": "file_000000007138822f82424d7ba1cc43cc",
+      "name": "chart-1(20260923-035912).png",
+      "path": "/THE AMW LEGACY/chart-1(20260923-035912).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007138822f82424d7ba1cc43cc"
+    },
+    {
+      "file_id": "file_000000009b74822f9f0f812d5de52a55",
+      "name": "chart-1(20260924-010819).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010819).png",
+      "source_size_bytes": 2769752,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009b74822f9f0f812d5de52a55"
+    },
+    {
+      "file_id": "file_00000000bc44822f89a7ef7c01d08268",
+      "name": "chart-1(20260924-010822).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010822).png",
+      "source_size_bytes": 1669315,
+      "width": 2200,
+      "height": 1700,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bc44822f89a7ef7c01d08268"
+    },
+    {
+      "file_id": "file_00000000efcc822f9a2e160b7522b9ed",
+      "name": "chart-1(20260924-010828).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010828).png",
+      "source_size_bytes": 2267486,
+      "width": 2200,
+      "height": 1700,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000efcc822f9a2e160b7522b9ed"
+    },
+    {
+      "file_id": "file_000000002f50822faf57d917ee071900",
+      "name": "chart-1(20260924-010830).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-010830).png",
+      "source_size_bytes": 1618376,
+      "width": 2200,
+      "height": 1500,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002f50822faf57d917ee071900"
+    },
+    {
+      "file_id": "file_00000000cd20822fa52670c97977f152",
+      "name": "chart-1(20260924-045046).png",
+      "path": "/THE AMW LEGACY/chart-1(20260924-045046).png",
+      "source_size_bytes": 2691685,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000cd20822fa52670c97977f152"
+    },
+    {
+      "file_id": "file_00000000d8c0822f82faf67ccb7a87ea",
+      "name": "chart-1(3).png",
+      "path": "/THE AMW LEGACY/chart-1(3).png",
+      "source_size_bytes": 3086889,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d8c0822f82faf67ccb7a87ea"
+    },
+    {
+      "file_id": "file_00000000654c822f85a970086849fda2",
+      "name": "chart-1(4).png",
+      "path": "/THE AMW LEGACY/chart-1(4).png",
+      "source_size_bytes": 3086889,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000654c822f85a970086849fda2"
+    },
+    {
+      "file_id": "file_0000000046a8822f8e0efc348bebe23b",
+      "name": "chart-1(5).png",
+      "path": "/THE AMW LEGACY/chart-1(5).png",
+      "source_size_bytes": 3109017,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000046a8822f8e0efc348bebe23b"
+    },
+    {
+      "file_id": "file_000000000d20822fb9fca391bd2ebee5",
+      "name": "chart-1(6).png",
+      "path": "/THE AMW LEGACY/chart-1(6).png",
+      "source_size_bytes": 2928664,
+      "width": 2200,
+      "height": 1700,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000d20822fb9fca391bd2ebee5"
+    },
+    {
+      "file_id": "file_00000000f458822f92e4507b12fbd3d9",
+      "name": "chart-1(7).png",
+      "path": "/THE AMW LEGACY/chart-1(7).png",
+      "source_size_bytes": 3109017,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f458822f92e4507b12fbd3d9"
+    },
+    {
+      "file_id": "file_000000003c58822f91135cda0ef68077",
+      "name": "chart-1(8).png",
+      "path": "/THE AMW LEGACY/chart-1(8).png",
+      "source_size_bytes": 1055085,
+      "width": 678,
+      "height": 640,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003c58822f91135cda0ef68077"
+    }
+  ]
+}
