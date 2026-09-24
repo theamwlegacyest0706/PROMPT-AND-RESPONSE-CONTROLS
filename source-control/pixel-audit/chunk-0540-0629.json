@@ -1,0 +1,907 @@
+{
+  "generated_at": "2026-09-24",
+  "offset": 540,
+  "count": 90,
+  "records": [
+    {
+      "file_id": "file_0000000030ec822f80baa04ddebe0cef",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(4).png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(4).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000030ec822f80baa04ddebe0cef"
+    },
+    {
+      "file_id": "file_0000000080e4822fbe738ed5fce3dd6f",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(5).png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(5).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000080e4822fbe738ed5fce3dd6f"
+    },
+    {
+      "file_id": "file_00000000746c822f8775b6c39fa59050",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(6).png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(6).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000746c822f8775b6c39fa59050"
+    },
+    {
+      "file_id": "file_000000000724822f8b4726e48da558bc",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(7).png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05(7).png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000724822f8b4726e48da558bc"
+    },
+    {
+      "file_id": "file_00000000fcac822fbc1fedb11c49194e",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20IMAGINE%20AQUARIUM%20MAGIC%20%E2%80%94%202026-09-05.png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fcac822fbc1fedb11c49194e"
+    },
+    {
+      "file_id": "file_00000000ff9c822fa268ccecefb7235a",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20JUST%20LOVE%20COY%20LAKE%20%E2%80%94%20THE%20AMW%20LEGACY%20LAKE%20%E2%80%94%202026-09-03.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20JUST%20LOVE%20COY%20LAKE%20%E2%80%94%20THE%20AMW%20LEGACY%20LAKE%20%E2%80%94%202026-09-03.png",
+      "source_size_bytes": 2807104,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ff9c822fa268ccecefb7235a"
+    },
+    {
+      "file_id": "file_0000000031b0822fb92f8944d7594d94",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20LEGACY%20VILLAGE%20ENTRANCE%20%E2%80%94%202026-09-10.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20LEGACY%20VILLAGE%20ENTRANCE%20%E2%80%94%202026-09-10.png",
+      "source_size_bytes": 4189173,
+      "width": 1768,
+      "height": 889,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000031b0822fb92f8944d7594d94"
+    },
+    {
+      "file_id": "file_00000000f500822fbc81ccf2af372a0f",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20LEGACY%20VILLAGE%20HOUSING%20DESIGN%20%E2%80%94%202026-09-10.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20LEGACY%20VILLAGE%20HOUSING%20DESIGN%20%E2%80%94%202026-09-10.png",
+      "source_size_bytes": 3345496,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f500822fbc81ccf2af372a0f"
+    },
+    {
+      "file_id": "file_000000008198822f85ed53445e713a34",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20ODAY%27S%20LEGACY%20GARAGE%20%2B%20CHRYS%27%20MASTER%20WOOD%20WORKING%20LEGACY%20CENTER%20%E2%80%94%202026-09-03.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20ODAY%27S%20LEGACY%20GARAGE%20%2B%20CHRYS%27%20MASTER%20WOOD%20WORKING%20LEGACY%20CENTER%20%E2%80%94%202026-09-03.png",
+      "source_size_bytes": 2609362,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008198822f85ed53445e713a34"
+    },
+    {
+      "file_id": "file_00000000d9e4822f8fc8297be750ed52",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20ODAY'S%20LEGACY%20GARAGE%20%2B%20CHRYS'%20MASTER%20WOOD%20WORKING%20LEGACY%20CENTER%20%E2%80%94%202026-09-03.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20ODAY'S%20LEGACY%20GARAGE%20%2B%20CHRYS'%20MASTER%20WOOD%20WORKING%20LEGACY%20CENTER%20%E2%80%94%202026-09-03.png",
+      "source_size_bytes": 2609362,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d9e4822f8fc8297be750ed52"
+    },
+    {
+      "file_id": "file_000000005194822fbf7a0c727bf5609e",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20SLOANE%27S%20STONES%20%E2%80%94%20AMW%20LEGACY%20PEBBLE%20GARDEN%20%E2%80%94%202026-09-03.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20SLOANE%27S%20STONES%20%E2%80%94%20AMW%20LEGACY%20PEBBLE%20GARDEN%20%E2%80%94%202026-09-03.png",
+      "source_size_bytes": 3100143,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005194822fbf7a0c727bf5609e"
+    },
+    {
+      "file_id": "file_000000000898822fbfe70b724d642303",
+      "name": "CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20SLOANE'S%20STONES%20%E2%80%94%20AMW%20LEGACY%20PEBBLE%20GARDEN%20%E2%80%94%202026-09-03.png",
+      "path": "/THE AMW LEGACY/CURRENT%20CONTROLLED%20VISUAL%20%E2%80%94%20SLOANE'S%20STONES%20%E2%80%94%20AMW%20LEGACY%20PEBBLE%20GARDEN%20%E2%80%94%202026-09-03.png",
+      "source_size_bytes": 3100143,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000000898822fbfe70b724d642303"
+    },
+    {
+      "file_id": "file_00000000127081f8a27f8441691357ab",
+      "name": "CURRENT_CONTROLLED_VISUAL_IMAGINE_AQUARIUM_MAGIC_2026-09-05.png",
+      "path": "/THE AMW LEGACY/CURRENT_CONTROLLED_VISUAL_IMAGINE_AQUARIUM_MAGIC_2026-09-05.png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000127081f8a27f8441691357ab"
+    },
+    {
+      "file_id": "file_0000000013e8822fb2cd95bf2ac902d6",
+      "name": "dd2ae50b-5321-4afd-aae6-9c49b86a31e8.png",
+      "path": "/THE AMW LEGACY/dd2ae50b-5321-4afd-aae6-9c49b86a31e8.png",
+      "source_size_bytes": 399933,
+      "width": 599,
+      "height": 424,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000013e8822fb2cd95bf2ac902d6"
+    },
+    {
+      "file_id": "file_00000000319c822f90d5bdb66dac6289",
+      "name": "dd82ab55-5244-439a-8ebb-c85c792ff49f.png",
+      "path": "/THE AMW LEGACY/dd82ab55-5244-439a-8ebb-c85c792ff49f.png",
+      "source_size_bytes": 257360,
+      "width": 411,
+      "height": 341,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000319c822f90d5bdb66dac6289"
+    },
+    {
+      "file_id": "file_00000000308c822fa5af7bb9a5c88c3e",
+      "name": "de81b8ed-224d-4565-afa2-04db1453c552.png",
+      "path": "/THE AMW LEGACY/de81b8ed-224d-4565-afa2-04db1453c552.png",
+      "source_size_bytes": 240515,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000308c822fa5af7bb9a5c88c3e"
+    },
+    {
+      "file_id": "file_000000007338822fbdba39c836f3dded",
+      "name": "Destinee’s Diary Music Studio Blueprint.png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Blueprint.png",
+      "source_size_bytes": 2470427,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007338822fbdba39c836f3dded"
+    },
+    {
+      "file_id": "file_000000003830822fac4c3c784d8eaf81",
+      "name": "Destinee’s Diary Music Studio Board.png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Board.png",
+      "source_size_bytes": 2317599,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003830822fac4c3c784d8eaf81"
+    },
+    {
+      "file_id": "file_00000000db5c822fa4b5897c38398d68",
+      "name": "Destinee’s Diary Music Studio Complex.png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Complex.png",
+      "source_size_bytes": 2492998,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000db5c822fa4b5897c38398d68"
+    },
+    {
+      "file_id": "file_00000000febc822fa1c40643131929ae",
+      "name": "Destinee’s Diary Music Studio Lounge(1).png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Lounge(1).png",
+      "source_size_bytes": 2469371,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000febc822fa1c40643131929ae"
+    },
+    {
+      "file_id": "file_00000000eb28822f8bfd3a9f1981ddc6",
+      "name": "Destinee’s Diary Music Studio Lounge(2).png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Lounge(2).png",
+      "source_size_bytes": 2580561,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000eb28822f8bfd3a9f1981ddc6"
+    },
+    {
+      "file_id": "file_00000000bd00822f9344c70e8718f61c",
+      "name": "Destinee’s Diary Music Studio Lounge.png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Lounge.png",
+      "source_size_bytes": 2460653,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bd00822f9344c70e8718f61c"
+    },
+    {
+      "file_id": "file_00000000a62c822fbd46d2457f3b3656",
+      "name": "Destinee’s Diary Music Studio Showcase(1).png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Showcase(1).png",
+      "source_size_bytes": 2542951,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a62c822fbd46d2457f3b3656"
+    },
+    {
+      "file_id": "file_000000003b24822fa8823b493902b85f",
+      "name": "Destinee’s Diary Music Studio Showcase(2).png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Showcase(2).png",
+      "source_size_bytes": 2441843,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003b24822fa8823b493902b85f"
+    },
+    {
+      "file_id": "file_0000000094ec822fad1d2cbd900c0fb2",
+      "name": "Destinee’s Diary Music Studio Showcase(3).png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Showcase(3).png",
+      "source_size_bytes": 2498883,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000094ec822fad1d2cbd900c0fb2"
+    },
+    {
+      "file_id": "file_0000000057b8822f817001ba1bdb7e27",
+      "name": "Destinee’s Diary Music Studio Showcase.png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio Showcase.png",
+      "source_size_bytes": 2417601,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000057b8822f817001ba1bdb7e27"
+    },
+    {
+      "file_id": "file_00000000ae18822faff43d32eae0c498",
+      "name": "Destinee’s Diary Music Studio.png",
+      "path": "/THE AMW LEGACY/Destinee’s Diary Music Studio.png",
+      "source_size_bytes": 2415536,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ae18822faff43d32eae0c498"
+    },
+    {
+      "file_id": "file_000000004420822f8b6556d5684a38ea",
+      "name": "e26ab37e-a6a5-4a02-b13d-ff19d52780ab(1).png",
+      "path": "/THE AMW LEGACY/e26ab37e-a6a5-4a02-b13d-ff19d52780ab(1).png",
+      "source_size_bytes": 146566,
+      "width": 1680,
+      "height": 993,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004420822f8b6556d5684a38ea"
+    },
+    {
+      "file_id": "file_00000000c230822f88cae54553bf3a4d",
+      "name": "e26ab37e-a6a5-4a02-b13d-ff19d52780ab.png",
+      "path": "/THE AMW LEGACY/e26ab37e-a6a5-4a02-b13d-ff19d52780ab.png",
+      "source_size_bytes": 146566,
+      "width": 1680,
+      "height": 993,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c230822f88cae54553bf3a4d"
+    },
+    {
+      "file_id": "file_00000000a508822fb7f4ea4eb42bdeb2",
+      "name": "ea25bf17-1dff-40c8-805d-1e2aab6859c1.png",
+      "path": "/THE AMW LEGACY/ea25bf17-1dff-40c8-805d-1e2aab6859c1.png",
+      "source_size_bytes": 362166,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a508822fb7f4ea4eb42bdeb2"
+    },
+    {
+      "file_id": "file_000000007a5c822f9e4e348feb26fbf2",
+      "name": "Eco-Friendly Campus Legacy Infographic.png",
+      "path": "/THE AMW LEGACY/Eco-Friendly Campus Legacy Infographic.png",
+      "source_size_bytes": 3248831,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007a5c822f9e4e348feb26fbf2"
+    },
+    {
+      "file_id": "file_00000000e4d0822fb0410d32c2dcf9d5",
+      "name": "efc0025e-60d2-424a-ba9f-8eb7dc4adc4b(1).png",
+      "path": "/THE AMW LEGACY/efc0025e-60d2-424a-ba9f-8eb7dc4adc4b(1).png",
+      "source_size_bytes": 4107089,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e4d0822fb0410d32c2dcf9d5"
+    },
+    {
+      "file_id": "file_000000006d10822fa5334fdc4874397f",
+      "name": "efc0025e-60d2-424a-ba9f-8eb7dc4adc4b.png",
+      "path": "/THE AMW LEGACY/efc0025e-60d2-424a-ba9f-8eb7dc4adc4b.png",
+      "source_size_bytes": 4107089,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006d10822fa5334fdc4874397f"
+    },
+    {
+      "file_id": "file_00000000d700822f9e02e1c7591edf59",
+      "name": "Elegant Healthcare Uniform Style Guide.png",
+      "path": "/THE AMW LEGACY/Elegant Healthcare Uniform Style Guide.png",
+      "source_size_bytes": 2368552,
+      "width": 1312,
+      "height": 1199,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d700822f9e02e1c7591edf59"
+    },
+    {
+      "file_id": "file_000000002484822fa085c1a527f76a2e",
+      "name": "Emerald and Gold Cosmetology Gallery Moodboard.png",
+      "path": "/THE AMW LEGACY/Emerald and Gold Cosmetology Gallery Moodboard.png",
+      "source_size_bytes": 2717293,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002484822fa085c1a527f76a2e"
+    },
+    {
+      "file_id": "file_00000000fda4822f8af1dc4e3ad1e7ea",
+      "name": "Emerald Cosmetology Gallery Concept Board.png",
+      "path": "/THE AMW LEGACY/Emerald Cosmetology Gallery Concept Board.png",
+      "source_size_bytes": 2691685,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fda4822f8af1dc4e3ad1e7ea"
+    },
+    {
+      "file_id": "file_000000007498822f975240f1e54836b8",
+      "name": "Emerald Luxury Cosmetology Gallery.png",
+      "path": "/THE AMW LEGACY/Emerald Luxury Cosmetology Gallery.png",
+      "source_size_bytes": 2726605,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007498822f975240f1e54836b8"
+    },
+    {
+      "file_id": "file_000000002850822f941116e351bc4484",
+      "name": "Emerald Masterpiece Salon Gallery.png",
+      "path": "/THE AMW LEGACY/Emerald Masterpiece Salon Gallery.png",
+      "source_size_bytes": 2753617,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002850822f941116e351bc4484"
+    },
+    {
+      "file_id": "file_00000000d04481fd8b4a894f2bda24ea",
+      "name": "f19adea1-9f09-41fb-af8d-1bfa4d3bdcb5.png",
+      "path": "/THE AMW LEGACY/f19adea1-9f09-41fb-af8d-1bfa4d3bdcb5.png",
+      "source_size_bytes": 1750780,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d04481fd8b4a894f2bda24ea"
+    },
+    {
+      "file_id": "file_0000000074c8822fb00df3bd7aaefbf1",
+      "name": "f4097fb5-4f28-4edb-9082-d3fc4b6daa00.png",
+      "path": "/THE AMW LEGACY/f4097fb5-4f28-4edb-9082-d3fc4b6daa00.png",
+      "source_size_bytes": 3040400,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000074c8822fb00df3bd7aaefbf1"
+    },
+    {
+      "file_id": "file_00000000dfe8822f8bf3be5ce31f8621",
+      "name": "f41645ed-583a-43de-a407-352c96a36428.png",
+      "path": "/THE AMW LEGACY/f41645ed-583a-43de-a407-352c96a36428.png",
+      "source_size_bytes": 2363453,
+      "width": 1920,
+      "height": 1002,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000dfe8822f8bf3be5ce31f8621"
+    },
+    {
+      "file_id": "file_00000000e704822fa274cbf1d76a3064",
+      "name": "f61891c7-26a6-49f3-8651-63e27f89d341.png",
+      "path": "/THE AMW LEGACY/f61891c7-26a6-49f3-8651-63e27f89d341.png",
+      "source_size_bytes": 4186677,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e704822fa274cbf1d76a3064"
+    },
+    {
+      "file_id": "file_00000000b584822fadf782d94a435d15",
+      "name": "f679dc9f-2db6-47b1-a943-aa4ccb2caae6.png",
+      "path": "/THE AMW LEGACY/f679dc9f-2db6-47b1-a943-aa4ccb2caae6.png",
+      "source_size_bytes": 1448839,
+      "width": 1680,
+      "height": 1050,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b584822fadf782d94a435d15"
+    },
+    {
+      "file_id": "file_000000007d24822faacd2e252442f61e",
+      "name": "f93312ee-ff96-45a1-acc6-6e74584bb04c.png",
+      "path": "/THE AMW LEGACY/f93312ee-ff96-45a1-acc6-6e74584bb04c.png",
+      "source_size_bytes": 423068,
+      "width": 849,
+      "height": 275,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007d24822faacd2e252442f61e"
+    },
+    {
+      "file_id": "file_0000000084a0822fae6b22ddaf9c98e9",
+      "name": "Fashion Innovation Campus Concept Board.png",
+      "path": "/THE AMW LEGACY/Fashion Innovation Campus Concept Board.png",
+      "source_size_bytes": 3183019,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000084a0822fae6b22ddaf9c98e9"
+    },
+    {
+      "file_id": "file_000000005ee8820dbd2a20d333501bcc",
+      "name": "fc35d9f9-ffd9-4e74-931f-a1181dfd8bce.png",
+      "path": "/THE AMW LEGACY/fc35d9f9-ffd9-4e74-931f-a1181dfd8bce.png",
+      "source_size_bytes": 395099,
+      "width": 1920,
+      "height": 1080,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005ee8820dbd2a20d333501bcc"
+    },
+    {
+      "file_id": "file_00000000aeec822f8b056a75dedda483",
+      "name": "Golden-Hour Legacy Village Master Plan.png",
+      "path": "/THE AMW LEGACY/Golden-Hour Legacy Village Master Plan.png",
+      "source_size_bytes": 3409191,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000aeec822f8b056a75dedda483"
+    },
+    {
+      "file_id": "file_0000000002b48230b93fd24b3c0d31d3",
+      "name": "Humane Cleaning Campus Vision Board.png",
+      "path": "/THE AMW LEGACY/Humane Cleaning Campus Vision Board.png",
+      "source_size_bytes": 3402883,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000002b48230b93fd24b3c0d31d3"
+    },
+    {
+      "file_id": "file_000000006d80822f9d8dca6576a40580",
+      "name": "Illuminated Phoenix Plaza Theatre Concept Board.png",
+      "path": "/THE AMW LEGACY/Illuminated Phoenix Plaza Theatre Concept Board.png",
+      "source_size_bytes": 3057745,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006d80822f9d8dca6576a40580"
+    },
+    {
+      "file_id": "file_00000000b91c822fbf529a33f760d912",
+      "name": "Imagine Aquarium Magic Concept Board.png",
+      "path": "/THE AMW LEGACY/Imagine Aquarium Magic Concept Board.png",
+      "source_size_bytes": 2991030,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000b91c822fbf529a33f760d912"
+    },
+    {
+      "file_id": "file_000000006da4822fb89b7cdcac5dbd93",
+      "name": "IMAGINE_AQUARIUM_MAGIC_BUS_INTERIORS_FOUNDER_REVIEW_2026-09-21.png",
+      "path": "/THE AMW LEGACY/IMAGINE_AQUARIUM_MAGIC_BUS_INTERIORS_FOUNDER_REVIEW_2026-09-21.png",
+      "source_size_bytes": 1136302,
+      "width": 2000,
+      "height": 1500,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006da4822fb89b7cdcac5dbd93"
+    },
+    {
+      "file_id": "file_0000000034d0822fb5737fe2784656e8",
+      "name": "IMAGINE_AQUARIUMS_22ND_CENTURY_SCHOOL_BUS_EXTERIOR_SOURCE.png",
+      "path": "/THE AMW LEGACY/IMAGINE_AQUARIUMS_22ND_CENTURY_SCHOOL_BUS_EXTERIOR_SOURCE.png",
+      "source_size_bytes": 940156,
+      "width": 1520,
+      "height": 896,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000034d0822fb5737fe2784656e8"
+    },
+    {
+      "file_id": "file_000000004f3c820997dfa4233bc830b6",
+      "name": "IMAGINE_AQUARIUMS_SCHOOL_BUS_INTERIOR_SOURCE.png",
+      "path": "/THE AMW LEGACY/IMAGINE_AQUARIUMS_SCHOOL_BUS_INTERIOR_SOURCE.png",
+      "source_size_bytes": 896134,
+      "width": 1512,
+      "height": 896,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004f3c820997dfa4233bc830b6"
+    },
+    {
+      "file_id": "file_000000004ff0822fb9b49f37f461ff02",
+      "name": "Instant Wins Volleyball Campus & Fleet.png",
+      "path": "/THE AMW LEGACY/Instant Wins Volleyball Campus & Fleet.png",
+      "source_size_bytes": 3037139,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004ff0822fb9b49f37f461ff02"
+    },
+    {
+      "file_id": "file_000000006b34822f9962154e7838285d",
+      "name": "Instant Wins Volleyball Complex Master Plan.png",
+      "path": "/THE AMW LEGACY/Instant Wins Volleyball Complex Master Plan.png",
+      "source_size_bytes": 3321490,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006b34822f9962154e7838285d"
+    },
+    {
+      "file_id": "file_00000000d604822f925348972857a784",
+      "name": "Instant Wins Volleyball Complex Masterplan.png",
+      "path": "/THE AMW LEGACY/Instant Wins Volleyball Complex Masterplan.png",
+      "source_size_bytes": 3307717,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d604822f925348972857a784"
+    },
+    {
+      "file_id": "file_0000000059b4822faf5a1276faf46c78",
+      "name": "Instant Wins Volleyball Complex Poster.png",
+      "path": "/THE AMW LEGACY/Instant Wins Volleyball Complex Poster.png",
+      "source_size_bytes": 3231541,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000059b4822faf5a1276faf46c78"
+    },
+    {
+      "file_id": "file_0000000097d0822f847da98d57b4ba6e",
+      "name": "Instant Wins Volleyball Complex(1).png",
+      "path": "/THE AMW LEGACY/Instant Wins Volleyball Complex(1).png",
+      "source_size_bytes": 3281348,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000097d0822f847da98d57b4ba6e"
+    },
+    {
+      "file_id": "file_000000002048822fbd7068477c6c8dfe",
+      "name": "Instant Wins Volleyball Complex.png",
+      "path": "/THE AMW LEGACY/Instant Wins Volleyball Complex.png",
+      "source_size_bytes": 3283387,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000002048822fbd7068477c6c8dfe"
+    },
+    {
+      "file_id": "file_000000008308822fadf84da45a6eb35c",
+      "name": "Justified Wins Athletic Complex Showcase.png",
+      "path": "/THE AMW LEGACY/Justified Wins Athletic Complex Showcase.png",
+      "source_size_bytes": 3139533,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008308822fadf84da45a6eb35c"
+    },
+    {
+      "file_id": "file_00000000c0c0822f870f43a5d148d58c",
+      "name": "Justified Wins Lacrosse Complex Board.png",
+      "path": "/THE AMW LEGACY/Justified Wins Lacrosse Complex Board.png",
+      "source_size_bytes": 3159961,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000c0c0822f870f43a5d148d58c"
+    },
+    {
+      "file_id": "file_000000009f7c822fab08c13ae8a6b1a7",
+      "name": "Justified Wins Sports Complex Concept Board.png",
+      "path": "/THE AMW LEGACY/Justified Wins Sports Complex Concept Board.png",
+      "source_size_bytes": 3157479,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009f7c822fab08c13ae8a6b1a7"
+    },
+    {
+      "file_id": "file_00000000e23c822f8d17b6f7c70bbece",
+      "name": "Leaving Meaningful Words Campus Concept Board.png",
+      "path": "/THE AMW LEGACY/Leaving Meaningful Words Campus Concept Board.png",
+      "source_size_bytes": 3156094,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000e23c822f8d17b6f7c70bbece"
+    },
+    {
+      "file_id": "file_0000000078f8822fbd06ace1b2ba1c2b",
+      "name": "Leaving Meaningful Words: Literacy Campus.png",
+      "path": "/THE AMW LEGACY/Leaving Meaningful Words: Literacy Campus.png",
+      "source_size_bytes": 3153539,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000078f8822fbd06ace1b2ba1c2b"
+    },
+    {
+      "file_id": "file_0000000027e4822f89c6d86f0d031f02",
+      "name": "Legacy Campus Mobility Coach.png",
+      "path": "/THE AMW LEGACY/Legacy Campus Mobility Coach.png",
+      "source_size_bytes": 2490073,
+      "width": 1774,
+      "height": 887,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000027e4822f89c6d86f0d031f02"
+    },
+    {
+      "file_id": "file_000000008ae8822f8d83eb208eaa5ee9",
+      "name": "Legacy Comfort Shuttle Concept.png",
+      "path": "/THE AMW LEGACY/Legacy Comfort Shuttle Concept.png",
+      "source_size_bytes": 2545608,
+      "width": 1774,
+      "height": 887,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008ae8822f8d83eb208eaa5ee9"
+    },
+    {
+      "file_id": "file_0000000053e48211a8ad3eb8e572352e",
+      "name": "Legacy Extermination Campus Concept Board.png",
+      "path": "/THE AMW LEGACY/Legacy Extermination Campus Concept Board.png",
+      "source_size_bytes": 3285636,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000053e48211a8ad3eb8e572352e"
+    },
+    {
+      "file_id": "file_000000007688820e9b4ec2a325b63859",
+      "name": "Legacy Garage and Woodworking Center Infographic.png",
+      "path": "/THE AMW LEGACY/Legacy Garage and Woodworking Center Infographic.png",
+      "source_size_bytes": 2609362,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007688820e9b4ec2a325b63859"
+    },
+    {
+      "file_id": "file_00000000f8a4822f8b887a54eda3f29d",
+      "name": "Legacy Institutions: Just Love Pond Campus.png",
+      "path": "/THE AMW LEGACY/Legacy Institutions: Just Love Pond Campus.png",
+      "source_size_bytes": 2850451,
+      "width": 1312,
+      "height": 1199,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000f8a4822f8b887a54eda3f29d"
+    },
+    {
+      "file_id": "file_000000001434822fb6b48d74eecc11c6",
+      "name": "Legacy Learning & Resource Bus.png",
+      "path": "/THE AMW LEGACY/Legacy Learning & Resource Bus.png",
+      "source_size_bytes": 2515829,
+      "width": 1821,
+      "height": 864,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000001434822fb6b48d74eecc11c6"
+    },
+    {
+      "file_id": "file_000000004aa0822f8397920e8358432c",
+      "name": "Legacy Plumbing Training Campus Concept Board.png",
+      "path": "/THE AMW LEGACY/Legacy Plumbing Training Campus Concept Board.png",
+      "source_size_bytes": 3023173,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004aa0822f8397920e8358432c"
+    },
+    {
+      "file_id": "file_000000006914822f9602a386a62f3be3",
+      "name": "Legacy Sports Fleet Infographic.png",
+      "path": "/THE AMW LEGACY/Legacy Sports Fleet Infographic.png",
+      "source_size_bytes": 2999006,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000006914822f9602a386a62f3be3"
+    },
+    {
+      "file_id": "file_000000008e30822fb93c7978bdbcc0bf",
+      "name": "Legacy Village Architectural Presentation Board.png",
+      "path": "/THE AMW LEGACY/Legacy Village Architectural Presentation Board.png",
+      "source_size_bytes": 3215708,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000008e30822fb93c7978bdbcc0bf"
+    },
+    {
+      "file_id": "file_00000000dec0822f98ca16a39e44384b",
+      "name": "Legacy Village at Golden Hour.png",
+      "path": "/THE AMW LEGACY/Legacy Village at Golden Hour.png",
+      "source_size_bytes": 3259234,
+      "width": 1839,
+      "height": 855,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000dec0822f98ca16a39e44384b"
+    },
+    {
+      "file_id": "file_000000007c10822fa9fa3f8a171ceac3",
+      "name": "Legacy Village Community Housing Vision.png",
+      "path": "/THE AMW LEGACY/Legacy Village Community Housing Vision.png",
+      "source_size_bytes": 3097806,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000007c10822fa9fa3f8a171ceac3"
+    },
+    {
+      "file_id": "file_00000000a698822fb151e4e36d36214e",
+      "name": "Legacy Village Community Master Plan(1).png",
+      "path": "/THE AMW LEGACY/Legacy Village Community Master Plan(1).png",
+      "source_size_bytes": 3399214,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000a698822fb151e4e36d36214e"
+    },
+    {
+      "file_id": "file_0000000074ac820ea74f15ca41b8fa93",
+      "name": "Legacy Village Community Master Plan(2).png",
+      "path": "/THE AMW LEGACY/Legacy Village Community Master Plan(2).png",
+      "source_size_bytes": 3063982,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000074ac820ea74f15ca41b8fa93"
+    },
+    {
+      "file_id": "file_00000000d0348211a571a96cccbf4eb6",
+      "name": "Legacy Village Community Master Plan.png",
+      "path": "/THE AMW LEGACY/Legacy Village Community Master Plan.png",
+      "source_size_bytes": 3277703,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d0348211a571a96cccbf4eb6"
+    },
+    {
+      "file_id": "file_000000003200822fb86fff369a20424f",
+      "name": "Legacy Village Community Masterplan(1).png",
+      "path": "/THE AMW LEGACY/Legacy Village Community Masterplan(1).png",
+      "source_size_bytes": 3173388,
+      "width": 1838,
+      "height": 856,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000003200822fb86fff369a20424f"
+    },
+    {
+      "file_id": "file_00000000d250822f8c22953ed7576546",
+      "name": "Legacy Village Community Masterplan(2).png",
+      "path": "/THE AMW LEGACY/Legacy Village Community Masterplan(2).png",
+      "source_size_bytes": 3252963,
+      "width": 1838,
+      "height": 856,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000d250822f8c22953ed7576546"
+    },
+    {
+      "file_id": "file_00000000de8881fa995ea4743085fa5b",
+      "name": "Legacy Village Community Masterplan.png",
+      "path": "/THE AMW LEGACY/Legacy Village Community Masterplan.png",
+      "source_size_bytes": 3373937,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000de8881fa995ea4743085fa5b"
+    },
+    {
+      "file_id": "file_00000000474c822f8dc21614282e3cdf",
+      "name": "Legacy Village Entrance at Twilight.png",
+      "path": "/THE AMW LEGACY/Legacy Village Entrance at Twilight.png",
+      "source_size_bytes": 3167397,
+      "width": 1768,
+      "height": 889,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000474c822f8dc21614282e3cdf"
+    },
+    {
+      "file_id": "file_000000009c78822f8d7456141f56ca10",
+      "name": "Legacy Village Family Housing Brochure(1).png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Brochure(1).png",
+      "source_size_bytes": 3290397,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000009c78822f8d7456141f56ca10"
+    },
+    {
+      "file_id": "file_00000000ee3c81f5b454b7ae1fb10b14",
+      "name": "Legacy Village Family Housing Brochure.png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Brochure.png",
+      "source_size_bytes": 3204153,
+      "width": 1839,
+      "height": 855,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000ee3c81f5b454b7ae1fb10b14"
+    },
+    {
+      "file_id": "file_00000000fb488210b3e0507672dcc8b9",
+      "name": "Legacy Village Family Housing Community Poster.png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Community Poster.png",
+      "source_size_bytes": 3483599,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000fb488210b3e0507672dcc8b9"
+    },
+    {
+      "file_id": "file_00000000587c82069cafcaeab0ec0d18",
+      "name": "Legacy Village Family Housing Concept Board.png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Concept Board.png",
+      "source_size_bytes": 3040647,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000587c82069cafcaeab0ec0d18"
+    },
+    {
+      "file_id": "file_000000005cdc822f9c54781763f3416e",
+      "name": "Legacy Village Family Housing Infographic(1).png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Infographic(1).png",
+      "source_size_bytes": 3221362,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000005cdc822f9c54781763f3416e"
+    },
+    {
+      "file_id": "file_000000004db8822f81eead2434862a2f",
+      "name": "Legacy Village Family Housing Infographic.png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Infographic.png",
+      "source_size_bytes": 3274102,
+      "width": 1839,
+      "height": 855,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_000000004db8822f81eead2434862a2f"
+    },
+    {
+      "file_id": "file_0000000062c8822fbfd620976dac49ab",
+      "name": "Legacy Village Family Housing Master Plan(1).png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Master Plan(1).png",
+      "source_size_bytes": 3261211,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_0000000062c8822fbfd620976dac49ab"
+    },
+    {
+      "file_id": "file_00000000bb64822f9188a6cfe67f9412",
+      "name": "Legacy Village Family Housing Master Plan(2).png",
+      "path": "/THE AMW LEGACY/Legacy Village Family Housing Master Plan(2).png",
+      "source_size_bytes": 3090694,
+      "width": 1536,
+      "height": 1024,
+      "pixel_surface_read": true,
+      "asset_pointer": "sediment://file_00000000bb64822f9188a6cfe67f9412"
+    }
+  ]
+}
