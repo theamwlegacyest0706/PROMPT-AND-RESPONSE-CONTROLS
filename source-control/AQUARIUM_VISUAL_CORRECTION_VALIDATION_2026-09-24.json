@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-24",
+  "scope": "Imagine Aquarium Magic visual correction / Founder prompt re-execution",
+  "python_first_gate": "PASS",
+  "github_cross_reference": "PASS",
+  "sep03_dashboard_lines_78_89": {
+    "78": "Imagine Aquarium Magic",
+    "79": "WHOLE-BUILDING INTERACTIVE / FRESHWATER + SALTWATER + HALLWAY EURYHALINE SYSTEMS",
+    "80": "FIRST FLOOR — WELFARE-APPROVED HANDLING-FRIENDLY ANIMALS ONLY",
+    "81": "3 SCHOOL BUSES • 3 MEGA BUSES • 3 COACH BUSES",
+    "82": "1 MEGA BUS + 1 COACH BUS educational mobiles",
+    "83": "Aquarium Bus Interiors — Founder confirmation required",
+    "84_87": "current uniform system / Deep Navy-Midnight + Emerald / Slate Gray + Antique Gold + Warm Ivory / Sept 5 uniform authority",
+    "89": "Just Love Pond entrance standard / ML-003"
+  },
+  "current_authority": {
+    "institution": "Imagine Aquarium Magic — OPERATIONAL LEGACY CONTROL ACTIVE",
+    "exterior_fleet_visual": "September 5, 2026 CURRENT CONTROLLED VISUAL",
+    "fleet_checksum": "3 school buses + 3 Mega Buses + 3 coach buses = 9",
+    "educational_units": "exactly 1 Mega Bus + 1 coach bus",
+    "interior_inheritance": "AMW LEGACY FLEET INTERIOR STANDARD — CURRENT CONTROLLED",
+    "accessibility": "do not invent a new split"
+  },
+  "2026_09_24_generated_outputs": {
+    "count": 10,
+    "validation": "FAIL — wrong rendering type and/or wrong artifact scope; presentation boards/collages/multi-institution boards instead of compliant individual Aquarium bus-interior renderings",
+    "authority_state": "GENERATED ONLY — NOT FOUNDER-APPROVED — NOT UPDATE-AND-SAVED — NOT CURRENT-CONTROLLED",
+    "may_satisfy_request": false
+  },
+  "correction": {
+    "Aquarium_bus_interiors": "OPEN — no 2026-09-24 generated artifact is promoted or substituted",
+    "exact_sources_preserved": [
+      "CURRENT CONTROLLED VISUAL — IMAGINE AQUARIUM MAGIC — 2026-09-05.png",
+      "IMAGINE_AQUARIUMS_22ND_CENTURY_SCHOOL_BUS_EXTERIOR_SOURCE.png",
+      "IMAGINE_AQUARIUMS_SCHOOL_BUS_INTERIOR_SOURCE.png",
+      "Barclay’s Veterinary Hospital Design Board.png",
+      "CURRENT CONTROLLED VISUAL — I AM A MASTERPIECE COSMETOLOGY GALLERY — 2026-09-03.png"
+    ],
+    "funding": "URGENT / CONTINUOUS / NEVER FROZEN"
+  },
+  "final_gate": "PASS FOR RECORD CORRECTION; VISUAL DELIVERABLE REMAINS OPEN"
+}
