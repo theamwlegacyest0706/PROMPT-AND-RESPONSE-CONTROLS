@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-23T23:44:00-04:00",
+  "scope": "Founder current prompt + current 55-sheet master + Mirror Review archive + visual pixel checkpoint results",
+  "master_term_counts": {"control":2974,"safeguard":173,"full-stop":72,"mirror review":254,"visual":1168,"fleet":664,"transcript":1,"python":22,"github":0,"founder":1613,"prompt":160,"rendering":187,"recovery":295,"supersession":77,"website":30,"policy":36,"governance":250,"amos":279},
+  "checkpoint_counts": [
+    {"start":0,"end":59,"attempted":60,"native_pixel_ok":60},{"start":60,"end":119,"attempted":60,"native_pixel_ok":60},{"start":120,"end":179,"attempted":60,"native_pixel_ok":60},{"start":180,"end":239,"attempted":60,"native_pixel_ok":60},{"start":240,"end":299,"attempted":60,"native_pixel_ok":60},{"start":300,"end":359,"attempted":60,"native_pixel_ok":60},{"start":360,"end":419,"attempted":60,"native_pixel_ok":60},{"start":420,"end":479,"attempted":60,"native_pixel_ok":60},{"start":480,"end":539,"attempted":60,"native_pixel_ok":60},{"start":540,"end":599,"attempted":60,"native_pixel_ok":60},{"start":600,"end":659,"attempted":60,"native_pixel_ok":60},{"start":660,"end":719,"attempted":60,"native_pixel_ok":59},{"start":720,"end":779,"attempted":60,"native_pixel_ok":60},{"start":780,"end":839,"attempted":60,"native_pixel_ok":60},{"start":840,"end":899,"attempted":60,"native_pixel_ok":60},{"start":900,"end":959,"attempted":60,"native_pixel_ok":60},{"start":960,"end":1007,"attempted":48,"native_pixel_ok":48}
+  ],
+  "checks": {
+    "prompt_sha256":"050f30f626ffb306db428514dea855ef00328449694d325b72165fac6c91ec05",
+    "current_master_sha256":"45890a9095ee6f026631aacc321a09c4851b4ec629083cdbb6a58d1a623242dc",
+    "mirror_archive_sha256":"f6851c2f2687b88081e5b6a34057327d95bd21ae77b6bd225443991131d25485",
+    "all_1008_visual_records_sent_to_native_image_read":true,
+    "native_pixel_asset_success_count":1007,
+    "native_pixel_access_exception_count":1,
+    "raw_project_chat_transcripts_complete":false,
+    "no_false_completeness_required":true,
+    "recursive_mirror_review_required":true,
+    "fleet_failure_requires_correction":true,
+    "all_means_no_status_filtering":true
+  },
+  "required_corrections":[
+    "Do not report Project-chat transcripts complete unless raw message-by-message source exists.",
+    "Treat all 1008 image records as reviewed for pixel-access execution; preserve the one native-pixel access exception explicitly.",
+    "Do not reuse stale 756-image corpus count as current.",
+    "Fleet rendering execution must inherit exact institution/fleet controls and preserve approved elements; do not substitute generic fleet designs.",
+    "A summary/index/current master is not a substitute for raw chat transcript or raw visual pixels."
+  ],
+  "result":"CORRECTIONS REQUIRED; NO FALSE COMPLETE CLAIM"
+}
