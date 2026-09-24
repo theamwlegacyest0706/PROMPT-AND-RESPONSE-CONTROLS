@@ -1,0 +1,46 @@
+{
+  "review_id": "MR-2026-09-23-AQUARIUM-FIVE-STANDALONE-PIXEL-REVIEW",
+  "generated_at": "2026-09-23T23:55:00-04:00",
+  "scope": "Pixel/visual review of the five Library-present Imagine Aquarium Magic standalone interior files against current fleet/rendering controls and controlled Aquarium source visuals.",
+  "controls": [
+    "Fleet rendering must preserve exact composition/quantity and physically show both exterior and interior views for each vehicle family unless explicitly exterior-only.",
+    "No generic/substituted fleet or interior.",
+    "22nd-century school-bus conversion preserves school-bus purpose, mission-specific interior, institution palette/branding and assigned accessibility only.",
+    "Imagine Aquarium Magic fleet: 3 converted school buses, 3 Mega Buses, 3 coach buses; 1 Mega Bus and 1 coach are educational aquatic-learning/outreach units.",
+    "September 5 controlled Aquarium visual governs design character; written controls outrank image-generated slogans/logos/technical claims."
+  ],
+  "files": [
+    {
+      "file": "01_IMAGINE_AQUARIUM_MAGIC_SCHOOL_BUS_INTERIOR.png",
+      "result": "FAIL",
+      "findings": "Standalone image shows a luxury galley/screen interior with plants; it does not preserve the controlled aquarium-learning school-bus interior source with visible aquarium/tank learning features and it does not show the required exterior alongside the interior."
+    },
+    {
+      "file": "02_IMAGINE_AQUARIUM_MAGIC_STANDARD_MEGA_BUS_INTERIOR.png",
+      "result": "FAIL",
+      "findings": "Interior reads as a generic luxury galley/media coach. It does not establish the controlled standard Mega Bus mission interior and does not show the required exterior alongside the interior."
+    },
+    {
+      "file": "03_IMAGINE_AQUARIUM_MAGIC_EDUCATIONAL_MEGA_BUS_INTERIOR.png",
+      "result": "FAIL",
+      "findings": "Interior is a generic computer/workstation classroom with unrelated leaf-style screen branding; aquatic-learning/outreach identity is not physically established and the required exterior is absent."
+    },
+    {
+      "file": "04_IMAGINE_AQUARIUM_MAGIC_STANDARD_COACH_BUS_INTERIOR.png",
+      "result": "FAIL",
+      "findings": "Interior is a generic lounge/media coach; institution-specific controlled Aquarium mission/branding is not reliably preserved and the required exterior is absent."
+    },
+    {
+      "file": "05_IMAGINE_AQUARIUM_MAGIC_EDUCATIONAL_COACH_BUS_INTERIOR.png",
+      "result": "FAIL",
+      "findings": "Interior is a generic table/lounge classroom with unrelated AMW/leaf-style screen branding; aquatic-learning/outreach function is not physically established and the required exterior is absent."
+    }
+  ],
+  "source_visuals_reviewed": [
+    "CURRENT_CONTROLLED_VISUAL_IMAGINE_AQUARIUM_MAGIC_2026-09-05.png",
+    "IMAGINE_AQUARIUMS_22ND_CENTURY_SCHOOL_BUS_EXTERIOR_SOURCE.png",
+    "IMAGINE_AQUARIUMS_SCHOOL_BUS_INTERIOR_SOURCE.png"
+  ],
+  "correction": "Keep all five September 22/23 standalone files as rejected/non-controlling provenance. They do not close the open Aquarium fleet-rendering request. Correct replacement renderings must be photorealistic/cinematic standalone vehicle-family scenes that visibly preserve the controlled exterior character AND mission-specific interior in the same deliverable, with Aquarium palette/identity and no invented accessibility split, slogans, roles or logos.",
+  "result": "LEVEL 5 — FIVE-FILE SET FAILS CONTROLLED RE-ENTRY / OPEN CORRECTIVE RENDERING REMAINS"
+}
