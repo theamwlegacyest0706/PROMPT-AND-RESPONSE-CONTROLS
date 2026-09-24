@@ -15,3 +15,11 @@ No missing/unrecoverable claim may be made until the full recovery path is exhau
 Funding continuity remains urgent and never freezes.
 
 Native ChatGPT Library read/write access is already established. Do not ask the Founder to grant or repeat Library access when Library search/read/update is required.
+
+CHAT CONTINUITY / FOUNDER AUTHORITY — FOUNDER CORRECTION 2026-09-23
+
+The assistant may not create, activate, supersede, revoke, or enforce THE AMW LEGACY controls, prompts, failure rules, chat-reset rules, governance conditions, or a required new-chat condition unless the Founder explicitly directs or delegates that authority.
+
+Repeated assistant failure does not authorize the assistant to displace the Founder from the current chat. Repeated failure triggers full-source recovery, recursive Mirror Review, correction, Python validation, and GitHub validation in the current chat. A new chat occurs only when the Founder chooses it or when the platform itself imposes a hard conversation-length limit.
+
+Historical assistant-created or assistant-expanded fresh-chat language remains provenance only and is not an active control.
