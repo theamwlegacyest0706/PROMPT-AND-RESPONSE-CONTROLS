@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-09-24T13:21:00-04:00",
+  "meaningful_change": true,
+  "new_qualified": [
+    {
+      "funder": "Giving Joy",
+      "opportunity": "Giving Joy Fall 2026 Microgrant",
+      "award": "Up to $500",
+      "deadline": "2026-09-30",
+      "eligibility": "Women age 18+ worldwide; business ownership/registration not required; may start or expand a business, nonprofit, NGO, charity, or specific activity/project.",
+      "amw_fit": "PASS — Founder is a woman age 18+ and AMW may apply as an existing early-stage business; no state registration prerequisite stated.",
+      "application_fee": "No application fee identified on the official application/FAQ page.",
+      "match": "None stated.",
+      "reporting_obligations": "Awardees meet with Giving Joy, sign a grant agreement, and have up to six months to implement the proposed activity; Giving Joy describes regular communication/monitoring and coaching/mentorship with recipients.",
+      "restrictions": "Proposal should show innovative/creative social impact and multiplied benefit to applicant, family and community; award amount determined by Giving Joy based on proposed activity and available funding.",
+      "next_action": "Prepare one bounded AMW expansion/activity request with clear community multiplier; submit by 2026-09-30 after final live-form terms check.",
+      "status": "NEW QUALIFIED — ACTIVE / PREPARE APPLICATION"
+    }
+  ],
+  "screened_not_recommended": [
+    {
+      "opportunity": "MDOT Purple Line Small Business Grant Round 3",
+      "reason": "FAIL — requires active/good-standing Maryland registration, operation at current Purple Line location before 2023-07-01, onsite customer interaction within 1/4 mile of tracks."
+    },
+    {
+      "opportunity": "High Five Grant for Moms",
+      "reason": "NOT VERIFIED — current page displays 2025 eligibility language including $10,000-$500,000 prior-12-month revenue; AMW revenue qualification not established."
+    },
+    {
+      "opportunity": "Breva Thrive Grant Q4",
+      "reason": "FAIL — legal registration and revenue required."
+    }
+  ],
+  "existing_active_unchanged": [
+    "AdIQ Cares Small Business Grant",
+    "Verizon Small Business Digital Ready (Founder-specific conditional path)"
+  ],
+  "validation": "PASS — only new qualified opportunity surfaced"
+}
