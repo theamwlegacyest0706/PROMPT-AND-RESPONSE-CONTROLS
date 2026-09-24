@@ -21,11 +21,23 @@
     "name": "Alicia Walker",
     "phone": "(202) 923-8905",
     "business_name": "ALICIA AND MYLES WALKER",
-    "business_type": "Organizational Consulting / Nonprofit & Community Capacity-Building",
+    "business_type": "Maryland general partnership — not currently registered with the State; organizational consulting / nonprofit & community capacity-building",
     "city_state": "Hyattsville, MD",
-    "challenge": "AMW is a new Maryland consulting firm serving nonprofits and community organizations. We are building our client base while operating on limited startup capital, which makes it difficult to invest consistently in outreach, visibility, and the core tools needed to reach organizations that could benefit from our services.",
+    "registration_identity_disclosure": "ALICIA AND MYLES WALKER is an early-stage Maryland general partnership that is not currently registered with the State. THE AMW LEGACY is a developing public-facing identity and is not a registered DBA/trade name.",
+    "challenge": "ALICIA AND MYLES WALKER is an early-stage Maryland general partnership that is not currently registered with the State. We provide organizational consulting and capacity-building support to nonprofits and community organizations. We are building our client base while operating on limited startup capital, which makes it difficult to invest consistently in outreach, visibility, and the core tools needed to reach organizations that could benefit from our services.",
     "grant_help": "The $2,500 would strengthen our immediate operating and client-acquisition capacity by supporting our website and online visibility, outreach and marketing, communications/software, and essential startup compliance and administrative costs. That would help us reach more nonprofits and community organizations while keeping our services accessible."
   },
   "visual_corpus_review": "No new visual requested or created. Existing visual authority/quarantine states remain unchanged and do not pause funding under ML-025.",
-  "submission_state": "APPLICATION CONTENT COMPLETE; LIVE FORM SUBMISSION REQUIRES A BROWSER WRITE ACTION. DO NOT MARK APPLIED UNTIL A SUBMISSION CONFIRMATION IS ACTUALLY RECEIVED."
+  "submission_state": "CORRECTED APPLICATION CONTENT READY; DO NOT MARK APPLIED UNTIL LIVE SUBMISSION CONFIRMATION IS RECEIVED.",
+  "identity_correction": {
+    "prior_issue": "Prior draft could reasonably be read as treating AMW/THE AMW LEGACY as a DBA and omitted the current unregistered status.",
+    "correction": "Do not use AMW as a standalone business-name substitute in the application. Use ALICIA AND MYLES WALKER as the business name; affirmatively disclose that it is not currently registered with the State; identify THE AMW LEGACY only as a developing public-facing identity and not a registered DBA/trade name.",
+    "founder_authority": "Founder correction 2026-09-24"
+  },
+  "mirror_review": {
+    "result": "PASS AFTER IDENTITY/REGISTRATION CORRECTION",
+    "prior_review_cross_reference": "Funding Mirror Review 2026-09-24 + prior all-work/visual Mirror Review cross-referenced.",
+    "visual_result": "No visual artifact is implicated by this application correction. Existing visual classifications, quarantine, approvals, and provenance remain unchanged.",
+    "no_override": true
+  }
 }
