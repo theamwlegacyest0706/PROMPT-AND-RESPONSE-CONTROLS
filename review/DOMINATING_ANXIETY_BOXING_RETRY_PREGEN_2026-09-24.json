@@ -1,0 +1,17 @@
+{
+  "review_id": "MR-2026-09-24-DOMINATING-ANXIETY-BOXING-RETRY-PREGEN",
+  "prompt_sha256": "ccbf47806aa96bd662bb1b8c2e5e4c129c9f82ee81fcfc4b3e207141dd8195c8",
+  "uploaded_image_sha256": "8c4576979d7e16702b43ec588b8e357cde59af1e002a00aa452259469ba8165f",
+  "status": "PASS — EDIT UPLOADED IMAGE FIRST, THEN CONTINUE COMPLETE SET",
+  "corrections": [
+    "remove invented slogan and decorative crest/crown/monogram branding",
+    "remove I AM A MASTERPIECE COSMETOLOGY wording from Boxing exterior; common area only reflects that control",
+    "replace fountain/monument with required Just Love Pond near principal entrance",
+    "remove program lists from exterior facade",
+    "one photorealistic/cinematic image per rendering target; no board/collage",
+    "continue complete institution/common-area/uniform/fleet set after exterior",
+    "preserve exact fleet counts/purposes/ADA-Mixed-Non-ADA assignments",
+    "22nd-century school bus remains supply-only",
+    "show before Save/Update; generated is not approved/current/saved"
+  ]
+}
