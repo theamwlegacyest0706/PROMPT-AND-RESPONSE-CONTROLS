@@ -1,0 +1,12 @@
+{
+  "mirror_sha256": "001351981d875ff9d6a1aae2cf9413477c8efdc2e90cb9f95820ddea0951ebf7",
+  "checks": {
+    "prompt_order_preserved": true,
+    "prior_mirror_cross_referenced": true,
+    "corrections_applied": true,
+    "prompt_failure_identified": true,
+    "step1_completed_before_mirror": true,
+    "assistant_order_not_used": true
+  },
+  "result": "PASS"
+}
