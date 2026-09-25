@@ -1,0 +1,1 @@
+Founder-visible display correction: the prior Sports Fleet response named the file but did not visibly present the photo. Exact file: AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png. Preserve quarantine/non-controlling status. No regeneration or alteration. Use the exact returned image/file resource. Backend retrieval alone is not display completion.
