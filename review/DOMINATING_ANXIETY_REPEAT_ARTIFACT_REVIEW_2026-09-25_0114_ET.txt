@@ -1,0 +1,18 @@
+DOMINATING ANXIETY LEGACY BOXING — REPEAT ARTIFACT REVIEW
+Artifact SHA256: 141d6f1b12735aa29dc2098c5cf8cd12370c3f8004c617e0b93de85e1ad2c9b4
+Dimensions: 1536x1024
+Status: FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE
+Failures:
+- Not a standalone campus exterior.
+- Infographic/board/collage substitution.
+- Invented slogan.
+- Extra crest/crown branding.
+- Program lists/panels.
+- Common Area panel.
+- Uniform panel.
+- Fleet panel.
+Pass:
+- Just Love Pond visible.
+- Midnight Dark Blue + Antique Gold palette visible.
+Correction target:
+Edit this exact image into one uninterrupted Campus Exterior only. Remove all lower panels, lists, uniforms, fleet, interiors, slogans, DAL crest/crown, WBA marks, and common-area/cosmetology wording. Keep/show only exact institution name, campus architecture, landscaped Just Love Pond, Golden Gloves Academy entrance, distinct secured Pro & Championship Wing private drive, Spectator/Fan/Media covered plaza, elevated glazed Central Spine, covered conditioning pavilion, solar/renewable roof systems, and mixed-ability circulation.
