@@ -1,0 +1,8 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-REPEAT-ARTIFACT-06",
+  "artifact_sha256":"4130598214b2aab708b4f90478b6be114c38ba99509a1d826b778cb486bc31e7",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "result":"FAIL",
+  "reason":"The output remains a multi-panel board and includes other program spaces, uniforms, fleet, and extra branding instead of one standalone Campus Exterior rendering.",
+  "next_requirement":"Rendering 01 remains open. Use explicit image-reference editing for the current artifact."
+}
