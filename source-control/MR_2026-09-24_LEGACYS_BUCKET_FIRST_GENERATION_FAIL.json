@@ -1,0 +1,33 @@
+{
+  "review_id": "MR-2026-09-24-LEGACYS-BUCKET-FIRST-GENERATION-FAIL",
+  "date": "2026-09-24",
+  "artifact": "a_detailed_high_resolution_promotional_concept_bo.png",
+  "python_pixel_result": {
+    "dimensions": "1536x1024",
+    "sha256": "852ce4b688141984bd3b52cc8b22212b5608161226fe0e6a5ca1e44b644efd20",
+    "rough_navy_fraction": 0.5701,
+    "rough_emerald_fraction": 0.0741
+  },
+  "mirror_result": "FAIL / QUARANTINE / DO NOT PRESENT AS COMPLIANT",
+  "failures": [
+    "ML-015 violation: generated a labeled infographic/concept board instead of the required photorealistic/cinematic architectural rendering.",
+    "ML-009/021 failure: not every required fleet mobility variant interior is physically depicted; labels do not substitute for depiction.",
+    "Stewards' Common Area imported cosmetology salon imagery instead of only inheriting the I AM A MASTERPIECE Common Area character and controlled common-area functions.",
+    "Just Love Pond is not physically depicted at the principal/public entrance.",
+    "Empty Chair / physical ROUND Legacy Table / circular-curved furniture are not visibly enforced in the depicted Common Area.",
+    "Legacy-wide Common Area minimums such as showers, full kitchen, quiet decompression area and convertible game-table equipment are not all physically shown.",
+    "Uniform section is incomplete against the institution-uniform control; it does not visibly cover the full role/competition/practice/warm-up/travel/staff-steward family.",
+    "The campus program is compressed into small labeled panels rather than rendered as the requested institution."
+  ],
+  "corrections": [
+    "Reject/quarantine this image as non-controlling provenance only.",
+    "Generate separate photorealistic/cinematic architectural renderings instead of a board/collage.",
+    "Use separate campus exterior/masterplan, institution interiors, fleet exterior lineup, and fleet interior views so physical depiction is possible without caption substitution.",
+    "Common Area will reflect only I AM A MASTERPIECE Common Area atmosphere/functions; no salon stations or cosmetology work areas.",
+    "Physically show Just Love Pond, round Legacy Table, one intentionally Empty Chair, circular/curved furniture, renewable/solar features and controlled Common Area functions.",
+    "Physically show exterior and interior for every fleet family, including the upper-level film review spaces in Mega and Double-Decker buses and the 22nd-century supply-bus cargo/equipment interior.",
+    "Preserve exact 13-vehicle checksum and Founder-assigned mobility classes/purposes."
+  ],
+  "authority_boundary": "No approval/save/current-control status created. Founder decision remains controlling.",
+  "next_action": "Regenerate and repeat Mirror Review + Python/GitHub validation."
+}
