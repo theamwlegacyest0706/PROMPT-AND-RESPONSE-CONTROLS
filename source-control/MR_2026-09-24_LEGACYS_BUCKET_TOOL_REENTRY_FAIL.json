@@ -1,0 +1,21 @@
+{
+  "review_id": "MR-2026-09-24-LEGACYS-BUCKET-TOOL-REENTRY-FAIL",
+  "date": "2026-09-24",
+  "artifact": "a_large_detailed_infographic_moodboard_collage_re.png",
+  "python_pixel_result": {
+    "dimensions": "1536x1024",
+    "sha256": "3b14ed9913a6270846788edebbb812917f3978697c6873ddb6ecec7c10cefda9"
+  },
+  "result": "FAIL / REENTRY NOT ACHIEVED / QUARANTINE",
+  "findings": [
+    "The re-entry attempt again produced a text-heavy infographic/collage rather than a single-scene photorealistic/cinematic rendering.",
+    "ML-012, ML-015, ML-018 and ML-019 require output hold after repeated failure; another same-mode generation must not be presented as compliant.",
+    "The current artifact is non-controlling provenance only and does not satisfy the Founder-requested visual rendering."
+  ],
+  "correction_state": [
+    "Do not mark any of the three generated boards as completed, approved, saved or current-controlled.",
+    "Preserve exact Founder design scope and 13-vehicle checksum for the next compliant rendering path.",
+    "No further same-mode board/collage generation is authorized by this execution cycle."
+  ],
+  "authority_boundary": "Founder retains all approval/save/supersession authority."
+}
