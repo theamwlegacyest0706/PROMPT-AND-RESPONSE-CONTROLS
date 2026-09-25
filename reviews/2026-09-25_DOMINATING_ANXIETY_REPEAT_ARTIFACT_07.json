@@ -1,0 +1,8 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-REPEAT-ARTIFACT-07",
+  "artifact_sha256":"2e0c1ace5e7ddbd6fcc0d808d8ee8697a5007d7628ff9a277368e157f6d2ba88",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "result":"FAIL",
+  "reason":"The output still includes the fleet display, program lists and extra branding instead of one standalone Campus Exterior rendering.",
+  "next_requirement":"Rendering 01 remains open. The next image operation must be an explicit referenced-image edit to remove all non-exterior content."
+}
