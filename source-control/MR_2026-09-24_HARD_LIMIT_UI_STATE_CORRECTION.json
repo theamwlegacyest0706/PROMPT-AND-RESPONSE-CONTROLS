@@ -1,0 +1,26 @@
+{
+  "review_id": "MR-2026-09-24-HARD-LIMIT-UI-STATE-CORRECTION",
+  "date": "2026-09-24",
+  "level": "LEVEL 5 — FAIL / CORRECTION",
+  "trigger": "Founder supplied screenshot showing the platform had already reached maximum conversation length while the assistant response asserted the current chat remained the working chat.",
+  "python_result": {
+    "platform_hard_limit_visible_in_screenshot": true,
+    "response_had_hard_limit_exception": true,
+    "response_still_asserted_current_chat_as_working": true,
+    "result": "FAIL"
+  },
+  "cross_reference": [
+    "MR-2026-09-24-NEW-CHAT-PRESSURE-CORRECTION",
+    "MR-2026-09-23-CHAT-CONTROL-AUTHORITY-CORRECTION",
+    "MR-2026-09-23-DECISION-AUTHORITY-OVERREACH-1812ET",
+    "MR-2026-09-23-CROSS-CHAT-REOPEN-1642ET"
+  ],
+  "finding": "The rule itself allowed for a platform hard limit, but the assistant improperly reported the current chat as still usable without evidence of the external UI state. The screenshot shows the exception was already active.",
+  "corrections": [
+    "Separate Legacy chat-continuity governance from actual ChatGPT UI availability.",
+    "Never use Python/GitHub validation to assert an external UI state.",
+    "When a platform maximum-length banner is evidenced, state that the platform—not the Founder and not the Legacy control—forced the chat boundary.",
+    "Carry all recoverable Legacy controls, work, Mirror Reviews, visuals, authority states, and source lineage across that forced boundary automatically."
+  ],
+  "result": "FAIL CONFIRMED / PRIOR CURRENT-CHAT AVAILABILITY CLAIM CORRECTED"
+}
