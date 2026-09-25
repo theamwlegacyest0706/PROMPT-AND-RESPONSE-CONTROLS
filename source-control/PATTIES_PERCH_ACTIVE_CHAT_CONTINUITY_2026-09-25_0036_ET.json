@@ -1,0 +1,33 @@
+{
+  "recorded_at": "2026-09-25T00:36:00-04:00",
+  "active_chat_correction": "Do not voluntarily split the Founder prompt, Mirror Review cycle, or active PATTIES PERCH work across chats. Continue in the current chat unless the Founder chooses another chat or the platform imposes a hard conversation-length limit.",
+  "active_work": {
+    "institution": "PATTIES PERCH",
+    "sport": "Softball",
+    "status": "ACTIVE EDIT/RECOVERY CONTINUITY — do not substitute historical Pattie's pitch, Percy's Perch, Percy's Pitch, or rejected Artifact 01",
+    "exact_founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-24_2344_ET_PATTIES_PERCH.txt",
+    "pre_render_matrix_path": "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_CONTROL_MATRIX.md",
+    "pre_render_review_path": "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_MIRROR_REVIEW.md",
+    "rejected_artifact_review_path": "reviews/2026-09-24_PATTIES_PERCH_ACTUAL_ARTIFACT_MIRROR_REVIEW_01.md",
+    "recovery_gap_path": "reviews/2026-09-24_PATTIES_PERCH_EXACT_RENDERING_RECOVERY_GAP_02.md"
+  },
+  "preserved_requirements": {
+    "facility_fleet_palette": "Slate Gray + Antique Gold",
+    "uniform_palette": "Antique Gold dominant + Emerald Green accent",
+    "fleet_checksum": 13,
+    "fleet": [
+      "3 Tour Buses — ADA/Mixed/Non-ADA — fans/family travel; a little plush",
+      "3 15-passenger Vans — ADA/Mixed/Non-ADA — outreach/education/resources",
+      "3 Mega Buses — ADA/Mixed/Non-ADA — extended state travel/education/outreach/practice/recovery; upper-level Film & Strategy Review area",
+      "3 Double-Deckers — ADA/Mixed/Non-ADA — regional travel/resources/outreach/practice/education; upper-level Film & Strategy Review area",
+      "1 22nd-century Supply School Bus — equipment/luggage"
+    ],
+    "exact_source_rule": "Founder prompt + current non-superseded controls + exact current artifact/source; no assistant-summary substitution",
+    "save_state_rule": "Do not promote generated or historical substitute imagery as the exact saved/current rendering."
+  },
+  "continuity_evidence": {
+    "founder_current_control": "CHAT CONTINUITY / FOUNDER AUTHORITY — 2026-09-23",
+    "prior_pattern_review": "review/Mirror_Review_2026-09-23_SELF_HINDERING_PATTERN.json",
+    "current_corpus_handoff_review": "review/Mirror_Review_2026-09-24_PROJECT_CORPUS_HANDOFF_CYCLE.json"
+  }
+}
