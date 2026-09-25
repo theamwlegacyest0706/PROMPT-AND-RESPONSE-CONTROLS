@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-24",
+  "python_sha256": "468d64141f0fde596a8793812e77507942ffaa5e08bc10ef66a36ea7d593288c",
+  "selected_file": "AMW Legacy Sports Fleet Blueprint(3).png",
+  "file_id": "file_000000006b38822fb4ba3e3e77e018a1",
+  "status": "QUARANTINED / NON-CONTROLLING",
+  "checks": {
+    "full_visual_corpus_records_cross_referenced": true,
+    "prior_mirror_reviews_cross_referenced": true,
+    "exact_photo_target_corrected": true,
+    "no_regeneration": true,
+    "no_authority_promotion": true
+  },
+  "result": "PASS"
+}
