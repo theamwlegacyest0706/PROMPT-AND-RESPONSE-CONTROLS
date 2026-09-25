@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-25",
+  "institution": "DOMINATING ANXIETY LEGACY BOXING",
+  "rendering_id": "01 Campus Exterior / Master Architectural View",
+  "artifact_sha256": "c592dfae6e742c7634b4c8810e56f4f6b307903bbf23b64bc8e87fbf3b446328",
+  "status": "REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures": [
+    "standalone rendering failed — collage/board produced",
+    "campus exterior not single full-frame",
+    "invented slogan present",
+    "invented crest/monogram branding present",
+    "required Just Love Pond not depicted as controlled entrance pond",
+    "program lists/panels present",
+    "uniform panel present",
+    "fleet panel present",
+    "Stewards Common Area panel present"
+  ],
+  "passed": [
+    "Midnight Dark Blue + Antique Gold palette",
+    "institution name present"
+  ],
+  "corrective_action": "Edit this exact generated artifact into one uninterrupted campus exterior only; remove all lower panels, lists, fleet, uniforms, common-area panel, slogans and extra branding; retain only exact institution signage and required campus features."
+}
