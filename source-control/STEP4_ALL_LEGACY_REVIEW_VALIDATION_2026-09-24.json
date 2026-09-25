@@ -1,0 +1,13 @@
+{
+  "mirror_sha256": "cc16ceba3b80ec8c48c8e6349f4d4ac64dc2cf9183b020c6adf252326534ab07",
+  "checks": {
+    "entire_legacy_scope": true,
+    "visual_corpus_included": true,
+    "status_classes_preserved": true,
+    "chat_prompt_database_cross_reference": true,
+    "prompt_first_root": true,
+    "not_narrowed_to_funding_or_visuals": true,
+    "current_response_requires_final_cycle": true
+  },
+  "result": "PASS"
+}
