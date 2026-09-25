@@ -48,7 +48,7 @@
     "double_deckers": "3 ADA/Mixed/Non-ADA — regional travel/resources/outreach/practice/education — upper-level film review",
     "school_bus": "1 22nd-century school bus — supplies/equipment/luggage"
   },
-  "result": "REPEAT REQUIRED — TWO FOUNDER-NAMED CORRECTIONS REMAIN",
+  "result": "PASS FOR SCOPE-ISOLATED CORRECTION — NO PIXEL CHANGES OUTSIDE NAMED CORRECTION REGIONS",
   "post_generation_binary_validation": {
     "file": "a_wide_ultra_detailed_cinematic_infographic_illu.png",
     "width": 1536,
@@ -70,6 +70,48 @@
       "mega-bus and double-decker film-review interiors",
       "supply-bus interior",
       "first-rendering overall layout"
+    ]
+  },
+  "final_pixel_preservation_validation": {
+    "base_sha256": "799f6f900d5d68ad11b74dfbc0ff480a56521da9b3dbfa952e4ebb08bc745d48",
+    "corrected_sha256": "547df5f9cc50ac05b4f5b73d22d71666c048146b7168a63a7a2bb34e7d9991ce",
+    "dimensions": "1536x1024",
+    "changed_pixels": 57792,
+    "changed_percent": 3.6743,
+    "changed_bbox": [
+      1238,
+      214,
+      1532,
+      737
+    ],
+    "outside_intended_region_changed_pixels": 0,
+    "python_result": "PASS — all changed pixels are confined to the Founder-named school-bus/spectator-seating correction region."
+  },
+  "final_correction": {
+    "base": "first rendering restored as the immutable base",
+    "changed_only": [
+      "top-right school-bus exterior changed to futuristic supply/equipment/luggage form",
+      "Youth & Rec Academy now physically shows spectator seating as a visible inset"
+    ],
+    "preserved": [
+      "header/title",
+      "Legacy Chair and table",
+      "uniforms",
+      "tour-bus row and interior",
+      "15-passenger vans",
+      "mega buses and film-review interior",
+      "double-deckers and film-review interior",
+      "supply-bus interior",
+      "Pro & Academy",
+      "Just Love Pond",
+      "High-Capacity Lobbies",
+      "Fan Lounge & Plaza",
+      "Central Spine",
+      "court technology panels",
+      "Biomechanical Recovery Lab",
+      "Pro Shop & Traction Lab",
+      "equipment vaults",
+      "footer"
     ]
   }
 }
