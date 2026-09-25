@@ -1,0 +1,16 @@
+{
+  "review_id": "MR-2026-09-24-DOMINATING-ANXIETY-BOXING-ARTIFACT-03",
+  "result": "FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures": [
+    "multi-panel infographic/collage instead of one cinematic campus exterior",
+    "fleet row and interior panels still present",
+    "invented slogans/promotional copy still present",
+    "unrequested crest/crown/ribbon graphics still present",
+    "Just Love Pond missing at principal entrance",
+    "private Pro & Championship street entrance not clearly separated",
+    "solar/renewable roof systems not clearly visible",
+    "Stewards Common Area mislabeled as I AM A MASTERPIECE COSMETOLOGY rather than reflecting its control",
+    "22nd-century supply school bus too conventional"
+  ],
+  "correction_method": "stop generating from whole prompt context; isolate campus exterior as explicit edit base; edit that image only into one full-frame campus exterior"
+}
