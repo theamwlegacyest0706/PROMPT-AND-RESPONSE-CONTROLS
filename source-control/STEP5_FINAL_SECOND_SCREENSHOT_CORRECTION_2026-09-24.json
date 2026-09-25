@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-24",
+  "exact_source": "9ce75a75-12ee-473d-847b-77d6ad683a4d.png",
+  "file_id": "file_00000000b7fc822faa5ca143cbad3f66",
+  "checks": {
+    "exact_second_screenshot": true,
+    "prior_substitutions_rejected": true,
+    "unaffected_regions_frozen": true,
+    "no_edit_generated_in_correction_turn": true,
+    "final_response_verified_before_presentation": true
+  },
+  "result": "PASS"
+}
