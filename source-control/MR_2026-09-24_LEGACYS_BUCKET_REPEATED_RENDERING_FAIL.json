@@ -1,0 +1,30 @@
+{
+  "review_id": "MR-2026-09-24-LEGACYS-BUCKET-REPEATED-RENDERING-FAIL",
+  "date": "2026-09-24",
+  "result": "LEVEL 4 STRENGTHEN / REPEATED FAILURE / OUTPUT HOLD ON BOARD-COLLAGE FORM",
+  "failed_artifacts": [
+    {
+      "file": "a_detailed_high_resolution_infographic_mood_board.png",
+      "sha256": "527c9115a5e9926684c6dff2555f1369d70da396326c5d13d64337e3dcf74fc6",
+      "dimensions": "1536x1024"
+    },
+    {
+      "file": "a_wide_high_detail_infographic_collage_in_a_clean.png",
+      "sha256": "c265191c3d13f8a700427edbd3ccedb0e28de3293ff1764d1c7c8b01a371000c",
+      "dimensions": "1536x1024"
+    }
+  ],
+  "failures": [
+    "Repeated ML-015 violation: infographic/collage output instead of single-scene photorealistic/cinematic architectural rendering.",
+    "Repeated ML-021 problem: fleet interiors remain compressed/label-dependent rather than physically rendered as separate vehicle-family interiors.",
+    "Common Area contamination persists because salon/cosmetology workstations are imported instead of only the controlled Common Area character/functions.",
+    "Campus/masterplan still not depicted as a single exterior architectural scene with Just Love Pond at principal entrance."
+  ],
+  "correction_gate": [
+    "Quarantine both outputs as NON-CONTROLLING provenance.",
+    "Stop generating any further board/collage form.",
+    "Use single-scene image edits/generations only: one campus exterior, one institution interior, one fleet exterior scene, and separate fleet interior scenes.",
+    "No final completion claim until each current artifact passes the finished-artifact Mirror Review."
+  ],
+  "authority_boundary": "No save, approval, supersession or current-controlled status is created."
+}
