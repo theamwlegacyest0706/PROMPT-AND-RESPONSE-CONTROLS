@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-24",
+  "final_response_sha256": "15bcfcd6b7374db94856fc384e3d62bf2a4023897c62f8e5da2addc45bae1e33",
+  "exact_file": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+  "file_reference": "turn164file0",
+  "checks": {
+    "exact_existing_file": true,
+    "visible_file_resource_in_final": true,
+    "no_regeneration": true,
+    "no_alteration": true,
+    "quarantine_status_preserved": true
+  },
+  "result": "PASS"
+}
