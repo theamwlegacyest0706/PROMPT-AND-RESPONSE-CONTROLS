@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-24",
+  "request": "Provide the most recent edited Sports Fleet.",
+  "candidate": {
+    "name": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+    "file_id": "file_000000007300822f83e2740e92093e04",
+    "created_at": "2026-09-18T04:16:26+00:00",
+    "modified_at": "2026-09-18T04:16:28.420550+00:00",
+    "size_bytes": 893345,
+    "model_generated": false
+  },
+  "cross_reference": [
+    "LIBRARY_FULL_MANIFEST_CURRENT_2026-09-23.json",
+    "Visual_Corpus_Audit.csv",
+    "Fleet_Interior_Cross-Ref.csv",
+    "MR_2026-09-23_FLEET_RENDERING_CORRECTION_2039_ET.json",
+    "MR_2026-09-23_ALL_SOURCE_PIXEL_FLEET_TRANSCRIPT_2359_ET.json",
+    "Open_Recovery_Queue.csv"
+  ],
+  "finding": "This is the latest exact edited/corrected combined Sports Fleet artifact in the current Library census. Later Sports Fleet-named files are model-generated derivatives. The combined derivative remains quarantined/non-controlling and is being surfaced only because the Founder requested the most recent edited Sports Fleet.",
+  "controls": {
+    "no_new_rendering": true,
+    "no_substitution": true,
+    "quarantine_preserved": true,
+    "no_authority_promotion": true
+  },
+  "result": "PASS — exact retrieval candidate identified; surface without alteration."
+}
