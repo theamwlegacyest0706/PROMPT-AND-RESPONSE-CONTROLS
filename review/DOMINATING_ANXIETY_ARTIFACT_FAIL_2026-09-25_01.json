@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-25",
+  "artifact_sha256": "67957577cb9be4d294dbc139f29a0fa9277f2a8f9e7d43935790d1a41e5e54c0",
+  "python_review_sha256": "8d44ecb1db94b896b9ba90d6bd447ff039a85d42dce0e8a3153c2430b024d826",
+  "result": "FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures": [
+    "whole-project collage/board instead of separate native renderings",
+    "program text lists embedded in visual",
+    "uniform and fleet panels embedded",
+    "invented slogan/crest branding",
+    "Just Love Pond not correctly presented near entrance",
+    "common-area mirroring requirement not physically satisfied",
+    "fleet families not delivered as separate editable native outputs",
+    "22nd-century supply bus not correctly isolated as cargo-only support vehicle"
+  ],
+  "correction": "Repeat cycle: generate Rendering 01 only as one native standalone campus exterior. Do not crop/stretch/resample the rejected board. Exclude all interiors, fleet, uniforms, lists, captions, presentation panels, slogans and decorative branding."
+}
