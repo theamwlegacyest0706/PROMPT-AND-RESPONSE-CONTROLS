@@ -1,0 +1,30 @@
+{
+  "review_id": "MR-2026-09-24-DUNKIN-POSTGEN-02",
+  "date": "2026-09-24",
+  "status": "LEVEL 5 REPEATED VISUAL FAILURE — QUARANTINE",
+  "trigger": "Second DUNKIN’ ON STEREOTYPES generation again produced a labeled infographic/presentation-board collage after the first correction.",
+  "python_result": "FAIL VISUAL RE-ENTRY / PASS WRITTEN SPEC CHECKSUM",
+  "findings": [
+    "Artifact 1 rejected: concept-board infographic collage.",
+    "Artifact 2 rejected: labeled infographic/presentation-board collage.",
+    "ML-015 failed twice in the same visual failure class.",
+    "ML-021 was not satisfied by a continuous photorealistic/cinematic exterior+interior depiction of each fleet family.",
+    "Written Founder-directed institution specification retains exact 13-vehicle checksum and current inherited controls."
+  ],
+  "corrections": [
+    "Reject both generated images as NON-CONTROLLING and DO NOT SAVE.",
+    "Do not make another image-generation attempt in the same working state under ML-012/019 repeated-failure quarantine.",
+    "Preserve the written DUNKIN’ ON STEREOTYPES institution specification and exact fleet checksum without promotion to Update-and-Saved/current-controlled status.",
+    "Future visual re-entry must use a fresh compliant generation state and one continuous real-world photorealistic/cinematic scene per requested visual, with no labels/panels/boards/collages."
+  ],
+  "fleet_checksum": {
+    "total": 13,
+    "tour_buses": 3,
+    "fifteen_passenger_vans": 3,
+    "mega_buses": 3,
+    "double_deckers": 3,
+    "supply_school_bus": 1
+  },
+  "authority_boundary": "No Founder save/update directive was issued in this task; no artifact is promoted to saved/current-controlled.",
+  "result": "REPEATED VISUAL FAILURE QUARANTINED; WRITTEN SPEC PASSES; NO FURTHER VISUAL RETRY IN THIS WORKING STATE"
+}
