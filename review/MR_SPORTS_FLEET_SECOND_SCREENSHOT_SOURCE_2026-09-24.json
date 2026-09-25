@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-24",
+  "finding": "The Founder’s exact edit source was the second screenshot she supplied. Prior responses substituted later Sports Fleet derivatives and therefore used the wrong visual authority.",
+  "exact_source": {
+    "file_id": "file_00000000b7fc822faa5ca143cbad3f66",
+    "filename": "9ce75a75-12ee-473d-847b-77d6ad683a4d.png",
+    "library_created_at": "2026-09-18T22:31:18+00:00",
+    "source_class": "Founder-supplied/non-generated screenshot reference"
+  },
+  "prior_wrong_targets": [
+    "AMW Legacy Sports Fleet Guide.png",
+    "AMW Legacy Sports Fleet Blueprint(3).png",
+    "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png"
+  ],
+  "prior_review_cross_reference": [
+    "MR_2026-09-23_ARTIFACT_DISPLAY_FALSE_PASS_1812_ET",
+    "MR_2026-09-23_FLEET_RENDERING_CORRECTION_2039_ET",
+    "Sports Fleet 110-Edit Reconciliation — Written Current Control"
+  ],
+  "controls": [
+    "Founder-provided screenshot is controlling edit-source authority.",
+    "No substitution with later generated Sports Fleet boards.",
+    "All unaffected regions are frozen.",
+    "Only Founder-named edits may change.",
+    "Finished edited artifact must pass Mirror Review + Python + GitHub before presentation."
+  ],
+  "result": "PASS — exact second screenshot restored as edit source; no edit performed in this correction turn."
+}
