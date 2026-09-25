@@ -1,0 +1,19 @@
+DOMINATING ANXIETY LEGACY BOXING — GENERATED ARTIFACT VALIDATION
+Artifact SHA256: 912d9f322af5cf8f77d296487dce9422f2b9415201ac6ce5d4336f16aac36f3c
+Dimensions: 1536x1024
+Result: FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE
+Failed controls:
+- 12 individual full-size renderings not delivered.
+- Infographic/board/collage substitution occurred.
+- Campus exterior not standalone.
+- Program interiors not standalone.
+- Stewards Common Area not standalone.
+- Uniform rendering not standalone.
+- Five fleet-family exterior/interior renderings not standalone.
+- Invented slogan/branding present.
+- 22nd-century supply bus not reliably cargo-only.
+Passed observations:
+- Just Love Pond visible.
+- Midnight Dark Blue + Antique Gold palette visible.
+Required correction:
+Generate the complete 12-image set as individual photorealistic/cinematic renderings and validate each finished artifact before presentation.
