@@ -1,0 +1,47 @@
+{
+  "review_id": "MR-2026-09-25-DUNKIN-ON-STEREOTYPES-ANNOTATED-EDIT-PREFLIGHT",
+  "date": "2026-09-25",
+  "scope": "Founder-annotated correction pass for DUNKIN’ ON STEREOTYPES LEGACY BUCKETS rendering.",
+  "founder_change_set": [
+    "Stewards’ Common Area must mirror I AM A MASTERPIECE COSMETOLOGY Stewards’ Common Area.",
+    "Replace incorrect indoor-facility panel with a true all-year basketball court and indoor spectator seating.",
+    "Outdoor court must include spectator seating.",
+    "Basketball courts must visibly use official professional 23'9\" three-point geometry.",
+    "Remove the separate I AM A MASTERPIECE building from the campus.",
+    "Preserve Just Love Pond.",
+    "Preserve team/family lodging at both Founder-marked locations.",
+    "Preserve all Founder-marked KEEP regions and the outdoor training-complex regions.",
+    "Preserve uniforms, fleet counts/types/functions/interiors, Emerald Green + Midnight Dark Blue palette, and all other unaffected work."
+  ],
+  "inherited_controls": [
+    "ML-004 Founder Prompt Fidelity",
+    "ML-009 Visual Rendering Completeness / Preflight Full-Stop",
+    "ML-010 Approved Artifact Preservation & Additive-View Control",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-013 Fleet Specification Checksum & Purpose Lock",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-021 Fleet Exterior + Interior Visibility / Physical Depiction Gate",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation Gate",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review Gate"
+  ],
+  "source_controls": {
+    "cosmetology_common_area": "7 TVs total (2 gaming + 5 general), relaxation seating; full kitchen and Legacy-wide shower/locker/laundry/quiet/game-table minimums additive.",
+    "sports_fleet": "13 vehicles = 3 Tour + 3 15-passenger + 3 Mega + 3 Double-Decker + 1 22nd-century Supply Bus; Tour family/fan travel; vans local/outreach/resources; Mega + Double-Decker include Film & Strategy, recovery, real full kitchen, enclosed restroom; supply bus cargo/equipment/luggage only.",
+    "school_bus": "22nd-century body; preserve exact quantity, mission, interior equipment/function, institution palette/branding; no invented mobility split.",
+    "just_love_pond": "Required near principal/public entrance."
+  },
+  "python_precheck": {
+    "status": "PASS_PRECHECK",
+    "image_size": "1536x1024",
+    "founder_keep_points": 42,
+    "founder_outdoor_keep_points": 6,
+    "fleet_checksum_total": 13,
+    "source_image_sha256_prefix": "08d48764cdf526e3"
+  },
+  "result": "AUTHORIZED FOR EXACT-SCOPE IMAGE EDIT ONLY — NO RECOMPOSITION OF UNNAMED REGIONS"
+}
