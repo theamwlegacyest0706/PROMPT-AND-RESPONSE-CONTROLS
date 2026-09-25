@@ -1,0 +1,33 @@
+{
+  "review_id": "MR-2026-09-25-PATTIES-PERCH-RENDER-RELEASE",
+  "trigger": "Founder explicitly directed: Provide the rendering then.",
+  "source_authority": [
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-24_2344_ET_PATTIES_PERCH.txt",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_CONTROL_MATRIX.md",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_MIRROR_REVIEW.md",
+    "reviews/2026-09-24_PATTIES_PERCH_ACTUAL_ARTIFACT_MIRROR_REVIEW_01.md",
+    "reviews/2026-09-24_PATTIES_PERCH_EXACT_RENDERING_RECOVERY_GAP_02.md",
+    "review/MIRROR_REVIEW_2026-09-25_TRUST_CLAIM_EXECUTION_CORRECTION.json",
+    "source-control/PATTIES_PERCH_ACTIVE_CHAT_CONTINUITY_2026-09-25_0036_ET.json"
+  ],
+  "python_validation": {
+    "full_prompt_read": true,
+    "explicit_render_request": true,
+    "fleet_total": 13,
+    "fleet_checksum_pass": true,
+    "required_scene_families": 5,
+    "facility_fleet_palette": "Slate Gray + Antique Gold",
+    "uniform_palette": "Antique Gold dominant + Emerald Green accent"
+  },
+  "corrections_carried_forward": [
+    "Do not reproduce the rejected collage/poster format.",
+    "No unrelated institution imagery.",
+    "No invented slogan or substitute sport identity.",
+    "Use exact PATTIES PERCH name and softball identity.",
+    "Show complementary photorealistic/cinematic views for exterior/site, interiors, fleet exterior/interior, and uniforms.",
+    "Preserve the exact 13-vehicle fleet and missions.",
+    "Show Just Love Pond, ROUND Legacy Table, Empty Chair, mixed-ability access, renewable cues, and named interior functions where applicable.",
+    "Do not label generated work approved/current/saved without Founder direction."
+  ],
+  "result": "PASS — FOUNDER EXPLICITLY RELEASED NEW PATTIES PERCH RENDERING GENERATION"
+}
