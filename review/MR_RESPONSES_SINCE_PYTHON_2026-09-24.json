@@ -1,0 +1,108 @@
+{
+  "review_id": "MR-RESPONSES-SINCE-PYTHON-MENTIONED-2026-09-24",
+  "date": "2026-09-24",
+  "scope": "Assistant responses from first explicit Python/GitHub execution-layer discussion through current Founder correction; full accessible Legacy source package included.",
+  "python_source_ingest": {
+    "master_sheets": 55,
+    "master_nonempty_rows": 2179,
+    "master_locks_loaded": 25,
+    "master_lock_ids": [
+      "ML-001",
+      "ML-002",
+      "ML-003",
+      "ML-004",
+      "ML-005",
+      "ML-006",
+      "ML-007",
+      "ML-008",
+      "ML-009",
+      "ML-010",
+      "ML-011",
+      "ML-012",
+      "ML-013",
+      "ML-014",
+      "ML-015",
+      "ML-016",
+      "ML-017",
+      "ML-018",
+      "ML-019",
+      "ML-020",
+      "ML-021",
+      "ML-022",
+      "ML-023",
+      "ML-024",
+      "ML-025"
+    ],
+    "mirror_review_rows": 35,
+    "funding_pipeline_rows": 20,
+    "full_status_layers_preserved": true,
+    "visual_authority_and_corpus_loaded": true,
+    "recovery_stabilization_operationalization_loaded": true
+  },
+  "response_findings": [
+    [
+      "2026-09-22",
+      "Python was available but not consistently run; GitHub was treated as unconnected/optional before the Founder made both mandatory.",
+      "execution_layer_not_mandatory"
+    ],
+    [
+      "2026-09-23",
+      "Python-first/full-prompt/recursive-review PASS language was used before later source-ingest and GitHub gaps were found.",
+      "premature_pass"
+    ],
+    [
+      "2026-09-23",
+      "A partial repository package was produced while the Founder required all AMW information/work to be supplied to Python and GitHub.",
+      "partial_source_package"
+    ],
+    [
+      "2026-09-23",
+      "All-source/full-source language was used even though later raw-chat, source parity, and visual-binary gaps were still being discovered.",
+      "scope_overstatement"
+    ],
+    [
+      "2026-09-23",
+      "Earlier PASS language remained even when repeated nonexecution showed the same failure class had not behaviorally closed.",
+      "pass_not_behavioral_closure"
+    ],
+    [
+      "2026-09-24",
+      "Galaxy and Business Freedom were re-presented as qualified after Python/GitHub became mandatory, despite preserved exclusions.",
+      "funding_control_nonexecution"
+    ],
+    [
+      "2026-09-24",
+      "The first AdIQ draft could read as if AMW/THE AMW LEGACY were registered business/DBA identities and omitted the current unregistered status.",
+      "identity_registration_misstatement"
+    ],
+    [
+      "2026-09-24",
+      "Giving Joy was presented as qualified despite six-month project, beneficiary, grant-agreement, monitoring, and reporting requirements.",
+      "restrictions_gate_nonexecution"
+    ],
+    [
+      "2026-09-24",
+      "Repeated claims that Python/GitHub had all controls were not demonstrated by the subsequent contradictory responses.",
+      "full_source_claim_not_proven"
+    ]
+  ],
+  "systemic_findings": [
+    "Controls were sometimes named or written without changing execution.",
+    "PASS/compliance was sometimes asserted before the next response proved the failure class had actually closed.",
+    "Subset validation was sometimes treated as if it established full-source execution.",
+    "The Founder was forced to perform post-delivery QA that ML-018/019/020/023 were supposed to prevent.",
+    "Funding errors after Python/GitHub became mandatory prove the execution package was not reliably controlling output."
+  ],
+  "corrections_now_applied": [
+    "Full-source ingest precedes any workstream-specific validation.",
+    "A workstream subset may never be cited as proof that all controls were supplied.",
+    "No PASS closes a repeated failure class if later behavior contradicts it; the class remains open.",
+    "GitHub full-source validation must reference the 25/25 Master Lock index, 55/55 current master sheets, full Mirror Review archive, visual corpus/authority, recovery/stabilization records, and implicated workstream records.",
+    "Python validation must load the full current master and prior Mirror Review corpus before workstream screening.",
+    "Known raw-chat recovery gaps remain explicit and cannot be converted into a claim of complete verbatim history.",
+    "Funding exclusions/restrictions are applied before presentation; failed opportunities are not surfaced for Founder triage."
+  ],
+  "visual_review": "Full visual corpus/status and authority records remain in scope. No current visual authority state is changed by this response audit.",
+  "pre_correction_result": "FAIL — repeated post-Python responses contradicted claimed execution/compliance.",
+  "post_correction_result": "PASS FOR THIS CORRECTION CYCLE — full-source package used; failures remain preserved as open accountability evidence rather than erased."
+}
