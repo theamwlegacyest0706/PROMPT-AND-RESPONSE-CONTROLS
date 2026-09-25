@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-24",
+  "prior_wrong_target": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+  "correction_target": "AMW Legacy Sports Fleet Blueprint(3).png",
+  "created_at": "2026-09-19T03:43:07.052941+00:00",
+  "finding": "The prior response selected a schematic/control rendering by filename instead of tracing the Founder-requested edited Sports Fleet photo through the actual edit lineage.",
+  "prior_reviews_cross_referenced": [
+    "MR_2026-09-23_ARTIFACT_DISPLAY_FALSE_PASS_1812_ET",
+    "MR_2026-09-23_ALL_SOURCE_PIXEL_FLEET_TRANSCRIPT_2359_ET",
+    "MR_2026-09-23_FLEET_RENDERING_CORRECTION_2039_ET",
+    "Recovery Crosswalk Sports Fleet Combined-Derivative Failure Cluster"
+  ],
+  "controls": {
+    "no_regeneration": true,
+    "no_substitution": true,
+    "no_authority_promotion": true,
+    "quarantine_preserved": true
+  },
+  "python_mirror_sha256": "3ab166f3d63fe706edd844e9ed5b35d3d035010c41cf0e0432cdf1fe8825c7b4",
+  "result": "PASS FOR CORRECTED RETRIEVAL TARGET"
+}
