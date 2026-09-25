@@ -72,5 +72,30 @@
     "steward_common_area_inheritance_required": true,
     "no_caption_substitution": true
   },
-  "result": "READY FOR CORRECTIVE IMAGE EDIT ONLY AFTER PRE-TOOL GATE; REFERENCE ARTIFACT REMAINS NON-APPROVED UNTIL FOUNDER APPROVAL."
+  "result": "FIRST GENERATION FAILED POST-RENDER MIRROR REVIEW — SECOND CORRECTIVE EDIT REQUIRED",
+  "first_generation_review": {
+    "generated_asset": "file_00000000474c822f8f8830e4e69b049a",
+    "founder_reference_asset": "file_00000000f6a8822fb84a8d44a209118a",
+    "checks": {
+      "title_and_palette": "PASS",
+      "uniforms_preserved": "PASS",
+      "just_love_pond_visible": "PASS",
+      "spectator_seating_visible": "PASS",
+      "tour_bus_family_exterior_and_interior": "PASS",
+      "fifteen_passenger_van_family_exterior_and_interior": "PASS",
+      "mega_bus_family_exterior_and_upper_film_review": "PASS",
+      "double_decker_family_exterior_and_upper_film_review": "PASS",
+      "true_22nd_century_school_bus_exterior": "FAIL — body still reads too much like a coach/standard bus rather than an unmistakable futuristic school-bus conversion",
+      "school_bus_supply_interior": "PASS",
+      "stewards_common_area_reflects_cosmetology": "PARTIAL — visual salon/cosmetology character is present, but inherited Common Area controls are not fully physically depicted",
+      "assigned_mobility_distinctions_physically_visible": "PARTIAL — labels exist, but ADA/Mixed/Non-ADA differences are not all physically distinct enough"
+    },
+    "result": "FAIL / REPEAT CYCLE REQUIRED UNDER ML-009, ML-012, ML-021, ML-022, ML-023"
+  },
+  "repeat_cycle_corrections": [
+    "Make the supply vehicle unmistakably a 22nd-century SCHOOL BUS: futuristic school-bus proportions and recognizable school-bus architecture, not a coach or shuttle; keep emerald/midnight branding; supplies/equipment/luggage mission only; no inferred mobility split.",
+    "Strengthen physical ADA/Mixed/Non-ADA differentiation in fleet interior/exterior depictions where Founder assigned: visible lift/ramp/securement/clearance on ADA, hybrid accessible+standard on Mixed, standard seating on Non-ADA.",
+    "Expand the Stewards’ Common Area depiction so the cosmetology character remains visible while inherited Legacy Common Area requirements are physically represented, including the intentionally Empty Chair and round/circular Legacy furniture/table treatment where applicable.",
+    "Preserve all already-correct panels and the Just Love Pond; do not redesign kept elements."
+  ]
 }
