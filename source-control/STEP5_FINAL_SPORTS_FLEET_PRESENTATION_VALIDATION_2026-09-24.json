@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-24",
+  "selected_file": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+  "file_id": "file_000000007300822f83e2740e92093e04",
+  "checks": {
+    "exact_file": true,
+    "latest_explicitly_corrected_edited_candidate": true,
+    "model_generated_false": true,
+    "quarantine_status_preserved": true,
+    "no_substitution": true,
+    "no_regeneration": true,
+    "no_post_validation_alteration": true
+  },
+  "result": "PASS — present exact file only"
+}
