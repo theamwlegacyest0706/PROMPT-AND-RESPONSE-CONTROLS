@@ -1,0 +1,21 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-CURRENT-GENERATED-ARTIFACT",
+  "artifact_sha256":"760feaeb9afb528247b2af7d9570fe39737b8e009abfaf38971d92c273956076",
+  "python_result":"FAIL",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "findings":{
+    "generated_as_native_standalone_rendering":false,
+    "not_a_collage_board_contact_sheet":false,
+    "campus_exterior_only":false,
+    "no_program_text_lists":false,
+    "no_uniform_panel":false,
+    "no_fleet_panel":false,
+    "no_common_area_panel":false,
+    "no_invented_slogan_or_branding":false,
+    "just_love_pond_present":true,
+    "palette_midnight_dark_blue_antique_gold":true,
+    "directly_editable_source_exists":true,
+    "ready_to_present_as_compliant":false
+  },
+  "correction":"Use the actual generated image as an image-edit target only. Remove every lower panel, fleet panel, uniform panel, common-area panel, program list and invented branding; transform it into ONE native full-frame campus exterior. Do not use Python cropping, resizing, stretching or letterboxing to manufacture the visual."
+}
