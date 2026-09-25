@@ -1,0 +1,14 @@
+{
+  "response_sha256": "bb9ec6988ff762df00ffb0edf0e23499289ba0ca7eb87ead8ba08805a736aafb",
+  "checks": {
+    "corrections_only": true,
+    "prompt_execution_root": true,
+    "numbered_order_preserved": true,
+    "entire_legacy_scope": true,
+    "not_narrowed_to_funding_or_visuals": true,
+    "no_speed_override": true,
+    "no_post_pass_alteration": true,
+    "step1_completed_before_first_mirror": true
+  },
+  "result": "PASS"
+}
