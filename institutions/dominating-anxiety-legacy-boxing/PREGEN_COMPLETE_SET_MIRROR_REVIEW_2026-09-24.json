@@ -1,0 +1,28 @@
+{
+  "review_id": "MR-2026-09-24-DOMINATING-ANXIETY-COMPLETE-SET-PREGEN",
+  "github_prompt_commit": "27e37ddb974a392993d057efec29bfd4d2da9bab",
+  "github_control_lock_commit": "4bc8ae2d6fff166adc038bf5a84eb4a3e23c197a",
+  "required_rendering_set": [
+    "01 Campus Exterior / Master Architectural View",
+    "02 Pro & Championship Wing Interior",
+    "03 Golden Gloves Academy + High-Capacity Floor Interior",
+    "04 Spectator / Fan / Media Pavilion + Central Spine",
+    "05 Official Title Rings + Conditioning Pavilion + AI Telemetry / Recovery",
+    "06 Stewards' Common Area — reflects I AM A MASTERPIECE COSMETOLOGY control",
+    "07 Uniform Rendering",
+    "08 Tour Bus — exterior + interior; ADA/Mixed/Non-ADA family represented without changing exact fleet count",
+    "09 15-Passenger Van — exterior + interior; ADA/Mixed/Non-ADA outreach/education/resources",
+    "10 Mega Bus — exterior + upper/lower interior with upper-level film review",
+    "11 Double-Decker — exterior + upper/lower interior with upper-level film review",
+    "12 22nd-Century Supply School Bus — exterior + cargo/equipment/luggage interior"
+  ],
+  "corrections": [
+    "Complete 12-rendering set is the execution target; task does not end after campus exterior.",
+    "Each rendering must be an individual photorealistic/cinematic image, not a combined infographic/presentation board.",
+    "I AM A MASTERPIECE COSMETOLOGY is an inherited Common Area atmosphere/control reference only, not Boxing signage.",
+    "Supply school bus is 22nd-century cargo/support-only for equipment and luggage.",
+    "Founder-assigned ADA/Mixed/Non-ADA classifications remain exact.",
+    "Nothing is auto-saved/current-controlled until Founder approval/save direction."
+  ],
+  "result": "PASS — COMPLETE 12-RENDERING SET AUTHORIZED"
+}
