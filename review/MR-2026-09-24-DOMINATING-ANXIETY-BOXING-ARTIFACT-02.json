@@ -1,0 +1,24 @@
+{
+  "review_id": "MR-2026-09-24-DOMINATING-ANXIETY-BOXING-ARTIFACT-02",
+  "result": "FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures": [
+    "not a single full-frame campus exterior",
+    "board/collage/infographic substitution",
+    "Just Love Pond absent",
+    "private Pro & Championship street entrance not isolated",
+    "solar/renewable roof systems absent",
+    "invented slogans/promotional copy added",
+    "unrequested common-area/fleet panels added",
+    "school bus not clearly 22nd-century",
+    "school bus not clearly supply-only"
+  ],
+  "edit_only_correction": [
+    "use only the top-left exterior building as base concept",
+    "remove all panels/lists/fleet/common-area/footer/title-band/slogan/crest/crown/lion/WBA flag-logo/promo copy",
+    "expand into one uninterrupted full-frame photorealistic/cinematic campus exterior",
+    "retain only exact DOMINATING ANXIETY LEGACY BOXING signage",
+    "replace fountain with actual landscaped Just Love Pond beside principal/public entrance",
+    "add clearly separate secured Pro & Championship Wing street entrance on distinct drive",
+    "show Golden Gloves Academy entrance, Spectator/Fan/Media Pavilion covered plaza, elevated glazed Central Spine, covered conditioning pavilion, solar/renewable roof systems, mixed-ability circulation"
+  ]
+}
