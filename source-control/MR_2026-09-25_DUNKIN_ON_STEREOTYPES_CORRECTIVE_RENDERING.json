@@ -1,0 +1,76 @@
+{
+  "review_id": "MR-2026-09-25-DUNKIN-ON-STEREOTYPES-CORRECTIVE-RENDERING",
+  "date": "2026-09-25",
+  "trigger": "Founder re-issued full prompt after prior rendering omitted controls and mis-rendered the supply school bus.",
+  "founder_scope": {
+    "institution": "DUNKIN’ ON STEREOTYPES LEGACY BUCKETS — Our Basketball Team",
+    "palette": [
+      "Emerald Green",
+      "Midnight Dark Blue"
+    ],
+    "steward_common_area": "reflect I AM A MASTERPIECE COSMETOLOGY",
+    "uniforms": "preserve the established uniform control and the reference uniforms",
+    "fleet_checksum": {
+      "tour_buses": "3 — ADA / Mixed / Non-ADA — fans/family travel — plush interiors",
+      "fifteen_passenger_vans": "3 — ADA / Mixed / Non-ADA — outreach/education/resources",
+      "mega_buses": "3 — ADA / Mixed / Non-ADA — extended state travel/education/outreach/practice/recovery — upper-level film review",
+      "double_deckers": "3 — ADA / Mixed / Non-ADA — regional travel/resources/outreach/practice/education — upper-level film review",
+      "school_bus": "1 — true 22nd-century school bus — supplies/equipment/luggage"
+    },
+    "exact_total_vehicles": 13
+  },
+  "preserved_reference_elements": [
+    "uniforms",
+    "tour-bus exterior",
+    "15-passenger-van exterior",
+    "mega-bus exterior",
+    "double-decker exterior",
+    "tour-bus plush interior",
+    "15-passenger-van interior",
+    "mega-bus upper-level film review area",
+    "double-decker upper-level film review area",
+    "supply-bus interior",
+    "Just Love Pond"
+  ],
+  "corrections_required": [
+    "Replace the incorrect supply vehicle exterior with a visually unmistakable 22nd-century school bus body while preserving supplies/equipment/luggage mission.",
+    "Add physically visible spectator seating; do not satisfy with labels only.",
+    "Restore omitted Founder prompt elements and inherited controls.",
+    "Preserve all Founder-marked KEEP regions in design character; edit only required defects/additions.",
+    "Keep Just Love Pond at the principal/public entrance.",
+    "Keep the established basketball uniforms.",
+    "Physically depict fleet exterior and interior families per ML-021.",
+    "Apply Legacy-wide fleet interior baseline: durable/easy-clean materials, climate/air quality, high-capacity Wi-Fi, displays, flexible seating where safe/legal, stowage, kitchen/kitchenette and restroom as platform-appropriate, secure storage, charging, GPS/security/communications, emergency readiness, renewable/solar auxiliary support where feasible.",
+    "Maintain intentionally Empty Chair where seating is depicted and physical ROUND Legacy Table/circular geometry where applicable."
+  ],
+  "controls": [
+    "ML-003",
+    "ML-004",
+    "ML-005",
+    "ML-009",
+    "ML-010",
+    "ML-011",
+    "ML-012",
+    "ML-013",
+    "ML-014",
+    "ML-015",
+    "ML-016",
+    "ML-018",
+    "ML-019",
+    "ML-020",
+    "ML-021",
+    "ML-022",
+    "ML-023"
+  ],
+  "preflight": {
+    "fleet_total_13": true,
+    "school_bus_is_22nd_century": true,
+    "spectator_seating_visible_required": true,
+    "exterior_and_interior_required": true,
+    "just_love_pond_required": true,
+    "uniforms_preserved": true,
+    "steward_common_area_inheritance_required": true,
+    "no_caption_substitution": true
+  },
+  "result": "READY FOR CORRECTIVE IMAGE EDIT ONLY AFTER PRE-TOOL GATE; REFERENCE ARTIFACT REMAINS NON-APPROVED UNTIL FOUNDER APPROVAL."
+}
