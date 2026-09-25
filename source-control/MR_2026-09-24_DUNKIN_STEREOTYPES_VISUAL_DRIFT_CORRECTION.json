@@ -48,5 +48,28 @@
     "double_deckers": "3 ADA/Mixed/Non-ADA — regional travel/resources/outreach/practice/education — upper-level film review",
     "school_bus": "1 22nd-century school bus — supplies/equipment/luggage"
   },
-  "result": "FAIL CONFIRMED — CORRECTION LIMITED TO FOUNDER-NAMED CHANGES; NO REDESIGN AUTHORIZED"
+  "result": "REPEAT REQUIRED — TWO FOUNDER-NAMED CORRECTIONS REMAIN",
+  "post_generation_binary_validation": {
+    "file": "a_wide_ultra_detailed_cinematic_infographic_illu.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 3433413,
+    "pixel_count": 1572864,
+    "sha256": "af749be6708a333939b5b6f84998c502f87254b0f86509b89b2f359d13ff5a73"
+  },
+  "post_generation_mirror_review": {
+    "result": "STRENGTHEN / REPEAT REQUIRED",
+    "remaining_corrections": [
+      "School-bus exterior must read unmistakably as the controlled 22nd-century school bus rather than a conventional/coach/truck hybrid.",
+      "Youth & Rec Academy must visibly include spectator seating/bleachers; court participants alone do not satisfy the Founder correction."
+    ],
+    "preserve_now": [
+      "Just Love Pond",
+      "uniform block",
+      "fleet counts and purposes",
+      "mega-bus and double-decker film-review interiors",
+      "supply-bus interior",
+      "first-rendering overall layout"
+    ]
+  }
 }
