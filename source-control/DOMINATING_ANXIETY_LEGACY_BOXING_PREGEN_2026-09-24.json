@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-24",
+  "institution": "DOMINATING ANXIETY LEGACY BOXING",
+  "prompt_sha256": "74bfb2fece715301a9e78edbd957637aa6acea9c64587b980dcfb77d3e1ace4a",
+  "status": "PRE-GENERATION CONTROL LOCK",
+  "palette": [
+    "Midnight Dark Blue",
+    "Antique Gold"
+  ],
+  "inherited_controls": [
+    "Just Love Pond at principal entrance",
+    "Empty Chair in seating environments",
+    "ROUND Legacy Table in principal shared/gathering environment",
+    "circular/curved geometry where appropriate",
+    "mixed-ability access",
+    "renewable/solar priority",
+    "Legacy Creator furniture priority",
+    "Stewards Common Area reflects I AM A MASTERPIECE COSMETOLOGY atmosphere/control only",
+    "uniform control: comfortable, functional, inclusive, non-gender-specific",
+    "individual full-size high-resolution zoomable/editable visual presentation",
+    "no board/collage/infographic substitution"
+  ],
+  "fleet": {
+    "tour_buses": "3 total: ADA / Mixed / Non-ADA; fans/family travel; slightly plush; full fleet interior baseline",
+    "vans_15_passenger": "3 total: ADA / Mixed / Non-ADA; outreach/education/resources",
+    "mega_buses": "3 total: ADA / Mixed / Non-ADA; extended state travel; education/outreach/practice/recovery; upper level film review",
+    "double_deckers": "3 total: ADA / Mixed / Non-ADA; regional travel/resources/outreach/practice/education; upper level film review",
+    "school_bus": "1 total: 22nd-century supply bus; equipment/luggage"
+  },
+  "rendering_set": [
+    "01 Campus Exterior / Master Architectural View",
+    "02 Pro & Championship Wing Interior",
+    "03 Golden Gloves Academy + High-Capacity Floor Interior",
+    "04 Spectator / Fan / Media Pavilion + Central Spine",
+    "05 Official Title Rings + Conditioning Pavilion + AI Telemetry / Sport-Science Recovery",
+    "06 Stewards' Common Area",
+    "07 Uniform Rendering",
+    "08 Tour Bus Exterior + Interior",
+    "09 15-Passenger Van Exterior + Interior",
+    "10 Mega Bus Exterior + Upper/Lower Interior with Film Review Area",
+    "11 Double-Decker Exterior + Upper/Lower Interior with Film Review Area",
+    "12 22nd-Century Supply School Bus Exterior + Cargo Interior"
+  ],
+  "result": "PASS — GENERATE ALL 12 INDIVIDUALLY; FOUNDER REVIEW BEFORE SAVE"
+}
