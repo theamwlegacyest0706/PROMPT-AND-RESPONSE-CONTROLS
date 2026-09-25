@@ -1,0 +1,36 @@
+{
+  "review_id": "MR-2026-09-25-DUNKIN-ANNOTATED-RENDER-CORRECTION",
+  "trigger": "Founder annotated the latest DUNKIN’ ON STEREOTYPES LEGACY BUCKETS rendering and directed preservation of unaffected areas plus exact corrections.",
+  "controls_applied": [
+    "ML-003 Just Love Pond",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-010 Approved Artifact Preservation & Additive-View Control",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-013 Fleet Specification Checksum & Purpose Lock",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility / Physical Depiction Gate",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation Gate",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review Gate"
+  ],
+  "exact_fleet": {
+    "tour_buses": "3 — ADA / Mixed / Non-ADA — fans/family travel — plush",
+    "vans_15p": "3 — ADA / Mixed / Non-ADA — outreach/education/resources",
+    "mega_buses": "3 — ADA / Mixed / Non-ADA — extended state travel/education/outreach/practice/recovery — upper level film review",
+    "double_deckers": "3 — ADA / Mixed / Non-ADA — regional travel/resources/outreach/practice/education — upper level film review",
+    "school_bus": "1 — true 22nd-century school bus — supplies/equipment/luggage"
+  },
+  "common_area": "I AM A MASTERPIECE-derived: spa-themed calm/restorative, 7 TVs total (2 gaming + 5 general), comfortable decompression seating; preserve all inherited Common Area controls that do not conflict.",
+  "founder_edits": [
+    "Replace incorrect top-right vehicle with a true 22nd-century school bus.",
+    "Add visible spectator seating.",
+    "Restore omitted prompt/control elements.",
+    "Keep Just Love Pond.",
+    "Keep marked tour-bus, van, mega-bus, double-decker, interior, uniforms, and other marked areas unchanged.",
+    "Preserve palette Emerald Green + Midnight Dark Blue."
+  ],
+  "preflight_result": "PASS — exact correction scope isolated; no unauthorized redesign permitted."
+}
