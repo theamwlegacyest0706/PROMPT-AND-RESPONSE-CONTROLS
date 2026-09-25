@@ -1,0 +1,66 @@
+{
+  "institution": "DOMINATING ANXIETY LEGACY BOXING",
+  "palette": [
+    "Midnight Dark Blue",
+    "Antique Gold"
+  ],
+  "visual_format": {
+    "count": 12,
+    "standalone": true,
+    "photorealistic_cinematic": true,
+    "full_size_high_resolution": true,
+    "zoomable_openable": true,
+    "editable_revisable": true,
+    "no_infographic_board_poster_collage_contact_sheet": true,
+    "show_before_save_update": true
+  },
+  "institution_controls": [
+    "Just Love Pond near principal/public entrance",
+    "Empty Chair in each depicted seating environment",
+    "ROUND Legacy Table in principal shared/public/community/learning/gathering area",
+    "circular/rounded/curved geometry where appropriate",
+    "mixed-ability accessibility",
+    "solar/renewable/all-electric-ready direction",
+    "Legacy Creator furniture/millwork priority where feasible"
+  ],
+  "common_area": {
+    "directive": "MIRRORS I AM A MASTERPIECE COSMETOLOGY Common Area",
+    "higher_control": "7 TVs total — 2 gaming + 5 general; soothing/calm/tranquil/warm/restorative; comfortable relaxation seating",
+    "inherited_baseline": "quiet decompression; full kitchen; minimum 2 showers; convertible table-game equipment; separate from active training/high-noise",
+    "boxing_identity_only": true
+  },
+  "uniform": "comfortable, functional, inclusive, non-gender-specific, Midnight Dark Blue + Antique Gold, safe athletic/work movement and laundering durability",
+  "fleet": [
+    "3 tour buses ADA/Mixed/Non-ADA; fans/family travel; slightly plush; full compatible tour-bus interior baseline",
+    "3 15-passenger vans ADA/Mixed/Non-ADA; outreach/education/resources; full compatible van baseline",
+    "3 Mega Buses ADA/Mixed/Non-ADA; extended-state travel + education/outreach/practice/recovery; upper-level film review area; full compatible Mega baseline",
+    "3 double-deckers ADA/Mixed/Non-ADA; regional travel/resources/outreach/practice/education; upper-level film review area; full compatible double-decker baseline",
+    "1 22nd-century school bus; supplies/equipment/luggage only; no passenger mission substitution"
+  ],
+  "programs": [
+    "Pro & Championship Wing",
+    "Golden Gloves Academy",
+    "High-Capacity Floor",
+    "Spectator/Fan/Media Pavilion",
+    "Central Spine",
+    "Official 22ft x 22ft title rings and flush-floor sparring",
+    "Covered Weather-Shield Conditioning Pavilion",
+    "Televised broadcast infrastructure",
+    "AI Combat Telemetry Labs",
+    "WBA scoring/timing systems",
+    "Hospital-grade HVAC and air scrubbers",
+    "Sport-Science Recovery Lab"
+  ],
+  "prior_failure_classes": [
+    "prompt skimming/shortening",
+    "Python/GitHub applied only to prompt, not finished rendering",
+    "whole-project collage/board substitution",
+    "invented slogans/crests/branding",
+    "Just Love Pond omitted/replaced",
+    "cosmetology wording copied into Boxing",
+    "partial rendering set",
+    "fleet/uniform/common-area renderings omitted",
+    "supply bus passenger/conventional drift",
+    "artifact reviewed after presentation instead of before"
+  ]
+}
