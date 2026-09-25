@@ -72,7 +72,7 @@
     "steward_common_area_inheritance_required": true,
     "no_caption_substitution": true
   },
-  "result": "SECOND GENERATION FAILED POST-RENDER MIRROR REVIEW — THIRD CORRECTIVE EDIT REQUIRED",
+  "result": "THIRD GENERATION FAILED — TRUE REFERENCE-IMAGE EDIT REQUIRED",
   "first_generation_review": {
     "generated_asset": "file_00000000474c822f8f8830e4e69b049a",
     "founder_reference_asset": "file_00000000f6a8822fb84a8d44a209118a",
@@ -124,5 +124,17 @@
     "Add unmistakable arena spectator seating/bleachers facing the courts, separate from the Fan Lounge.",
     "Stewards’ Common Area must retain I AM A MASTERPIECE COSMETOLOGY character while physically showing the Legacy common-area minimums: at least 5 TVs, quiet/decompression zone, at least 2 showers, full kitchen, convertible table-game equipment, comfortable lounge seating, intentionally Empty Chair, and round/circular Legacy furniture/table treatment.",
     "Do not remove the Just Love Pond, uniforms, correctly rendered fleet families, film-review areas, Pro & Academy, Youth & Rec Academy, lobbies, Fan Lounge, Central Spine, court technology, recovery lab, Pro Shop, or equipment vaults."
-  ]
+  ],
+  "third_generation_review": {
+    "generated_asset": "file_00000000d1c0822f94438a6938878ea3",
+    "result": "FAIL / REPEAT",
+    "failed": [
+      "spectator seating not physically explicit enough",
+      "22nd-century school bus still coach-like rather than a clear school-bus-derived conversion",
+      "Stewards’ Common Area still does not physically depict inherited minimums",
+      "ADA/Mixed/Non-ADA differences remain label-heavy rather than physically distinct"
+    ],
+    "root_cause_correction": "Previous corrective attempts were generated as new compositions (edit_op null) rather than a true edit of the Founder-marked reference artifact. Under ML-010 and exact keep instructions, the next attempt must target the Founder-provided reference image directly and preserve marked KEEP regions."
+  },
+  "next_action": "TRUE EDIT of Founder reference asset file_00000000f6a8822fb84a8d44a209118a; preserve KEEP regions; change only required defects/additions."
 }
