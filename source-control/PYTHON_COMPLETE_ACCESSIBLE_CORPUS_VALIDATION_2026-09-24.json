@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-24",
+  "scope": "Complete accessible AMW Legacy source/control/work corpus validated by Python before GitHub handoff",
+  "python_report_sha256": "fcef43a7e68b892ef98961cc901b4391e6f3ae865897454ca9e692b76b60a42e",
+  "python_checks": {
+    "raw_chat_source_loaded": true,
+    "failure_archive_loaded": true,
+    "business_plan_launch_source_loaded": true,
+    "operating_compendium_loaded": true,
+    "current_master_55_sheets": true,
+    "ML_001_through_ML_025": true,
+    "mirror_review_archive_loaded": true,
+    "all_required_workstreams": true,
+    "website_design_and_launch": true,
+    "policies_and_operating_controls": true,
+    "safeguards_fullstops_gates": true,
+    "funding_work": true,
+    "business_registration_compliance": true,
+    "all_status_layers_preserved": true
+  },
+  "github_structure_counts": {
+    "source_corpus": 5,
+    "current_master_sheets": 55,
+    "review": 43,
+    "controls": 7,
+    "chat_sources": 6
+  },
+  "rule": "Private raw sources remain in the Legacy Library; GitHub validates the corpus through non-sensitive indexes, counts, hashes, authority records and previously preserved source layers."
+}
