@@ -1,0 +1,18 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-CURRENT-FINAL-ARTIFACT",
+  "artifact_sha256":"83f0fc5a400d3947eaf754a52520d97bb43d7801fcad038cbec616b428972882",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "result":"FAIL",
+  "findings":{
+    "single_standalone_rendering":false,
+    "no_collage_or_board":false,
+    "native_full_frame_scene":false,
+    "editable_revisable_as_required":false,
+    "no_extra_program_panels":false,
+    "no_uniform_panel":false,
+    "no_fleet_panel":false,
+    "no_extra_branding_or_slogans":false,
+    "ready_to_present_as_compliant":false
+  },
+  "correction_status":"All stretched/resized derivative crops and whole-project collage boards remain quarantined. No compliant Dominating Anxiety Legacy Boxing rendering is current, approved, or saved."
+}
