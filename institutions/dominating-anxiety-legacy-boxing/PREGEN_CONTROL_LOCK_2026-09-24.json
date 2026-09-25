@@ -1,0 +1,110 @@
+{
+  "institution": "DOMINATING ANXIETY LEGACY BOXING",
+  "status": "FOUNDER-REQUESTED DESIGN / NOT OPERATIONAL / NOT SAVED UNTIL FOUNDER DIRECTS",
+  "rendering_type": "photorealistic/cinematic architectural design rendering; present images individually at full size/high resolution; zoomable/openable/editable; no infographic/board/poster collage",
+  "palette": [
+    "Midnight Dark Blue",
+    "Antique Gold"
+  ],
+  "inherited_controls": [
+    "Just Love Pond near principal/public entrance",
+    "Empty Chair in every seating environment",
+    "ROUND Legacy Table in principal shared/gathering area",
+    "circular/curved geometry where appropriate",
+    "mixed-ability accessibility",
+    "renewable/solar priority",
+    "Legacy Creator furniture priority",
+    "show visuals before Save/Update"
+  ],
+  "stewards_common_area": {
+    "inheritance": "reflect I AM A MASTERPIECE COSMETOLOGY common-area atmosphere/control without cosmetology labeling/workstations",
+    "atmosphere": "soothing/restorative/spa-like translated into Midnight Dark Blue + Antique Gold",
+    "tvs": {
+      "total": 7,
+      "gaming": 2,
+      "general": 5
+    },
+    "full_kitchen": true,
+    "quiet_decompression": true,
+    "comfortable_lounge": true,
+    "showers_minimum": 2,
+    "convertible_game_table": true
+  },
+  "uniform_control": {
+    "comfortable": true,
+    "functional": true,
+    "inclusive": true,
+    "non_gender_specific": true,
+    "palette": "Midnight Dark Blue + Antique Gold",
+    "forms": [
+      "tracksuits",
+      "warm-up jackets",
+      "polos",
+      "T-shirts",
+      "hoodies",
+      "athletic pants",
+      "caps",
+      "backpacks"
+    ]
+  },
+  "fleet": {
+    "tour_buses": {
+      "count": 3,
+      "mobility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "fans/family travel",
+      "plush": true
+    },
+    "vans_15_passenger": {
+      "count": 3,
+      "mobility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "outreach/education/resources"
+    },
+    "mega_buses": {
+      "count": 3,
+      "mobility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "extended state travel; education/outreach/practice/recovery",
+      "upper_level": "film review area"
+    },
+    "double_deckers": {
+      "count": 3,
+      "mobility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "regional travel/resources/outreach/practice/education",
+      "upper_level": "film review area"
+    },
+    "school_bus": {
+      "count": 1,
+      "type": "22nd-century nontraditional",
+      "purpose": "supplies: equipment and luggage"
+    }
+  },
+  "program": [
+    "Pro & Championship Wing",
+    "Golden Gloves Academy",
+    "High-Capacity Floor",
+    "Spectator/Fan/Media Pavilion",
+    "Central Spine elevated mezzanine",
+    "Official 22ft x 22ft WBA Title Rings and flush-floor sparring zones",
+    "Covered Weather-Shield Conditioning Pavilion",
+    "Televised Broadcast Infrastructure",
+    "AI Combat Telemetry Labs",
+    "WBA Scoring & Timing Systems",
+    "Hospital-Grade HVAC & Air Scrubbers",
+    "Sport-Science Recovery Lab"
+  ]
+}
