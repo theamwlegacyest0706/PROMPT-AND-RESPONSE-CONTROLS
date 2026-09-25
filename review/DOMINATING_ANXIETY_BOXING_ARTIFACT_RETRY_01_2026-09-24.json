@@ -1,0 +1,14 @@
+{
+  "review_id": "MR-2026-09-24-DOMINATING-ANXIETY-BOXING-ARTIFACT-RETRY-01",
+  "artifact_sha256": "c3bebc3a9c155499a38aa1d09a08f677fa51328096d1d9bbc08d8d4b2cba6ce2",
+  "status": "FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures": [
+    "multi-panel infographic/board instead of individual rendering",
+    "invented slogan",
+    "invented crest/crown/monogram branding",
+    "common area labeled with cosmetology wording instead of only reflecting control",
+    "supply bus does not read as 22nd-century support-only",
+    "individual zoomable/editable renderings not delivered"
+  ],
+  "correction": "Repeat cycle. Bind one image at a time. First: campus exterior only, one uninterrupted scene, no panels/lists/branding extras. Continue remaining rendering set only after artifact-specific review."
+}
