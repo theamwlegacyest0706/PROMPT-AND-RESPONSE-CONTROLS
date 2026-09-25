@@ -1,0 +1,23 @@
+{
+  "review_id": "MR-2026-09-25-PATTIES-PERCH-LIBRARY-RECOVERY-CORRECTION",
+  "trigger": "Founder corrected the assistant: the previously shown PATTIES PERCH rendering is in the Library and the generated replacements were not the same rendering.",
+  "correction": "Stop regenerating. Retrieve and display the Library artifact/evidence that visibly contains the PATTIES PERCH SOFTBALL ACADEMY & STADIUM rendering.",
+  "recovered_library_item": {
+    "file_id": "file_00000000b070822fb4b3a511e02492fa",
+    "name": "image(1).png",
+    "observed_visual": "PATTIES PERCH — SOFTBALL ACADEMY & STADIUM exterior/campus rendering with JUST LOVE POND and AMW branding",
+    "source_state": "LIBRARY-PRESENT; Founder-identified visual evidence",
+    "raw_underlying_artifact_note": "This item is a Library image showing the rendering in the image viewer; do not substitute a regenerated image."
+  },
+  "rejected_substitutes": [
+    "Patties Perch Softball Legacy Complex.png",
+    "Patties Perch Softball Legacy Campus Board.png",
+    "Patties Perch Softball Legacy Complex(1).png"
+  ],
+  "prior_reviews_cross_referenced": [
+    "reviews/2026-09-24_PATTIES_PERCH_EXACT_RENDERING_RECOVERY_GAP_02.md",
+    "review/MIRROR_REVIEW_2026-09-25_CHAT_CONTINUITY_PATTIES_PERCH.json",
+    "review/MIRROR_REVIEW_2026-09-25_TRUST_CLAIM_EXECUTION_CORRECTION.json"
+  ],
+  "result": "CORRECTION APPLIED — USE LIBRARY RECOVERY; NO REGENERATION"
+}
