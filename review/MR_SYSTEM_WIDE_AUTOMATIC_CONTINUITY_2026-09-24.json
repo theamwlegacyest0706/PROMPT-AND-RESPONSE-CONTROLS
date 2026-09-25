@@ -1,0 +1,24 @@
+{
+  "review_id": "MR-SYSTEM-WIDE-AUTOMATIC-CONTINUITY-2026-09-24",
+  "date": "2026-09-24",
+  "python_prompt_sha256": "5cdde5d9c00fe2b1d36fd5396c4e0db6c5a24658496251bb29a965f87b388901",
+  "scope": "Entire THE AMW LEGACY project, all workstreams, not funding/visual-only.",
+  "existing_controls": {
+    "prompt_persistence": "Stabilization Control Center — Prompt Persistence / No Re-Prompt: the complete Founder prompt remains controlling through closure; re-paste not required.",
+    "no_blank_slate": "ML-006 — every new Legacy action inherits applicable controlled work before execution.",
+    "full_prompt_recursive_review": "ML-023 — full prompt + controls + safeguards + prior directions + produced work + Project chats + Library + Legacy database + prior Mirror Reviews; repeat corrections and Python validation until pass.",
+    "response_preflight": "ML-016 + ML-018 — verify exact Founder intent/controls and stop known-wrong work before presentation.",
+    "automatic_error_review": "ML-020 — errors automatically trigger Mirror Review; no Founder re-prompt required.",
+    "preservation": "ML-024 — all prior work/statuses preserved; no silent erasure/supersession.",
+    "approved_artifact_preservation": "ML-010 — approved/saved artifact remains unchanged unless Founder expressly directs redesign/replacement."
+  },
+  "corrections": [
+    "No new continuity prompt is required from the Founder. The existing Prompt Persistence / No-Re-Prompt + ML-006 + ML-023 package already requires automatic carry-forward through closure.",
+    "The required source scope is the entire Legacy project, not a funding/visual subset.",
+    "Python and GitHub must receive the same complete control/work corpus before substantive output.",
+    "The actual finished response/artifact must then be run through the verification cycle before presentation.",
+    "After an artifact passes and is Founder-approved/saved/current-controlled, it is not altered. Any Founder-directed modification is a new candidate version and must pass the complete cycle before presentation; unaffected approved regions remain frozen.",
+    "Prior Python/GitHub results are not the issue; assistant failure to supply/enforce the full corpus or to validate the finished output is the issue."
+  ],
+  "result": "PASS FOR CONTROL IDENTIFICATION AND SYSTEM-WIDE SCOPE; NO NEW CONTROL CREATED"
+}
