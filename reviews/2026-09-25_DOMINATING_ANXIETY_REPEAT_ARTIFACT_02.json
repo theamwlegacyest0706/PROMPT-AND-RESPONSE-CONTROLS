@@ -1,0 +1,20 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-REPEAT-ARTIFACT-02",
+  "artifact_sha256":"c5c7835e99ea80c96f124aaa3bf4bcfdfb9da4db741650d2afbc1e7d8a83e4ec",
+  "python_result":"FAIL",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "findings":{
+    "edit_applied_to_prior_image":false,
+    "one_standalone_campus_exterior_only":false,
+    "no_lower_panels":false,
+    "no_fleet_panel":false,
+    "no_common_area_panel":false,
+    "no_program_lists":false,
+    "no_invented_branding":false,
+    "native_full_frame":true,
+    "just_love_pond_present":true,
+    "palette_correct":true,
+    "ready_to_present":false
+  },
+  "correction":"Rendering 01 remains open. Generate ONLY one full-frame Campus Exterior image. Do not attempt to satisfy the rest of the Founder prompt inside Rendering 01. All other spaces, uniforms and fleet are separate later images in the locked set."
+}
