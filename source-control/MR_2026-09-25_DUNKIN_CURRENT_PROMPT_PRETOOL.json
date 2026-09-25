@@ -77,7 +77,7 @@
     "Additive photorealistic fleet exterior/interior control rendering so all five vehicle families and physical mobility distinctions are unmistakable.",
     "Additive photorealistic Common Area + spectator/fan-flow rendering so I AM A MASTERPIECE inheritance, spectator seating and Central Spine are physically visible."
   ],
-  "pretool_result": "REOPENED AFTER GENERATION FAIL — TRUE REFERENCE-IMAGE EDIT REQUIRED",
+  "pretool_result": "REOPENED AGAIN — EXPLICIT REFERENCED-IMAGE EDIT REQUIRED",
   "first_generation_after_current_prompt": {
     "generated_asset": "file_000000004264822fb57da732b339693a",
     "dimensions": "1536x1024",
@@ -90,6 +90,19 @@
       "Retry as a true edit targeting Founder reference file_00000000f6a8822fb84a8d44a209118a.",
       "Preserve Founder-marked KEEP regions and change only known defects.",
       "Use photorealistic/cinematic rendering language; no labeled board/collage substitution."
+    ]
+  },
+  "second_generation_after_current_prompt": {
+    "generated_asset": "file_00000000c308822f9ac55ccaaa233d43",
+    "dimensions": "1536x1024",
+    "generator_metadata": {
+      "edit_op": null
+    },
+    "result": "FAIL — second retry still generated a new board instead of editing the Founder-supplied reference.",
+    "correction": [
+      "Retry with the Founder-supplied image explicitly passed as the referenced image target.",
+      "Preserve all Founder KEEP regions; change only the school-bus, spectator-seating, Common Area, physical mobility, and missing-control defects.",
+      "Do not treat either failed generated board as a source."
     ]
   }
 }
