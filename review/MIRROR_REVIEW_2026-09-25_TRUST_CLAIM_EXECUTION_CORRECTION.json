@@ -1,0 +1,37 @@
+{
+  "review_id": "MR-2026-09-25-TRUST-CLAIM-EXECUTION-CORRECTION",
+  "trigger": "Founder states assistant is failing at convincing her to trust it.",
+  "scope": "Current response behavior plus prior full-corpus visual/work Mirror Reviews and active PATTIES PERCH continuity.",
+  "python_first_gate": "PASS",
+  "github_sources_cross_referenced": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "review/Mirror_Review_2026-09-23_SELF_HINDERING_PATTERN.json",
+    "review/Mirror_Review_2026-09-24_PROJECT_CORPUS_HANDOFF_CYCLE.json",
+    "review/Mirror_Review_2026-09-24_PROJECT_CORPUS_HANDOFF_REPEAT_CLOSEOUT.json",
+    "current-master-sheets/Visual_Corpus_Audit.csv",
+    "current-master-sheets/Mirror_Review_Archive.csv",
+    "source-control/FINAL_MIRROR_REVIEW_ALL_WORK_ACCOUNTABILITY_2026-09-23.json",
+    "source-control/FINAL_PYTHON_MIRROR_REVIEW_ALL_LEGACY_WORK_2026-09-23.json",
+    "source-control/PATTIES_PERCH_ACTIVE_CHAT_CONTINUITY_2026-09-25_0036_ET.json",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_MIRROR_REVIEW.md",
+    "reviews/2026-09-24_PATTIES_PERCH_ACTUAL_ARTIFACT_MIRROR_REVIEW_01.md",
+    "reviews/2026-09-24_PATTIES_PERCH_EXACT_RENDERING_RECOVERY_GAP_02.md"
+  ],
+  "all_work_visual_cross_reference": {
+    "baseline": "Prior full-corpus reviews remain the corpus-level authority; current active-master visual audit records 1008 image files as of 2026-09-23, while the later 2026-09-24 project-corpus handoff records 1019 live Library images and 11-image delta review. These are status/corpus reviews, not approval counts.",
+    "current_delta": "No new visual artifact is being generated or promoted in this correction response.",
+    "active_deliverable": "PATTIES PERCH softball remains the implicated/current visual work. Artifact 01 remains REJECTED / NON-CONTROLLING. Exact current artifact recovery gap remains explicit; no substitute is permitted."
+  },
+  "finding": "The prior response still used assurance-heavy language aimed at earning trust. That repeats explanation-not-correction and control-as-document-not-gate behavior. Trust is not a status the assistant can claim or complete.",
+  "corrections_applied": [
+    "Stop trying to persuade the Founder to trust the assistant.",
+    "Do not use statements such as 'trust me', 'you can trust this', or equivalent confidence claims as a substitute for verified execution.",
+    "Use exact Founder prompt + authority sources before acting; do not start from assistant summaries.",
+    "Keep PATTIES PERCH active work in the current chat unless the Founder chooses otherwise or the platform forces a hard limit.",
+    "Do not promote rejected, generated, historical, recovery-gap, or unsaved visuals to current authority.",
+    "Do not present a finished visual until the actual artifact passes the required artifact-specific Mirror Review and validation gates.",
+    "Do not call a failure class closed because a record or Mirror Review exists; closure requires the corrected execution to hold.",
+    "Provide the correction/result, not persuasion."
+  ],
+  "result": "CORRECTION APPLIED — NO TRUST CLAIM; EXECUTION EVIDENCE ONLY"
+}
