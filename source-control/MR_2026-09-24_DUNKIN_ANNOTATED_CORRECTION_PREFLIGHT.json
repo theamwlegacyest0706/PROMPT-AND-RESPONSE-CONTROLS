@@ -1,0 +1,90 @@
+{
+  "review_id": "MR-2026-09-24-DUNKIN-ANNOTATED-CORRECTION-PREFLIGHT",
+  "date": "2026-09-24",
+  "target": "DUNKIN’ ON STEREOTYPES LEGACY BUCKETS — Founder-annotated rendering",
+  "level": "LEVEL 5 — CURRENT IMAGE FAIL / TARGETED CORRECTION GATE",
+  "image_binary": {
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "799f6f900d5d68ad11b74dfbc0ff480a56521da9b3dbfa952e4ebb08bc745d48"
+  },
+  "founder_preserve_set": [
+    "Just Love Pond",
+    "Supply-bus interior",
+    "Double-decker upper-level film review interior",
+    "Mega-bus upper-level film review interior",
+    "Double-decker exteriors",
+    "Mega-bus exteriors",
+    "15-passenger van exteriors",
+    "uniforms",
+    "Legacy Chair",
+    "ROUND Legacy Table"
+  ],
+  "founder_change_set": [
+    "Replace incorrect supply-bus exterior with the controlled 22nd-century school-bus body; keep supplies/equipment/luggage purpose and existing organized supply interior.",
+    "Add physically visible spectator seating to Youth & Rec Academy.",
+    "Restore omitted Founder prompt and inherited controls physically rather than text-only."
+  ],
+  "prompt_checksum": {
+    "palette": "Emerald Green + Midnight Dark Blue",
+    "stewards_common_area": "Reflect I AM A MASTERPIECE: 7 TVs total (2 gaming + 5 general), relaxation seating, full kitchen; Legacy-wide showers, lockers, laundry, quiet/decompression and convertible table-game controls remain additive.",
+    "fleet": [
+      "3 Tour Buses — ADA/Mixed/Non-ADA — fans/family travel — plush — full compatible travel interior",
+      "3 15-passenger Vans — ADA/Mixed/Non-ADA — outreach/education/resources",
+      "3 Mega Buses — ADA/Mixed/Non-ADA — extended state travel/education/outreach/practice/recovery — upper-level film review",
+      "3 Double-Deckers — ADA/Mixed/Non-ADA — regional travel/resources/outreach/practice/education — upper-level film review",
+      "1 22nd-century School Bus — supplies/equipment/luggage"
+    ],
+    "campus": [
+      "Pro & Academy: WNBA/NBA players + high-performance prospects; force-plate shooting keys; private film rooms; private locker rooms; 23'9\" pro 3-point line; restricted badge access; private side entrance; isolated secure perimeter.",
+      "Youth & Rec Academy: youth tournaments; summer camps; beginners; adjustable 10ft-to-8ft hoops; modular grid tiles; pickup hoops; secure fencing; spectator seating.",
+      "High-capacity lobbies: multiple team check-ins; digital tournament boards; massive equipment hubs.",
+      "Fan Lounge & Plaza: parents/scouts/corporate sponsors; elevated viewing mezzanine behind acoustic shatterproof glass; covered spectator pavilions; charging; food vendors.",
+      "Central Spine bridge corridor keeps spectators out of active baseline running paths.",
+      "Indoor court: first-grade suspended maple; motorized glass backboards; ceiling-hung goals; acoustic wall panels/sound baffling; jumbotrons.",
+      "Outdoor court: jumbotrons; post-tensioned concrete; premium interlocking polypropylene tiles; heavy-duty hot-dip galvanized goals; high-lux shadow-free LED lighting.",
+      "AI SmartCourt cameras; in-floor laser/LED boundaries; automated shooting machines; Biomechanical Recovery Lab; Pro Shop & Traction Lab; extra-large roll-in Equipment Vaults."
+    ]
+  },
+  "inherited_controls": [
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-010 Approved Artifact Preservation & Additive-View Control",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-013 Fleet Specification Checksum & Purpose Lock",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference",
+    "Just Love Pond entrance control",
+    "Empty Chair control",
+    "ROUND Legacy Table and circular/curved furniture control",
+    "renewable/solar/all-electric-ready inheritance"
+  ],
+  "prior_mirror_cross_reference": [
+    "MR-2026-09-14-01",
+    "MR-2026-09-14-04",
+    "MR-2026-09-14-05",
+    "MR-2026-09-15-04",
+    "MR-2026-09-15-06",
+    "MR-2026-09-15-08",
+    "MR-2026-09-15-10",
+    "MR-2026-09-15-11",
+    "MR-2026-09-15-12",
+    "MR-2026-09-19-03",
+    "MR-2026-09-19-04"
+  ],
+  "current_image_failures": [
+    "Incorrect supply-bus exterior; not the controlled 22nd-century school-bus body.",
+    "Youth & Rec Academy does not physically show spectator seating.",
+    "Stewards’ Common Area reflecting I AM A MASTERPIECE is absent.",
+    "Some prompt/control requirements are only listed in text rather than physically depicted."
+  ],
+  "correction_method": "TARGETED EDIT OF THE UPLOADED FOUNDER-ANNOTATED IMAGE; preserve Founder-marked keep regions and all unaffected correct content. Do not redesign the whole board or substitute a new unrelated rendering.",
+  "current_visual_status": "NON-CONTROLLING DRAFT / UNDER FOUNDER CORRECTION",
+  "result": "PREFLIGHT HOLDS FOR TARGETED EDIT ONLY"
+}
