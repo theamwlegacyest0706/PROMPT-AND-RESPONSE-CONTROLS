@@ -1,0 +1,160 @@
+{
+  "review_id": "MR-2026-09-25-DUNKIN-BUCKETS-FLEET-CORRECTION-PRETOOL",
+  "date": "2026-09-25",
+  "status": "LEVEL 5 REPEATED VISUAL FAILURE — CORRECTION GATE",
+  "trigger": "Founder annotated the latest DUNKIN’ ON STEREOTYPES LEGACY BUCKETS rendering and identified missing inherited controls, wrong 22nd-century school bus, unclear/incorrect spectator seating, practice-court substitution, unauthorized campus changes, and repeated prompt drift.",
+  "source_precedence": [
+    "Current Founder prompt in active chat",
+    "Founder annotations on the latest rendering",
+    "Founder preserve/keep directions on the prior rendering",
+    "Current Master Lock Register ML-003,004,006,008-016,018-023",
+    "Current Fleet Interior Cross-Reference",
+    "Current institution-interior inheritance: Empty Chair, ROUND Legacy Table, circular/curved furniture, Just Love Pond, renewable/solar, accessibility",
+    "I AM A MASTERPIECE Common Area inheritance"
+  ],
+  "python_pixel_audit": {
+    "target_file": "generated-image.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "bytes": 3370953,
+    "sha256": "f9b6c5594e9d439f0018e8bf52ec5bb47b6b9ae7caca945e2bf254d41d212542",
+    "founder_mark_pixels": {
+      "common_area_missing_controls": [
+        116,
+        787
+      ],
+      "school_bus_wrong": [
+        1462,
+        284
+      ],
+      "unclear_spectator_panel": [
+        1061,
+        804
+      ],
+      "practice_court_substitution": [
+        503,
+        950
+      ],
+      "unauthorized_campus_change": [
+        881,
+        373
+      ],
+      "prompt_drift_campus": [
+        715,
+        593
+      ]
+    }
+  },
+  "preserve_exactly": [
+    "Emerald Green + Midnight Dark Blue palette",
+    "Current basketball uniforms / uniform-control identity",
+    "Just Love Pond",
+    "Supply-bus interior concept for equipment/luggage storage",
+    "Tour-bus fleet family",
+    "15-passenger van fleet family",
+    "Mega-bus fleet family",
+    "Double-decker fleet family",
+    "Upper-level film-review concept in Mega and Double-Decker families",
+    "Pro & Academy identity",
+    "Youth & Rec identity",
+    "Fan Lounge & Plaza identity"
+  ],
+  "exact_fleet_checksum": {
+    "total_vehicle_count": 13,
+    "tour_buses": {
+      "count": 3,
+      "accessibility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "fans/family travel",
+      "interior": "plush but retains safe passenger seating + applicable Legacy-wide fleet baseline"
+    },
+    "vans_15_passenger": {
+      "count": 3,
+      "accessibility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "outreach/education/resources",
+      "interior": "retains safe passenger seating + storage/media/restroom/Wi-Fi where controlled"
+    },
+    "mega_buses": {
+      "count": 3,
+      "accessibility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "extended state travel/education/outreach/practice/recovery",
+      "interior": "safe passenger seating + upper-level film review + applicable lounge/kitchen/restroom/Wi-Fi/recovery controls"
+    },
+    "double_deckers": {
+      "count": 3,
+      "accessibility": [
+        "ADA",
+        "Mixed",
+        "Non-ADA"
+      ],
+      "purpose": "regional travel/resources/outreach/practice/education",
+      "interior": "safe passenger seating + upper-level film review + applicable lounge/meeting/restroom/Wi-Fi controls"
+    },
+    "school_bus_22nd_century": {
+      "count": 1,
+      "accessibility": "no new split inferred",
+      "purpose": "supplies — equipment and luggage",
+      "interior": "storage/equipment/luggage mission preserved; climate/Wi-Fi/secure storage baseline; exterior must be nontraditional futuristic 22nd-century Legacy school-bus body"
+    }
+  },
+  "common_area_checksum": {
+    "inheritance": "Reflect I AM A MASTERPIECE COSMETOLOGY",
+    "required": [
+      "7 flat-screen TVs total: 2 gaming + 5 general viewing",
+      "relaxation/lounge seating",
+      "full kitchen",
+      "convertible game table(s)",
+      "locker room",
+      "8 shower stalls",
+      "personal lockers",
+      "laundry",
+      "3 quiet/decompression pods",
+      "at least one intentional Empty Chair",
+      "physical ROUND Legacy Table",
+      "circular/rounded furniture where function permits"
+    ]
+  },
+  "campus_program_checksum": [
+    "Pro & Academy: NBA/WNBA players + high-performance prospects",
+    "force-plate embedded shooting keys",
+    "private video film rooms",
+    "private locker rooms",
+    "showcase court with official professional 23'9\" 3-point line",
+    "restricted badge access; private side entrance; secure training perimeter isolated from public crowds",
+    "Youth & Rec: youth tournaments, summer camps, beginners, multi-court adjustable hoops 10ft down to 8ft, modular grid tiles, open-play pickup hoops, secure perimeter fencing",
+    "high-capacity lobbies: multiple team check-in desks, digital tournament schedule boards, massive equipment hubs",
+    "Fan Lounge & Plaza: parents/scouts/corporate sponsors, elevated viewing mezzanine behind acoustic shatterproof glass, covered spectator pavilions, charging, food vendors",
+    "Spectator seating visibly built as real bleachers/grandstands/viewing sections with ADA-companion positions and safe access",
+    "Central Spine bridge corridor lets spectators reach seating without crossing active baseline paths",
+    "Inside: suspended maple, motorized glass backboards/ceiling-hung goals, acoustic panels/sound baffling, Jumbotrons, AI SmartCourt, in-floor laser/LED boundaries, automated shooting machines",
+    "Outdoor: tournament-ready courts, Jumbotrons, post-tensioned concrete, interlocking polypropylene tiles, hot-dip galvanized goals, high-lux shadow-free LED",
+    "Biomechanical Recovery Lab",
+    "Pro Shop & Traction Lab",
+    "Extra-large roll-in equipment vaults"
+  ],
+  "forbidden": [
+    "ordinary/traditional school bus body",
+    "caption-only compliance",
+    "practice-court substitution for tournament/showcase spectator program",
+    "removing Just Love Pond",
+    "changing fleet counts/purposes/accessibility assignments",
+    "generic lounge interiors that remove passenger seating",
+    "unauthorized institution redesign",
+    "omitting Common Area inherited controls",
+    "cross-institution contamination beyond explicit I AM A MASTERPIECE inheritance"
+  ],
+  "pretool_result": "PASS — exact correction set locked; generation may proceed only as an edit of the supplied rendering, preserving Founder-marked keep elements and making only the required corrections."
+}
