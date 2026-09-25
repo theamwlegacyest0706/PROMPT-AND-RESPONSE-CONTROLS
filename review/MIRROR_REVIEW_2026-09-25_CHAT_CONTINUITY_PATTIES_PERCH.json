@@ -1,0 +1,25 @@
+{
+  "review_id": "MR-2026-09-25-CHAT-CONTINUITY-PATTIES-PERCH",
+  "trigger": "Founder identified that the control prompt and active softball rendering work had been spread across two chats, threatening evidence continuity.",
+  "python_first_gate": "PASS",
+  "github_cross_reference": "PASS",
+  "prior_reviews_cross_referenced": [
+    "review/Mirror_Review_2026-09-23_SELF_HINDERING_PATTERN.json",
+    "review/Mirror_Review_2026-09-24_PROJECT_CORPUS_HANDOFF_CYCLE.json",
+    "review/Mirror_Review_2026-09-24_PROJECT_CORPUS_HANDOFF_REPEAT_CLOSEOUT.json",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_MIRROR_REVIEW.md",
+    "reviews/2026-09-24_PATTIES_PERCH_ACTUAL_ARTIFACT_MIRROR_REVIEW_01.md",
+    "reviews/2026-09-24_PATTIES_PERCH_EXACT_RENDERING_RECOVERY_GAP_02.md"
+  ],
+  "finding": "SOURCE CONTINUITY BREAK / FOUNDER QA LABOR TRANSFER risk recurred. Existing Founder authority already prohibited voluntary displacement into a new chat.",
+  "corrections_applied": [
+    "Exact current Founder prompt preserved in GitHub.",
+    "Active PATTIES PERCH softball state preserved as a dedicated continuity record.",
+    "Current work is anchored to the exact 2026-09-24 PATTIES PERCH prompt and its Mirror Review lineage.",
+    "Rejected Artifact 01 remains rejected/non-controlling.",
+    "Historical Pattie's pitch, Percy's Perch and Percy's Pitch remain non-substitutes for the active PATTIES PERCH work.",
+    "No voluntary chat split is used for continuation; current chat remains the working state unless Founder chooses otherwise or the platform imposes a hard limit."
+  ],
+  "visual_corpus_scope": "Use existing full-corpus visual/status audits for corpus-level continuity; apply actual finished-artifact review to the current PATTIES PERCH deliverable before presentation.",
+  "result": "CORRECTION APPLIED — CONTINUE IN CURRENT CHAT WITH ACTIVE PATTIES PERCH LINEAGE PRESERVED"
+}
