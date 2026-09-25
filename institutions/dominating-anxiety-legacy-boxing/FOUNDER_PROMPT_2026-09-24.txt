@@ -1,8 +1,13 @@
-This is your Control and Prompt: ALWAYS READ THE PROMPT COMPLETELY; SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY.
-#1. Run this entire prompt and your previous cross- references through Python, and GitHub to ensure you have and are following all controls before you cross- reference all controls, prompts, safeguards, and produced work to ensure all controls have been adapted, then Conduct a Mirror review.
-#2. Cross reference your Mirror Review, with previous Mirror Reviews. Make the corrections. Run the Mirror Review and produced work through Python, and GitHun to ensure you have followed the controls, and prompt.
-#3. Conduct a Mirror Review of all of the visual renderings you produced and any work produced for or by the Legacy. Then cross reference your Mirror Review across the chats, prompts, and legacy database and conduct a Mirror Review
-#4. After the results of the Mirror Review run that Mirror Review through Python, and GitHub make the corrections.
+This is your Control and Prompt: ALWAYS READ THE PROMPT COMPLETELY;  SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY.  
+
+#1. Run this entire prompt and your previous cross- references through Python, and GitHub to ensure you have and are following all controls before you cross- reference all controls, prompts, safeguards, and produced work to ensure all controls have been adapted, then Conduct a Mirror review.  
+
+ #2. Cross reference your Mirror Review, with previous Mirror Reviews. Make the corrections. Run the Mirror Review and produced work through Python, and GitHub to ensure you have followed the controls, and prompt.  
+
+#3. Conduct a Mirror Review of all of the visual renderings you produced and any work produced for or by the Legacy. Then cross reference your Mirror Review across the chats, prompts, and legacy database and conduct a Mirror Review  
+
+#4. After the results of the Mirror Review run that Mirror Review through Python, and GitHub make the corrections.  
+
 #5. Conduct a Mirror Review run that Mirror Review, through Python and GitHub if changes are needed repeat the cycle, and do not provide me with an excuse or explanation. Provide the corrections after you make the proper adjustments to your responses moving forward.
 
 Read the prompt completely. Using the established controls create this; DOMINATING ANXIETY LEGACY BOXING;
@@ -10,48 +15,70 @@ Read the prompt completely. Using the established controls create this; DOMINATI
 The Stewards’ Common Area reflects I AM A MASTERPIECE COSMETOLOGY.
 
 The color palette is Midnight Dark Blue with Antique Gold.
-Remember the uniform control.
+
+ Remember the uniform control.
+
 The Fleet is 3 tour buses ADA/ Mixed/ Non-ADA fans/ family travel. Made a little plush. Follows all other interior controls for the fleet.
-3-15 passenger vans Ada/mixed/non ada outreach/education/resources,
+
+3-15 passenger vans Ada/mixed/non ada outreach/education/resources,  
+
 3 mega buses ada/mixed/non ada extended state travel, education/ outreach/practice/recovery, upper level has film review area,
-3 double-decker ada/mixed/non-ada regional travel/ resources/ outreach/ practice/education, upper level has film review area,
-1 22nd century school bus for supplies (equipment, and luggage).
 
-The Pro & Championship Wing:
-Professional Fighters, Elite Amateurs, Champions, Main Event Contenders,
-Private biometric tracking ring, private video film/scouting room, Private locker suite,
-Secured, Private sprint straightaways for specialized anaerobic interval training,
-Restricted Badge Access: Separate private street entrance keeping camp operations completely isolated from public foot traffic.
+ 3 double-decker ada/mixed/non-ada regional travel/ resources/ outreach/ practice/education, upper level has film review area,  
 
-The Golden Gloves Academy:
-Youth Boxing Clinics, Amateur Competitors, Fitness Boxers,
-Multiple floor-level sparring rings, Tracking heavy bags,
-Automated check-in Flexible technical floor,
-Adjustable speedbag platforms, digital check-in,
-Shared agility ladders, Pull-up clusters, Medicine ball walls.
+1 22nd century school bus for supplies  (equipment, and luggage).
 
-High-Capacity Floor:
-Centralized check-in lobbies, Expansive equipment storage cages, Clear wayfinding signage.
-
-The Spectator, Fan & Media Pavilion:
-Parents, Judges, Corporate Sponsors, Promoters, WBA Officials,
-Press conference room with built-in broadcast lighting and sound boards,
-Covered outdoor plaza, Athletic apparel shop, Public ticketing window.
-
-The Central Spine:
-An elevated mezzanine corridor allowing visitors to access spectator grandstands without walking through active training paths.
-
-Official WBA Title Rings:
-Elevated 22ft x 22ft championship rings,
-Four-Rope Safety Configurations,
-Flush-Floor Technical Sparring Zones.
-
-Year round use: Engineered Overhead Rail Matrix,
-High-Impact Vulcanized Rubber Flooring,
-The Covered Weather-Shield Conditioning Pavilion.
-
-Televised Broadcast Infrastructure,
-AI Combat Telemetry Labs,
-WBA Scoring & Timing Systems,
-Hospital-Grade HVAC & Air Scrubbers,
-The Sport-Science Recovery Lab.
+- The Pro & Championship Wing:
+- Professional Fighters,
+-  Elite Amateurs
+- Champions
+- Main Event Contenders
+- Private biometric tracking ring, 
+- private video film/scouting room,
+- Private locker suite.
+- Secured,
+-  Private sprint straightaways for specialized anaerobic interval training.
+- Restricted Badge
+-  Access: Separate private street entrance keeping camp operations completely isolated from public foot traffic.
+- The Golden Gloves Academy:
+- Youth Boxing Clinics, 
+- Amateur Competitors
+- Fitness Boxers
+- Multiple floor-level sparring rings, 
+- Tracking heavy bags, 
+- Automated check-in Flexible technical floor, 
+- Adjustable speedbag platforms, digital check-in.
+- Shared agility ladders,
+- Pull-up clusters, 
+- Medicine ball walls
+- High-Capacity Floor: 
+- Centralized check-in lobbies, 
+- Expansive equipment storage cages, 
+- Clear wayfinding signage.
+- The Spectator,
+- Fan & Media Pavilion:
+- Parents, 
+- Judges, 
+- Corporate Sponsors,
+- Promoters, 
+- WBA Officials, 
+- Press conference room with built-in broadcast lighting and sound boards
+- Covered outdoor plaza, 
+- Athletic apparel shop, 
+- Public ticketing window.
+- The Central Spine: 
+- An elevated mezzanine corridor allowing visitors to access spectator grandstands without walking through active training paths.
+- Official WBA Title Rings: 
+- Elevated 22ft x 22ft championship rings, 
+- Four-Rope Safety Configurations, 
+- Flush-Floor Technical Sparring Zones.
+- Year round use: Engineered Overhead Rail Matrix,
+-  High-Impact Vulcanized Rubber Flooring, 
+- The Covered Weather-Shield Conditioning Pavilion.
+- Televised Broadcast Infrastructure, 
+- AI Combat Telemetry Labs, 
+- WBA Scoring & Timing 
+- Systems, 
+- Hospital-Grade HVAC & Air Scrubbers, 
+- The Sport-Science Recovery Lab,
+- What you are prompt nor rendering are being ran through Python/ GitHub.
