@@ -1,0 +1,30 @@
+{
+  "review_id": "MR-2026-09-24-DOMINATING-ANXIETY-BOXING-ARTIFACT-01",
+  "artifact": "a_large_detailed_promotional_collage_rendering_ima.png",
+  "result": "FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures": [
+    "not a single cinematic campus scene",
+    "poster/collage/board substitution",
+    "Just Love Pond missing at principal entrance",
+    "private Pro & Championship street entrance not clearly isolated",
+    "solar/renewable roof systems not visible",
+    "invented slogan copy added",
+    "unrequested fleet board added",
+    "Common Area mislabeled as I AM A MASTERPIECE COSMETOLOGY instead of reflecting its style/control",
+    "supply school bus did not read as 22nd-century cargo/support-only"
+  ],
+  "correction_target": [
+    "ONE full-frame photorealistic/cinematic campus exterior only",
+    "no panels/fleet strip/interiors/captions/invented slogans",
+    "actual Just Love Pond near principal/public entrance",
+    "Midnight Dark Blue + Antique Gold architecture",
+    "Golden Gloves Academy entrance",
+    "clearly separate secured Pro & Championship Wing street entrance",
+    "Spectator/Fan/Media Pavilion with covered plaza",
+    "visible elevated/glazed Central Spine",
+    "covered weather-shield conditioning pavilion",
+    "solar/renewable roof systems",
+    "mixed-ability circulation",
+    "institution signage only: DOMINATING ANXIETY LEGACY BOXING"
+  ]
+}
