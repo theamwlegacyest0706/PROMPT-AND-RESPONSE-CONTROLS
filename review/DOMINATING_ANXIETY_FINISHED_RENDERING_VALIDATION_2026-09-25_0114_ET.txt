@@ -1,0 +1,21 @@
+DOMINATING ANXIETY LEGACY BOXING — FINISHED RENDERING VALIDATION
+Artifact SHA256: 7d3f5bb590d86f6b5ee8e155642de408c602c78be8893a918a840b2bdbef87bd
+Dimensions: 1536x1024
+Python-before-generation: PASS
+GitHub-controls-before-generation: PASS
+Finished artifact result: FAIL / REJECTED / NON-CONTROLLING / DO NOT SAVE
+Failures:
+- Not 12 individual renderings.
+- Still an infographic/board/collage.
+- Campus exterior not standalone.
+- Program interiors not standalone.
+- Stewards Common Area not standalone.
+- Uniform rendering not standalone.
+- Fleet exterior/interior renderings not standalone.
+- Invented slogans/branding remain.
+- Supply school bus not reliably 22nd-century cargo-only.
+Pass:
+- Just Love Pond visible.
+- Midnight Dark Blue + Antique Gold palette visible.
+Control action:
+All generated board/collage versions remain quarantined. Do not present as compliant, approved, current, or saved.
