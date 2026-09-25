@@ -1,0 +1,52 @@
+{
+  "review_id": "MR-2026-09-24-DUNKIN-STEREOTYPES-VISUAL-DRIFT-CORRECTION",
+  "date": "2026-09-24",
+  "level": "LEVEL 5 — FAIL / VISUAL DRIFT / SCOPE ISOLATION",
+  "trigger": "Founder annotated second DUNKIN’ ON STEREOTYPES LEGACY BUCKETS rendering and identified unauthorized redesign, missing spectator seating, wrong 22nd-century school-bus exterior, changed/added panels, and missing prompt/controls.",
+  "governing_controls": [
+    "ML-004 Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-010 Approved Artifact Preservation & Additive-View Control",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility / Physical Depiction Gate",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation Gate",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review Gate"
+  ],
+  "python_result": "FAIL CURRENT SECOND RENDERING — USE FIRST RENDERING BASE + SCOPE-ISOLATED CORRECTIONS",
+  "correction_boundary": {
+    "immutable_base": "Earlier first DUNKIN’ ON STEREOTYPES rendering, not the redesigned second rendering.",
+    "preserve": [
+      "overall first-rendering composition/layout/title treatment",
+      "uniforms",
+      "tour-bus exterior/interior treatment",
+      "15-passenger van exterior treatment",
+      "mega-bus exterior + upper film-review interior",
+      "double-decker exterior + upper film-review interior",
+      "supply-bus interior",
+      "Just Love Pond",
+      "all unaffected first-rendering content"
+    ],
+    "change_only": [
+      "replace school-bus exterior with actual 22nd-century school bus while preserving supplies/equipment/luggage mission",
+      "add/restore spectator seating at Youth & Rec Academy",
+      "restore omitted Founder prompt/control content without redesigning unaffected regions",
+      "Stewards’ Common Area must reflect I AM A MASTERPIECE COSMETOLOGY inherited control",
+      "remove unauthorized additions/substitutions introduced in second rendering"
+    ]
+  },
+  "fleet_checksum": {
+    "tour_buses": "3 ADA/Mixed/Non-ADA — fans/family travel — plush — inherited fleet interiors",
+    "vans": "3 ADA/Mixed/Non-ADA — outreach/education/resources",
+    "mega_buses": "3 ADA/Mixed/Non-ADA — extended state travel/education/outreach/practice/recovery — upper-level film review",
+    "double_deckers": "3 ADA/Mixed/Non-ADA — regional travel/resources/outreach/practice/education — upper-level film review",
+    "school_bus": "1 22nd-century school bus — supplies/equipment/luggage"
+  },
+  "result": "FAIL CONFIRMED — CORRECTION LIMITED TO FOUNDER-NAMED CHANGES; NO REDESIGN AUTHORIZED"
+}
