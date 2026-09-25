@@ -1,0 +1,81 @@
+{
+  "review_id": "MR-2026-09-25-DUNKIN-BUCKETS-CURRENT-FOUNDER-PROMPT-PRETOOL",
+  "date": "2026-09-25",
+  "level": "LEVEL 5 REPEATED VISUAL FAILURE — CURRENT PROMPT PRE-TOOL GATE",
+  "founder_scope": "Create DUNKIN’ ON STEREOTYPES LEGACY BUCKETS — Our Basketball Team from the current Founder prompt, using established controls, correcting the supplied/annotated rendering without redesigning Founder-marked KEEP elements.",
+  "exact_fleet_checksum": {
+    "total": 13,
+    "tour_buses": "3 = ADA / Mixed / Non-ADA; fans/family travel; slightly plush; full compatible travel controls",
+    "vans": "3 x 15-passenger = ADA / Mixed / Non-ADA; outreach/education/resources",
+    "mega_buses": "3 = ADA / Mixed / Non-ADA; extended state travel/education/outreach/practice/recovery; upper-level Film Review area; full kitchen + enclosed restroom + recovery area where controlled",
+    "double_deckers": "3 = ADA / Mixed / Non-ADA; regional travel/resources/outreach/practice/education; upper-level Film Review area; full kitchen + enclosed restroom + recovery area where controlled",
+    "supply_bus": "1 x 22nd-century school-bus-derived supply vehicle; equipment/luggage + Equipment Steward work/check area; no passenger seating, restroom, kitchen, or invented mobility split"
+  },
+  "campus_controls": [
+    "Emerald Green + Midnight Dark Blue palette",
+    "Just Love Pond at principal/public entrance",
+    "Stewards’ Common Area mirrors I AM A MASTERPIECE COSMETOLOGY: calm spa character, 7 TVs total (2 gaming + 5 general), comfortable relaxation seating, full kitchen",
+    "Additive Legacy Common Area minimums: quiet/decompression, at least 2 showers, convertible table-game equipment, locker/changing + laundry support where applicable, Empty Chair, physical ROUND Legacy Table, circular/curved seating",
+    "Pro & Academy: NBA/WNBA players/high-performance prospects; force-plate embedded shooting keys; private film rooms; private locker rooms; 23'9\" pro three-point line; badge access; private side entrance; secure isolated perimeter",
+    "Youth & Rec: youth tournaments/summer camps/beginners; multi-court adjustable 10ft-to-8ft hoops; modular grid tiles; pickup hoops; secure perimeter fencing",
+    "High-capacity lobbies: multiple team check-in desks; digital tournament schedule boards; massive equipment hubs",
+    "Fan Lounge & Plaza: parents/scouts/corporate sponsors; elevated viewing mezzanine behind acoustic shatterproof glass; covered spectator pavilions; phone charging; food vendors; unmistakable spectator seating/bleachers",
+    "Central Spine: bridge corridor to spectator seating without crossing active baseline running paths",
+    "Interior court: first-grade suspended maple; motorized glass backboards + ceiling-hung arrays; acoustic panels/baffles; jumbotrons",
+    "Outdoor court: jumbotrons; post-tensioned foundations; premium polypropylene tiles; hot-dip galvanized goals; high-lux shadow-free LED poles",
+    "AI SmartCourt cameras; in-floor laser/LED boundaries; automated smart shooting machines",
+    "Biomechanical Recovery Lab; Pro Shop & Traction Lab; extra-large roll-in equipment vaults"
+  ],
+  "uniforms": "Preserve the Founder-marked basketball uniforms from the supplied reference; Emerald Green + Midnight Dark Blue; do not invent new role structure or unrelated uniform family.",
+  "preserve_exactly": [
+    "Founder-marked uniforms",
+    "Founder-marked Just Love Pond",
+    "Founder-marked passing tour-bus, van, mega-bus, double-decker and interior elements",
+    "all currently correct campus functions",
+    "Emerald Green + Midnight Dark Blue identity"
+  ],
+  "forbidden": [
+    "poster/infographic substitution",
+    "generic coach/transit bus substituted for the school bus",
+    "text-only ADA/Mixed/Non-ADA distinction",
+    "missing spectator seating",
+    "generic Common Area that does not mirror I AM A MASTERPIECE and additive minimums",
+    "changed vehicle count/purpose",
+    "new unrelated institution features",
+    "removal of Founder-marked KEEP regions"
+  ],
+  "governing_controls": [
+    "ML-003",
+    "ML-004",
+    "ML-006",
+    "ML-008",
+    "ML-009",
+    "ML-010",
+    "ML-011",
+    "ML-012",
+    "ML-013",
+    "ML-014",
+    "ML-015",
+    "ML-016",
+    "ML-018",
+    "ML-019",
+    "ML-020",
+    "ML-021",
+    "ML-022",
+    "ML-023"
+  ],
+  "prior_reviews_cross_referenced": [
+    "MR-2026-09-14-04",
+    "MR-2026-09-14-05",
+    "MR-2026-09-15-04",
+    "MR-2026-09-23-ALL-SOURCE-PIXEL-FLEET-TRANSCRIPT",
+    "MR-2026-09-25-DUNKIN-BUCKETS-ANNOTATED-CORRECTION",
+    "latest main-board partial audit requiring supplemental control views"
+  ],
+  "rendering_plan": [
+    "Corrected primary photorealistic/cinematic campus rendering based on the supplied Founder-marked reference.",
+    "Additive photorealistic fleet exterior/interior control rendering so all five vehicle families and physical mobility distinctions are unmistakable.",
+    "Additive photorealistic Common Area + spectator/fan-flow rendering so I AM A MASTERPIECE inheritance, spectator seating and Central Spine are physically visible."
+  ],
+  "pretool_result": "PASS TO EXECUTE THE CURRENT FOUNDER-AUTHORIZED EDIT/ADDITIVE RENDERING SET ONLY. NO APPROVAL/SAVE CLAIM."
+}
