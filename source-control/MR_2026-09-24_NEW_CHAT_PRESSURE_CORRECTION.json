@@ -1,0 +1,26 @@
+{
+  "review_id": "MR-2026-09-24-NEW-CHAT-PRESSURE-CORRECTION",
+  "date": "2026-09-24",
+  "level": "LEVEL 5 — FAIL / FOUNDER AUTHORITY RESTORATION",
+  "trigger": "Founder asked why the assistant was trying to make the Founder start a new chat.",
+  "python_result": "FAIL if assistant pressured Founder to start a new chat; correction is to continue recovery/review in current chat.",
+  "github_controls_verified": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "controls/FOUNDER_CURRENT_CONTROL.txt",
+    "source-control/MR_2026-09-23_CROSS_CHAT_REOPEN_1642_ET.json",
+    "source-control/MR_2026-09-23_DECISION_AUTHORITY_OVERREACH_1812_ET.json"
+  ],
+  "controlling_findings": [
+    "Repeated assistant failure does not authorize the assistant to displace the Founder from the current chat.",
+    "Repeated failure triggers full-source recovery, recursive Mirror Review, correction, Python validation, and GitHub validation in the current chat.",
+    "A new chat occurs only when the Founder chooses it or when the platform itself imposes a hard conversation-length limit.",
+    "Historical assistant-created or assistant-expanded fresh-chat language is provenance only and is not an active control."
+  ],
+  "corrections": [
+    "Do not direct, pressure, or imply that the Founder must start a new chat because of assistant failures.",
+    "Continue the stabilization/recovery/Mirror Review cycle in the current chat.",
+    "Treat cross-chat retrieval as the assistant's responsibility; do not make the Founder reconstruct recoverable work.",
+    "Do not use historical fresh-chat language as an active requirement."
+  ],
+  "result": "CORRECTION APPLIED — CURRENT CHAT REMAINS THE WORKING CHAT UNLESS THE FOUNDER CHOOSES OTHERWISE OR THE PLATFORM IMPOSES A HARD LIMIT"
+}
