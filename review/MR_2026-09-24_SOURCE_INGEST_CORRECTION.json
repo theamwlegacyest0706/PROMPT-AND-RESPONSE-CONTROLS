@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-24",
+  "result": "CORRECTION RECORDED",
+  "correction": "Use the full Legacy source corpus before substantive output. Preserve prior PASS records unchanged. Treat un-ingested existing history as an ingestion/verification failure, not as proof that the underlying source is missing.",
+  "python_prompt_sha256": "9936f033c759882cf105c4f85762a98221c562ef28e31f65ead55e3725e60e6a",
+  "checks": [
+    "55 master sheets",
+    "25/25 Master Locks",
+    "Mirror Review archive",
+    "Funding Pipeline",
+    "Visual Corpus Audit",
+    "Approved Visual Authority",
+    "Recovery Crosswalk",
+    "Stabilization",
+    "Operationalization"
+  ],
+  "closure": "OPEN — next substantive work must demonstrate compliance"
+}
