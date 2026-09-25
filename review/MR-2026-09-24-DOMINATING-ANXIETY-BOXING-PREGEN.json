@@ -1,0 +1,27 @@
+{
+  "review_id": "MR-2026-09-24-DOMINATING-ANXIETY-BOXING-PREGEN",
+  "control_lock_sha256": "73aa38fed7ec75079efcc371d369faf1c6e1715ca5abd76431337f3662fa1807",
+  "mirror_review_sha256": "5c8689ed0ccd27484fdd95ee1c2f1140b3d8189665d5877225712316dd769688",
+  "prompt_commit": "4616e7d2354086783e01cf62f04007d4ac08927d",
+  "result": "HOLD / PASS — FIRST VISUAL AUTHORIZED",
+  "critical_controls": {
+    "institution": "DOMINATING ANXIETY LEGACY BOXING",
+    "palette": "Midnight Dark Blue + Antique Gold",
+    "common_area": "I AM A MASTERPIECE Common Area reflection + inherited Legacy Common Area baseline",
+    "uniforms": "comfortable, functional, inclusive, non-gender-specific; institution palette",
+    "fleet_total": 13,
+    "fleet": "3 Tour ADA/Mixed/Non-ADA; 3 15-passenger ADA/Mixed/Non-ADA; 3 Mega ADA/Mixed/Non-ADA; 3 Double-Decker ADA/Mixed/Non-ADA; 1 22nd-century supply school bus",
+    "inherited": [
+      "Just Love Pond",
+      "Empty Chair",
+      "ROUND Legacy Table",
+      "circular/rounded geometry",
+      "Legacy Creator furniture priority",
+      "solar/renewable/all-electric-ready",
+      "mixed-ability access"
+    ],
+    "rendering_type": "single full-size photorealistic/cinematic architectural rendering; no board/collage/infographic"
+  },
+  "first_visual_target": "Campus exterior/master architectural view only",
+  "presentation_state": "Founder review only; not saved/current-controlled until Founder directs"
+}
