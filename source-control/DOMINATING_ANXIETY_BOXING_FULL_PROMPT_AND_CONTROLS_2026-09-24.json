@@ -1,0 +1,62 @@
+{
+  "prompt_sha256": "8df85bc8af5cf4da5d8e1d7f70713e177488af84deebfc55fe77ce1720440396",
+  "institution": "DOMINATING ANXIETY LEGACY BOXING",
+  "rendering_set": [
+    "01 Campus Exterior / Master Architectural View",
+    "02 Pro & Championship Wing Interior",
+    "03 Golden Gloves Academy + High-Capacity Floor Interior",
+    "04 Spectator / Fan / Media Pavilion + Central Spine",
+    "05 Official Title Rings + Conditioning Pavilion + AI Telemetry / Sport-Science Recovery",
+    "06 Stewards' Common Area",
+    "07 Uniform Rendering",
+    "08 Tour Bus Exterior + Interior",
+    "09 15-Passenger Van Exterior + Interior",
+    "10 Mega Bus Exterior + Upper/Lower Interior with Film Review Area",
+    "11 Double-Decker Exterior + Upper/Lower Interior with Film Review Area",
+    "12 22nd-Century Supply School Bus Exterior + Cargo Interior"
+  ],
+  "controls": {
+    "presentation": [
+      "individual",
+      "full-size/high-resolution",
+      "zoomable/openable",
+      "editable/revisable",
+      "show before save/update",
+      "no board/collage substitution"
+    ],
+    "institution": [
+      "Just Love Pond at entrance",
+      "Empty Chair",
+      "ROUND Legacy Table",
+      "circular/curved geometry where appropriate",
+      "mixed-ability access",
+      "renewable/solar priority",
+      "Legacy Creator furniture priority"
+    ],
+    "common_area": [
+      "reflect I AM A MASTERPIECE COSMETOLOGY atmosphere/control only",
+      "7 TVs total: 2 gaming + 5 general",
+      "full kitchen",
+      "quiet decompression",
+      "comfortable lounge",
+      "minimum 2 showers",
+      "convertible game table",
+      "separate from active training noise"
+    ],
+    "uniform": [
+      "comfortable",
+      "functional",
+      "inclusive",
+      "non-gender-specific",
+      "Midnight Dark Blue + Antique Gold",
+      "athletic forms"
+    ],
+    "fleet": [
+      "3 tour buses ADA/Mixed/Non-ADA fans/family travel, slightly plush",
+      "3 15-passenger vans ADA/Mixed/Non-ADA outreach/education/resources",
+      "3 mega buses ADA/Mixed/Non-ADA extended-state travel, education/outreach/practice/recovery, upper-level film review",
+      "3 double-deckers ADA/Mixed/Non-ADA regional travel/resources/outreach/practice/education, upper-level film review",
+      "1 22nd-century supply school bus for equipment/luggage"
+    ]
+  }
+}
