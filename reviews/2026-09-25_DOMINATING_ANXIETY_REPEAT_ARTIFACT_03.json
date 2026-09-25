@@ -1,0 +1,8 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-REPEAT-ARTIFACT-03",
+  "artifact_sha256":"b9be599e629d53ab400bb797aa43e99b4e5c0e968582569048f3b4d12c5c974f",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "result":"FAIL",
+  "reason":"The generated output is still a multi-panel collage rather than Rendering 01, a single native full-frame campus exterior. It also includes other program spaces, uniforms, fleet, and extra branding.",
+  "next_requirement":"Rendering 01 remains open and must be generated as one standalone campus exterior image."
+}
