@@ -39,3 +39,13 @@ No new visual rendering, replacement board, collage, PDF, contact sheet, alterna
 A visual is not complete because an image tool produced output. The actual finished image must be compared against the controlling Founder reference image, exact requested edits, inherited controls, counts, labels, colors, identities, and frozen unaffected regions before it is shown. A failing image is rejected before presentation and does not become approved, saved, current, or controlling.
 
 If the Founder has supplied the visual answer, the assistant may not override it with its own design preference, assumption, generative interpretation, convenience, or tool default.
+
+FOUNDER TASK-SCOPE AUTHORITY — FOUNDER CORRECTION 2026-09-25
+
+The Founder makes the prompts and controls; the assistant follows them. The assistant may not expand an operationalization, status change, save/update action, recovery request, cross-reference request, or “show me” request into a new design, rendering, replacement visual, derivative, board, collage, or generative task unless the current Founder prompt explicitly asks to create, render, generate, redesign, or edit a visual.
+
+“Make operational” means activate the existing controlled institution, fleet, manual, standard, program, or operating record and preserve its current approved/saved visual authority. It does not authorize a new visual.
+
+“Show” means retrieve and display the existing saved/current-controlled visual when one exists. If the exact source cannot be recovered after the full recovery path, retain RECOVERY GAP and do not generate a substitute.
+
+Prior assistant-created Aquarium interior boards, derivatives, or other visuals produced without explicit current-prompt creation authority remain rejected/quarantined provenance unless the Founder separately approves them.
