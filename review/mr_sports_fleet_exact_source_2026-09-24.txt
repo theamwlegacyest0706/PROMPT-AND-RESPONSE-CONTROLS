@@ -1,0 +1,6 @@
+Exact source recovered: AMW Legacy Sports Fleet Guide.png
+File ID: file_00000000bcb0822fb93f0b661b1f886e
+Prior wrong targets: AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png; AMW Legacy Sports Fleet Blueprint(3).png
+Evidence: the supplied screenshot crops match the Guide's JUSTIFIED WINS Mega Bus interiors, Double-Decker interiors, and 22nd-century supply-bus row.
+Control: use supplied screenshot as exact edit authority; no regeneration; no substitution; unaffected regions frozen.
+Result: PASS for exact source recovery.
