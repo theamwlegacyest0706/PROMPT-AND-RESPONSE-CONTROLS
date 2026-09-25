@@ -1,0 +1,5 @@
+Founder-visible display failure.
+Exact source recovery remains: AMW Legacy Sports Fleet Guide.png.
+Prior matching review: MR-2026-09-23-ARTIFACT-DISPLAY-FALSE-PASS-1812ET.
+Finding: source recovery is not display completion. If the photo is not visibly rendered in the chat, the Founder cannot verify the source.
+Correction: keep presentation/display gate FAILED/OPEN until the actual image is visibly presented. Do not claim shown/displayed from backend retrieval alone.
