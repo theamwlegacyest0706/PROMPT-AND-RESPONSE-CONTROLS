@@ -1,0 +1,8 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-REPEAT-ARTIFACT-08",
+  "artifact_sha256":"5b2de69330f3deab64337a08b1bd9041a5826c1875b244b98e6f3317b8023ea9",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "result":"FAIL",
+  "reason":"The output remains a multi-panel whole-project collage rather than Rendering 01, a single native full-frame campus exterior.",
+  "next_requirement":"Rendering 01 remains open. Attempt explicit image editing using the generator's returned generation identifier as the reference."
+}
