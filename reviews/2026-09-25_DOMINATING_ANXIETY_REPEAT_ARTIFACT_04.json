@@ -1,0 +1,8 @@
+{
+  "review_id":"MR-2026-09-25-DOMINATING-ANXIETY-REPEAT-ARTIFACT-04",
+  "artifact_sha256":"6ba64670c3785219609d007b7dd60d6ee979b2b9c55f28819ff91c23a7265d2d",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "result":"FAIL",
+  "reason":"The generated output is still a multi-panel whole-project board instead of Rendering 01, a single native full-frame campus exterior. It still contains other program spaces, uniforms, fleet, and extra branding.",
+  "next_requirement":"Rendering 01 remains open. The next image operation must explicitly bind the generated artifact as the image-edit reference and remove all non-exterior content."
+}
