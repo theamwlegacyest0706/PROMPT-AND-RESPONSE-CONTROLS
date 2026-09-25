@@ -1,0 +1,61 @@
+{
+  "review_id": "MR-2026-09-25-DUNKIN-BUCKETS-ANNOTATED-CORRECTION",
+  "date": "2026-09-25",
+  "level": "LEVEL 5 — REPEATED VISUAL FAILURE / PRE-TOOL CORRECTION GATE",
+  "trigger": "Founder annotated the current DUNKIN’ ON STEREOTYPES LEGACY BUCKETS rendering and required exact correction while preserving marked elements.",
+  "python_binary_review": {
+    "image_size": "1536x1024",
+    "actual_pixels_read": true,
+    "founder_fix_points": {
+      "school_bus_exterior": "(87.5%,30%)",
+      "spectator_seating": "(88%,60.7%)",
+      "missing_controls_prompt": "(59%,57%)"
+    },
+    "keep_points": [
+      "(46.5%,64.4%) Just Love Pond",
+      "(92.4%,37.5%)",
+      "(69.9%,43.7%)",
+      "(52.4%,39.5%)",
+      "(74.5%,28.6%)",
+      "(53%,26.1%)",
+      "(36.6%,23.1%)",
+      "(86.7%,11.1%) uniforms",
+      "(18.1%,12.8%)",
+      "(32.2%,12.4%)"
+    ],
+    "current_artifact_result": "FAIL — wrong school-bus exterior; spectator seating absent/unclear; I AM A MASTERPIECE Common Area and inherited visual controls not physically depicted."
+  },
+  "governing_controls": [
+    "ML-004 Founder Prompt Fidelity",
+    "ML-008 Known Correction Auto-Execution",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-010 Approved Artifact Preservation & Additive-View Control",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility",
+    "ML-022 22nd-Century School-Bus Purpose-Preservation",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference"
+  ],
+  "exact_corrections": [
+    "Replace only the wrong supply-bus exterior with a visibly recognizable futuristic 22nd-century school-bus body; keep it a supply/equipment/luggage bus and do not change its preserved cargo interior.",
+    "Add clearly visible spectator seating/bleachers/grandstand at the Youth & Rec / spectator zone without deleting the existing courts.",
+    "Add/restore a physically visible Stewards’ Common Area reflecting I AM A MASTERPIECE Cosmetology: calm spa character; 7 TVs total (2 gaming + 5 general); full kitchen; quiet/decompression area; at least 2 showers; convertible table-game equipment; Empty Chair; physical ROUND Legacy Table; circular/curved seating; Legacy Creator furnishings where feasible.",
+    "Preserve the Founder-marked Just Love Pond and uniform design.",
+    "Preserve all Founder-marked KEEP areas and the exact 13-vehicle fleet counts/purposes.",
+    "Preserve the Emerald Green + Midnight Dark Blue palette.",
+    "Retain Pro & Academy, Youth & Rec Academy, high-capacity lobbies, Fan Lounge & Plaza, Central Spine, court technology, Biomechanical Recovery Lab, Pro Shop & Traction Lab, and roll-in equipment vaults; restore any prompt items not visibly represented.",
+    "No new vehicle classes, no changed counts, no inferred mobility split beyond the Founder-assigned ADA/Mixed/Non-ADA triads."
+  ],
+  "prior_review_cross_reference": [
+    "MR-2026-09-14-05 system-wide execution failure",
+    "MR-2026-09-15-04 fleet interior/school-bus/rendering failure",
+    "MR-2026-09-19-03 repeated failure reopened",
+    "MR-2026-09-23-ALL-TRANSCRIPTS-PIXELS",
+    "MR-2026-09-23-ALL-SOURCE-PIXEL-FLEET-TRANSCRIPT",
+    "MR-2026-09-25-DUNKIN-BUCKETS-FLEET-CORRECTION-PRETOOL"
+  ],
+  "pretool_result": "PASS ONLY FOR EDIT EXECUTION — current artifact itself remains failed until corrected and re-inspected.",
+  "authority_boundary": "This is an edit of the supplied rendering. Preserve marked elements; do not redesign or save/approve on the Founder’s behalf."
+}
