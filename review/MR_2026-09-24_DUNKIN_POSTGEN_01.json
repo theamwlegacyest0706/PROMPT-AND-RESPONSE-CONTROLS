@@ -1,0 +1,23 @@
+{
+  "review_id": "MR-2026-09-24-DUNKIN-POSTGEN-01",
+  "date": "2026-09-24",
+  "status": "LEVEL 5 FAIL — REJECT / NON-CONTROLLING / DO NOT SAVE",
+  "trigger": "First DUNKIN’ ON STEREOTYPES visual rendered as a labeled concept-board/infographic collage despite ML-015.",
+  "findings": [
+    "Rendering-type failure: concept-board / infographic / collage instead of one continuous photorealistic/cinematic architectural/design scene.",
+    "Fleet exterior families appeared, but ML-021 exterior+interior physical depiction was not satisfied for each vehicle family.",
+    "Captioned labels cannot substitute for physical depiction under ML-009/021.",
+    "Artifact cannot be used as source authority and cannot be saved/approved by assistant action."
+  ],
+  "controls": [
+    "ML-009",
+    "ML-014",
+    "ML-015",
+    "ML-018",
+    "ML-020",
+    "ML-021",
+    "ML-023"
+  ],
+  "correction": "Reject artifact. Re-enter with separate continuous photorealistic scenes. Each fleet family must be rendered in its own real-world scene with exterior plus physically visible mission interior; no panels, labels, board layout, diagram, infographic or collage.",
+  "result": "CORRECTION REQUIRED BEFORE COMPLETION"
+}
