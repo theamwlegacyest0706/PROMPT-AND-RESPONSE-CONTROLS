@@ -1,0 +1,27 @@
+{
+  "id": "MR-FUNDING-RESTRICTIONS-REQUIREMENTS-2026-09-24",
+  "date": "2026-09-24",
+  "trigger": "Founder correction: grants with restrictions/requirements continued to be presented.",
+  "controlling_correction": [
+    "Funding opportunities with disqualifying restrictions or requirements are eliminated before presentation.",
+    "Do not surface grants carrying required match, reimbursement-only structure, paid membership/purchase, mandatory classes/training, registration/good-standing prerequisite while AMW is unregistered, unacceptable reporting, use-of-funds restrictions, broad publicity/IP rights, project-specific obligations outside current operational capacity, hidden attendance/onboarding burdens, or other Founder-excluded conditions.",
+    "If no opportunity survives all current gates, the funding result must state exactly: NONE OF THESE QUALIFY.",
+    "Do not convert a failed opportunity into a recommendation merely because the restriction is manageable or proportionate.",
+    "Specific Founder decisions remain specific: Verizon's two-resource requirement is preserved only because the Founder expressly reopened Verizon; AdIQ remains active because the Founder expressly directed application after identity/registration correction."
+  ],
+  "corrections": {
+    "Giving Joy Fall 2026": "REMOVED / EXCLUDED BEFORE PRESENTATION — six-month project implementation, women/girls/families beneficiary restriction, grant agreement, mid-term report, final report, monitoring/coaching obligations. It should not have been presented as qualified.",
+    "Verizon Small Business Digital Ready": "PRESERVED ONLY AS FOUNDER-SPECIFIC OVERRIDE — does not generalize to other requirement-bearing grants.",
+    "AdIQ Cares": "PRESERVED AS FOUNDER-DIRECTED APPLY — current public terms previously screened with no required match, no formal registration prerequisite stated, no recurring reporting, no mandatory training, no paid membership/purchase, no broad IP/publicity surrender identified; final award terms remain a stop gate before acceptance."
+  },
+  "prior_mirror_cross_reference": [
+    "FUNDING_MIRROR_REVIEW_2026-09-23_CORRECTED",
+    "FUNDING_MIRROR_REVIEW_2026-09-24_FINAL",
+    "FUNDING_PYTHON_VALIDATION_2026-09-24",
+    "FINAL_PYTHON_MIRROR_REVIEW_ALL_LEGACY_WORK_2026-09-23"
+  ],
+  "visual_work_review": "No visual artifact status changes. Existing approved/rejected/superseded/quarantined/provenance classifications remain unchanged; funding continuity remains active under ML-025.",
+  "mirror_result": "PASS AFTER CORRECTION",
+  "python_result": "PASS — Giving Joy excluded; Verizon and AdIQ preserved only under specific Founder decisions.",
+  "no_override": true
+}
