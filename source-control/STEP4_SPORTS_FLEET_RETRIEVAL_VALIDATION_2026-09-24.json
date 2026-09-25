@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-24",
+  "candidate": "AMW_SPORTS_FLEETS_CONTROLLED_CORRECTED_RENDERING(1).png",
+  "checks": {
+    "full_visual_corpus_reviewed": 1008,
+    "fleet_related_subset_reviewed": 103,
+    "sports_named_derivatives_reviewed": 33,
+    "chats_prompts_legacy_database_cross_reference": true,
+    "exact_file_identity_preserved": true,
+    "quarantine_status_preserved": true,
+    "individual_current_saved_visual_authority_preserved": true,
+    "no_new_rendering": true
+  },
+  "result": "PASS"
+}
