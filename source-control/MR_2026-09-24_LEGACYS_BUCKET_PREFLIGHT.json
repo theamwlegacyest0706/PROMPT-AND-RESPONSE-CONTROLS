@@ -1,0 +1,61 @@
+{
+  "review_id": "MR-2026-09-24-LEGACYS-BUCKET-PREFLIGHT",
+  "date": "2026-09-24",
+  "task": "Create Founder-directed visual rendering for Legacy's Bucket / DUNKIN’ ON STEREOTYPES — LEGACY BUCKETS basketball team using all applicable controls.",
+  "founder_scope": {
+    "palette": [
+      "Emerald Green",
+      "Midnight Dark Blue"
+    ],
+    "stewards_common_area_reference": "I AM A MASTERPIECE COSMETOLOGY",
+    "fleet_total": 13,
+    "fleet": [
+      "3 Tour Buses — ADA / Mixed / Non-ADA — fans/family travel — plush overlay",
+      "3 15-Passenger Vans — ADA / Mixed / Non-ADA — outreach/education/resources",
+      "3 Mega Buses — ADA / Mixed / Non-ADA — extended state travel/education/outreach/practice/recovery — upper film review area",
+      "3 Double-Decker Buses — ADA / Mixed / Non-ADA — regional travel/resources/outreach/practice/education — upper film review area",
+      "1 22nd-Century School Bus — supplies/equipment/luggage"
+    ],
+    "campus_program": [
+      "Pro & Academy Wing for NBA/WNBA players and high-performance prospects",
+      "Force-plate embedded shooting keys",
+      "Private film rooms and private locker rooms",
+      "Professional showcase court with 23'9\" three-point line",
+      "Restricted badge access, private side entrance, secure training perimeter",
+      "Youth & Rec Academy for tournaments, camps and beginners",
+      "Adjustable 10 ft to 8 ft hoops, modular grid tiles, open-play pickup hoops, secure perimeter fencing",
+      "High-capacity lobbies with team check-in desks, tournament boards and equipment hubs",
+      "Fan Lounge & Plaza for parents/scouts/corporate sponsors with acoustic shatterproof-glass mezzanine",
+      "Covered spectator pavilions, charging, food vendors",
+      "Central Spine bridge corridor separating spectator circulation from active baselines",
+      "Suspended maple flooring, motorized glass backboards, ceiling-hung goal arrays, acoustic panels/baffles and jumbotrons",
+      "Outdoor post-tensioned concrete, interlocking polypropylene tiles, galvanized goals and high-lux shadow-free LED lighting",
+      "AI SmartCourt cameras, in-floor laser/LED boundaries, automated shooting machines",
+      "Biomechanical Recovery Lab, Pro Shop & Traction Lab, extra-large roll-in equipment vaults"
+    ]
+  },
+  "inherited_controls_applied": [
+    "ML-003 Just Love Pond at principal/public entrance",
+    "ML-009 visual completeness/preflight",
+    "ML-011 exact scope isolation",
+    "ML-013 exact fleet checksum",
+    "ML-014 source-precedence/context-contamination gate",
+    "ML-015 photorealistic/cinematic rendering type; no infographic substitution",
+    "ML-016 Founder intent-to-execution gate",
+    "ML-018 pre-presentation kill switch",
+    "ML-021 fleet exterior + interior physical depiction",
+    "ML-022 22nd-century school-bus purpose preservation",
+    "ML-023 complete-prompt recursive Mirror Review",
+    "Legacy-wide Empty Chair visual enforcement",
+    "ROUND Legacy Table and circular/curved furniture",
+    "Legacy Creator furnishing priority",
+    "Legacy-wide renewable/solar/all-electric-ready standard",
+    "Legacy-wide fleet-interior baseline",
+    "Legacy institution uniform standards"
+  ],
+  "common_area_execution": "Use I AM A MASTERPIECE Common Area character only: spa-like calm/restorative atmosphere, 7 TVs total (2 gaming/5 general), comfortable relaxation seating; add Legacy-wide minimums of quiet decompression area, at least 2 showers, full kitchen, convertible table-game equipment, one intentionally Empty Chair, round Legacy Table, circular/curved furniture. Do not import cosmetology workstations or salon service functions.",
+  "sports_fleet_reconciliation": "Current sports-fleet overlay remains additive where not contradicted by this Founder prompt: 13 total; Mega state-travel film/strategy/recovery support with real restroom/full kitchen/secure track seating; supply bus is cargo/luggage/equipment with Equipment Steward work area and no passenger seating/restroom/kitchen. Do not add an unrequested vehicle category or alter the Founder-assigned mobility split.",
+  "uniform_execution": "Emerald Green + Midnight Dark Blue; professional, functional, inclusive, durable, comfortable, practical; role-appropriate competition/practice/warm-up/travel/staff-steward options; name/role and AMW identity options; ADA/safety requirements govern where needed.",
+  "status_boundary": "This generation is a Founder-directed new visual draft. It is not Update-and-Saved, approved, current-controlled or superseding unless the Founder explicitly directs that status.",
+  "mirror_result": "PASS TO GENERATE — exact fleet checksum 13; no unresolved control conflict requiring Founder clarification."
+}
