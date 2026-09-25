@@ -22,5 +22,22 @@
     "Treat cross-chat retrieval as the assistant's responsibility; do not make the Founder reconstruct recoverable work.",
     "Do not use historical fresh-chat language as an active requirement."
   ],
-  "result": "CORRECTION APPLIED — CURRENT CHAT REMAINS THE WORKING CHAT UNLESS THE FOUNDER CHOOSES OTHERWISE OR THE PLATFORM IMPOSES A HARD LIMIT"
+  "result": "CORRECTION APPLIED — NO ASSISTANT-IMPOSED CHAT RESET. IF THE PLATFORM UI REPORTS MAXIMUM CONVERSATION LENGTH, THAT HARD LIMIT CONTROLS TECHNICAL CONTINUATION; LEGACY CONTEXT MUST BE RECOVERED ACROSS THE FORCED NEW CHAT.",
+  "execution_correction_2026_09_24": {
+    "status": "FAIL / PRIOR RESULT OVERSTATED",
+    "screenshot_evidence": "The supplied screenshot shows the platform banner: 'You've reached the maximum length for this conversation, but you can keep talking by starting a new chat.'",
+    "python_check": {
+      "platform_hard_limit_visible": true,
+      "prior_response_had_hard_limit_exception": true,
+      "prior_response_still_asserted_current_chat_as_working": true,
+      "result": "FAIL"
+    },
+    "correction": [
+      "Do not assert that the current chat remains technically available unless that state is actually verified.",
+      "If the platform has already imposed its conversation-length limit, acknowledge that the exception is active: the platform requires continuation in a new chat.",
+      "The Legacy continuity control still applies across that forced chat boundary: recover prior controls/work automatically and do not make the Founder reconstruct them.",
+      "Do not present an internal Python/GitHub validation result as proof of an external ChatGPT UI state."
+    ],
+    "corrected_result": "FOUNDER DID NOT CHOOSE A NEW CHAT; THE PLATFORM IMPOSED THE HARD CONVERSATION-LENGTH LIMIT. CROSS-CHAT CONTINUITY REMAINS THE ASSISTANT'S RESPONSIBILITY."
+  }
 }
