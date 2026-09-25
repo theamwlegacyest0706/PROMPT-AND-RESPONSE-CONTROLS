@@ -72,7 +72,7 @@
     "steward_common_area_inheritance_required": true,
     "no_caption_substitution": true
   },
-  "result": "FIRST GENERATION FAILED POST-RENDER MIRROR REVIEW — SECOND CORRECTIVE EDIT REQUIRED",
+  "result": "SECOND GENERATION FAILED POST-RENDER MIRROR REVIEW — THIRD CORRECTIVE EDIT REQUIRED",
   "first_generation_review": {
     "generated_asset": "file_00000000474c822f8f8830e4e69b049a",
     "founder_reference_asset": "file_00000000f6a8822fb84a8d44a209118a",
@@ -97,5 +97,32 @@
     "Strengthen physical ADA/Mixed/Non-ADA differentiation in fleet interior/exterior depictions where Founder assigned: visible lift/ramp/securement/clearance on ADA, hybrid accessible+standard on Mixed, standard seating on Non-ADA.",
     "Expand the Stewards’ Common Area depiction so the cosmetology character remains visible while inherited Legacy Common Area requirements are physically represented, including the intentionally Empty Chair and round/circular Legacy furniture/table treatment where applicable.",
     "Preserve all already-correct panels and the Just Love Pond; do not redesign kept elements."
+  ],
+  "second_generation_review": {
+    "generated_asset": "file_00000000ec00822fa0b71ba115e67d71",
+    "checks": {
+      "title_and_palette": "PASS",
+      "uniforms_preserved": "PASS",
+      "just_love_pond_visible": "PASS",
+      "spectator_seating_physically_clear": "FAIL — spectator/fan areas exist, but dedicated basketball spectator seating is not explicit enough",
+      "tour_bus_family_exterior_and_interior": "PASS",
+      "fifteen_passenger_van_family_exterior_and_interior": "PASS",
+      "mega_bus_family_exterior_and_upper_film_review": "PASS",
+      "double_decker_family_exterior_and_upper_film_review": "PASS",
+      "true_22nd_century_school_bus_exterior": "FAIL — still reads as a coach/multi-axle transit vehicle instead of an unmistakable futuristic school-bus conversion",
+      "school_bus_supply_interior": "PASS",
+      "stewards_common_area_cosmetology_character": "PASS",
+      "stewards_common_area_inherited_minimums_visible": "FAIL — cosmetology character is present, but the inherited Common Area minimums are not all physically represented",
+      "mobility_distinctions_physically_distinct": "FAIL — ADA/Mixed/Non-ADA are labeled but not physically differentiated enough"
+    },
+    "result": "FAIL / REPEAT CYCLE REQUIRED"
+  },
+  "third_cycle_requirements": [
+    "Preserve all panels that already pass.",
+    "Create a clearly school-bus-derived 22nd-century supply vehicle: recognizable school-bus windshield/roof/door/window rhythm and school-bus proportions transformed futuristically; absolutely not a motorcoach, transit coach, shuttle, or double-decker.",
+    "Physically show ADA/Mixed/Non-ADA distinctions: ADA lift/ramp + wheelchair securement/clear aisle; Mixed accessible securement plus standard seats; Non-ADA standard seating only, for each assigned 3-vehicle family.",
+    "Add unmistakable arena spectator seating/bleachers facing the courts, separate from the Fan Lounge.",
+    "Stewards’ Common Area must retain I AM A MASTERPIECE COSMETOLOGY character while physically showing the Legacy common-area minimums: at least 5 TVs, quiet/decompression zone, at least 2 showers, full kitchen, convertible table-game equipment, comfortable lounge seating, intentionally Empty Chair, and round/circular Legacy furniture/table treatment.",
+    "Do not remove the Just Love Pond, uniforms, correctly rendered fleet families, film-review areas, Pro & Academy, Youth & Rec Academy, lobbies, Fan Lounge, Central Spine, court technology, recovery lab, Pro Shop, or equipment vaults."
   ]
 }
