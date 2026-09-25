@@ -1,0 +1,72 @@
+{
+  "review_id": "MR-2026-09-24-DUNKIN-BASKETBALL-CROSS-INSTITUTION-CONTAMINATION",
+  "date": "2026-09-24",
+  "level": "LEVEL 5 — FAIL / WRONG INSTITUTION + WRONG SPORT / CROSS-INSTITUTION CONTAMINATION",
+  "trigger": "Founder asked how the generated rendering could have come from the DUNKIN’ ON STEREOTYPES LEGACY BUCKETS basketball prompt.",
+  "source_artifact": {
+    "library_file_id": "file_00000000ae64822f9a375e529452134e",
+    "library_name": "chart-1(20260925-022841).png",
+    "observed_title": "DOMINATING ANXIETY LEGACY BOXING",
+    "observed_sport_identity": "Boxing gloves / BOXING language",
+    "observed_palette": "Midnight/Dark Blue + Gold",
+    "observed_common_area_text": "The Stewards’ Common Area — I AM A MASTERPIECE COSMETOLOGY"
+  },
+  "founder_prompt_checksum": {
+    "exact_name": "DUNKIN’ ON STEREOTYPES LEGACY BUCKETS",
+    "sport": "Basketball",
+    "palette": "Emerald Green + Midnight Dark Blue",
+    "common_area_reference": "I AM A MASTERPIECE COSMETOLOGY",
+    "fleet_total": 13,
+    "fleet": [
+      "3 Tour Buses — ADA/Mixed/Non-ADA — fans/family travel — plush",
+      "3 15-passenger Vans — ADA/Mixed/Non-ADA — outreach/education/resources",
+      "3 Mega Buses — ADA/Mixed/Non-ADA — extended state travel/education/outreach/practice/recovery — upper-level film review",
+      "3 Double-Deckers — ADA/Mixed/Non-ADA — regional travel/resources/outreach/practice/education — upper-level film review",
+      "1 22nd-century School Bus — supplies/equipment/luggage"
+    ],
+    "named_spaces": [
+      "Pro & Academy",
+      "Youth & Rec Academy",
+      "Fan Lounge & Plaza",
+      "Central Spine",
+      "Biomechanical Recovery Lab",
+      "Pro Shop & Traction Lab",
+      "Extra-Large Roll-In Equipment Vaults"
+    ]
+  },
+  "python_check": {
+    "exact_name_match": false,
+    "sport_match": false,
+    "required_palette_match": false,
+    "common_area_reference_match": true,
+    "basketball_visual_identity": false,
+    "requested_fleet_visible": false,
+    "passes": "1 of 6"
+  },
+  "source_contamination_evidence": {
+    "current_master_LIN_032": "Legacy's Bucket — Basketball Court",
+    "current_master_LIN_033": "Dominating Anxiety — Boxing Gym",
+    "finding": "The generated artifact used the adjacent boxing institution identity (Dominating Anxiety) while retaining the requested I AM A MASTERPIECE common-area reference. That is a mixed-source artifact, not a faithful execution of the Founder prompt."
+  },
+  "controls_violated": [
+    "ML-004 Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-006 No Blank Slate / Founder Control Inheritance",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-013 Fleet Specification Checksum & Purpose Lock",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock / visual identity fidelity",
+    "ML-016 Founder Intent-to-Execution Verification Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference"
+  ],
+  "correction": {
+    "artifact_status": "NON-CONTROLLING / WRONG INSTITUTION / WRONG SPORT / DO NOT SAVE AS DUNKIN",
+    "no_new_governance_control_created": true,
+    "next_execution_requirement": "Use the exact DUNKIN’ ON STEREOTYPES LEGACY BUCKETS prompt as the generation source; preserve basketball identity, emerald+midnight palette, exact 13-vehicle fleet and purposes, I AM A MASTERPIECE common-area inheritance, uniform control, and every Founder-named facility feature. Do not import Dominating Anxiety or boxing."
+  },
+  "result": "FAIL CONFIRMED — THE RENDERING DID NOT COME FROM A FAITHFUL READING OF THE FOUNDER PROMPT; IT IS A CROSS-INSTITUTION CONTAMINATION OUTPUT."
+}
