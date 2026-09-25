@@ -72,7 +72,7 @@
     "steward_common_area_inheritance_required": true,
     "no_caption_substitution": true
   },
-  "result": "THIRD GENERATION FAILED — TRUE REFERENCE-IMAGE EDIT REQUIRED",
+  "result": "SUPPLEMENTAL CONTROL RENDERINGS REQUIRED BEFORE VISUAL SET CAN PASS",
   "first_generation_review": {
     "generated_asset": "file_00000000474c822f8f8830e4e69b049a",
     "founder_reference_asset": "file_00000000f6a8822fb84a8d44a209118a",
@@ -136,5 +136,18 @@
     ],
     "root_cause_correction": "Previous corrective attempts were generated as new compositions (edit_op null) rather than a true edit of the Founder-marked reference artifact. Under ML-010 and exact keep instructions, the next attempt must target the Founder-provided reference image directly and preserve marked KEEP regions."
   },
-  "next_action": "TRUE EDIT of Founder reference asset file_00000000f6a8822fb84a8d44a209118a; preserve KEEP regions; change only required defects/additions."
+  "next_action": "TRUE EDIT of Founder reference asset file_00000000f6a8822fb84a8d44a209118a; preserve KEEP regions; change only required defects/additions.",
+  "latest_main_board_review": {
+    "generated_asset": "file_00000000f350822faf2a6bfaf40fb1f0",
+    "result": "MAIN BOARD PARTIAL — SUPPLEMENTAL CONTROL VIEWS REQUIRED",
+    "pass_count": 13,
+    "total_checks": 17,
+    "unresolved": [
+      "true school-bus-derived 22nd-century exterior unmistakable",
+      "ADA/Mixed/Non-ADA physical distinction by family",
+      "spectator seating unmistakably shown",
+      "Stewards Common Area inherited minimums physically shown"
+    ],
+    "correction_path": "Use additive supplemental renderings under ML-010 rather than continuing to overload one board: (1) dedicated fleet exterior/interior control board; (2) dedicated Stewards’ Common Area + spectator-seating/fan-flow control board. Preserve the main campus board and all Founder-marked KEEP elements."
+  }
 }
