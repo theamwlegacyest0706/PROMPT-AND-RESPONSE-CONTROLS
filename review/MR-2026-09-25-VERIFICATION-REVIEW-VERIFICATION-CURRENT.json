@@ -1,0 +1,40 @@
+{
+  "review_id": "MR-2026-09-25-VERIFICATION-REVIEW-VERIFICATION-CURRENT",
+  "founder_prompt_sha256": "fbdc4a195bb383a331e038526c1a0a99e01a0d457e40fd670a909a3fdfd04796",
+  "founder_prompt_commit": "0b05cd7c121389f5cf2ce948ac5531f9d342b534",
+  "scope": "Current Founder prompt; prior cross-references; applicable Master Locks; previous Mirror Reviews; produced work for this prompt; visual-execution correction state.",
+  "github_control_verification": {
+    "ML-004": "Read and analyze Founder prompt in full before response/action; inherited non-superseded controls apply automatically.",
+    "ML-008": "Known correction must be executed automatically; acknowledgment/explanation does not close it.",
+    "ML-009": "Visual cannot be presented as complete until preflight verifies requested form and inherited visual controls.",
+    "ML-012": "Recurring same-class failure escalates to Strengthen; governing controls must be reread, failure documented, verification applied, and next output must pass before presentation.",
+    "ML-014": "Before every image generation/edit, lock Founder source, allowed set, forbidden set, requested form, preserve-exactly set, and checksum where applicable; failed derivatives are not source authority.",
+    "ML-015": "Legacy visual rendering defaults to photorealistic/cinematic; no infographic/concept-board/poster-collage substitution unless Founder requests it.",
+    "ML-016": "Verify exact Founder outcome, applicable controls/safeguards, prohibited substitutions, and completion evidence before substantive execution.",
+    "ML-020": "Founder correction/error detection automatically triggers Mirror Review before explanation/retry."
+  },
+  "previous_mirror_review_cross_reference": [
+    "MR-2026-09-14-03: repeated problem is control-execution pattern; written safeguards do not count unless they change execution.",
+    "MR-2026-09-14-04: pre-tool correction must happen before rendering; incorrect prior drafts are non-controlling.",
+    "MR-2026-09-14-05: failure is system-wide; corrections close only when verified compliant execution proves them.",
+    "MR-2026-09-15-01: Founder correction itself must auto-trigger Mirror Review before explanation/retry.",
+    "MR-2026-09-15-04: known same-class rendering failure must be stopped before presentation; labels/captions do not substitute for physical depiction."
+  ],
+  "current_execution_corrections": [
+    "Verification 1 must confirm exact prompt, applicable controls, requested action, and exact source rendering/image when editing.",
+    "If Founder explicitly directs an edit to a failed/rejected rendering, execute that exact edit on that exact rendering; prior failure status does not authorize workflow substitution.",
+    "Mirror Review examines assistant execution itself: omissions, substitutions, source misuse, format drift, invented rules, and whether the actual artifact satisfies the prompt.",
+    "Verification 2 confirms the correction fixes the identified failure before presentation as compliant.",
+    "Python and GitHub are verification layers only; they are not decision-makers, excuses, or substitutes for accurate execution.",
+    "No assistant-invented mass-production, variant-generation, replacement, or stop rule may override the Founder prompt.",
+    "No rendering may be called corrected/compliant/current/saved/approved until the actual artifact exists and passes post-generation Python + GitHub + Mirror Review."
+  ],
+  "produced_work_state_for_this_prompt": {
+    "python_verification_1": "PASS",
+    "github_prompt_verification": "PASS",
+    "github_control_cross_reference": "PASS",
+    "new_rendering_artifact_available_for_post_generation_review": false,
+    "visual_execution_correction_status": "OPEN — proof requires the next actual Founder-requested rendering/edit to pass Verification -> Review -> Verification"
+  },
+  "result": "PRE-FLIGHT UNDERSTANDING PASSES; VISUAL CORRECTION REMAINS OPEN UNTIL AN ACTUAL NEW/EDITED ARTIFACT EXISTS AND PASSES POST-GENERATION VERIFICATION"
+}
