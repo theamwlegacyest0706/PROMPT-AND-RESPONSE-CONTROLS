@@ -1,0 +1,23 @@
+{
+  "review_id": "MR-2026-09-26-PATTIES-PERCH-COORDINATE-EDIT-FINAL",
+  "status": "POST-EDIT VERIFICATION / MIRROR REVIEW",
+  "source": "Founder-attached PATTIES PERCH rendering in the current chat",
+  "python_verification": {
+    "canvas_dimensions_preserved": "1536x1024",
+    "coordinate_instructions_parsed": 71,
+    "authorized_change_instructions": 4,
+    "founder_preserve_save_instructions": 67,
+    "pixel_changes_outside_authorized_edit_rectangles": 0,
+    "result": "PASS — unaffected source pixels are unchanged outside the four authorized edit zones"
+  },
+  "corrections_applied": [
+    "Conventional-looking supply school bus replaced only in its exterior image zone with the established 22nd-century institutional bus body language, recolored to the PATTIES PERCH fleet palette and identified as PATTIES PERCH SUPPLY.",
+    "Salon/cosmetology-service layout replaced only in the Stewards' Common Area image zone with a lounge/common-area layout reflecting I AM A MASTERPIECE inheritance, including round gathering furniture and integrated screen zones; the existing source header remains.",
+    "Outdoor stadium panel replaced only in its authorized panel with an MLB-level all-season retractable-roof stadium view.",
+    "Stadium screen placement corrected in the same panel so the principal display is spectator-facing/center-field rather than behind the seating."
+  ],
+  "frozen_regions": "All Founder-designated update/save regions at coordinates 5-71 and all other unaffected source areas are preserved exactly at the pixel level outside the authorized edit rectangles.",
+  "cross_reference_result": "PASS against FOUNDER_CURRENT_CONTROL.txt, PATTIES PERCH control matrix, pre-render Mirror Review, prior artifact failure, Founder-directed visual-execution correction, and current coordinate-edit precheck.",
+  "save_state": "Founder explicitly directed update-and-save for the preserved regions. The corrected working rendering may be saved to the Legacy as Founder-directed corrected working visual; this record does not independently promote it to a broader approval state beyond the Founder's explicit save directions.",
+  "result": "PASS — FOUR LOCALIZED CORRECTIONS APPLIED; NO OUT-OF-SCOPE REDESIGN"
+}
