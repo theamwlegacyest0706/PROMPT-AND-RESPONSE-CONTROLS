@@ -1,0 +1,28 @@
+{
+  "review_id": "MR-2026-09-26-PATTIES-PERCH-COORDINATE-EDIT-PRECHECK",
+  "status": "PRE-EDIT VERIFICATION / MIRROR REVIEW",
+  "python_gate": "PASS — 71 coordinate instructions parsed; exactly 4 change requests and 67 preserve/save instructions identified.",
+  "source_authority": "Founder-attached PATTIES PERCH rendering in current chat is the exact edit target. No substitute board, redesign, regenerated layout, or alternate rendering is authorized.",
+  "github_sources_cross_referenced": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-25_2150_ET_PATTIES_PERCH_RENDER.txt",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_CONTROL_MATRIX.md",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_MIRROR_REVIEW.md",
+    "reviews/2026-09-24_PATTIES_PERCH_ACTUAL_ARTIFACT_MIRROR_REVIEW_01.md",
+    "reviews/2026-09-24_PATTIES_PERCH_EXACT_RENDERING_RECOVERY_GAP_02.md",
+    "review/AMW_FOUNDER_DIRECTED_VISUAL_EXECUTION_CORRECTION_2026-09-25.json",
+    "review/AMW_FOUNDER_DIRECTED_VISUAL_EXECUTION_VERIFICATION_2_2026-09-25.json",
+    "review/MIRROR_REVIEW_2026-09-25_CHAT_CONTINUITY_PATTIES_PERCH.json",
+    "review/MIRROR_REVIEW_2026-09-25_TRUST_CLAIM_EXECUTION_CORRECTION.json"
+  ],
+  "allowed_changes_only": {
+    "1": "At x96.9 y86.1 replace the conventional-looking supply bus with a visibly 22nd-century purpose-built supply school bus. Preserve PATTIES PERCH fleet identity and cargo/support mission. Show equipment/luggage/supplies and Equipment Steward work/check function; no passenger-hospitality substitution.",
+    "2": "At x12.9 y58.8 replace the salon/gallery-looking panel with the actual I AM A MASTERPIECE-inherited Stewards' Common Area: spa-themed dedicated common area, 7 TVs total (2 gaming + 5 general), comfortable relaxation seating, full kitchen, quiet decompression, showers and compatible convertible game-table component; no salon chairs/styling/wash stations.",
+    "3": "At x82.8 y13.5 make the stadium visibly all-season MLB-level with a clear retractable-roof mechanism/partially open roof so rainy-day use is physically evident.",
+    "4": "At x88.2 y11.5 reposition jumbotrons/screens so they face spectator seating and improve the in-stadium viewing experience; they may not sit uselessly behind spectator seating."
+  },
+  "frozen_preserve_set": "Coordinate instructions 5 through 71 are Founder-directed UPDATE AND SAVE regions. They are frozen visual source and must not be redesigned, recolored, relabeled, moved, simplified, normalized, or regenerated except where unavoidable at the exact edge of one of the four authorized edit zones.",
+  "fleet_checksum": 13,
+  "save_authority": "Founder explicitly directed update-and-save for coordinates 5-71. Save the corrected rendering only after actual finished-artifact verification confirms the four edits and preservation of the frozen regions.",
+  "result": "PASS TO EXACT SOURCE EDIT — FOUR LOCALIZED CORRECTIONS ONLY"
+}
