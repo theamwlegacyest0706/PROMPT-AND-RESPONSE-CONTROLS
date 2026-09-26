@@ -1,5 +1,6 @@
 {
   "record_type": "AMW_CHAT_FORENSIC_AUDIT_2026-09-26",
+  "generated_at_utc": "2026-09-26T05:38:33.565602+00:00",
   "scope": "THE AMW LEGACY chat/source execution audit; counts are source-backed verified minimums where later raw message-by-message Project transcripts remain incomplete.",
   "counting_rule": "Count distinct underlying events once. Later Mirror Reviews that only restate the same event are not counted again unless they document a new failed retry/handoff. Near-exact conversation recovery is not relabeled as verbatim.",
   "timeline": {
@@ -10,31 +11,148 @@
   "prompt_ingestion": {
     "recovered_prompt_task_events": 73,
     "events_explicitly_mentioning_both_python_and_github": 32,
-    "original_source_states": {"RECOVERED_INDEXED":66,"EXACT_QUOTE_RECOVERED":3,"EXACT_OR_NEAR_EXACT":2,"GITHUB_EXACT_FILE":1,"EXACT_CURRENT_MESSAGE":1},
+    "original_source_states": {
+      "RECOVERED_INDEXED": 66,
+      "EXACT_QUOTE_RECOVERED": 3,
+      "EXACT_OR_NEAR_EXACT": 2,
+      "GITHUB_EXACT_FILE": 1,
+      "EXACT_CURRENT_MESSAGE": 1
+    },
     "exact_drive_prompt_blocks": 21,
     "exact_github_prompt_files_preexisting_in_ledger": 16,
-    "additional_message_level_recovery": {"events":32,"exact_quoted_fragment_or_full_short_message":8,"near_exact_non_verbatim":24,"still_indexed_only_at_timestamp_level":34}
+    "new_timestamp_bound_conversation_recovery_from_previously_indexed_events": {
+      "events_with_additional_message_level_recovery": 32,
+      "exact_quoted_fragment_or_full_short_message": 8,
+      "near_exact_normalized_content_not_promoted_to_verbatim": 24,
+      "still_indexed_only_at_event_timestamp_level": 34,
+      "note": "Separate Drive/GitHub exact-source archives may contain text for some of these 34, but they are not being mapped 1:1 to timestamps without proof."
+    }
   },
   "forensic_counts": {
-    "explicit_complete_or_full_set_python_github_claim_events": 7,
-    "additional_narrower_pass_claim_events": 5,
-    "documented_distinct_prompt_skimming_or_incomplete_reading_episodes": 6,
-    "documented_prompt_render_edit_decision_override_or_substitution_episodes": 16,
-    "assistant_contradicted_or_redirected_founder_then_reversed_or_corrected": 17,
-    "funding_distinct_named_resources_mis_screened_or_improperly_presented": 19,
-    "funding_duplicate_resurfacing_incidents": 2,
-    "funding_distinct_named_resources_across_both_categories": 20,
-    "distinct_repeated_correction_chains_where_correction_did_not_hold": 10,
-    "mirror_review_records_with_explicit_recurrence_retry_again_markers": 22,
-    "individually_recoverable_invalid_regeneration_events": 8,
-    "additional_mass_production_batches_unknown_image_count": 1,
-    "recovered_assistant_messages_using_or_referring_to_unrecoverable_classification": 9,
-    "surviving_original_direct_unrecoverable_item_claims": 1,
-    "distinct_item_specific_recovery_gap_labeling_message_events": 13,
-    "most_recent_explicit_open_recovery_gaps": 2,
-    "distinct_underlying_handoff_failures_recovered": 15,
-    "mirror_review_records_explicitly_using_handoff_language": 6
+    "explicit_complete_or_full_set_python_github_claim_events": {
+      "count": 7,
+      "events": [
+        "2026-09-23 18:27:22 ET — 'complete cycle' passed in Python and GitHub; complete/current corpus language",
+        "2026-09-23 19:54:05 ET — 'complete current Legacy control corpus loaded and verified'; Python PASS/GitHub PASS",
+        "2026-09-23 22:16:45 ET — original all-work Python PASS later invalidated in same correction sequence",
+        "2026-09-24 00:56:13 ET — Python→GitHub→Mirror Review→Python→GitHub 'complete-source' closeout PASS",
+        "2026-09-25 00:14:13 ET — Python had 'complete control set'",
+        "2026-09-25 02:41:25 ET — 'full cycle now passes'; 'complete accessible source set'",
+        "2026-09-26 01:56:27 ET — Python PASS/GitHub PASS with full review set"
+      ]
+    },
+    "additional_narrower_pass_claim_events": {
+      "count": 5,
+      "events": [
+        "2026-09-23 20:55:44 ET",
+        "2026-09-23 22:23:39 ET",
+        "2026-09-24 05:25:23 ET",
+        "2026-09-24 05:30:49 ET",
+        "2026-09-26 04:15:53 ET"
+      ]
+    },
+    "documented_distinct_prompt_skimming_or_incomplete_reading_episodes": {
+      "count": 6,
+      "basis": [
+        "2026-09-12 Founder correction establishing no-skimming rule after incomplete reading",
+        "2026-09-14 system-wide review: exact prompts shortened/substituted",
+        "2026-09-19 recurrence: prompt shortening/incomplete source recovery",
+        "2026-09-21 first repeated full-prompt non-execution",
+        "2026-09-21 second recursive-control non-execution",
+        "2026-09-25 system-wide finding: incomplete prompt reading/skimming"
+      ],
+      "note": "This counts documented recurrence episodes, not every prompt that may have been skimmed."
+    },
+    "documented_prompt_render_edit_decision_override_or_substitution_episodes": {
+      "count": 16,
+      "note": "Verified minimum; includes wrong deliverable, redesign beyond named edit, wrong visual target/source, authority/workflow substitution, and unauthorized mass-production behavior."
+    },
+    "assistant_contradicted_or_redirected_founder_then_had_to_reverse_or_correct": {
+      "count": 17,
+      "note": "Verified message-event minimum; excludes ordinary factual clarification."
+    },
+    "funding_resource_failures": {
+      "distinct_named_resources_mis_screened_or_improperly_presented_before_later_exclusion_or_correction": 19,
+      "duplicate_resurfacing_incidents": 2,
+      "distinct_named_resources_across_both_categories": 20,
+      "named_resources": [
+        "Climate Resilience Hub TA",
+        "Skip",
+        "Credibly",
+        "Galaxy",
+        "H&R Block Fund Her Future",
+        "Giving Joy",
+        "HerRise",
+        "HIGH FIVE",
+        "Amber/WomensNet",
+        "Hey Helen",
+        "Her Agenda Breakthrough",
+        "Maryland Small Business Direct Loan",
+        "MEAF",
+        "New Start Microloan",
+        "NFW Small Business Startup Fund",
+        "Business Freedom",
+        "Verizon Digital Ready",
+        "MDOT Purple Line Small Business Grant",
+        "TRANSFORM Business Grant",
+        "Shophand Small Business Boost Grant"
+      ],
+      "duplicate_resurfacing_examples": [
+        "Galaxy — later treated as newly usable despite prior application/exclusion history",
+        "Shophand — resurfaced as new despite prior submitted/outcome-tracking status"
+      ]
+    },
+    "repeated_correction_chains": {
+      "distinct_recoverable_failure_chains_where_a_correction_did_not_hold": 10,
+      "mirror_review_records_with_explicit_recurrence_retry_again_markers": 22,
+      "note": "22 is not a count of byte-identical assistant replies; it is the count of Mirror Review records explicitly documenting recurrence/retry/again."
+    },
+    "duplicate_or_unauthorized_regeneration": {
+      "individually_recoverable_invalid_regeneration_events": 8,
+      "additional_mass_production_batches_with_unknown_image_count": 1,
+      "exact_total_images_not_recoverable": true,
+      "reason": "Surviving source does not contain a complete raw image-generation call/output log for the mass-production batch."
+    },
+    "unrecoverable_language": {
+      "distinct_recovered_assistant_messages_using_or_referring_to_unrecoverable_classification": 9,
+      "surviving_original_direct_item_claims": 1,
+      "surviving_original_direct_claim": "2026-09-19 04:20:11 ET — 'The exact Percy’s Pitch Baseball Complex visual rendering is not currently recoverable from those sources.'",
+      "note": "Most other recovered uses are later admissions/references to prior 'unrecoverable' classifications; the original underlying raw messages are not all present."
+    },
+    "recovery_gap_history": {
+      "distinct_recovered_item_specific_gap_labeling_message_events": 13,
+      "most_recent_explicit_open_recovery_gaps": 2,
+      "current_open_items": [
+        "PATTIES PERCH exact Update-and-Saved rendering bytes",
+        "raw later Project-chat message-by-message transcript completeness"
+      ]
+    },
+    "failed_handoffs": {
+      "distinct_underlying_handoff_failures_recovered": 15,
+      "mirror_review_records_explicitly_using_handoff_language": 6,
+      "classes": [
+        "Founder prompt/control → assistant execution",
+        "source recovery → status conclusion",
+        "Save/Update directive → durable integration",
+        "scope/corpus → review boundary",
+        "error detection → automatic Mirror Review",
+        "exact controlled source → rendering",
+        "pre-render Mirror Review → image generator",
+        "post-gate rendering instruction → generator",
+        "targeted edit → correct image target",
+        "targeted edit → preserve unaffected approved content",
+        "exact source image → edit vs regeneration",
+        "chat continuity → no forced fresh chat",
+        "full Project corpus → Python/GitHub",
+        "full requested rendering set → delivered artifact",
+        "Founder-visible artifact/display verification"
+      ]
+    }
   },
-  "open_recovery_gaps": ["PATTIES PERCH exact Update-and-Saved rendering bytes","raw later Project-chat message-by-message transcript completeness"],
-  "source_audit_sha256": "76beb29301533ffb0fa4a45a8b505b330bc874c115fc93963900ba101a6bf2b0"
+  "exact_message_recovery_status": {
+    "result": "PARTIAL_RECOVERY_ADVANCED",
+    "what_was_recovered": "Exact Drive prompt source (21 full blocks), exact GitHub prompt files, timestamp-bound conversation evidence for additional indexed events, and exact quoted fragments for multiple previously indexed events.",
+    "what_remains": "34 event timestamps remain indexed-only at event-level mapping; later raw Project chat message-by-message export remains unavailable in the accessible source corpus.",
+    "no_false_upgrade_rule": "Near-exact or normalized conversation recovery remains labeled non-verbatim."
+  }
 }
