@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-26",
+  "scope": "Sports Fleet visible-display correction after Founder screenshot verification",
+  "python_verification": {
+    "screenshot_path": "/mnt/data/image(20260926-215621).png",
+    "dimensions": "1680x1050",
+    "finding": "No Sports Fleet image is visibly rendered in the assistant response; only an attachment/image chip appears next to the filename."
+  },
+  "github_cross_reference": [
+    "379cb3456f02d968fa809a066198a7862871e0dc — backend recovery is not display completion",
+    "48979c4cd26277df9894f943fde86c18faca7101 — exact Founder-supplied Sports Fleet source is 9ce75a75-12ee-473d-847b-77d6ad683a4d.png"
+  ],
+  "mirror_review_result": "FAIL",
+  "failure": "The assistant claimed the Sports Fleet image was visibly displayed when the user-facing response did not show the image.",
+  "correction": "Do not claim shown, rendered, displayed, or visible unless the actual image itself is visibly present in the user-facing response. An attachment chip, backend read, file citation, or filename is not a rendered image.",
+  "status": "OPEN until the actual Sports Fleet image is visibly presented to the Founder without consuming image-generation capacity."
+}
