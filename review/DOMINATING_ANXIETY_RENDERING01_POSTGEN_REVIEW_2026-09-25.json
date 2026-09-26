@@ -1,0 +1,21 @@
+{
+  "institution": "DOMINATING ANXIETY LEGACY BOXING",
+  "rendering_id": "01",
+  "artifact_sha256": "b7efcec2c80617c2c8fdbbab1f8d1f02a4a7d3e4c5d14d5225c009b1e3fc9c27",
+  "status": "REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "checks": {
+    "rendering_01_only": false,
+    "single_full_frame_campus_exterior": false,
+    "no_collage_or_numbered_panels": false,
+    "no_program_lists": false,
+    "no_fleet_panels": false,
+    "no_uniform_panel": false,
+    "no_invented_slogans_or_branding": false,
+    "just_love_pond_present": true,
+    "palette_midnight_dark_blue_antique_gold": true,
+    "native_generated_image": true,
+    "editable_source_exists": true,
+    "ready_to_present_as_compliant": false
+  },
+  "correction": "Edit the actual generated image directly into one native full-frame campus exterior. Remove all lower panels, fleet, uniforms, interiors, lists, slogans, crests/monograms and extra branding. Preserve the Just Love Pond, exact institution name, Midnight Dark Blue + Antique Gold architecture, Golden Gloves Academy entrance, separate secured Pro & Championship Wing private street entrance, Spectator/Fan/Media covered plaza, elevated glazed Central Spine, covered Weather-Shield Conditioning Pavilion, solar roofs and mixed-ability circulation."
+}
