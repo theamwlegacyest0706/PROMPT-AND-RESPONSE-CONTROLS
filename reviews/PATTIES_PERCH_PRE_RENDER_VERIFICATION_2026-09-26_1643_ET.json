@@ -1,0 +1,16 @@
+{
+  "record_type": "PATTIES_PERCH_PRE_RENDER_VERIFICATION",
+  "date": "2026-09-26T16:43:00-04:00",
+  "founder_task": "Provide the PATTIES PERCH rendering with the Founder-selected edits; do not substitute a new design.",
+  "source_authority": "controls/FOUNDER_ANNOTATED_VISUAL_CONTROL_2026-09-26_0014_ET_PATTIES_PERCH.txt",
+  "original_prompt_authority": "controls/FOUNDER_PROMPT_EXACT_2026-09-24_2344_ET_PATTIES_PERCH.txt",
+  "allowed_edits_only": [
+    "Correct the supply vehicle to the controlled futuristic 22nd-century equipment/luggage school bus.",
+    "Correct the Stewards Common Area so it remains a Stewards Common Area while following I AM A MASTERPIECE common-area controls.",
+    "Make the stadium visibly all-season at MLB-level scale with retractable-roof/rainy-day capability.",
+    "Relocate/orient jumbotrons for logical spectator sightlines."
+  ],
+  "frozen_scope": "All other Founder-approved/update-and-save regions remain visually frozen; no redesign, recoloring, substitution, rebranding, slogan change, or alternate layout.",
+  "python_verification": "1536x1024 source and corrected working rendering compared. Pixel-change concentration is limited to the top-right stadium/jumbotron region, middle-left Common Area region, and bottom-right school-bus region; no broad campus redesign detected.",
+  "mirror_result": "PASS FOR BOUNDED EDIT EXECUTION. Present/edit only the controlled source; preserve every unaffected region."
+}
