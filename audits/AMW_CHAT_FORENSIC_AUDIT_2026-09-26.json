@@ -104,8 +104,8 @@
     },
     "repeated_correction_chains": {
       "distinct_recoverable_failure_chains_where_a_correction_did_not_hold": 10,
-      "mirror_review_records_with_explicit_recurrence_retry_again_markers": 22,
-      "note": "22 is not a count of byte-identical assistant replies; it is the count of Mirror Review records explicitly documenting recurrence/retry/again."
+      "mirror_review_records_with_explicit_recurrence_retry_again_markers": 24,
+      "note": "24 is not a count of byte-identical assistant replies; it is the count of Mirror Review records whose review/type, status, trigger, findings, corrections, or open-items fields explicitly document recurrence/retry/again/repeated failure."
     },
     "duplicate_or_unauthorized_regeneration": {
       "individually_recoverable_invalid_regeneration_events": 8,
