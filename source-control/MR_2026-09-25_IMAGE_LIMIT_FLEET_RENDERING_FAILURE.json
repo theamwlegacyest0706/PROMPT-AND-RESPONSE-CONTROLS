@@ -1,0 +1,27 @@
+{
+  "review_id": "MR-2026-09-25-IMAGE-LIMIT-FLEET-RENDERING-FAILURE",
+  "date": "2026-09-25",
+  "level": "LEVEL 4 — STRENGTHEN / REPEATED VISUAL EXECUTION FAILURE",
+  "trigger": "Founder documented that repeated noncompliant fleet-rendering attempts consumed image-generation capacity and the product then displayed a two-hour image-generation wait.",
+  "evidence": {
+    "screenshot_1_sha256": "c11c5ca1107f4f9a0afb993fff92d5c4c2d5a21c2f2091f26b93b3c3083da3b0",
+    "screenshot_2_sha256": "f50dfa7bde5e6e4b13c674bad771ef08b80c5df1ec4b937eb812783f1f896d3f",
+    "screenshot_dimensions": "1680x1050 each",
+    "observed_ui_message": "Plus plan image-generation limit reached; more images available when the displayed reset time elapses."
+  },
+  "existing_controls_applied": [
+    "ML-004 Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-006 No Blank Slate / Founder Control Inheritance Safeguard",
+    "ML-008 Known Correction Auto-Execution & Closure Gate",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-013 Fleet Specification Checksum & Purpose Lock",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate"
+  ],
+  "python_finding": "Repeated failed fleet-rendering attempts consumed image-generation capacity before the required pre-tool/preflight gates were satisfied.",
+  "correction": "Do not call image generation for this Legacy fleet class until the exact Founder source set, preserve/change list, fleet checksum, rendering type, and inherited controls pass ML-009/013/014/016 preflight. Rejected or failed derivatives are not source material.",
+  "authority_boundary": "This Mirror Review records execution failure and applies existing Founder controls. It does not create a new Founder control or alter any approved Legacy artifact.",
+  "status": "OPEN UNTIL A SUBSEQUENT FLEET RENDERING PASSES THE EXISTING PREFLIGHT AND FOUNDER REVIEW"
+}
