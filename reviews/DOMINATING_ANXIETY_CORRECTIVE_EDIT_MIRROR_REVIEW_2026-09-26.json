@@ -1,0 +1,36 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-CORRECTIVE-EDIT-FAILURE",
+  "artifact_sha256": "d3fbf4f056c624566c157f5df632ebcbc00282c77038abac0ff7616b6c5c81c7",
+  "status": "REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failure_mechanism": "Exact image reference did not bind; image-generation metadata returned edit_op:null and parent_gen_id:null; full-prompt collage/presentation-board contamination recurred.",
+  "mirror_review": {
+    "exact_prior_image_edit_applied": false,
+    "single_uninterrupted_exterior_scene": false,
+    "no_collage_or_panels": false,
+    "no_interior_panels": false,
+    "no_fleet_panels": false,
+    "no_uniform_panel": false,
+    "no_program_lists": false,
+    "no_invented_slogans": false,
+    "no_invented_crest_crown_monogram": false,
+    "exact_institution_name_present": true,
+    "just_love_pond_present": true,
+    "palette_correct": true,
+    "solar_roofs_visible": false,
+    "accessible_arrival_visible": false,
+    "ready_to_present": false
+  },
+  "cross_referenced_controls": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "ML-003 Just Love Pond — Every Institution Entrance Standard",
+    "ML-004 Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-008 Known Correction Auto-Execution & Closure Gate",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate"
+  ],
+  "correction_path": "Change the execution method before another image action: use an exterior-only visual reference/layout as the controlling composition, then transform that reference into the photorealistic/cinematic rendering; validate the finished artifact before presentation."
+}
