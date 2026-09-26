@@ -1,0 +1,30 @@
+{
+  "review_id": "MR-2026-09-25-VISUAL-GENERATION-ATTEMPT-PRESERVATION-REPEAT",
+  "trigger": "Founder identified repeated invalid/duplicate rendering attempts consuming the available image-generation window before a compliant output was produced.",
+  "evidence": {
+    "screenshot_sha256": "a033ce7efd6011e69f0948807a3b39720e098da4708ebb4b1fa0ff8605203e46",
+    "screenshot_visible_reset_text": "Try again at 11:59 PM",
+    "prior_github_correction_commit": "d4e6deb610d604d670ff144f7480fc3934c28f17"
+  },
+  "controls_cross_referenced": [
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-018 Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review Gate"
+  ],
+  "corrections_in_force": [
+    "Treat each image-generation call as a scarce attempt.",
+    "No mass generation.",
+    "No duplicate/materially duplicate retries of a known failed composition.",
+    "Use one rendering target per call unless Founder explicitly requests multiple.",
+    "Python + GitHub preflight must pass before any image-generation call.",
+    "First recurrence of the known failure class after preflight triggers STOP / QUARANTINE, not another automatic retry.",
+    "Python may validate images but may not crop/stretch/letterbox/contact-sheet a failed image into a pseudo-rendering.",
+    "A finished visual must pass Python + GitHub + Mirror Review before being represented as compliant.",
+    "Failed attempts remain recorded as spent attempts/provenance; rejection does not make the quota consumption disappear."
+  ],
+  "result": "PASS — CORRECTION LOCKED; FAILURE CLASS REMAINS OPEN UNTIL VERIFIED COMPLIANT EXECUTION"
+}
