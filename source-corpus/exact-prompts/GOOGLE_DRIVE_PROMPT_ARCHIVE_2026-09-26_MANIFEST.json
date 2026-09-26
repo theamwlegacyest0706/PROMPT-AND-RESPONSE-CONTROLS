@@ -1,0 +1,18 @@
+{
+  "source_sha256": "35f3d5305a224fcf9564288138da38c6df60f6110319d12321dfcb8003441283",
+  "source_chars": 63784,
+  "parts": [
+    {"part": 1, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_01.txt", "chars": 9018, "sha256": "b9beb86729ae0983f74bf37762a444b21bdf4587952edc39befac6086d0555f5"},
+    {"part": 2, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_02.txt", "chars": 9119, "sha256": "f52e1d968ebb40a3b498958368c1cbe1118a39884ffcb8b6fc9277a977648a99"},
+    {"part": 3, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_03.txt", "chars": 9035, "sha256": "baf475905991ad288c60098c7c0861bf9e408c390bf01e9699d5dd984e95445b"},
+    {"part": 4, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_04.txt", "chars": 9123, "sha256": "5240ef958150d4c7d6393fab9c77dc0bfc0c00b0b9fe37fbade5d25dc605f921"},
+    {"part": 5, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_05.txt", "chars": 9128, "sha256": "626ce2134cd8742f4054f779b29eda0f3894fc90b730b139994cdb778deb2637"},
+    {"part": 6, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_06.txt", "chars": 9058, "sha256": "d9d01a1bca3c48976dcdc95ce39cd1ab14aff8a1befff490ab2f57a67a208688"},
+    {"part": 7, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_07.txt", "chars": 9037, "sha256": "2f4edef4ac3418f184fb07f3f369202249b0bf2d2e891dd728241737f0f80461"},
+    {"part": 8, "path": "source-corpus/exact-prompts/GOOGLE_DRIVE_PROMPT_ARCHIVE_2026-09-26_PART_08.txt", "chars": 266, "sha256": "6f008307944f5d4f6444ba74b095feab4052bff7c52310101118c3163c427a01"}
+  ],
+  "reconstruction": "Concatenate parts 01 through 08 in numeric order with no added bytes.",
+  "prompt_blocks": 21,
+  "source_document_id": "1zVtm0V99GSW6INPRRn2gPfEroRsU98UShvnbBMEXeSM",
+  "preservation_state": "EXACT RECOVERED DRIVE SOURCE"
+}
