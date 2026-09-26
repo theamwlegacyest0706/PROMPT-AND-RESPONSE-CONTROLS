@@ -1,0 +1,27 @@
+{
+  "artifact_sha256": "27ac90572e2ee0f44b6c41dff6f003419db5306e0003c6833935e56963467684",
+  "checks": {
+    "image_edit_applied": false,
+    "single_standalone_rendering_01": false,
+    "no_board_or_collage": false,
+    "no_interior_panels": false,
+    "no_fleet_panels": false,
+    "no_uniform_panel": false,
+    "no_program_lists": false,
+    "no_invented_slogan_or_branding": false,
+    "just_love_pond_present": true,
+    "palette_correct": true,
+    "solar_renewable_roof_systems_visible": false,
+    "ready_to_present_as_compliant": false
+  },
+  "failure_mechanism": "edit reference was not bound; generation metadata returned edit_op:null",
+  "required_process": "Verification -> Mirror Review of assistant execution -> Verification",
+  "corrected_execution_path": [
+    "Bind the actual latest image file ID as the edit reference.",
+    "Edit the latest rendering itself; do not generate a replacement concept.",
+    "Remove all lower panels, fleet, uniforms, interior panels, captions, program lists, slogans and extra branding.",
+    "Expand the top campus exterior into one uninterrupted full-frame scene.",
+    "Keep the Just Love Pond, institution identity, program entrances, Central Spine, covered conditioning pavilion and accessible circulation.",
+    "Add clearly visible solar/renewable roof systems."
+  ]
+}
