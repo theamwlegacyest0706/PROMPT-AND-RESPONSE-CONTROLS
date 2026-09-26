@@ -1,0 +1,21 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-FINAL-POSTGEN-VERIFICATION",
+  "artifact_sha256": "9df1bd4c7ec6e8c9ca815be0cb57ca4bccac2ee3b10b0840fa96466afdb59bc0",
+  "status": "REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "checks": {
+    "source_layout_followed": false,
+    "single_standalone_exterior": false,
+    "no_collage_panels": false,
+    "no_fleet_display": false,
+    "no_interior_panels": false,
+    "no_program_lists": false,
+    "no_slogans_extra_branding": false,
+    "Just_Love_Pond_present": true,
+    "palette_correct": true,
+    "central_spine_visible": true,
+    "solar_roofs_visible": false,
+    "ready_to_present_as_compliant": false
+  },
+  "failure_mechanism": "source/style-transfer target not bound; whole-project context contamination persisted; generation metadata edit_op:null",
+  "compliant_visual_complete": false
+}
