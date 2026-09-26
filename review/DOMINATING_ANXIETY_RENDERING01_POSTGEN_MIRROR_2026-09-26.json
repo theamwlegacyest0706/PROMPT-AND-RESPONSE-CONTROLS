@@ -1,0 +1,34 @@
+{
+  "artifact_sha256": "3a6c0cb3a88360173ce7f55ddaec6ed10e23b5744750f5baf5e1447f590f91c6",
+  "checks": {
+    "single_standalone_rendering_01": false,
+    "photorealistic_cinematic": true,
+    "no_infographic_board_collage": false,
+    "no_interior_panels": false,
+    "no_fleet_panels": false,
+    "no_uniform_panel": false,
+    "no_program_lists": false,
+    "no_invented_slogans": false,
+    "no_invented_crest_or_monogram": false,
+    "exact_institution_signage_present": true,
+    "just_love_pond_near_entrance": true,
+    "palette_midnight_dark_blue_antique_gold": true,
+    "separate_pro_championship_private_entrance": true,
+    "golden_gloves_entrance_visible": true,
+    "spectator_fan_media_pavilion_visible": true,
+    "central_spine_visible": true,
+    "solar_renewable_roof_systems_visible": false,
+    "ready_to_present_as_compliant": false
+  },
+  "status": "FAILED — KNOWN FAILURE CLASS RECURRED",
+  "required_process": "Verification -> Mirror Review of assistant execution -> Verification",
+  "correction_target": "EDIT THIS EXACT GENERATED IMAGE, not a replacement concept",
+  "required_edit": [
+    "Preserve only the campus exterior composition as the source.",
+    "Remove all numbered panels, interiors, fleet, uniforms, captions, program lists, slogans, crest/monogram and WBA branding.",
+    "Expand the campus exterior into one uninterrupted native full-frame scene.",
+    "Keep exact institution name, Just Love Pond, Golden Gloves Academy entrance, secured Pro & Championship private entrance, Spectator/Fan/Media Pavilion, Central Spine, covered conditioning pavilion, mixed-ability circulation.",
+    "Add clearly visible solar/renewable roof systems.",
+    "Preserve Midnight Dark Blue + Antique Gold palette."
+  ]
+}
