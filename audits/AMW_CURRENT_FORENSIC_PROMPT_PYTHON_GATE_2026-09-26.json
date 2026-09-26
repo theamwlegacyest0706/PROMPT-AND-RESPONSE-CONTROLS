@@ -1,0 +1,25 @@
+{
+  "record_type": "AMW_CURRENT_FORENSIC_PROMPT_PYTHON_GATE_2026-09-26",
+  "prompt_sha256": "5fec5929be69aa5e78082e1e0256dfd019077dd26f94c19dd4262ec306db3f75",
+  "prompt_chars": 2288,
+  "checks": {
+    "read_completely": true,
+    "python_and_github": true,
+    "mirror_review": true,
+    "all_legacy_work_for_prompt": true,
+    "chat_verification_requested": true,
+    "exact_message_recovery_requested": true,
+    "funding_failures_requested": true,
+    "duplicate_renderings_requested": true,
+    "unrecoverable_recovery_gaps_handoffs_requested": true
+  },
+  "all_checks_pass": true,
+  "required_work": [
+    "verify Project-source/Python/GitHub integration timeline",
+    "count source-backed execution-failure categories",
+    "recover exact messages where possible",
+    "preserve exact-vs-near-exact-vs-indexed distinctions",
+    "cross-reference prior Mirror Reviews",
+    "validate final audit through Python and GitHub"
+  ]
+}
