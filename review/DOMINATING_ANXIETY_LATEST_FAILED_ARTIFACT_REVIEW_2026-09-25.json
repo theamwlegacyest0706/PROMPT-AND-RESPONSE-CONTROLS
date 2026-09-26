@@ -1,0 +1,19 @@
+{
+  "institution":"DOMINATING ANXIETY LEGACY BOXING",
+  "rendering_id":"01",
+  "artifact_sha256":"bbeb5f94b8df9bde9c16b47efa1db455504b54d493125569ac0816ee36f59c66",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures":[
+    "not Rendering 01 only",
+    "not one full-frame campus exterior",
+    "collage/panel layout",
+    "program lists present",
+    "fleet panels present",
+    "uniform panel present",
+    "interior panels present",
+    "invented slogans/branding present",
+    "Just Love Pond missing"
+  ],
+  "pass":"Midnight Dark Blue + Antique Gold palette",
+  "correction":"Stop using whole-project context as the generation source. Use the Founder's uploaded campus exterior as the image-edit source for Rendering 01. Remove slogans, lists, extra branding and cosmetology wording; replace the fountain with a landscaped Just Love Pond; preserve one full-frame campus exterior and exact institution name."
+}
