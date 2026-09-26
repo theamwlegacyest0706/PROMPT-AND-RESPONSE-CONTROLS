@@ -1,0 +1,44 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-RENDERING01-REFERENCE-LAYOUT-PREFLIGHT",
+  "reference_layout_sha256": "53a208a8ea2036236df5ac87733d53f122a6148299da87db9ecf45a813654b32",
+  "status": "SOURCE LAYOUT ONLY / NOT A FINAL RENDERING / NOT SAVEABLE",
+  "purpose": "Constrain the next image action to a single exterior campus composition and prevent whole-project collage, fleet, uniform and interior-panel contamination.",
+  "control_cross_reference": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "ML-003 Just Love Pond — Every Institution Entrance Standard",
+    "ML-004 Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-008 Known Correction Auto-Execution & Closure Gate",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate"
+  ],
+  "required_final_form": "ONE uninterrupted full-frame photorealistic/cinematic campus exterior; source labels are compositional guidance only and must not become a presentation board or program list.",
+  "must_preserve": [
+    "DOMINATING ANXIETY LEGACY BOXING identity",
+    "Midnight Dark Blue + Antique Gold architecture",
+    "Just Love Pond immediately near principal/public entrance",
+    "Golden Gloves Academy left/public wing entrance",
+    "separate secured Pro & Championship Wing private entrance and drive",
+    "Spectator/Fan/Media Pavilion",
+    "elevated glazed Central Spine",
+    "Covered Weather-Shield Conditioning Pavilion",
+    "solar/renewable roof arrays",
+    "mixed-ability accessible arrival/circulation"
+  ],
+  "forbidden_final_content": [
+    "collage or board",
+    "numbered panels",
+    "interior cutaways",
+    "fleet display",
+    "uniform display",
+    "program bullet lists",
+    "invented slogans",
+    "invented crest/crown/monogram",
+    "cosmetology wording",
+    "WBA exterior branding"
+  ],
+  "gate_result": "PASS — USE THE REFERENCE LAYOUT ONLY TO CONTROL COMPOSITION; TRANSFORM TO THE PHOTOREALISTIC/CINEMATIC FINAL RENDERING AND VALIDATE THE FINISHED ARTIFACT."
+}
