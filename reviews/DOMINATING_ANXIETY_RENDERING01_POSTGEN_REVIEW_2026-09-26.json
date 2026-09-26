@@ -1,0 +1,60 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-RENDERING01-POSTGEN",
+  "artifact_sha256": "f4a64f78adc20faf6838f43da27d9e7188d89bf39c344c8f1807f90ac686fb3d",
+  "status": "FAILED / CORRECTION REQUIRED / NON-CONTROLLING / DO NOT SAVE",
+  "python_findings": {
+    "single_uninterrupted_exterior_scene": false,
+    "photorealistic_cinematic": true,
+    "no_infographic_board_collage": false,
+    "no_interior_panels": false,
+    "no_fleet_panels": false,
+    "no_uniform_panel": false,
+    "no_program_lists": false,
+    "no_invented_slogan": false,
+    "no_invented_crest_crown_monogram": false,
+    "exact_institution_name_present": true,
+    "just_love_pond_present": true,
+    "midnight_dark_blue_antique_gold_palette": true,
+    "solar_renewable_roof_systems_visible": false,
+    "mixed_ability_accessible_arrival_visible": false,
+    "ready_to_present_as_compliant": false
+  },
+  "github_control_cross_reference": [
+    "ML-003 Just Love Pond — Every Institution Entrance Standard",
+    "ML-004 Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-008 Known Correction Auto-Execution & Closure Gate",
+    "ML-009 Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-011 Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-012 Repeated Failure Escalation & Output Hold",
+    "ML-014 Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015 Rendering-Type Lock",
+    "ML-016 Founder Intent-to-Execution Verification Gate"
+  ],
+  "correction": {
+    "operation": "EDIT THIS EXACT GENERATED IMAGE; DO NOT SUBSTITUTE A NEW CONCEPT",
+    "exact_edit_target_file_id": "file_00000000479c822f966d6a4c9ab8a470",
+    "preserve": [
+      "DOMINATING ANXIETY LEGACY BOXING exact institution name",
+      "Midnight Dark Blue + Antique Gold architectural identity",
+      "Just Love Pond"
+    ],
+    "remove": [
+      "all interior panels",
+      "all fleet panels",
+      "uniform panel",
+      "all program lists",
+      "all invented slogans",
+      "all invented crest/crown/monogram branding"
+    ],
+    "add_or_clarify": [
+      "Golden Gloves Academy entrance",
+      "separate secured Pro & Championship Wing private street entrance",
+      "Spectator/Fan/Media Pavilion covered plaza",
+      "elevated glazed Central Spine",
+      "Covered Weather-Shield Conditioning Pavilion",
+      "visible solar/renewable roof systems",
+      "mixed-ability accessible arrival/circulation"
+    ],
+    "final_form": "ONE uninterrupted full-frame photorealistic/cinematic campus exterior scene"
+  }
+}
