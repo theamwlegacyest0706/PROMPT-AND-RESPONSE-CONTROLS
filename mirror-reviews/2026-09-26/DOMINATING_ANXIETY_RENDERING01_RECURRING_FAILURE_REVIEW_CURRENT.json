@@ -1,0 +1,9 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-RENDERING01-RECURRING-FAILURE",
+  "artifact_sha256": "d5c24f4f0cf72ccd998d83f9b608455e996d94239b37601b6ed3faf1c44981f7",
+  "status": "FAILED / NON-CONTROLLING / DO NOT SAVE",
+  "failure_class": "whole-project context contamination + edit source not binding",
+  "assistant_execution_failure": "The image call continued to resolve the entire institution/fleet context instead of the isolated exterior target.",
+  "correction_path": "Use a clean newly presented blank edit canvas as the only visual target, then issue an exterior-only image edit instruction; do not reuse failed generated collages as source.",
+  "required_output": "One uninterrupted native full-frame photorealistic/cinematic Campus Exterior / Master Architectural View only."
+}
