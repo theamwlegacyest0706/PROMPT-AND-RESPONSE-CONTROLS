@@ -1,0 +1,9 @@
+{
+  "institution":"DOMINATING ANXIETY LEGACY BOXING",
+  "rendering_id":"01",
+  "artifact_sha256":"15471e5d18b5c331ed3a12c62cdc5f07701f1526dbce06f9b9e4ed719bdc008c",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "passes":["single full-frame exterior","no inset collage panels","Just Love Pond present","Midnight Dark Blue + Antique Gold palette","distinct program entrances visible","editable native source exists"],
+  "failures":["foreground fleet display remains","fleet text boxes remain","program bullet lists remain on buildings","invented slogan/crest/monogram/WBA branding remains"],
+  "correction":"Edit this exact generated image. Remove all foreground buses/vans and fleet text boxes; remove program bullet lists from facades; remove invented slogan, crest/monogram and WBA marks. Preserve one uninterrupted exterior scene with exact institution name, Just Love Pond, program entrances, Central Spine, solar roofs and accessible circulation."
+}
