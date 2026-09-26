@@ -1,0 +1,20 @@
+{
+  "artifact_sha256": "e2491c4262b3d4df486ab1f92c4bb87c35df2dc5f10774a448e9f820974691bf",
+  "checks": {
+    "requested_edit_applied": false,
+    "single_standalone_rendering_01": false,
+    "no_board_collage": false,
+    "no_interior_panels": false,
+    "no_fleet_panels": false,
+    "no_uniform_panel": false,
+    "no_program_lists": false,
+    "no_invented_slogan_or_branding": false,
+    "just_love_pond_present": true,
+    "palette_correct": true,
+    "solar_renewable_roof_systems_visible": false,
+    "ready_to_present_as_compliant": false
+  },
+  "status": "REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failure_mechanism": "image tool did not bind the requested edit source; edit_op:null recurred",
+  "verification_result": "FAILED ARTIFACT; CORRECTION NOT PROVEN"
+}
