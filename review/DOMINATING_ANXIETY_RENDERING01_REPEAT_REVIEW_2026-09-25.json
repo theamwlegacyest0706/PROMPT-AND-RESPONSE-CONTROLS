@@ -1,0 +1,18 @@
+{
+  "institution":"DOMINATING ANXIETY LEGACY BOXING",
+  "rendering_id":"01",
+  "artifact_sha256":"3f9107b4f3a8e753965d55e83778454bed64cefdfb75c8561800085aadd4b1c7",
+  "status":"REJECTED / NON-CONTROLLING / DO NOT SAVE",
+  "failures":[
+    "not Rendering 01 only",
+    "not a single full-frame campus exterior",
+    "still a collage/panel board",
+    "contains program lists",
+    "contains fleet panels",
+    "contains uniform panel",
+    "contains interior panels",
+    "contains invented slogan/branding"
+  ],
+  "passes":["Just Love Pond present","Midnight Dark Blue + Antique Gold palette"],
+  "next_action":"Repeat generation with one isolated exterior scene only; no panels, lists, interiors, vehicles, uniforms, slogans, monograms, WBA marks, or contact-sheet layout."
+}
