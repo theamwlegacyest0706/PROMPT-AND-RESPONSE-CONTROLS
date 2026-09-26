@@ -1,0 +1,39 @@
+{
+  "record_type": "AMW_CHAT_FORENSIC_AUDIT_VALIDATION_2026-09-26",
+  "audit_sha256": "e7186caf9f6f7e4d2e4badb45fb79c1350de964e48ec29fe8e051b923c4b1d71",
+  "audit_git_blob_sha1": "e6937180584162b54196f8327be518922c4f099c",
+  "github_content_sha": "e6937180584162b54196f8327be518922c4f099c",
+  "checks": {
+    "ledger_event_count_73": true,
+    "dual_python_github_events_32": true,
+    "source_state_sum_73": true,
+    "source_state_counts_match": true,
+    "mirror_review_rows_36": true,
+    "recurrence_marker_records_24": true,
+    "handoff_marker_records_6": true,
+    "MR_2026_09_25_01_present": true,
+    "MR_2026_09_26_01_present": true,
+    "ML_026_present": true,
+    "indexed_recovery_arithmetic_66": true,
+    "github_exact_content_matches_local_python_audit": true,
+    "audit_declares_recurrence_24": true,
+    "audit_declares_handoff_6": true
+  },
+  "all_programmatic_checks_pass": true,
+  "programmatic_counts": {
+    "ledger_events": 73,
+    "dual_python_github_events": 32,
+    "source_states": {
+      "RECOVERED_INDEXED": 66,
+      "EXACT_QUOTE_RECOVERED": 3,
+      "EXACT_OR_NEAR_EXACT": 2,
+      "GITHUB_EXACT_FILE": 1,
+      "EXACT_CURRENT_MESSAGE": 1
+    },
+    "mirror_review_rows": 36,
+    "recurrence_marker_records": 24,
+    "handoff_marker_records": 6
+  },
+  "manual_coded_counts_boundary": "Counts for override/substitution episodes, Founder contradiction/redirect events, funding-resource failures, exact regeneration events, literal unrecoverable-message use, historical recovery-gap messages, and distinct underlying handoff failures were coded from recovered timestamped conversation evidence and cross-checked against the Mirror Review archive. Because the later raw Project transcript is incomplete, they remain verified minimums rather than absolute totals.",
+  "final_result": "PASS — audit arithmetic/source checks hold; unresolved raw-message gaps remain explicitly open and are not falsely closed."
+}
