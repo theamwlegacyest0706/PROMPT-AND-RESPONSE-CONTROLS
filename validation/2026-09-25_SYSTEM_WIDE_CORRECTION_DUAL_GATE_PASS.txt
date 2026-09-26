@@ -1,0 +1,20 @@
+THE AMW LEGACY — SYSTEM-WIDE CORRECTION DUAL-GATE VALIDATION
+Date: 2026-09-25
+Result: PASS
+
+Python gate:
+- Corrected Stabilization Master re-imported successfully.
+- ML-023 contains Python-first + same-complete-set-to-GitHub language and ALL-Legacy-work scope.
+- Stabilization Control Center supersedes the stale fresh-chat requirement and preserves Founder authority over chat changes.
+- Mirror Review Archive contains MR-2026-09-25-01 with the overall/system-wide failure scope, including funding, rendering, source/status, prompt-fidelity, and chat-thread waste.
+- Formula/error scan returned zero #REF!, #DIV/0!, #VALUE!, #NAME?, or #N/A matches.
+- Corrected workbook SHA-256: ba93fdea413f9b1d6ed219a0c3a8074e93fac30365f78457ed4cc18d03c601fd
+
+GitHub gate:
+- Exact complete Founder prompt exists at controls/FOUNDER_PROMPT_EXACT_2026-09-25_CURRENT_SYSTEM_WIDE.txt.
+- Current Founder control already requires Python first, the same control set through GitHub, repeated-pattern review across full history, all Legacy visual renderings AND all work produced for/by the Legacy, funding continuity, and Founder-controlled chat continuity.
+- System-wide Mirror Review exists at reviews/2026-09-25_SYSTEM_WIDE_EXECUTION_FAILURE_MIRROR_REVIEW_01.md.
+- Review scope is not narrowed to rendering-only or a single incident.
+
+Final determination:
+The corrected execution state passes the applicable Python and GitHub gates. The active correction is system-wide. Future closure depends on changed execution, not on describing the failure again.
