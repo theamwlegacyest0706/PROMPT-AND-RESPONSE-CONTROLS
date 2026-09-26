@@ -1,0 +1,40 @@
+{
+  "record_type": "AMW_CHAT_FORENSIC_AUDIT_2026-09-26",
+  "scope": "THE AMW LEGACY chat/source execution audit; counts are source-backed verified minimums where later raw message-by-message Project transcripts remain incomplete.",
+  "counting_rule": "Count distinct underlying events once. Later Mirror Reviews that only restate the same event are not counted again unless they document a new failed retry/handoff. Near-exact conversation recovery is not relabeled as verbatim.",
+  "timeline": {
+    "founder_prompt_fidelity_skimming_prohibition": "2026-09-12",
+    "python_github_full_source_handoff_first_exact_directive": "2026-09-23T03:57:06-04:00",
+    "python_github_integration_window_audited": "2026-09-23 through 2026-09-26"
+  },
+  "prompt_ingestion": {
+    "recovered_prompt_task_events": 73,
+    "events_explicitly_mentioning_both_python_and_github": 32,
+    "original_source_states": {"RECOVERED_INDEXED":66,"EXACT_QUOTE_RECOVERED":3,"EXACT_OR_NEAR_EXACT":2,"GITHUB_EXACT_FILE":1,"EXACT_CURRENT_MESSAGE":1},
+    "exact_drive_prompt_blocks": 21,
+    "exact_github_prompt_files_preexisting_in_ledger": 16,
+    "additional_message_level_recovery": {"events":32,"exact_quoted_fragment_or_full_short_message":8,"near_exact_non_verbatim":24,"still_indexed_only_at_timestamp_level":34}
+  },
+  "forensic_counts": {
+    "explicit_complete_or_full_set_python_github_claim_events": 7,
+    "additional_narrower_pass_claim_events": 5,
+    "documented_distinct_prompt_skimming_or_incomplete_reading_episodes": 6,
+    "documented_prompt_render_edit_decision_override_or_substitution_episodes": 16,
+    "assistant_contradicted_or_redirected_founder_then_reversed_or_corrected": 17,
+    "funding_distinct_named_resources_mis_screened_or_improperly_presented": 19,
+    "funding_duplicate_resurfacing_incidents": 2,
+    "funding_distinct_named_resources_across_both_categories": 20,
+    "distinct_repeated_correction_chains_where_correction_did_not_hold": 10,
+    "mirror_review_records_with_explicit_recurrence_retry_again_markers": 22,
+    "individually_recoverable_invalid_regeneration_events": 8,
+    "additional_mass_production_batches_unknown_image_count": 1,
+    "recovered_assistant_messages_using_or_referring_to_unrecoverable_classification": 9,
+    "surviving_original_direct_unrecoverable_item_claims": 1,
+    "distinct_item_specific_recovery_gap_labeling_message_events": 13,
+    "most_recent_explicit_open_recovery_gaps": 2,
+    "distinct_underlying_handoff_failures_recovered": 15,
+    "mirror_review_records_explicitly_using_handoff_language": 6
+  },
+  "open_recovery_gaps": ["PATTIES PERCH exact Update-and-Saved rendering bytes","raw later Project-chat message-by-message transcript completeness"],
+  "source_audit_sha256": "76beb29301533ffb0fa4a45a8b505b330bc874c115fc93963900ba101a6bf2b0"
+}
