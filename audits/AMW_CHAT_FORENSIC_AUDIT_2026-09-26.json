@@ -4,9 +4,13 @@
   "scope": "THE AMW LEGACY chat/source execution audit; counts are source-backed verified minimums where later raw message-by-message Project transcripts remain incomplete.",
   "counting_rule": "Count distinct underlying events once. Later Mirror Reviews that only restate the same event are not counted again unless they document a new failed retry/handoff. Near-exact conversation recovery is not relabeled as verbatim.",
   "timeline": {
-    "founder_prompt_fidelity_skimming_prohibition": "2026-09-12",
+    "earliest_recoverable_prompt_fidelity_no_skimming_control": "2026-09-12",
+    "first_exact_recovered_recurring_five_step_control_in_chat": "2026-09-19T05:06:21Z",
+    "project_settings_instructions_insertion_timestamp": "NOT_DIRECTLY_RECOVERABLE_FROM_ACCESSIBLE_SOURCE",
+    "project_settings_current_presence": "VERIFIED_BY_FOUNDER_SCREENSHOTS_2026-09-26",
     "python_github_full_source_handoff_first_exact_directive": "2026-09-23T03:57:06-04:00",
-    "python_github_integration_window_audited": "2026-09-23 through 2026-09-26"
+    "python_github_integration_window_audited": "2026-09-23 through 2026-09-26",
+    "timeline_note": "Legacy/control records establish the no-skimming rule and recurring five-step control before Python/GitHub integration. The accessible sources do not carry a Project-settings revision timestamp, so the exact UI insertion time is not promoted from inference."
   },
   "prompt_ingestion": {
     "recovered_prompt_task_events": 73,
