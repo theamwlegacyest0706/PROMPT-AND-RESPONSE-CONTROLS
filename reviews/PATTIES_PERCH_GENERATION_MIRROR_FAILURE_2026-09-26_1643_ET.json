@@ -1,0 +1,9 @@
+{
+  "record_type": "PATTIES_PERCH_GENERATION_MIRROR_FAILURE",
+  "date": "2026-09-26T16:43:00-04:00",
+  "generated_artifact": "gen_id f69d8f58-72c6-43bd-9968-7cfb4f26f371",
+  "result": "FAIL-STOP / NON-CONTROLLING",
+  "reason": "The generator produced a new board/design instead of a bounded edit of the Founder source. Python image comparison found 98.30% of pixels outside the allowed correction regions changed, which violates the frozen-region control.",
+  "source_control": "controls/FOUNDER_ANNOTATED_VISUAL_CONTROL_2026-09-26_0014_ET_PATTIES_PERCH.txt",
+  "correction": "Reject the generated artifact. Retry using the exact Founder source image as edit target. Change only: futuristic 22nd-century supply bus; Stewards Common Area following I AM A MASTERPIECE common-area controls; all-season retractable-roof stadium; spectator-oriented jumbotrons. Preserve every other region exactly."
+}
