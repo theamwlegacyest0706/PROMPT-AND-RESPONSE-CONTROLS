@@ -1,0 +1,5 @@
+DOMINATING ANXIETY LEGACY BOXING — DIRECT EDIT ATTEMPT REVIEW
+Artifact SHA256: deac30bcf1d60ebaa2543c7e8c23ce41db34976b202de20acd5cbe64cf699cc7
+Status: REJECTED / NON-CONTROLLING / DO NOT SAVE
+Failure: image operation produced another whole-project collage instead of editing Rendering 01 into one standalone campus exterior.
+Correction: explicitly bind the generated image as the edit reference in the next image-edit call. No Python crop/stretch/letterbox manufacture.
