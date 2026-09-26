@@ -1,0 +1,28 @@
+{
+  "review_id": "MR-2026-09-25-ROBERTS-LANE-FIRST-RENDER-FAIL",
+  "status": "LEVEL 5 — FAIL / RE-RENDER REQUIRED",
+  "python_pixel_review": {
+    "size": "1536x1024",
+    "mode": "RGB",
+    "pixel_count": 1572864,
+    "result": "FAIL"
+  },
+  "failures": [
+    "Rendered as a multi-panel infographic/concept board despite ML-015 photorealistic/cinematic rendering-type lock.",
+    "Required fleet interiors were not physically complete for every vehicle family as required by ML-021.",
+    "I AM A MASTERPIECE-mirrored Stewards' Common Area controls were not physically complete.",
+    "The three-view execution plan was not followed: campus, exact fleet exteriors, fleet interiors were collapsed into one board."
+  ],
+  "cross_reference": [
+    "MR-2026-09-15-06",
+    "MR-2026-09-15-07",
+    "ML-009",
+    "ML-012",
+    "ML-014",
+    "ML-015",
+    "ML-021",
+    "ML-022"
+  ],
+  "correction": "Reject first rendering as non-controlling. Re-render as separate full-bleed photorealistic/cinematic views, beginning with the campus/facility scene. Do not use a poster, infographic, labeled collage, or concept board.",
+  "authority_boundary": "No Founder approval or save/update occurred."
+}
