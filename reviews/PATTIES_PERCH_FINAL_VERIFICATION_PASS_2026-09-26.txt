@@ -1,0 +1,32 @@
+PATTIES PERCH — FINAL VERIFICATION CYCLE — 2026-09-26
+
+Founder directive: continue until the work passes the verification cycle.
+
+CONTROLLING SOURCE
+- Exact Founder source SHA-256: 5a3b0a0e49bfbfd55bfe9ef6dd1cfbe0a06eddc3c82378b6787ed5e9878bf316
+- Source dimensions: 1536 x 1024
+- Controlling visual rule: exact Founder source remains authority; only four named correction areas may change; annotations 5–71 remain frozen except necessary overlap.
+
+FOUR CORRECTIONS
+1. Supply school bus corrected from ordinary painted school-bus treatment to controlled 22nd-century PATTIES PERCH supply vehicle treatment for equipment/luggage.
+2. Stewards’ Common Area corrected from salon/cosmetology-service visual to a lounge/Common Area that visually follows the established I AM A MASTERPIECE Stewards’ Common Area reference while retaining the PATTIES PERCH Common Area panel identity.
+3. Stadium corrected to visibly support all-season use with a retractable-roof MLB-level stadium treatment.
+4. Jumbotrons/screens corrected to logical spectator-facing sightlines within the stadium.
+
+PYTHON PIXEL-INTEGRITY GATE
+- Final output SHA-256: dbf0a6db0ab7d524fd42f0fc4503ad950b77633af9fd8e2dada5fff8577e6c42
+- Pixels changed outside bounded authorized masks: 0
+- Frozen annotation coordinate centers changed: none
+- All four correction centers fall inside authorized masks: yes
+- Frozen-region integrity: PASS
+
+MIRROR REVIEW
+- No new composition.
+- No alternate board.
+- No global recolor.
+- No new branding or slogan.
+- Exact source preserved outside the bounded correction masks.
+- Prior image-generation attempt that created a new board was rejected and not used as the final rendering.
+- Final bounded correction rendering: PASS.
+
+FINAL STATUS: PASS — PRESENTABLE FOR FOUNDER REVIEW. Not automatically saved as the current controlled Legacy visual unless the Founder separately directs Update/Save.
