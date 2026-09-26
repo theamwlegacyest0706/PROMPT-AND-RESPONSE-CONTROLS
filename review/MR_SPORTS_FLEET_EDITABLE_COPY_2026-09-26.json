@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "scope": "Founder request to provide the exact Sports Fleet rendering in a form she can edit/mark without consuming image-generation quota.",
+  "source_authority": {
+    "file_id": "file_00000000b7fc822faa5ca143cbad3f66",
+    "filename": "9ce75a75-12ee-473d-847b-77d6ad683a4d.png",
+    "control_commit": "48979c4cd26277df9894f943fde86c18faca7101"
+  },
+  "working_copy": {
+    "filename": "AMW_SPORTS_FLEET_FOUNDER_EDITABLE_COPY.png",
+    "dimensions": "1536x1024",
+    "size_bytes": 4141973,
+    "sha256": "a6675ef9c3f59f1b7cb3fe32c2a62b0179a5f7d9614ac1880e39afbf28d57c2d",
+    "copy_method": "exact-byte copy from the recovered Founder source; no regeneration, resizing, recomposition, or pixel edits"
+  },
+  "python_verification": {
+    "exact_byte_match": true,
+    "dimensions_verified": true
+  },
+  "mirror_review": {
+    "source_substitution": false,
+    "image_generation_used": false,
+    "unaffected_regions_changed": false,
+    "presentation_status": "PASS — actual image visibly rendered in the response and exact working-copy file created"
+  },
+  "result": "PASS"
+}
