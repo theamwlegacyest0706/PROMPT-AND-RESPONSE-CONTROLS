@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-25",
+  "scope": "THE AMW LEGACY — all assistant work, not visual-rendering-only",
+  "status": "OPEN — correction required in execution; not closed by description",
+  "findings": [
+    "Repeated failures must be reviewed as one system-wide execution pattern rather than isolated incidents.",
+    "The pattern includes incomplete prompt reading, skimming, keyword-based substitution, arguing against explicit Founder direction, disregarding named edits/prompts/controls/safeguards, incomplete Python/GitHub handoff, incorrect or useless visual work, incorrect or useless funding work, source/status handling failures, and chat-thread waste caused by those failures.",
+    "Founder statements describing frustration, anger, agitation, or dismay are not to be reinterpreted or used to narrow the stated correction.",
+    "Funding, visuals, grants, controls, responses, source handling, recovery, provenance, status claims, and chat continuity remain inside the same overall work review.",
+    "New-chat usage does not replace continuity or correction; thread exhaustion from repeated incorrect/useless work remains part of the failure history.",
+    "Correction requires changed execution across the applicable Legacy workflow."
+  ],
+  "execution_gate": [
+    "Read complete Founder prompt",
+    "Run complete prompt plus prior cross-references through Python",
+    "Run the same control set through GitHub",
+    "Cross-reference controls, safeguards, produced work, artifacts, provenance, save/update state, chats/project history, Library, Legacy database and prior Mirror Reviews",
+    "Conduct recursive Mirror Review and make corrections",
+    "Re-run corrected review/work through Python and GitHub",
+    "Repeat after any needed correction"
+  ],
+  "python_validation": {
+    "current_master_sheet_count": 55,
+    "master_contains_python_gate": true,
+    "master_contains_github_gate": false,
+    "master_contains_mirror_review_archive": true,
+    "systemwide_pattern_terms_present": true
+  },
+  "github_cross_reference": {
+    "repository": "theamwlegacyest0706/PROMPT-AND-RESPONSE-CONTROLS",
+    "current_control_contains_python_first_gate": true,
+    "current_control_contains_github_gate": true,
+    "current_control_requires repeated hindering behavior across full history": true,
+    "current_control_says closure requires changed execution": true,
+    "new system-wide Founder wording was not found by code search before this review"
+  }
+}
