@@ -1,0 +1,33 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-RENDERING01-POSTGEN",
+  "artifact_sha256": "4aa1933bfe5365f8eed92f4b3e6ecfbaf27c5c7691740d47efdef204abce2788",
+  "status": "FAILED / CORRECTION REQUIRED",
+  "passes": [
+    "single uninterrupted exterior scene",
+    "photorealistic/cinematic",
+    "exact institution name present",
+    "Midnight Dark Blue + Antique Gold palette",
+    "Just Love Pond present",
+    "solar/renewable roof systems visible",
+    "mixed-ability accessible arrival visible"
+  ],
+  "failures": [
+    "Golden Gloves Academy entrance not clearly identifiable",
+    "separate secured Pro & Championship Wing private entrance not clearly identifiable",
+    "Spectator/Fan/Media Pavilion not clearly identifiable",
+    "Central Spine not visible",
+    "covered Weather-Shield Conditioning Pavilion not visible",
+    "fleet vehicles displayed in Rendering 01",
+    "program-word lists displayed",
+    "invented slogan displayed",
+    "invented crest/crown/monogram displayed",
+    "unrequested brand flags displayed"
+  ],
+  "correction": {
+    "operation": "EDIT THIS EXACT GENERATED IMAGE; DO NOT SUBSTITUTE A DIFFERENT CONCEPT",
+    "preserve": ["campus massing","palette","exact institution name","Just Love Pond","solar roofs","accessible arrival"],
+    "remove": ["all buses/vans","flags","invented slogans","crest/crown/monogram","program-word lists"],
+    "add_or_clarify": ["Golden Gloves Academy entrance","separate secured Pro & Championship Wing private street entrance","Spectator/Fan/Media Pavilion","elevated glazed Central Spine","covered Weather-Shield Conditioning Pavilion"]
+  },
+  "edit_target_file_id": "file_00000000f454822fb5973f63547fd150"
+}
