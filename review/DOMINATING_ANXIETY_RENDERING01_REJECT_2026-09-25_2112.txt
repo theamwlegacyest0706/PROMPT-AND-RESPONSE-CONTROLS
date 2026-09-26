@@ -1,0 +1,7 @@
+DOMINATING ANXIETY LEGACY BOXING — RENDERING 01 REVIEW
+Artifact SHA256: c41790639f7345e6359298cd1a7decf7affe61f1077d8a29e0eb1b5a1ab2aef5
+Status: REJECTED / NON-CONTROLLING / DO NOT SAVE
+Failure: generator produced a multi-panel project collage instead of Rendering 01 as a native standalone campus exterior.
+Passed: Midnight Dark Blue + Antique Gold; Just Love Pond visible; editable generated source exists.
+Failed: Rendering 01 only; single full-frame exterior; no collage/contact sheet; no program panels; no uniform panel; no fleet panel; no invented slogan/branding.
+Correction: edit this exact generated image directly into one campus exterior. Do not crop/stretch in Python and do not generate another whole-project board.
