@@ -1,0 +1,32 @@
+{
+  "review_id": "MR-2026-09-25-FOUNDER-DIRECTED-VISUAL-EXECUTION-VERIFICATION-2",
+  "status": "VERIFICATION 2 / ASSISTANT EXECUTION REVIEW",
+  "founder_requirements": {
+    "Founder_controls_Legacy_decisions": true,
+    "mass_production_was_not_authorized": true,
+    "explicit_edit_of_failed_rendering_must_be_executed": true,
+    "python_github_preflight_validates_understanding_before_image_action": true,
+    "recurring_failure_triggers_self_verification_mirror_review_verification": true,
+    "python_github_are_verification_layers_not_excuses": true
+  },
+  "cross_referenced_controls": {
+    "ML-004": "Read/analyze the Founder prompt in full and inherit non-superseded controls.",
+    "ML-007": "Repeated execution/control failure triggers self-governing Mirror Review and correction.",
+    "ML-008": "Known corrections must be executed; acknowledgment/explanation does not close them.",
+    "ML-009": "Visual preflight verifies Founder-requested form and inherited controls before presentation.",
+    "ML-012": "Recurrence requires strengthening, rereading controls, documenting the failure, applying verification, and withholding presentation until the next output passes.",
+    "ML-014": "Before image generation/editing, lock Founder source, allowed/forbidden set, requested form, preserve-exactly set, and reject contaminated drafts as authority.",
+    "ML-016": "Verify exact Founder outcome, controls, prohibited substitutions, and completion evidence before substantive execution.",
+    "ML-020": "Error detection or Founder correction automatically triggers Mirror Review before explanation/retry."
+  },
+  "verified_correction": [
+    "The assistant will not create Legacy decision rules that the Founder did not direct.",
+    "Mass production is not an authorized default and will not occur unless the Founder explicitly requests multiple outputs/variants.",
+    "When the Founder directs an edit to a rendering previously marked failed/rejected, that exact rendering is the edit target and the exact Founder edit is executed; prior status does not authorize substitution.",
+    "Python and GitHub preflight check the assistant's understanding before the image action; they do not absorb accountability for execution.",
+    "A recurrence triggers Verification -> Mirror Review of assistant execution -> Verification before the next action.",
+    "Existing ML-012/014/018/019 controls are applied without overriding Founder-directed edits or inventing an alternate workflow."
+  ],
+  "result": "PASS — PRIOR ASSISTANT INTERPRETATION CORRECTED",
+  "open_proof_requirement": "The visual-execution correction remains open until the next Founder-requested visual/edit is executed correctly and the actual finished artifact passes the Verification -> Review -> Verification process."
+}
