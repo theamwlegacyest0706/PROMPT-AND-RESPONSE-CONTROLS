@@ -26,10 +26,10 @@
     "exact_github_prompt_files_preexisting_in_ledger": 16,
     "new_timestamp_bound_conversation_recovery_from_previously_indexed_events": {
       "events_with_additional_message_level_recovery": 32,
-      "exact_quoted_fragment_or_full_short_message": 8,
-      "near_exact_normalized_content_not_promoted_to_verbatim": 24,
+      "exact_quoted_fragment_or_full_short_message": 15,
+      "near_exact_normalized_content_not_promoted_to_verbatim": 17,
       "still_indexed_only_at_event_timestamp_level": 34,
-      "note": "Separate Drive/GitHub exact-source archives may contain text for some of these 34, but they are not being mapped 1:1 to timestamps without proof."
+      "note": "Targeted historical-chat recovery advanced the exact-message layer: 15 of the 32 message-level recoveries now have exact quoted fragments or full short messages; 17 remain near-exact normalized content. 34 of the original 66 indexed events remain indexed-only at event-timestamp level. Exact fragments are not promoted to full-message status."
     }
   },
   "forensic_counts": {
@@ -164,8 +164,8 @@
   },
   "exact_message_recovery_status": {
     "result": "PARTIAL_RECOVERY_ADVANCED",
-    "what_was_recovered": "Exact Drive prompt source (21 full blocks), exact GitHub prompt files, timestamp-bound conversation evidence for additional indexed events, and exact quoted fragments for multiple previously indexed events.",
-    "what_remains": "34 event timestamps remain indexed-only at event-level mapping; later raw Project chat message-by-message export remains unavailable in the accessible source corpus.",
+    "what_was_recovered": "Exact Drive prompt source (21 full blocks), exact GitHub prompt files, timestamp-bound conversation evidence for 32 previously indexed events, including 15 exact-fragment/full-short-message records preserved in the exact-message recovery supplement.",
+    "what_remains": "17 of the 32 message-level recoveries remain near-exact rather than verbatim; 34 event timestamps remain indexed-only at event-level mapping; later raw Project chat message-by-message export remains unavailable in the accessible corpus.",
     "no_false_upgrade_rule": "Near-exact or normalized conversation recovery remains labeled non-verbatim."
   }
 }
