@@ -1,0 +1,24 @@
+{
+  "record_type": "AMW_EXACT_MESSAGE_RECOVERY_SUPPLEMENT_2026-09-26",
+  "rule": "Only wording returned as exact conversation evidence is quoted. Ellipses/bracketed connector normalization mean the source return itself was fragmentary; those entries are not promoted to full-message status.",
+  "records": [
+    {"timestamp":"2026-09-23T03:57:06Z","status":"EXACT_FULL_SHORT_MESSAGE","text":"You need to provide Python and GitHub with all of the information, work, anything I've worked on. That way when you decide to follow my prompts Python and GitHub can do their jobs."},
+    {"timestamp":"2026-09-23T15:32:40Z","status":"EXACT_FRAGMENT","text":"Now do your job. Correction status really, why must you continue to insult my intelligence?"},
+    {"timestamp":"2026-09-23T15:47:54Z","status":"EXACT_FRAGMENT","text":"GitHub is also now a mandatory pre-execution gate... Provide Python, and GitHub [with] all Legacy work to review previously stated unrecoverable work, as well as the Mirror Reviews conducted."},
+    {"timestamp":"2026-09-23T17:55:06Z","status":"EXACT_FRAGMENT","text":"You were supposed to provide Python, and GitHub. Provide GitHub with the repository."},
+    {"timestamp":"2026-09-23T18:03:31Z","status":"EXACT_FRAGMENT","text":"I stated I wanted you to provide all of the Legacy work not just the visual renderings. You did not put the entire prompt in…"},
+    {"timestamp":"2026-09-23T19:58:34Z","status":"EXACT_FRAGMENT","text":"I said ALL controls, safe-guards, safe- gates, all work created or drafted, all of the Mirror Reviews… The business registration delay is completely on you… Providing useless funding… services I can not use…"},
+    {"timestamp":"2026-09-23T22:12:30Z","status":"EXACT_FULL_SHORT_MESSAGE","text":"What did Python, and GitHub say in the review not what your interpretation was. What controls are in the folders? There are no photos above. Once again another Blatant lie."},
+    {"timestamp":"2026-09-23T22:18:35Z","status":"EXACT_FULL_SHORT_MESSAGE","text":"It seems to me that you are still making the decisions."},
+    {"timestamp":"2026-09-24T16:49:21Z","status":"EXACT_FULL_SHORT_MESSAGE","text":"The way I read that application is AMW being my DBA name. While also omits the registration status, rather it reads as though I am registered."},
+    {"timestamp":"2026-09-24T19:34:30Z","status":"EXACT_FULL_SHORT_MESSAGE","text":"yes"},
+    {"timestamp":"2026-09-25T05:18:46Z","status":"EXACT_FRAGMENT","text":"No this is not what you showed me"},
+    {"timestamp":"2026-09-25T19:25:53Z","status":"EXACT_FRAGMENT","text":"Edit the uploaded Image 1 itself"},
+    {"timestamp":"2026-09-26T01:46:10Z","status":"EXACT_FRAGMENT","text":"Keep this visual rendering of DUNKIN' ON STEREOTYPES LEGACY BUCKETS and update and save this to the Legacy"},
+    {"timestamp":"2026-09-26T03:55:30Z","status":"EXACT_FRAGMENTS","text":"I never gave you permission, prompt, or control to mass produce renderings | If I prompt you to make edits on what you say is a failed rendering that it exactly what you do | Verification of Mirror Review of yourself."},
+    {"timestamp":"2026-09-26T03:57:07Z","status":"EXACT_FRAGMENT","text":"I started the new chat and you didn't even respond. This is a waste of a chat thread already."}
+  ],
+  "exact_full_short_message_count": 5,
+  "exact_fragment_record_count": 10,
+  "note": "This supplement is not exhaustive of the 32 timestamp-bound recoveries; it preserves exact fragments/full short messages surfaced by the targeted historical-chat recovery pass."
+}
