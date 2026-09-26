@@ -1,0 +1,32 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-RENDERING01-PREFLIGHT",
+  "python_prompt_sha256": "f23268317dcf262e2cd95529911adb14c337637675b88c40546751eea08ce19f",
+  "founder_request": "Create DOMINATING ANXIETY LEGACY BOXING following all established controls; current immediate rendering target is Rendering 01 Campus Exterior / Master Architectural View.",
+  "github_sources_verified": [
+    "current-master-sheets/Master_Lock_Register.csv",
+    "current-master-sheets/Campus_Interior_Control.csv",
+    "current-master-sheets/Fleet_Interior_Cross-Ref.csv",
+    "current-master-sheets/Mirror_Review_Archive.csv"
+  ],
+  "rendering_target": {
+    "form": "ONE uninterrupted full-frame photorealistic/cinematic architectural exterior scene",
+    "palette": ["Midnight Dark Blue", "Antique Gold"],
+    "must_show": [
+      "exact institution signage DOMINATING ANXIETY LEGACY BOXING",
+      "landscaped Just Love Pond immediately near principal/public entrance",
+      "Golden Gloves Academy entrance",
+      "separate secured Pro & Championship Wing private street entrance on a distinct drive",
+      "Spectator/Fan/Media Pavilion with covered plaza and ticketing/apparel frontage",
+      "elevated glazed Central Spine",
+      "covered Weather-Shield Conditioning Pavilion",
+      "visible solar/renewable roof systems",
+      "mixed-ability accessible arrival/circulation"
+    ],
+    "forbidden": [
+      "infographic", "poster", "board", "collage", "numbered panels", "interior cutaways",
+      "fleet display", "uniform display", "program lists", "invented slogan",
+      "invented crest/crown/monogram", "cosmetology wording", "fountain substituted for Just Love Pond"
+    ]
+  },
+  "result": "PASS — GENERATE RENDERING 01 ONLY; THEN VERIFY ACTUAL ARTIFACT"
+}
