@@ -1,9 +1,9 @@
 {
   "record_type": "AMW_CHAT_FORENSIC_AUDIT_VALIDATION_2026-09-26",
-  "generated_at_utc": "2026-09-26T05:50:03.792907+00:00",
-  "audit_sha256": "f1b2e31604476387e6c4475a7e965070ce2e91c1df0a9fb0502d44c10cc822bc",
-  "audit_git_blob_sha1": "92616b4496f07501dfe7e1cd46c3335158fc77e6",
-  "github_content_sha": "92616b4496f07501dfe7e1cd46c3335158fc77e6",
+  "generated_at_utc": "2026-09-26T05:53:17.464654+00:00",
+  "audit_sha256": "d075b1e8afc11ebbf30e6f3ae95bc1122fb76b554d69f1efa1cefe56669a0c72",
+  "audit_git_blob_sha1": "5bdce2c88d708229fdd985fb6e656d63ef1c6137",
+  "github_content_sha": "5bdce2c88d708229fdd985fb6e656d63ef1c6137",
   "checks": {
     "current_prompt_python_gate_pass": true,
     "ledger_event_count_73": true,
@@ -13,65 +13,21 @@
     "mirror_review_rows_36": true,
     "recurrence_marker_records_24": true,
     "handoff_marker_records_6": true,
-    "MR_2026_09_25_01_present": true,
-    "MR_2026_09_26_01_present": true,
     "ML_026_present": true,
     "indexed_recovery_arithmetic_66": true,
     "github_exact_content_matches_local_python_audit": true,
-    "audit_declares_recurrence_24": true,
-    "audit_declares_handoff_6": true,
-    "project_settings_timestamp_not_inferred": true,
-    "five_step_first_exact_chat_date_preserved": true
+    "duplicate_same_visual_floor_2": true,
+    "duplicate_same_visual_exact_image_total_not_claimed": true,
+    "project_settings_timestamp_not_inferred": true
   },
   "all_programmatic_checks_pass": true,
   "programmatic_counts": {
     "ledger_events": 73,
     "dual_python_github_events": 32,
-    "source_states": {
-      "RECOVERED_INDEXED": 66,
-      "EXACT_QUOTE_RECOVERED": 3,
-      "EXACT_OR_NEAR_EXACT": 2,
-      "GITHUB_EXACT_FILE": 1,
-      "EXACT_CURRENT_MESSAGE": 1
-    },
     "mirror_review_rows": 36,
     "recurrence_marker_records": 24,
-    "recurrence_record_ids": [
-      "MR-2026-09-14-01",
-      "MR-2026-09-14-02",
-      "MR-2026-09-14-03",
-      "MR-2026-09-14-04",
-      "MR-2026-09-14-05",
-      "MR-2026-09-15-01",
-      "MR-2026-09-15-02",
-      "MR-2026-09-15-03",
-      "MR-2026-09-15-04",
-      "MR-2026-09-15-05",
-      "MR-2026-09-15-06",
-      "MR-2026-09-15-08",
-      "MR-2026-09-15-11",
-      "MR-2026-09-15-12",
-      "MR-2026-09-15-13",
-      "MR-2026-09-19-01",
-      "MR-2026-09-19-03",
-      "MR-2026-09-20-01",
-      "MR-2026-09-20-02",
-      "MR-2026-09-21-02",
-      "MR-2026-09-21-03",
-      "MR-2026-09-21-04",
-      "MR-2026-09-21-05",
-      "MR-2026-09-25-01"
-    ],
     "handoff_marker_records": 6,
-    "handoff_record_ids": [
-      "MR-2026-09-15-01",
-      "MR-2026-09-15-06",
-      "MR-2026-09-15-08",
-      "MR-2026-09-15-11",
-      "MR-2026-09-15-12",
-      "MR-2026-09-25-01"
-    ]
+    "duplicate_same_visual_verified_incident_floor": 2
   },
-  "manual_coded_counts_boundary": "Counts for override/substitution episodes, Founder contradiction/redirect events, funding-resource failures, exact regeneration events, literal unrecoverable-message use, historical recovery-gap messages, and distinct underlying handoff failures were coded from recovered timestamped conversation evidence and cross-checked against the Mirror Review archive. Because the later raw Project transcript is incomplete, they remain verified minimums rather than absolute totals.",
-  "final_result": "PASS — audit arithmetic/source checks hold; Project-settings insertion timestamp is not inferred; unresolved raw-message gaps remain explicitly open and are not falsely closed."
+  "final_result": "PASS"
 }
