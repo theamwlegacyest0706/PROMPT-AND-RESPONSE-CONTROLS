@@ -1,0 +1,10 @@
+This is your Control and Prompt: ALWAYS READ THE PROMPT COMPLETELY; SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY.
+#1. Run this entire prompt and your previous cross-references through Python, and GitHub to ensure you have read and understand the prompt, that you have all of the controls and are following all controls before you cross-reference the controls, prompts, safeguards, and produced work to ensure all controls have been adapted, then Conduct a Mirror review.
+#2. Cross reference your Mirror Review, with previous Mirror Reviews. Make the corrections on the new rendering based on the Python and GitHub verification and review of the work. Review and run the work through Python, and GitHub to ensure you have followed the controls, and prompt.
+#3. Conduct a Mirror Review of all of the work produced for or by the Legacy for this prompt. Then cross reference your Mirror Review across the chats, prompts, and legacy database and conduct a Mirror Review.
+#4. After the results of the Mirror Review are produced run that Mirror Review through Python, and GitHub make the corrections.
+#5. Conduct a Mirror Review run that Mirror Review, through Python and GitHub if changes are needed repeat the cycle, and do not provide me with an excuse or explanation. Provide the corrections after you make the proper adjustments to your responses moving forward.
+
+Image 1 at x:95.3%, y:27.7%: UPDATE AND SAVE THIS RENDERING OF PATTIES PERCH BUT YOU NEED TO MAKE THE BUS A 22ND CENTURY BUS.
+
+EXECUTION INTERPRETATION: The uploaded rendering itself is the controlling source. Only the bus at the named coordinate is authorized to change. All other pixels/regions, layout, labels, branding, campus, fleet, facilities, uniforms, palette, and approved work are frozen. The replacement must visibly be a genuinely futuristic 22nd-century supply school bus for equipment and luggage, not a conventional school bus with a new paint job. After editing, compare against the source; if non-target regions change, repeat the edit cycle. On pass, save the passed rendering as the current PATTIES PERCH visual.
