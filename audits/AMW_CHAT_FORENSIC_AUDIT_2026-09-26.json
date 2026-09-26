@@ -112,10 +112,10 @@
       "note": "24 is not a count of byte-identical assistant replies; it is the count of Mirror Review records whose review/type, status, trigger, findings, corrections, or open-items fields explicitly document recurrence/retry/again/repeated failure."
     },
     "duplicate_or_unauthorized_regeneration": {
-      "individually_recoverable_invalid_regeneration_events": 8,
+      "individually_recoverable_invalid_or_unauthorized_regeneration_events": 8,
       "additional_mass_production_batches_with_unknown_image_count": 1,
-      "exact_total_images_not_recoverable": true,
-      "reason": "Surviving source does not contain a complete raw image-generation call/output log for the mass-production batch."
+      "exact_total_generated_images_not_recoverable": true,
+      "reason": "Surviving source does not contain a complete raw image-generation call/output log for the mass-production batch; generic wrong renderings are not automatically counted as duplicate-same-visual incidents."
     },
     "unrecoverable_language": {
       "distinct_recovered_assistant_messages_using_or_referring_to_unrecoverable_classification": 9,
@@ -151,6 +151,15 @@
         "full requested rendering set → delivered artifact",
         "Founder-visible artifact/display verification"
       ]
+    },
+    "duplicate_same_underlying_visual": {
+      "register_confirmed_distinct_incidents": 1,
+      "additional_founder_reported_mass_duplicate_incidents": 1,
+      "verified_incident_floor": 2,
+      "register_confirmed_example": "2026-09-15 — Safely and Humanly Cleaning The Space campus/fleet visual: a targeted school-bus-only edit regenerated the entire same campus/fleet board (MR-2026-09-15-12).",
+      "founder_reported_example": "2026-09-26 — Founder reported the exact same photo being produced/passed off as new renderings during unauthorized mass production; the surviving source does not identify a reliable per-image count.",
+      "exact_number_of_duplicate_images": "NOT_RECOVERABLE_FROM_ACCESSIBLE_GENERATION_LOGS",
+      "counting_note": "This metric is separate from generic wrong renderings or different wrong deliverables."
     }
   },
   "exact_message_recovery_status": {
