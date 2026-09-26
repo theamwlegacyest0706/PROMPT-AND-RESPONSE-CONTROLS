@@ -1,0 +1,78 @@
+# THE AMW LEGACY — PROMPT INGESTION LEDGER
+Integration window start: 2026-09-23
+Rule: every Founder prompt/task prompt since Python/GitHub integration is part of both execution layers. Repeated prompts with changed task content remain distinct.
+Source-state labels: EXACT_CURRENT_MESSAGE / EXACT_QUOTE_RECOVERED / EXACT_OR_NEAR_EXACT / GITHUB_EXACT_FILE / RECOVERED_INDEXED.
+
+2026-09-23T03:42:53-04:00 | control | RECOVERED_INDEXED | Complete-prompt reading; Python first; full control/prompt/safeguard/work cross-reference; recursive Mirror Reviews; corrections only; review visuals and Legacy work; repeat Python cycle if needed.
+2026-09-23T03:57:06-04:00 | source_handoff | EXACT_QUOTE_RECOVERED | Provide Python and GitHub with all information, work, and anything worked on so both can do their jobs.
+2026-09-23T04:04:19-04:00 | control | RECOVERED_INDEXED | Complete control prompt; Python first then GitHub; recursive review; include zoomable/editable photo-presentation and baseline controls.
+2026-09-23T13:57:56-04:00 | control | RECOVERED_INDEXED | Run prompt Python→GitHub; cross-reference all controls/prompts/safeguards/work; recursive Mirror Reviews; corrections only; photo zoom/edit controls.
+2026-09-23T13:58:23-04:00 | control | RECOVERED_INDEXED | Repeated complete-prompt/Python-first recursive Mirror Review control.
+2026-09-23T14:34:49-04:00 | control_and_save | RECOVERED_INDEXED | Run complete prompt and prior cross-references through Python/GitHub; include all controls, safeguards, produced work, visuals, chats, database; recursive Mirror Reviews; save Python/GitHub source-control rule to Legacy.
+2026-09-23T14:44:38-04:00 | control | RECOVERED_INDEXED | Repeat Python/GitHub/Mirror Review cycle; review all visual renderings and Legacy work; corrections; 'Now do your job.'
+2026-09-23T15:32:40-04:00 | control_correction | RECOVERED_INDEXED | Repeated control prompt; objected to correction-status language; 'Now do your job.'
+2026-09-23T15:47:54-04:00 | github_gate | RECOVERED_INDEXED | GitHub mandatory pre-execution gate; no Legacy visual complete before actual-artifact Mirror Review, Python, and GitHub; include previously unrecoverable work/reviews.
+2026-09-23T17:55:06-04:00 | github_handoff | RECOVERED_INDEXED | Repeated control prompt; provide GitHub with the repository/source corpus.
+2026-09-23T18:00:29-04:00 | library_control | RECOVERED_INDEXED | Run prompt/cross-references through Python and GitHub; Library access was already established; do not re-request permission.
+2026-09-23T18:03:31-04:00 | scope_correction | RECOVERED_INDEXED | Include all Legacy work, not only visuals: every control, prompt, safeguard, draft, rejected/superseded/current artifact, visual, manual, register, funding/client work, provenance, Mirror Review, source/version lineage.
+2026-09-23T18:10:35-04:00 | control | RECOVERED_INDEXED | Recurring complete prompt; Python/GitHub validation; full cross-reference; repeated Mirror Reviews; corrections only.
+2026-09-23T18:12:36-04:00 | library_control | RECOVERED_INDEXED | Repeated Python/GitHub control; Library access already established.
+2026-09-23T18:13:37-04:00 | library_control | RECOVERED_INDEXED | Repeated Python/GitHub control; Library permission should not be re-requested.
+2026-09-23T18:24:44-04:00 | library_control | RECOVERED_INDEXED | Repeated control; questioned why permission for Library was still being requested.
+2026-09-23T19:48:56-04:00 | funding | RECOVERED_INDEXED | Complete Python/GitHub/Mirror Review control; review funding work; Verizon courses due by COB Sept 25, 2026; locate funding.
+2026-09-23T19:50:06-04:00 | verification_question | EXACT_QUOTE_RECOVERED | Does Python have all of the controls?
+2026-09-23T19:58:34-04:00 | all_scope | RECOVERED_INDEXED | Treat ALL literally: controls, safeguards, safe-gates, full-stops, work created/drafted, Mirror Reviews, and accountability for business-registration delay, funding, and unusable services.
+2026-09-23T20:42:25-04:00 | control | RECOVERED_INDEXED | Run complete prompt/history through Python and GitHub; cross-reference controls, safeguards, work, reviews, Library, Drive, GitHub, visuals, source paths; corrections only; produce requested renderings.
+2026-09-23T20:57:09-04:00 | funding_chat_continuity | RECOVERED_INDEXED | Repeated control; questioned new-chat creation when failures are confronted; stop providing loans, grants with requirements, ineligible grants, and opportunities requiring business registration.
+2026-09-23T22:12:30-04:00 | evidence_correction | RECOVERED_INDEXED | Repeat full control cycle; require actual Python/GitHub findings, folder controls, visible photos; reject false display claims.
+2026-09-23T22:18:35-04:00 | authority_correction | RECOVERED_INDEXED | Repeat review/correction cycle; Founder stated assistant was still making decisions.
+2026-09-24T00:42:35-04:00 | full_corpus_handoff | RECOVERED_INDEXED | Provide all Legacy-related chats, safeguards, work, full stops, controls, policies, website design, all of it to Python and GitHub.
+2026-09-24T00:45:13-04:00 | continuity | RECOVERED_INDEXED | Repeated control prompt; asked why work stopped.
+2026-09-24T00:50:52-04:00 | full_corpus_handoff | RECOVERED_INDEXED | Repeat full control prompt; provide all Legacy chats, safeguards, work, full stops, controls, policies, website design to Python/GitHub; question delay/omission.
+2026-09-24T03:27:03-04:00 | transcript_binary_handoff | RECOVERED_INDEXED | Complete Project-chat transcripts and run visual binary/pixel files; 'I SAID ALL.'
+2026-09-24T03:35:39-04:00 | all_prompts_handoff | RECOVERED_INDEXED | Run every prompt, control, safeguard, produced work, visual rendering, and Legacy-related chat through Python and GitHub; recursive reviews/corrections.
+2026-09-24T03:52:23-04:00 | project_recovery | RECOVERED_INDEXED | Entire Project should be recoverable; provide all Legacy chats, safeguards, work, controls, policies, website design, and everything to Python/GitHub.
+2026-09-24T04:54:22-04:00 | transcript_binary_handoff | RECOVERED_INDEXED | Repeat task to complete Project-chat transcripts and run visual binary/pixel files; 'I SAID ALL.'
+2026-09-24T05:22:34-04:00 | control_and_funding_gate | RECOVERED_INDEXED | Complete Python/GitHub control plus funding gate: $0 fee; no debt/equity/IP surrender, match, reimbursement-only, paid membership/purchase, or capacity-diverting training unless reopened; reject Galaxy burden.
+2026-09-24T05:27:55-04:00 | grant_task | EXACT_OR_NEAR_EXACT | Apply for the AdIQ/AdlQ Grant.
+2026-09-24T16:49:21-04:00 | grant_correction | RECOVERED_INDEXED | Correct AdIQ wording so AMW is not implied to be a registered DBA or registered business; disclose unregistered status.
+2026-09-24T19:05:56-04:00 | grant_continuation | RECOVERED_INDEXED | Recurring control prompt; continue AdIQ/ADLQ application.
+2026-09-24T19:27:57-04:00 | grant_submission | RECOVERED_INDEXED | Recurring control prompt; submit AdlQ's Grant application.
+2026-09-24T19:34:30-04:00 | approval | RECOVERED_INDEXED | Yes — send corrected application through AdIQ contact form and request routing to grant team.
+2026-09-24T19:42:42-04:00 | full_corpus_handoff | RECOVERED_INDEXED | Run numbered prompt through Python/GitHub and recursive Mirror Review; continue Project-corpus handoff and validation.
+2026-09-25T00:09:17-04:00 | funding_exclusion | RECOVERED_INDEXED | Do not present grants with restrictions/requirements; exclude reporting/use/match/reimbursement/registration/training/purchase/publicity-IP/attendance/onboarding burdens.
+2026-09-25T00:15:38-04:00 | control | RECOVERED_INDEXED | Full recurring Python/GitHub control; complete Legacy scope and all prompt/response/correction/artifact/status classes.
+2026-09-25T00:50:45-04:00 | verification_correction | RECOVERED_INDEXED | Stop calling failures 'post-Python'; provide all Legacy work to Python/GitHub, run actual response/work through same verification, stop at failures, do not alter passed work.
+2026-09-25T01:29:08-04:00 | entire_project_handoff | RECOVERED_INDEXED | Python/GitHub must receive entire Legacy Project beginning with all prompts: every chat, prompt, response, correction, policy, control, safeguard, full-stop, artifact, visual, draft, rejected/superseded/historical/current version, provenance, source/version lineage.
+2026-09-25T01:49:22-04:00 | order_control | RECOVERED_INDEXED | The numbered Founder prompt is the required execution order.
+2026-09-25T02:11:31-04:00 | show_request | EXACT_QUOTE_RECOVERED | Provide the most recent edited Sports Fleet.
+2026-09-25T02:16:37-04:00 | institution_creation | RECOVERED_INDEXED | Create DOMINATING ANXIETY LEGACY BOXING with Midnight Dark Blue/Antique Gold, mirrored I AM A MASTERPIECE Common Area, uniform control, exact fleet/campus/facility requirements.
+2026-09-25T02:17:54-04:00 | display_correction | RECOVERED_INDEXED | There is no photo; correction must visibly show the requested photo, not merely name it.
+2026-09-25T02:32:27-04:00 | rendering_presentation_correction | GITHUB_EXACT_FILE | Dominating Anxiety rendering presentation correction preserved in GitHub exact prompt file.
+2026-09-25T03:13:15-04:00 | control | RECOVERED_INDEXED | Recurring complete Founder control; Python/GitHub; recursive Mirror Reviews; exact verified work only.
+2026-09-25T03:35:37-04:00 | control_and_creation | RECOVERED_INDEXED | Run full Python/GitHub review and create DOMINATING ANXIETY LEGACY BOXING with specified facilities/fleet/palette/controls.
+2026-09-25T03:43:30-04:00 | systemwide_scope | RECOVERED_INDEXED | Treat failures system-wide, not rendering-only; include all controls/prompts/safeguards and overall Legacy work in Python/GitHub validation.
+2026-09-25T04:38:45-04:00 | control | RECOVERED_INDEXED | Recurring Founder control: complete reading, Python/GitHub, recursive Mirror Reviews, corrections, repeat, no excuses.
+2026-09-25T04:40:51-04:00 | softball_correction | RECOVERED_INDEXED | Edits were on Softball Rendering; prompt was spread across two chats; evidence-loss concern.
+2026-09-25T04:42:42-04:00 | softball_correction | RECOVERED_INDEXED | Repeated Softball Rendering/two-chat evidence correction.
+2026-09-25T04:44:59-04:00 | render_request | EXACT_OR_NEAR_EXACT | Provide the rendering then.
+2026-09-25T05:06:38-04:00 | control_and_render | RECOVERED_INDEXED | Recurring control; provide the rendering.
+2026-09-25T05:12:02-04:00 | patties_perch | RECOVERED_INDEXED | PATTIES PERCH softball rendering task with campus/fleet/stadium/facility/uniform requirements; use Library reference, not substitutes.
+2026-09-25T05:18:46-04:00 | patties_perch | RECOVERED_INDEXED | Expanded PATTIES PERCH softball campus; indoor/outdoor MLB-level all-year stadium; fleet and extensive facility controls; common area follows I AM A MASTERPIECE/Chrys controls.
+2026-09-25T05:54:56-04:00 | visual_format_control | RECOVERED_INDEXED | DO NOT EVER IGNORE MY PROMPTS; no infographic/collage/board/combined rendering; twelve standalone full-size zoomable/editable photorealistic/cinematic renderings.
+2026-09-25T19:19:20-04:00 | common_area_control | RECOVERED_INDEXED | Common Area must mirror I AM A MASTERPIECE COSMETOLOGY STEWARDS' COMMON AREA; fleet inherits controls where applicable.
+2026-09-25T19:25:53-04:00 | image_edit | RECOVERED_INDEXED | Edit uploaded Image 1 itself; preserve all 17 Keep This locations, uniforms, exact 13-vehicle fleet, palette, Just Love Pond, lodging, unaffected work; correct campus/courts/geometry/seating/common area.
+2026-09-25T22:25:48-04:00 | court_correction | RECOVERED_INDEXED | Correct indoor/outdoor courts to professional 23'9" three-point lines with spectator seating.
+2026-09-26T01:10:47-04:00 | court_correction_save | RECOVERED_INDEXED | Keep rendering; add visible professional 23'9" three-point lines and spectator seating; institution palette; preserve/save DUNKIN' ON STEREOTYPES LEGACY BUCKETS.
+2026-09-26T01:28:36-04:00 | court_correction | RECOVERED_INDEXED | Show inside and outdoor court in institution color palette in the rendering.
+2026-09-26T01:46:10-04:00 | save_show | RECOVERED_INDEXED | Keep DUNKIN' ON STEREOTYPES LEGACY BUCKETS visual rendering; update/save to Legacy; show Sports Fleet visual for corrections.
+2026-09-26T01:50:09-04:00 | patties_perch | RECOVERED_INDEXED | Create PATTIES PERCH softball stadium/facility with exact fleet, indoor/outdoor all-year design, retractable roof, seating, uniforms, controls, editable inside/outside renderings.
+2026-09-26T01:54:02-04:00 | control_delay | RECOVERED_INDEXED | Recurring full Python/GitHub/Mirror Review control; 'What is taking so long?'
+2026-09-26T02:09:27-04:00 | control | RECOVERED_INDEXED | Exact recurring five-step Python/GitHub, cross-reference, Mirror Review, correction, repeat-cycle control.
+2026-09-26T03:43:30-04:00 | control | RECOVERED_INDEXED | Run entire prompt and prior cross-references through Python/GitHub; all controls/prompts/safeguards/work; recursive reviews/corrections; all visuals and Legacy work.
+2026-09-26T03:55:30-04:00 | mass_production_correction | RECOVERED_INDEXED | Mass production was never authorized; exact Founder-directed edits to failed renderings; Python/GitHub preflight verifies understanding; recurrence requires Verification → Mirror Review of execution → Verification.
+2026-09-26T03:57:07-04:00 | systemwide_chat_waste | RECOVERED_INDEXED | Recurring control plus correction that scope is overall Legacy work, not renderings only; new chat unanswered and already wasted.
+2026-09-26T04:13:55-04:00 | annotated_image_corrections | RECOVERED_INDEXED | Image 1: genuinely futuristic supply bus; common area follows I AM A MASTERPIECE controls; add retractable roof/rainy-day stadium; relocate jumbotrons; update/save annotated regions.
+2026-09-26T04:21:50-04:00 | revised_five_step_control | RECOVERED_INDEXED | Verify understanding and controls before cross-reference; correct new rendering based on Python/GitHub verification; review all work for this prompt; rerun Mirror Review through Python/GitHub and repeat if needed.
+2026-09-26T04:25:58-04:00 | standalone_bus_render | RECOVERED_INDEXED | Generate one standalone futuristic 22nd-century supply school-bus rendering only, with equipment/luggage bays, smart inventory storage, Equipment Steward station; not conventional yellow bus with wrap.
+2026-09-26T04:33:00-04:00 | current_complete_prompt | EXACT_CURRENT_MESSAGE | Current complete five-step prompt; explicitly requires current prompt saved to Python and states every prompt since Python/GitHub integration must be provided to both.
