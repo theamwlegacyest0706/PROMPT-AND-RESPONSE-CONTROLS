@@ -1,0 +1,34 @@
+{
+  "review_id": "MR-2026-09-26-DOMINATING-ANXIETY-RENDERING01-POSTEDIT",
+  "artifact_sha256": "4162925d0f210a3393ad9cfdb8dd588f733438c80530658229b4ae6746feba77",
+  "status": "FAILED / NARROW CORRECTION REQUIRED",
+  "passes": [
+    "single uninterrupted exterior scene",
+    "photorealistic/cinematic",
+    "exact institution name",
+    "Midnight Dark Blue + Antique Gold palette",
+    "Just Love Pond",
+    "Golden Gloves Academy entrance",
+    "separate secured Pro & Championship Wing private entrance",
+    "Spectator/Fan/Media Pavilion",
+    "mixed-ability accessible arrival",
+    "no fleet display"
+  ],
+  "failures": [
+    "Central Spine not visible",
+    "covered Weather-Shield Conditioning Pavilion not visible",
+    "solar/renewable roofs not visible",
+    "program bullet text remains",
+    "invented slogans/mottos remain",
+    "crown/glove crest remains",
+    "portrait banners remain",
+    "flags/extra branding remain"
+  ],
+  "correction": {
+    "operation": "EDIT THIS EXACT IMAGE; NO NEW CONCEPT",
+    "preserve": ["campus architecture","exact institution name","palette","Just Love Pond","three identified program entrances","accessible arrival"],
+    "remove": ["all program bullet text","all slogans/mottos","crown/glove crest","portrait banners","flags","extra branding"],
+    "add_or_clarify": ["elevated glazed Central Spine","covered Weather-Shield Conditioning Pavilion","visible solar/renewable roof arrays"]
+  },
+  "edit_target_file_id": "file_0000000008b8822fb99818df229bf737"
+}
