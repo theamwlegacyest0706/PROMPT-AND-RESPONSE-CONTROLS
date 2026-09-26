@@ -1,0 +1,28 @@
+PATTIES PERCH — BUS-ONLY UPDATE/SAVE VERIFICATION — 2026-09-26
+
+Founder direction: Update and save the supplied PATTIES PERCH rendering, changing only the bus at x 95.3%, y 27.7% to the controlled 22nd-century bus.
+
+Source image SHA-256: b52f8774a11518ab5f10a7ad93dd31cdf32764f82928efbd320243feffb525b4
+Final image SHA-256: f38f33bbce8fa8698307aa3c686d30da6e30a2769dfed93eef2f40a3c0d6842d
+Authorized edit region: x=1315..1535, y=240..326 on 1536x1024 source.
+Changed pixels inside authorized region: 18116
+Changed pixels outside authorized region: 0
+Outside-change percentage: 0.0%
+Caption/label beneath bus preserved.
+
+Mirror Review result: PASS.
+Python verification result: PASS.
+GitHub verification record: PASS.
+
+The first image-generation candidate failed because it changed 98.49217732747397% of the image outside the authorized bus-only region. It was rejected and not saved as current. The cycle continued. The passed final was created from the exact Founder source with the generated futuristic bus confined to the authorized bus-only region.
+
+Legacy save completed:
+/THE AMW LEGACY/CURRENT CONTROLLED VISUAL — PATTIES PERCH — 2026-09-26.png
+Library file id: file_0000000055cc822fbc0d6e0ca6af19e1
+Library stable id: libfile_424ed96240c08191a4b38040fe050f4c
+
+Verification JSON saved:
+/THE AMW LEGACY/PATTIES_PERCH_BUS_ONLY_FINAL_VERIFICATION_2026-09-26.json
+Library file id: file_00000000a620822f955c411e677fd611
+
+Status: CURRENT CONTROLLED VISUAL — SAVED.
