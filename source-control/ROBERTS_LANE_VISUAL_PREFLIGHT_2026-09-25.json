@@ -1,0 +1,43 @@
+{
+  "institution": "ROBERT'S LANE",
+  "function": "Track and Field Team",
+  "palette": ["Antique Gold", "Emerald Green Accent"],
+  "python_checks": {
+    "fleet_total": 13,
+    "fleet_families": 5,
+    "triads": "tour / 15-passenger van / mega / double-decker each 3 = ADA, Mixed, Non-ADA",
+    "school_bus": "1 supply bus, no new mobility split",
+    "result": "PASS"
+  },
+  "controls_loaded": [
+    "ML-003 Just Love Pond",
+    "ML-009 visual completeness",
+    "ML-011 exact scope",
+    "ML-013 fleet checksum",
+    "ML-014 pre-tool source lock",
+    "ML-015 photorealistic rendering type",
+    "ML-021 fleet exterior plus interior",
+    "ML-022 22nd-century school-bus purpose preservation"
+  ],
+  "inherited_visual_elements": [
+    "Empty Chair",
+    "round Legacy Table",
+    "circular/curved furniture where applicable",
+    "Legacy Creator furnishings priority",
+    "Just Love Pond at principal entrance",
+    "solar/renewable direction",
+    "I AM A MASTERPIECE Common Area features recolored to Robert's Lane palette",
+    "comfortable functional inclusive non-gender-specific uniforms"
+  ],
+  "rendering_plan": [
+    "1 campus/facility rendering",
+    "2 exact 13-vehicle exterior fleet rendering",
+    "3 fleet-interior rendering for every vehicle family"
+  ],
+  "mirror_review": {
+    "repeat_failures_considered": true,
+    "correction": "Use separate photorealistic renderings so required physical features are not omitted or replaced by captions.",
+    "result": "PASS FOR RENDERING"
+  },
+  "authority_boundary": "Not Founder approval, save/update, supersession, or operational activation."
+}
