@@ -1,0 +1,36 @@
+{
+  "review_id": "MR-2026-09-25-2150-ET-PATTIES-PERCH-RENDER-PRECHECK",
+  "founder_prompt": "controls/FOUNDER_PROMPT_EXACT_2026-09-25_2150_ET_PATTIES_PERCH_RENDER.txt",
+  "python_gate": "PASS",
+  "github_cross_references": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_CONTROL_MATRIX.md",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_MIRROR_REVIEW.md",
+    "reviews/2026-09-24_PATTIES_PERCH_ACTUAL_ARTIFACT_MIRROR_REVIEW_01.md",
+    "source-control/FINAL_PYTHON_MIRROR_REVIEW_ALL_LEGACY_WORK_2026-09-23.json"
+  ],
+  "current_corrections": [
+    "Use exact institution name PATTIES PERCH and softball identity.",
+    "Facility/fleet palette remains exact Slate Gray + Antique Gold.",
+    "Player and Steward uniforms are Antique Gold dominant with Emerald Green accent; comfortable, eye-catching, non-sexualizing, and gender-neutral.",
+    "Stewards' Common Area reflects I AM A MASTERPIECE COSMETOLOGY controls.",
+    "Separate athlete day-use showers/lounge mirrors Chrys' Masterpiece Wood-shop Stewards' Common Area functional comfort model.",
+    "Fleet checksum is exactly 13: 3 Tour, 3 fifteen-passenger vans, 3 Mega, 3 Double-Decker, 1 22nd-century supply school bus.",
+    "Tour buses are for fans/family travel and are a little plush; do not add team-travel mission.",
+    "Mega and Double-Decker upper levels visibly include film review areas.",
+    "Supply school bus is equipment/luggage/supply support, not passenger hospitality.",
+    "Show real indoor and outdoor softball facilities, not a generic sports complex.",
+    "Show required labs, analytics, recovery, medical, nutrition, security, parent co-working, retail/pro shop, Fan Plaza, Transition Plaza, Central Spine, High-Capacity Hub, Restricted Gated Wing, Youth & Rec Academy, Pro & College Lab, and Pro-Tier Stringing & Equipment Lab.",
+    "Show Just Love Pond, physical ROUND Legacy Table, Empty Chair, circular/rounded shared furniture where applicable, mixed-ability access, renewable/solar-ready cues.",
+    "No infographic, poster, contact sheet, or schematic substitutes for the requested photoreal/cinematic scenes.",
+    "No unrelated institution imagery or invented slogan/branding.",
+    "Visual delivery must include complementary separate scenes covering campus exterior/site, facility interiors, fleet exteriors, fleet interiors, and player/steward uniforms.",
+    "Generated images remain generated/library-present only; do not mark approved, saved, current, or controlling without Founder direction.",
+    "Images must remain editable/revisable in ChatGPT."
+  ],
+  "fleet_total": 13,
+  "uniform_control_pass": true,
+  "inside_outside_visibility_captured": true,
+  "editable_visual_requirement_captured": true,
+  "result": "PASS — explicit Founder creation authority present; proceed to image generation with separate complementary photorealistic/cinematic scenes."
+}
