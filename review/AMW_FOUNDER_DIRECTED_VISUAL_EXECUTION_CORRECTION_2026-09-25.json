@@ -1,0 +1,40 @@
+{
+  "review_id": "MR-2026-09-25-FOUNDER-DIRECTED-VISUAL-EXECUTION-CORRECTION",
+  "status": "ASSISTANT EXECUTION CORRECTION / NOT A NEW LEGACY POLICY",
+  "founder_correction": [
+    "The Founder never authorized mass production of renderings; mass production was an assistant decision and was not an established Legacy control.",
+    "If the Founder explicitly directs edits to a rendering previously marked failed/rejected, execute the exact requested edit on that rendering. Prior failure status does not authorize the assistant to substitute a different workflow.",
+    "Python and GitHub are pre-flight and verification layers for the assistant's understanding and execution. They are not excuses, decision-makers, or substitutes for following the Founder prompt accurately.",
+    "When a known failure class recurs, the required action is Verification -> Mirror Review of assistant execution -> Verification. The assistant must identify what it misunderstood, omitted, substituted, or executed incorrectly before any next image action.",
+    "The assistant may not create new decision rules for THE AMW LEGACY unless the Founder explicitly directs that control/policy creation."
+  ],
+  "cross_referenced_existing_controls": {
+    "ML-004": "Founder Prompt Fidelity / Pre-Response Cross-Reference",
+    "ML-006": "No Blank Slate / Founder Control Inheritance Safeguard",
+    "ML-007": "Daily Mirror Review / Self-Governing Correction Control",
+    "ML-008": "Known Correction Auto-Execution & Closure Gate",
+    "ML-009": "Visual Rendering Completeness & Preflight Full-Stop",
+    "ML-011": "Exact Scope Isolation / No Cross-Institution Contamination",
+    "ML-012": "Repeated Failure Escalation & Output Hold",
+    "ML-014": "Pre-Tool Generation Fail-Stop / Context-Contamination Gate",
+    "ML-015": "Rendering-Type Lock",
+    "ML-016": "Founder Intent-to-Execution Verification Gate",
+    "ML-018": "Pre-Presentation / Pre-Action Kill Switch",
+    "ML-019": "Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020": "Automatic Error-Triggered Mirror Review",
+    "ML-023": "Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review Gate"
+  },
+  "verification_review_verification": {
+    "verification_1": "Read the entire current Founder prompt, recover applicable non-superseded controls, identify the exact requested action, exact source artifact if editing, preserve-exactly set, forbidden substitutions, and completion evidence before acting.",
+    "review": "Conduct a Mirror Review of the assistant's understanding and intended execution against the prompt, current controls, prior Mirror Reviews, known failure classes, and produced work. The review examines assistant execution; Python/GitHub do not absorb accountability.",
+    "verification_2": "Verify the correction resolves the identified assistant execution failure. Only then proceed to the next tool/action or present the result as compliant."
+  },
+  "rendering_execution_rule": {
+    "default": "Execute exactly the Founder-requested rendering/edit scope. Do not invent additional variants, batches, contact sheets, or retries.",
+    "founder_directed_edit": "When the Founder says to edit a specific failed/rejected rendering, edit that specific rendering exactly as directed and preserve unaffected elements unless the Founder directs otherwise.",
+    "recurrence": "A recurrence triggers Verification -> Mirror Review of assistant execution -> Verification. It does not give the assistant authority to replace the Founder-directed task with an assistant-created stop rule, alternate workflow, or different rendering target.",
+    "presentation": "Do not call an output compliant until the actual finished artifact passes the applicable verification and Mirror Review."
+  },
+  "supersession_note": "This record corrects the prior assistant-created interpretation that recurrence automatically becomes an assistant-controlled STOP/QUARANTINE rule overriding a Founder-directed edit. Existing Founder-directed ML-012/014/018/019 controls remain in force, but must be applied in a way that preserves Founder authority and exact prompt execution.",
+  "open_failure_class": "Visual execution accuracy remains open until a future Founder-requested visual/edit is executed correctly under this Verification -> Review -> Verification process."
+}
