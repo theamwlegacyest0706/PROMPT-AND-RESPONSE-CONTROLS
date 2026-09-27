@@ -1,0 +1,85 @@
+{
+  "record_type": "AMW_LEGACY_SPORTS_FLEETS_RECURSIVE_MIRROR_REVIEW",
+  "review_id": "MR-2026-09-27-04",
+  "date_local": "2026-09-27",
+  "time_local": "00:44 ET",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_0044_ET_SPORTS_FLEETS_RECURSIVE_MIRROR_REVIEW.txt",
+  "trigger_evidence": [
+    "Founder screenshot of GitHub repository showing the AVON prompt/Mirror files were written",
+    "Founder screenshot of assistant response incorrectly stating the AVON rendering remained awaiting a new explicit Save/Update-and-Save direction",
+    "Founder repeated the complete five-step Python + GitHub recursive Mirror Review control"
+  ],
+  "python_first_gate": {
+    "prompt_sha256": "5f2e9c5227fc8a00ca7995c2d2809608c781990246f3a672ff71bd8f9f78a24a",
+    "save_detection_correction": "The phrase 'save time' is not a save directive. Separate cross-chat review confirmed earlier Sports Fleets Update-and-Save directions already governed the current rendering.",
+    "required_sequence_1_to_5_present": true
+  },
+  "cross_references": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-27_AVONS_LACROSSE_FLEET_UPDATE.txt",
+    "mirror-reviews/2026-09-27/AVONS_LACROSSE_FLEET_UPDATE_2026-09-27.json",
+    "mirror-reviews/2026-09-27/JUSTIFIED_WINS_FLEET_UPDATE_2026-09-27_0017_ET.json",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility / Physical Depiction Gate",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation Gate",
+    "Fleet Interior Cross-Ref rows 47 and 50",
+    "Mirror Review Archive rows 38-41",
+    "Approved Visual Authority row 66",
+    "prior Sports Fleets Update-and-Save directions in the current cross-chat history"
+  ],
+  "mirror_findings": {
+    "save_state_failure": "The assistant's prior statement that another explicit save direction was required was wrong. The continuing Sports Fleets artifact already carried Founder Update-and-Save authority.",
+    "physical_depiction_failure": "The prior AVON candidate showed the 15-passenger van family without a physical interior-view band and treated the supply-bus washer/dryer mostly as text, conflicting with ML-021/no-caption-substitution.",
+    "generation_failure": "Multiple image-generation attempts regenerated the whole board, altered unaffected columns, and were rejected/non-controlling.",
+    "status_integrity": "Rejected broad generations remain provenance only and were not promoted."
+  },
+  "corrections": {
+    "rendering": {
+      "final_artifact": "/mnt/data/AVONS_LACROSSE_FLEET_MIRROR_CORRECTED_2026-09-27.png",
+      "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65",
+      "dimensions": [1536, 1024],
+      "authorized_scope": "AVON'S LACROSSE LEGACY column only",
+      "outside_avon_changed_pixels": 0,
+      "changes": [
+        "added a physical interior-view band to the AVON 15-passenger van row",
+        "strengthened the AVON 22nd-century supply-bus interior strip to visibly show washer/dryer plus storage/bay functions",
+        "preserved all pixels outside the AVON column"
+      ]
+    },
+    "legacy_save": {
+      "status": "UPDATE-AND-SAVED / CURRENT",
+      "library_path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CURRENT_SLATE_MIDNIGHT_2026-09-26.png",
+      "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
+      "backing_file_id": "file_00000000220c822f998a2fd291f15959"
+    },
+    "database": [
+      "Fleet Interior Cross-Ref rows 47 and 50 corrected from NOT YET SAVED to current Update-and-Saved state",
+      "Mirror Review rows MR-2026-09-27-01 and MR-2026-09-27-02 save-state language corrected",
+      "MR-2026-09-27-04 appended",
+      "Approved Visual Authority row 66 appended for the current Sports Fleets artifact"
+    ],
+    "github": [
+      "current exact Founder prompt committed",
+      "AVON Mirror Review updated with save-state + physical-depiction correction",
+      "JUSTIFIED WINS Mirror Review updated with corrected save state",
+      "this recursive Mirror Review committed"
+    ]
+  },
+  "recursive_cycles": [
+    {
+      "cycle": 1,
+      "result": "FAIL",
+      "reason": "save-state drift + ML-021 physical-depiction gap"
+    },
+    {
+      "cycle": 2,
+      "result": "FAIL",
+      "reason": "broad image-generation attempts altered unaffected columns"
+    },
+    {
+      "cycle": 3,
+      "result": "HOLDS—STRENGTHEN",
+      "reason": "exact-source scoped correction; outside AVON unchanged; durable save restored; database/GitHub corrections applied"
+    }
+  ],
+  "final_gate": "HOLDS—STRENGTHEN / final Python workbook export + GitHub/manifest verification pending in same cycle"
+}
