@@ -1,0 +1,17 @@
+{
+  "artifact_id": "file_0000000045cc81f5b7a4e89a6e3e2922",
+  "review": {
+    "old_top_right_chrys_header_removed": true,
+    "common_area_present": true,
+    "10_tvs_physically_countable": false,
+    "4_gaming_6_viewing_physically_distinguishable": false,
+    "comfortable_seating_present": true,
+    "empty_legacy_table_physically_clear": false,
+    "empty_legacy_chair_physically_clear": false,
+    "executive_kitchen_with_head_chef_present": true,
+    "10_showers_physically_countable": false,
+    "2_convertible_gaming_tables_physically_clear": false,
+    "5_quiet_decompression_areas_physically_distinct": false
+  },
+  "overall": "FAIL — correction required on same rendering; do not save as current"
+}
