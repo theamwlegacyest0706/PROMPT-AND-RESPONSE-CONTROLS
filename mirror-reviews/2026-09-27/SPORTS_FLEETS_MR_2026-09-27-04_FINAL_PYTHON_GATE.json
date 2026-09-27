@@ -1,0 +1,30 @@
+{
+  "review_id": "MR-2026-09-27-04",
+  "prompt_python_gate_pass": true,
+  "rendering": {
+    "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65",
+    "dimensions": [1536, 1024],
+    "outside_avon_changed_pixels": 0,
+    "outside_avon_preserved": true,
+    "library_save_succeeded": true,
+    "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
+    "backing_file_id": "file_00000000220c822f998a2fd291f15959"
+  },
+  "master": {
+    "sha256": "813515a2dca65bf9143d10f5ae4a39928ac8731b85cafce1eaddf948182a72b3",
+    "library_save_succeeded": true,
+    "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "backing_file_id": "file_000000007cb4822faf57008f710c0935",
+    "formula_error_scan": "0 matches"
+  },
+  "github_commits": {
+    "current_prompt": "05f7b3fa82baa274e9415271951d5d31f4e5afe9",
+    "avon_review_correction": "c9230aa1ef0043ff2a13af71617a21bc4e403d5e",
+    "justified_review_correction": "3ebe19b4da7d1ade1618f4507c768fdb2104ed4c",
+    "recursive_review_create": "39569330164f6921b3ac5b1d71436014bbfe9482",
+    "manifest_update": "ee18d56af73128559d792e57e44e2858bff50ecc",
+    "recursive_review_finalize": "4be395e8819061dedc6aa1ffca449dfe2d51bcc6"
+  },
+  "final_result": "HOLDS—STRENGTHEN / PASS",
+  "repeat_cycle_needed": false
+}
