@@ -1,24 +1,31 @@
 {
   "current_master": {
     "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
-    "current_backing_file_id": "file_000000005138822f9ef1a636744fdaa0",
+    "current_backing_file_id": "file_0000000028cc822f8443c6745173724b",
     "observed_library_version": 7,
     "observed_library_version_note": "Version 7 was the last explicitly observed version before later successful 2026-09-27 overwrites; mutation responses did not expose the newer version number, so no newer version number is invented.",
-    "corrected_candidate_sha256": "346954e3313cab4f139ffa2b62f33062ccdc1d7e710081a8e218169b75ff6cce",
+    "corrected_candidate_sha256": "faf85ccadc75d9ad4c5aa53d026d0d4fe9fde48e1381dc0b342ca6131a43f724",
     "name": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
-    "last_write_forward": "2026-09-27 — MR-2026-09-27-05 added: cross-chat/wrong-prompt Sports Fleets generation sequence quarantined; current saved Sports Fleets visual preserved; Visual Corpus Audit updated; formula error scan 0 matches."
+    "last_write_forward": "2026-09-27 16:21 ET — AVON'S LACROSSE LEGACY six 15-passenger vans explicitly updated to 2 ADA / 2 Mixed / 2 Non-ADA; Founder dislike of latest single-sport presentation recorded; MR-2026-09-27-06 + Visual Corpus Audit row 14 added; formula error scan 0 matches."
   },
   "current_sports_fleets_visual": {
     "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
     "backing_file_id": "file_00000000220c822f998a2fd291f15959",
     "path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CURRENT_SLATE_MIDNIGHT_2026-09-26.png",
     "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65",
-    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED / MIRROR-CORRECTED 2026-09-27"
+    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED / MIRROR-CORRECTED 2026-09-27 — unchanged by MR-2026-09-27-06"
+  },
+  "avons_single_sport_latest_presentation": {
+    "library_file_id": "libfile_96c2aaab11bc8191a28f7638bc211cc5",
+    "backing_file_id": "file_00000000a360822f9b860a72987703f1",
+    "path": "/THE AMW LEGACY/AVONS_LACROSSE_SINGLE_SPORT_FLEET_PRESENTATION_NOT_APPROVED_2026-09-27.png",
+    "sha256": "258ad59a5ee3f559f7d23d219c881acbe970d0dc8ec04954e9e95134946b9c83",
+    "status": "FOUNDER DOES NOT LIKE PRESENTATION / NOT FOUNDER-APPROVED / NON-CONTROLLING / PRESERVE AS PROVENANCE"
   },
   "current_named_mirror_review": {
-    "id": "MR-2026-09-27-05",
-    "path": "mirror-reviews/2026-09-27/SPORTS_FLEETS_CROSS_CHAT_CONTAMINATION_CORRECTION_MR05_2026-09-27.json",
-    "status": "HOLDS—STRENGTHEN / PASS for named contamination correction only",
+    "id": "MR-2026-09-27-06",
+    "path": "mirror-reviews/2026-09-27/AVONS_VAN_SPLIT_AND_PRESENTATION_FEEDBACK_MR06_2026-09-27.json",
+    "status": "HOLDS—STRENGTHEN / PASS for named written-control/save update only",
     "system_wide_status_unchanged": "FAIL / OPEN remains separate under MR-2026-09-27-03"
   },
   "source_of_truth_order": [
