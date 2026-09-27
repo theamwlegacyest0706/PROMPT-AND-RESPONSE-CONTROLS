@@ -1,0 +1,13 @@
+{
+  "artifact": "a_large_detailed_infographic_poster_plan_board_for.png",
+  "sha256": "92fcd98dbcf6f7e28d705b0eb4f4ca75f03ae2a749e0f1812fbcdec617324d7b",
+  "dimensions": [1536,1024],
+  "result": "FAIL_REJECTED_NONCONTROLLING",
+  "failures": [
+    "Fourth candidate remains a multi-panel infographic/poster board instead of one standalone scene.",
+    "Still includes I AM A MASTERPIECE COSMETOLOGY identity inside the Stewards Common Area, violating controls-only inheritance.",
+    "Still includes superseded 3-tour-bus shorthand in addition to current 4 ADA + 4 Mixed + 4 Non-ADA breakdown.",
+    "Does not satisfy actual-artifact verification of a standalone exterior or standalone vehicle interiors."
+  ],
+  "next_correction": "Edit the generated image itself: collapse composition to a single campus exterior scene; delete every panel/inset/fleet/interior/caption and all cosmetology text/identity."
+}
