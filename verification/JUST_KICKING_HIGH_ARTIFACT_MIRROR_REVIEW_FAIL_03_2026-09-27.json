@@ -1,0 +1,13 @@
+{
+  "artifact": "a_large_detailed_infographic_collage_board_in_a_gl.png",
+  "sha256": "f6a3bcb81fb44f4380c79153a6bf7a89631c31aaf81e552567b37fc110c72a6f",
+  "dimensions": [1536,1024],
+  "result": "FAIL_REJECTED_NONCONTROLLING",
+  "failures": [
+    "Third candidate remains an infographic/collage/design board despite standalone-only correction.",
+    "Still imports I AM A MASTERPIECE COSMETOLOGY signage/visual identity; controls-only inheritance violated.",
+    "Still repeats superseded 3-tour-bus shorthand next to controlling 4 ADA/4 Mixed/4 Non-ADA tour breakdown.",
+    "Common Area exact controls and fleet interiors remain presented as small panels rather than independently verifiable artifacts."
+  ],
+  "next_correction": "Use a single-scene source/edit path. Exterior-only scene first; no text except exact institution name; no inherited cosmetology visual identity."
+}
