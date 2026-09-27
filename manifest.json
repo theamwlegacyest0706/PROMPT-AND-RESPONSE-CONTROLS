@@ -2,10 +2,10 @@
   "current_master": {
     "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
     "observed_library_version": 7,
-    "observed_library_version_note": "Version 7 was the prior observed version; the 2026-09-27 Library overwrite succeeded but the mutation response did not expose the new version number, so no newer version number is invented.",
-    "corrected_candidate_sha256": "02476be93659c1da20caba1bde394d79e48091dabff2e78967ae9ccea9438691",
+    "observed_library_version_note": "Version 7 was the last observed version before subsequent successful 2026-09-27 overwrites; mutation responses did not expose the newer version number, so no newer version number is invented.",
+    "corrected_candidate_sha256": "ca37e208e871b96a508634e1e8a15a958367748d7ce89a186f71bc64ec3d7666",
     "name": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
-    "last_write_forward": "2026-09-27 — JUSTIFIED WINS Sports Fleet row 47 updated; Mirror Review MR-2026-09-27-01 added at row 38."
+    "last_write_forward": "2026-09-27 — AVON'S LACROSSE LEGACY Sports Fleet row 50 updated; Mirror Review MR-2026-09-27-02 added at row 39. JUSTIFIED WINS row 47 and MR-2026-09-27-01 remain preserved."
   },
   "source_of_truth_order": [
     "Founder prompt",
