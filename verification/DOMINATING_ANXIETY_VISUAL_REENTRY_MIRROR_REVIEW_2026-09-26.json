@@ -1,0 +1,14 @@
+{
+  "record_type": "DOMINATING_ANXIETY_VISUAL_REENTRY_MIRROR_REVIEW",
+  "authoritative_visual_control": "Exactly 12 standalone, full-size, zoomable/editable photorealistic/cinematic renderings; no infographic/collage/board/combined rendering.",
+  "prior_assistant_interpretations_rejected": [
+    "one continuous scene",
+    "13 cropped images from an infographic",
+    "combined board presented as a rendering set"
+  ],
+  "current_cycle_result": "FAIL-STOP",
+  "closure_state": "OPEN — no compliant 12-rendering set exists yet; no failed image is promoted, saved, or counted as complete.",
+  "anti_waste_control": "Do not spend additional image generations on the same failed handoff pattern. A candidate only advances when it is a true standalone full-size scene and contains no cross-institution contamination.",
+  "founder_correction_commit": "b34bd5cae81a59f4d062d557a8cdbfdc3ef22fae",
+  "execution_spec_commit": "45aa3ed773ffe7bde9861dde4a1958011101ea65"
+}
