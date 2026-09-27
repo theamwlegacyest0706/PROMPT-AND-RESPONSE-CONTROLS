@@ -1,0 +1,55 @@
+{
+  "record_type": "AMW_LEGACY_SPORTS_FLEETS_UPDATE_AND_SAVE",
+  "date_local": "2026-09-26",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-26_2015_ET_SPORTS_FLEETS_INTERIOR_PALETTE_UPDATE.txt",
+  "prior_cross_reference": "mirror-reviews/2026-09-26/SPORTS_FLEETS_ANNOTATED_CORRECTION_2026-09-26_1832_ET.json",
+  "cross_referenced_current_master": "Fleet Interior Cross-Ref row 44 Sports Fleets Current Mobility / Interior Overlay",
+  "required_controls": {
+    "five_programs": ["JUSTIFIED WINS", "LIVE IN THE MOMENT ALWAYS", "INSTANT WINS", "AVON'S LACROSSE LEGACY COMPLEX", "ALEX'S SWING GOLF LEGACY"],
+    "fleet_per_program": "3 Tour Buses + 3 15-passenger Vans + 3 Mega Buses + 3 Double-Deckers + 1 22nd-century Supply Bus = 13 vehicles",
+    "tour_bus": "team + family/Legacy-fan travel; plush certified seating; quiet conversion only when safely parked; full kitchen/restroom/Wi-Fi as controlled",
+    "vans": "local transport; ADA/Mixed/Non-ADA triad; no restroom",
+    "mega_bus": "state team travel; passenger seating; Film & Strategy Room; body recovery; full kitchen; enclosed restroom",
+    "double_decker": "regional team travel; upper + lower passenger seating; Film & Strategy Room; body recovery; full kitchen; enclosed restroom",
+    "supply_bus": "equipment/luggage/supplies + Equipment Steward work/check area; no passenger seating; no kitchen; no restroom",
+    "branding": "no crowns; JUSTIFIED WINS football remains inside helmet; Legacy phoenix reads strong/indestructible; sport identities remain distinct",
+    "interior_palette_update": "Slate Gray + Midnight Dark Blue"
+  },
+  "generation_cycle": [
+    {
+      "stage": "initial image-tool palette edit",
+      "artifact": "/mnt/data/a_wide_detailed_infographic_poster_board_with_a_d.png",
+      "status": "REJECTED AS FINAL / CORRECTION REQUIRED",
+      "reason": "Palette direction held, but van amenity labels still showed kitchen/restroom and Mega/Double function labels omitted controlled passenger-seating/full-kitchen requirements; tour mission was not explicit."
+    },
+    {
+      "stage": "post-Mirror correction",
+      "artifact": "/mnt/data/AMW_SPORTS_FLEETS_SLATE_MIDNIGHT_CURRENT.png",
+      "sha256": "d23dfa5f8851686856fb095ef3eb57d62216a8adef694aa96ab909336aa8d58f",
+      "dimensions": [1536, 1024],
+      "status": "HOLDS",
+      "corrections": [
+        "Interior-thumbnail regions recolored to Slate Gray + Midnight Dark Blue while preserving vehicle exteriors/program identities.",
+        "Tour Bus function strip corrected to fans/family/team travel, plush seating, lounge, full kitchen, restroom and Wi-Fi.",
+        "15-passenger Van strip corrected to local transport, ADA/Mixed/Non-ADA, Wi-Fi/power, and NO RESTROOM.",
+        "Mega Bus strip corrected to state-team travel, passenger seating, Film & Strategy, body recovery, full kitchen and restroom.",
+        "Double-Decker strip corrected to regional-team travel, upper + lower seating, Film & Strategy, body recovery, full kitchen and restroom.",
+        "22nd-century Supply Bus strip corrected to Equipment Steward, racks, luggage, charging, secure supplies, and NO seating/kitchen/restroom.",
+        "Fleet Standards footer rewritten to match the transportation overlay.",
+        "AVON'S LACROSSE LEGACY COMPLEX full controlled program title restored."
+      ]
+    }
+  ],
+  "python_postcheck": {
+    "interior_regions_blue_or_slate_dominant_min_pct": 99.44,
+    "dimensions": [1536, 1024],
+    "final_sha256": "d23dfa5f8851686856fb095ef3eb57d62216a8adef694aa96ab909336aa8d58f"
+  },
+  "recursive_mirror_review": {
+    "cross_reference_prior_review": true,
+    "first_cycle_found_changes_needed": true,
+    "corrections_made": true,
+    "second_cycle_result": "HOLDS",
+    "repeat_cycle_needed": false
+  }
+}
