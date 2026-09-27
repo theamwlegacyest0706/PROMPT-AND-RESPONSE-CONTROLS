@@ -1,0 +1,39 @@
+{
+  "record_type": "AMW_LEGACY_FINAL_POSTWRITE_VALIDATION",
+  "review_id": "MR-2026-09-27-07",
+  "date_local": "2026-09-27",
+  "prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_1737_ET_JUSTIFIED_WINS_VAN_ADD_SAVE.txt",
+  "python_gate_path": "mirror-reviews/2026-09-27/JUSTIFIED_WINS_36_VEHICLE_VAN_ADD_PYTHON_GATE_2026-09-27_1737_ET.json",
+  "mirror_review_path": "mirror-reviews/2026-09-27/JUSTIFIED_WINS_36_VEHICLE_VAN_ADD_MR07_2026-09-27.json",
+  "visual": {
+    "library_path": "/THE AMW LEGACY/JUSTIFIED_WINS_36_VEHICLE_FLEET_CURRENT_2026-09-27.png",
+    "library_file_id": "libfile_5367e1b7ba908191a3dc6dea6733f390",
+    "backing_file_id": "file_00000000f268822f8c420a2f29d27fed",
+    "sha256": "ed5881a1c91888b35ca9fbb2f606f63200017f21ae2369fdd56ec93aa21e8599",
+    "library_rematerialized_hash_match": true,
+    "dimensions": [2600, 3840],
+    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED / MIRROR-CORRECTED"
+  },
+  "master": {
+    "library_path": "/THE AMW LEGACY/AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
+    "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "backing_file_id": "file_0000000093c481f59a35003d44b5cf63",
+    "sha256": "0f7f19d08fd0d9683da60ea6e3949f492f7de7a70da7cbee9c9606ebaf047376",
+    "formula_error_scan": "0 matches",
+    "mirror_archive_final_status": "LEVEL 4 STRENGTHEN — CORRECTIONS APPLIED / SAVED / PYTHON + GITHUB VERIFIED"
+  },
+  "count_verification": {
+    "tour": 6,
+    "vans": 9,
+    "mega": 9,
+    "double_decker": 9,
+    "supply": 3,
+    "total": 36,
+    "van_split": "3 ADA / 3 Mixed / 3 Non-ADA"
+  },
+  "exact_source_preservation": {
+    "outside_authorized_changed_pixels_before_insert": 0,
+    "outside_authorized_changed_pixels_after_shift_alignment": 0
+  },
+  "final_gate": "PASS / HOLDS—STRENGTHEN for MR-2026-09-27-07; system-wide MR-2026-09-27-03 remains FAIL/OPEN separately"
+}
