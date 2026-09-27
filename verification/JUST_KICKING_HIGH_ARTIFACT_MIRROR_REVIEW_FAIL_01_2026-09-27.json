@@ -1,0 +1,17 @@
+{
+  "artifact": "a_large_high_detail_gold_green_cream_themed_info.png",
+  "sha256": "a763ace39f49865ca4a2b4412e8a46a964df8dd369ab77e174f80069dfa4ccc5",
+  "dimensions": [1536,1024],
+  "result": "FAIL_REJECTED_NONCONTROLLING",
+  "failures": [
+    "Rendered as an infographic/collage/board instead of standalone full-size photorealistic/cinematic rendering.",
+    "Stewards Common Area imported cosmetology/salon visual program despite Founder saying CONTROLS ONLY.",
+    "Common Area does not visibly verify the exact seven-TV control (2 gaming + 5 general viewing), quiet/decompression area, 2+ showers, full kitchen and convertible table-game equipment.",
+    "Fleet board simultaneously depicts the superseded three-tour-bus shorthand and the later controlling 4 ADA + 4 Mixed + 4 Non-ADA tour-bus breakdown.",
+    "Fleet interiors are thumbnail panels and do not support actual-artifact verification of each vehicle class/configuration.",
+    "No reliable visual verification of ADA/Mixed/Non-ADA distinctions across the specified fleet.",
+    "Just Love Pond entrance control is not clearly represented as the required Just Love Pond.",
+    "Generated labels/text contain small/garbled details and cannot serve as authoritative control evidence."
+  ],
+  "correction": "Reject this artifact. Do not save/approve/current-control it. Regenerate only as standalone scenes; no board/collage/infographic; preserve JUST KICKING HIGH name, MMA-only identity, Antique Gold/Warm Ivory/Emerald Green palette, and current 55-vehicle checksum."
+}
