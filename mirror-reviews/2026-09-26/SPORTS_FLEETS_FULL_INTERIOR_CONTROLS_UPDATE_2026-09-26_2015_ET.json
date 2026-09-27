@@ -66,5 +66,12 @@
     },
     "repeat_cycle_needed": false
   },
-  "save_directive": "UPDATE AND SAVE TO THE LEGACY — final HOLDS artifact is the only artifact from this cycle authorized for current save/integration."
+  "legacy_save": {
+    "status": "SAVED / CURRENT",
+    "library_path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CURRENT_SLATE_MIDNIGHT_2026-09-26.png",
+    "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
+    "current_backing_file_id": "file_00000000e5b4822f8b92f72791b2fad9",
+    "save_action": "Overwrote the prior current Sports Fleets Slate/Midnight Library artifact with this verified updated version; prior version remains preserved by Library version history/provenance."
+  },
+  "save_directive": "UPDATE AND SAVE TO THE LEGACY — completed."
 }
