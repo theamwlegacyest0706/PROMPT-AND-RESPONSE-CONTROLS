@@ -1,0 +1,70 @@
+{
+  "record_type": "AMW_LEGACY_SPORTS_FLEETS_FULL_INTERIOR_CONTROLS_UPDATE_AND_SAVE",
+  "date_local": "2026-09-26",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-26_2015_ET_SPORTS_FLEETS_FULL_INTERIOR_CONTROL_UPDATE.txt",
+  "source_artifact": {
+    "conversation_file": "/mnt/data/download(4).png",
+    "sha256": "ba57af713d4c760664d5e8db6533502830d1e307734dbf405c5ffa3eb1f5b147",
+    "dimensions": [1536, 1024],
+    "authority": "Founder-supplied exact current rendering for this update"
+  },
+  "cross_references": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "mirror-reviews/2026-09-26/SPORTS_FLEETS_ANNOTATED_CORRECTION_2026-09-26_1832_ET.json",
+    "mirror-reviews/2026-09-26/SPORTS_FLEETS_SLATE_MIDNIGHT_UPDATE_2026-09-26_2015_ET.json",
+    "Current Master Fleet Interior Cross-Ref row 44 Sports Fleets Current Mobility / Interior Overlay",
+    "Legacy-wide Fleet Interior Standard rows 75-78",
+    "Legacy Campus Transportation Fleet Design Standard Version 2.0"
+  ],
+  "current_controls_applied": {
+    "preserved_exact_source": "All regions outside the authorized row-control strips and Fleet Standards footer are frozen and preserved pixel-for-pixel.",
+    "palette": "Existing Slate Gray + Midnight Dark Blue interiors retained.",
+    "tour_bus": "Fans/family + team travel; plush certified seating; quiet conversion only while safely parked; lounge; full kitchen; restroom; Wi-Fi.",
+    "15_passenger_vans": "Local transport; ADA/Mixed/Non-ADA only as assigned; certified seating; Wi-Fi/power; secure storage; no restroom.",
+    "mega_bus": "State-team travel; passenger seating; Film/Strategy with desks + device/headphone pickup; body recovery with hydro/stretch/massage; full kitchen; enclosed restroom.",
+    "double_decker": "Regional-team travel; upper + lower seating; Film/Strategy with desks + device pickup; body recovery with hydro/stretch/massage; full kitchen; enclosed restroom.",
+    "supply_bus": "Equipment Steward work/check; racks; luggage; charging; secure supplies; cargo/support only; no passenger seating/kitchen/restroom.",
+    "legacy_wide_interior_baseline": [
+      "durable easy-clean mission-safe materials",
+      "climate control / air quality",
+      "stable high-capacity Wi-Fi",
+      "TVs / digital displays",
+      "track/swivel/recline seating where safe/legal",
+      "stowable furnishings/equipment",
+      "intentional empty chair where seating is depicted",
+      "secure storage/travel securement",
+      "renewable/solar auxiliary power",
+      "USB/USB-C charging",
+      "GPS/security/communications",
+      "emergency readiness",
+      "moonroof/skylight where feasible",
+      "washer/dryer where safely feasible",
+      "platform-required kitchen/restroom only where applicable",
+      "ADA/Mixed/Non-ADA never inferred by color"
+    ]
+  },
+  "recursive_mirror_review": {
+    "cycle_1": {
+      "status": "FAIL / REJECTED AS FINAL",
+      "artifacts": [
+        "/mnt/data/a_wide_detailed_infographic_poster_in_a_clean_gri.png",
+        "/mnt/data/a_detailed_infographic_poster_scene_a_wide_high.png"
+      ],
+      "finding": "Image-generation attempts regenerated the source and reintroduced incorrect fleet details/labels. They are not saved as current or controlling."
+    },
+    "correction": "Returned to the exact Founder source and made only the authorized interior-control-strip and footer edits using precise annotation.",
+    "cycle_2": {
+      "status": "HOLDS",
+      "final_artifact": "/mnt/data/AMW_SPORTS_FLEETS_FULL_INTERIOR_CONTROLS_CURRENT.png",
+      "final_sha256": "9e0c0471ee8d84dd07c6b6b8dc0138ff6eff1d699c2f1cd302c7d2657d4a112b",
+      "python_postcheck": {
+        "dimensions": [1536, 1024],
+        "outside_authorized_regions_changed_pixels": 0,
+        "outside_authorized_regions_changed_pct": 0.0,
+        "exact_source_preserved_outside_authorized_regions": true
+      }
+    },
+    "repeat_cycle_needed": false
+  },
+  "save_directive": "UPDATE AND SAVE TO THE LEGACY — final HOLDS artifact is the only artifact from this cycle authorized for current save/integration."
+}
