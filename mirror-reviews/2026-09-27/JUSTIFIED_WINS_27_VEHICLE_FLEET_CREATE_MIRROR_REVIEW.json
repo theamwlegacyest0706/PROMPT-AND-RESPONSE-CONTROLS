@@ -1,0 +1,57 @@
+{
+  "record_type": "AMW_LEGACY_JUSTIFIED_WINS_27_VEHICLE_FLEET_CREATE",
+  "date_local": "2026-09-27",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_JUSTIFIED_WINS_27_VEHICLE_FLEET_CREATE.txt",
+  "source_control_cross_reference": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "mirror-reviews/2026-09-27/JUSTIFIED_WINS_FLEET_UPDATE_2026-09-27_0017_ET.json",
+    "current Legacy master Fleet Interior Cross-Ref JUSTIFIED WINS row",
+    "current Legacy master Mirror Review Archive",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility / Physical Depiction Gate",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation Gate",
+    "current JUSTIFIED WINS institution identity: football helmet, no generic crown, Midnight/Dark Navy + Emerald exterior identity, Slate Gray + Midnight Dark Blue interiors"
+  ],
+  "python_first_gate": {
+    "prompt_read_complete": true,
+    "resolved_counts": {
+      "tour_buses": "6 total = 3 Mixed + 3 Non-ADA; no ADA Tour Buses were assigned or inferred",
+      "mega_buses": "9 total = 3 ADA + 3 Mixed + 3 Non-ADA",
+      "double_decker_buses": "9 total = 3 ADA + 3 Mixed + 3 Non-ADA",
+      "22nd_century_school_supply_buses": "3 total",
+      "grand_total": 27,
+      "15_passenger_vans": "not present in this current creation prompt and therefore not included"
+    },
+    "same_prompt_interpretation": "The generic restroom phrase ADA/Mixed/Non-ADA does not create an ADA Tour Bus count. The explicit Tour Bus breakdown controls: 3 Mixed + 3 Non-ADA = 6.",
+    "supply_laundry": "Physical representative supply-bus interior shows 4 washers + 4 dryers; undercarriage bays and overhead racks are also physically depicted."
+  },
+  "supersession_for_this_candidate": [
+    "For this newly requested JUSTIFIED WINS fleet rendering, the current prompt's 27-vehicle composition controls over the prior 45-vehicle JUSTIFIED WINS rendering specification.",
+    "No vans are included because the current prompt does not include a van family.",
+    "No other sports fleet is included or modified."
+  ],
+  "rendering": {
+    "artifact": "/mnt/data/JUSTIFIED_WINS_27_VEHICLE_FLEET_CANDIDATE_2026-09-27.png",
+    "sha256": "6742bf025f436fd96315b55d1294adc6c50b2f07ca9420009bc4937f28449064",
+    "dimensions": [2600, 3300],
+    "status": "NEWLY CREATED CANDIDATE — NOT UPDATE-AND-SAVED / NOT FOUNDER-APPROVED UNLESS LATER DIRECTED",
+    "physical_count_depiction": {
+      "tour": 6,
+      "mega": 9,
+      "double_decker": 9,
+      "supply": 3
+    },
+    "branding": "Every depicted vehicle carries the JUSTIFIED WINS football-helmet wrap; a football is physically shown inside the helmet graphic; no crown is used.",
+    "interior_depiction": "Tour, Mega, Double-Decker and Supply families each include physical interior/support views; captions are supplemental, not substitutes.",
+    "tour_accessibility": "3 Mixed vehicles visibly marked for mixed-mobility; 3 Non-ADA vehicles; no ADA Tour Bus created.",
+    "mega_accessibility": "3 ADA / 3 Mixed / 3 Non-ADA physically grouped and marked.",
+    "double_accessibility": "3 ADA / 3 Mixed / 3 Non-ADA physically grouped and marked.",
+    "supply_functions": "4 washers + 4 dryers physically depicted in the representative supply interior, plus undercarriage bays, overhead racks, charging/work and equipment/luggage storage."
+  },
+  "recursive_mirror_review": {
+    "cycle_1_source_sheet": "STRENGTHEN REQUIRED — source generation had correct family headings/features but only representative buses and the generated helmet emblem did not physically contain a football.",
+    "correction": "Built an exact-count single-sport composition from the JUSTIFIED WINS source imagery; physically duplicated all 27 assigned vehicles; inserted a football into the helmet graphic on every exterior template; preserved no-vans/no-other-sports scope; physically depicted 4 washers + 4 dryers.",
+    "cycle_2": "HOLDS — exact count, assigned accessibility distribution, football-helmet identity, family interiors, supply functions and no-other-sports scope verified by Python and actual-artifact review.",
+    "repeat_cycle_needed": false
+  },
+  "save_state": "No Update-and-Save directive is present in the current prompt; candidate is not written forward as approved/current visual authority."
+}
