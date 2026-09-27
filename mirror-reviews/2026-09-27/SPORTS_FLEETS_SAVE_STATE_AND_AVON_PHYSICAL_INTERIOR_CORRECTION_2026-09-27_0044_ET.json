@@ -11,7 +11,7 @@
   ],
   "python_first_gate": {
     "prompt_sha256": "5f2e9c5227fc8a00ca7995c2d2809608c781990246f3a672ff71bd8f9f78a24a",
-    "save_detection_correction": "The phrase 'save time' is not a save directive. Separate cross-chat review confirmed earlier Sports Fleets Update-and-Save directions already governed the current rendering.",
+    "save_detection_correction": "The phrase 'save time' is not a save directive. Cross-chat review confirmed earlier Sports Fleets Update-and-Save directions already governed the current rendering.",
     "required_sequence_1_to_5_present": true
   },
   "cross_references": [
@@ -24,7 +24,7 @@
     "Fleet Interior Cross-Ref rows 47 and 50",
     "Mirror Review Archive rows 38-41",
     "Approved Visual Authority row 66",
-    "prior Sports Fleets Update-and-Save directions in the current cross-chat history"
+    "prior Sports Fleets Update-and-Save directions in the cross-chat history"
   ],
   "mirror_findings": {
     "save_state_failure": "The assistant's prior statement that another explicit save direction was required was wrong. The continuing Sports Fleets artifact already carried Founder Update-and-Save authority.",
@@ -40,9 +40,9 @@
       "authorized_scope": "AVON'S LACROSSE LEGACY column only",
       "outside_avon_changed_pixels": 0,
       "changes": [
-        "added a physical interior-view band to the AVON 15-passenger van row",
-        "strengthened the AVON 22nd-century supply-bus interior strip to visibly show washer/dryer plus storage/bay functions",
-        "preserved all pixels outside the AVON column"
+        "physical interior-view band added to the AVON 15-passenger van row",
+        "AVON 22nd-century supply-bus interior strip strengthened to visibly show washer/dryer and storage/bay functions",
+        "all pixels outside the AVON column preserved"
       ]
     },
     "legacy_save": {
@@ -51,35 +51,30 @@
       "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
       "backing_file_id": "file_00000000220c822f998a2fd291f15959"
     },
-    "database": [
-      "Fleet Interior Cross-Ref rows 47 and 50 corrected from NOT YET SAVED to current Update-and-Saved state",
-      "Mirror Review rows MR-2026-09-27-01 and MR-2026-09-27-02 save-state language corrected",
-      "MR-2026-09-27-04 appended",
-      "Approved Visual Authority row 66 appended for the current Sports Fleets artifact"
-    ],
+    "database": {
+      "master_library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+      "master_backing_file_id": "file_000000007cb4822faf57008f710c0935",
+      "master_sha256": "813515a2dca65bf9143d10f5ae4a39928ac8731b85cafce1eaddf948182a72b3",
+      "formula_error_scan": "0 matches",
+      "updates": [
+        "Fleet Interior Cross-Ref rows 47 and 50 corrected from NOT YET SAVED to current Update-and-Saved state",
+        "Mirror Review rows MR-2026-09-27-01 and MR-2026-09-27-02 save-state language corrected",
+        "MR-2026-09-27-04 appended at row 41",
+        "Approved Visual Authority row 66 appended for the current Sports Fleets artifact"
+      ]
+    },
     "github": [
       "current exact Founder prompt committed",
       "AVON Mirror Review updated with save-state + physical-depiction correction",
       "JUSTIFIED WINS Mirror Review updated with corrected save state",
-      "this recursive Mirror Review committed"
+      "manifest advanced to current master and current Sports Fleets visual",
+      "this recursive Mirror Review finalized"
     ]
   },
   "recursive_cycles": [
-    {
-      "cycle": 1,
-      "result": "FAIL",
-      "reason": "save-state drift + ML-021 physical-depiction gap"
-    },
-    {
-      "cycle": 2,
-      "result": "FAIL",
-      "reason": "broad image-generation attempts altered unaffected columns"
-    },
-    {
-      "cycle": 3,
-      "result": "HOLDS—STRENGTHEN",
-      "reason": "exact-source scoped correction; outside AVON unchanged; durable save restored; database/GitHub corrections applied"
-    }
+    {"cycle": 1, "result": "FAIL", "reason": "save-state drift + ML-021 physical-depiction gap"},
+    {"cycle": 2, "result": "FAIL", "reason": "broad image-generation attempts altered unaffected columns"},
+    {"cycle": 3, "result": "HOLDS—STRENGTHEN / PASS", "reason": "exact-source scoped correction; outside AVON unchanged; durable save restored; database/GitHub corrections applied; final Python workbook export and manifest verification passed"}
   ],
-  "final_gate": "HOLDS—STRENGTHEN / final Python workbook export + GitHub/manifest verification pending in same cycle"
+  "final_gate": "HOLDS—STRENGTHEN / PASS for this named Sports Fleets correction cycle"
 }
