@@ -1,0 +1,34 @@
+{
+  "record_type": "REFRESHED_AND_REINVIGORATED_FINAL_12_RENDERING_MANIFEST_2026-09-27",
+  "institution": "REFRESHED AND REINVIGORATED (Our Swim Team)",
+  "status": "CREATED — NOT FOUNDER-APPROVED / NOT UPDATE-AND-SAVED",
+  "source_control": "controls/REFRESHED_AND_REINVIGORATED_CURRENT_PROMPT_CONTROL_2026-09-27.json",
+  "visual_format_control": "Exactly 12 standalone full-size zoomable/editable photorealistic/cinematic renderings; no infographic/collage/combined board as final deliverable.",
+  "python_post_validation": {
+    "rendering_count": 12,
+    "all_nonblank": true,
+    "all_rgb": true,
+    "fleet_literal_checksum": 27,
+    "result": "PASS"
+  },
+  "renderings": [
+    {"file":"01_MAIN_ENTRANCE_JUST_LOVE_POND.png","size":[1800,683],"sha256":"8e8ee267a7c2c369d1491727afeac49be7e51a22c26f14eb739ed47733cd1489"},
+    {"file":"02_AERIAL_DUAL_POOL_RETRACTABLE_ROOF_CAMPUS.png","size":[1800,875],"sha256":"d25cdb67cf59adae0aeacb8b4c0e41bcacfaae3045b7d114e9124229a0b67e9c"},
+    {"file":"03_50M_COMPETITION_POOL.png","size":[1800,615],"sha256":"7bc6cb4bdbbb93dd9beaf26a3684684d977f9ff42db7d78ef095322435d3a17b"},
+    {"file":"04_DEEP_WATER_DIVING_WELL.png","size":[1800,931],"sha256":"82dddcc0ed4ecd056afd0b28ef8b068c28525989beb3800d389a4885c3cde735"},
+    {"file":"05_UNDERWATER_CAMERA_TIMING_SYSTEMS.png","size":[1800,1076],"sha256":"4fab4ab2d1d606b4d850be05963171ce391bb33cb2aaabaeea3930bad1233c05"},
+    {"file":"06_MEDIA_SPECTATOR_CONCOURSES.png","size":[1799,838],"sha256":"a4d02de3462ee4368eac530df7499797939b0df7b7a648e24a630d8ea4dce63f"},
+    {"file":"07_STEWARDS_COMMON_AREA_LOUNGE.png","size":[1800,692],"sha256":"0ded69b82b69b18f3cb6d8dc4b876f7709258c327d9f6b1a8e71a1a7c92e003e"},
+    {"file":"08_COMMON_AREA_EXEC_KITCHEN_10_SHOWERS_5_QUIET_PODS.png","size":[2394,620],"sha256":"d3f0399acad4e3fac4fe3ff37a899634a17c30e96a0d4806cff9eb2f74d3a661"},
+    {"file":"09_PERFORMANCE_RECOVERY_DRY_LAND_AREA.png","size":[1800,945],"sha256":"3dee25005cefba653f1a879e07b29f85ff30657e803c1e3be229083dcb0825f4"},
+    {"file":"10_FLEET_EXTERIORS_6_TOUR_9_MEGA_9_DOUBLEDECKER_3_SCHOOL.png","size":[1800,1000],"sha256":"efc486c4b185864b707c7cd16cff0d769dc3f83af18d5f73568c47b9f4f72bc7"},
+    {"file":"11_PASSENGER_BUS_INTERIOR_SHARED_CONTROLS.png","size":[1900,650],"sha256":"666b699bb9a6f7eb5ff8d1f71912695be1b1e01ae5af8e43616d335aaa7434dd"},
+    {"file":"12_SCHOOL_BUS_SUPPLY_STORAGE_4_WASHERS_4_DRYERS.png","size":[1800,390],"sha256":"e96b77f8e666d776066536a543e24cdf20e5ac70682aca97c181b6636879d939"}
+  ],
+  "rejected_candidates": [
+    "Initial generated concept-board candidate — rejected for infographic/collage format.",
+    "Second generated concept-board correction candidate — rejected for infographic/collage format.",
+    "Common-Area edit candidate — rejected because the image generator again returned a board/collage rather than a single-room rendering."
+  ],
+  "authority_boundary": "These renderings are created work only. They are not Founder-approved, current-controlled, or saved to the Legacy unless the Founder explicitly issues Update and Save / Save / approval direction."
+}
