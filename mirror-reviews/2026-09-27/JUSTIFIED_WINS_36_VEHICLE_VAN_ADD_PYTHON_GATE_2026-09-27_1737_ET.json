@@ -1,0 +1,75 @@
+{
+  "record_type": "AMW_LEGACY_JUSTIFIED_WINS_36_VEHICLE_PYTHON_GATE",
+  "date_local": "2026-09-27",
+  "time_local": "17:37 ET",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_1737_ET_JUSTIFIED_WINS_VAN_ADD_SAVE.txt",
+  "prompt_sha256": "728477c5811f0e45f2b306edb7fe238647d97c3056265533be29f49f18759b5f",
+  "prompt_read_complete": true,
+  "update_and_save_requested": true,
+  "scope": "JUSTIFIED WINS single-sport fleet rendering only",
+  "precedence_resolution": {
+    "shorthand": "6-15 passenger vans",
+    "later_explicit_breakdown": "3 ADA + 3 Mixed + 3 Non-ADA",
+    "resolved_van_count": 9,
+    "rule": "later explicit per-configuration breakdown controls over shorthand total wording"
+  },
+  "current_counts": {
+    "tour_buses": "6 total = 3 Mixed + 3 Non-ADA",
+    "15_passenger_vans": "9 total = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "mega_buses": "9 total = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "double_deckers": "9 total = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "22nd_century_supply_buses": "3 total",
+    "grand_total": 36
+  },
+  "van_controls": [
+    "outreach/education/resources mission",
+    "extra-legroom reclining seats",
+    "onboard power outlets",
+    "high-speed Wi-Fi",
+    "individual air conditioning and heating",
+    "configuration-appropriate restroom facilities",
+    "overhead cabin storage",
+    "premium AV: flat-screen monitors, DVD players, high-end sound, auxiliary/Bluetooth inputs"
+  ],
+  "visual_cycle": {
+    "source_artifact": {
+      "path": "/mnt/data/JUSTIFIED_WINS_27_VEHICLE_FLEET_CANDIDATE_2026-09-27.png",
+      "sha256": "6742bf025f436fd96315b55d1294adc6c50b2f07ca9420009bc4937f28449064",
+      "status_before_prompt": "Founder-directed candidate awaiting Update-and-Save"
+    },
+    "image_generation_intermediate": {
+      "path": "/mnt/data/a_detailed_infographic_poster_presentation_board.png",
+      "sha256": "ba0c6202034055a333252dd91afa15cf581c304b695abcb105913dc46b956ed2",
+      "status": "REJECTED / NON-CONTROLLING",
+      "reason": "regenerated the entire board and contradicted its own van heading: 6 vans versus explicit 3+3+3=9"
+    },
+    "final_artifact": {
+      "path": "/mnt/data/JUSTIFIED_WINS_36_VEHICLE_FLEET_CURRENT_2026-09-27.png",
+      "sha256": "ed5881a1c91888b35ca9fbb2f606f63200017f21ae2369fdd56ec93aa21e8599",
+      "dimensions": [2600, 3840],
+      "library_path": "/THE AMW LEGACY/JUSTIFIED_WINS_36_VEHICLE_FLEET_CURRENT_2026-09-27.png",
+      "library_file_id": "libfile_5367e1b7ba908191a3dc6dea6733f390",
+      "backing_file_id": "file_00000000f268822f8c420a2f29d27fed",
+      "library_byte_hash_verified": true
+    },
+    "source_preservation": {
+      "changed_pixels_outside_authorized_regions_before_insert": 0,
+      "changed_pixels_outside_authorized_regions_after_shift_alignment": 0,
+      "authorized_changes": "van-section insertion, header total, downstream section renumbering, footer count text"
+    }
+  },
+  "master_write_forward": {
+    "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "backing_file_id": "file_00000000b1b081f5ab8768d3dfe15683",
+    "sha256": "e5e4ce484cb28ede6fba051907ff6df15dc538a21351d8d4715e81261f709140",
+    "formula_error_scan": "0 matches",
+    "updated": [
+      "Fleet Interior Cross-Ref row 47",
+      "Legacy Institutions row 25",
+      "Approved Visual Authority row 67",
+      "Mirror Review Archive row 44",
+      "Visual Corpus Audit rows 15-16"
+    ]
+  },
+  "python_gate_result": "PASS"
+}
