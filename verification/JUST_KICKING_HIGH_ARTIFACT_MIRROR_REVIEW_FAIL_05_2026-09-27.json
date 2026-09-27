@@ -1,0 +1,13 @@
+{
+  "artifact": "a_large_cinematic_ultra_detailed_infographic_pos.png",
+  "sha256": "be22faf353bb7993be9f8696d4683fb14e99fee6acabb2e14c41baa7bc545e84",
+  "dimensions": [1536,1024],
+  "result": "FAIL_REJECTED_NONCONTROLLING",
+  "failures": [
+    "Fifth candidate remains an infographic/poster board despite explicit one-scene correction.",
+    "Still contains cosmetology identity and common-area salon imagery, violating controls-only inheritance.",
+    "Still displays superseded 3-tour-bus shorthand together with current 4/4/4 tour fleet.",
+    "Not a standalone campus exterior and therefore fails the actual-artifact gate."
+  ],
+  "next_correction": "Use image-edit mode on this exact generated artifact and replace the entire canvas with one standalone exterior scene."
+}
