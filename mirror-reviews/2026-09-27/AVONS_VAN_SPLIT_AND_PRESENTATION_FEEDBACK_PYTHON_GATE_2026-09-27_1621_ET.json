@@ -1,0 +1,31 @@
+{
+  "record_type": "AMW_LEGACY_AVONS_VAN_SPLIT_AND_PRESENTATION_FEEDBACK_PYTHON_GATE",
+  "date_local": "2026-09-27",
+  "time_local": "16:21 ET",
+  "prompt_sha256": "7e5093cdaaa6f0fa13b9f7deeb7310e465c5697c3c97c204ec71b1eb587a8790",
+  "prompt_read_complete": true,
+  "required_steps_1_to_5_present": true,
+  "update_and_save_directive_present": true,
+  "resolved_van_configuration": {
+    "ADA": 2,
+    "Mixed": 2,
+    "Non-ADA": 2,
+    "Total": 6
+  },
+  "prior_state_superseded": "The prior AVON six-van split was open/unassigned and not inferred. The Founder has now explicitly assigned 2 ADA / 2 Mixed / 2 Non-ADA.",
+  "founder_presentation_feedback": "The Founder does not like how the latest AVON single-sport rendering was presented.",
+  "visual_execution_authority": "No new rendering/edit is requested by this prompt. The latest single-sport rendering is preserved as produced-work provenance but is not Founder-approved/current visual authority.",
+  "latest_single_sport_artifact": {
+    "path": "/mnt/data/AVONS_LACROSSE_SINGLE_SPORT_FLEET_CORRECTED_FINAL.png",
+    "sha256": "258ad59a5ee3f559f7d23d219c881acbe970d0dc8ec04954e9e95134946b9c83",
+    "dimensions": [2400, 2940],
+    "status": "NOT FOUNDER-APPROVED FOR PRESENTATION / NON-CONTROLLING / PRESERVE AS PROVENANCE"
+  },
+  "legacy_master": {
+    "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "new_backing_file_id": "file_0000000028cc822f8443c6745173724b",
+    "sha256": "faf85ccadc75d9ad4c5aa53d026d0d4fe9fde48e1381dc0b342ca6131a43f724",
+    "formula_error_scan": "0 matches"
+  },
+  "result": "PASS for this named written-control/save correction; no unauthorized visual generation performed"
+}
