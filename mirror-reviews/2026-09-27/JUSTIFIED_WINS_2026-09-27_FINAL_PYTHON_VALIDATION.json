@@ -1,0 +1,20 @@
+{
+  "source_dimensions": [1536, 1024],
+  "candidate_dimensions": [1536, 1024],
+  "source_sha256": "9e0c0471ee8d84dd07c6b6b8dc0138ff6eff1d699c2f1cd302c7d2657d4a112b",
+  "candidate_sha256": "6035b7213ed9423a36c7a19a76f25b593225e58f644de8bced29c93f8b16e0a1",
+  "outside_authorized_changed_pixels": 0,
+  "inside_authorized_changed_pixels": 75642,
+  "other_four_sports_columns_pixel_identical": true,
+  "global_header_above_y137_pixel_identical": true,
+  "fleet_counts": {
+    "tour": 12,
+    "vans": 6,
+    "mega": 12,
+    "double_decker": 12,
+    "supply": 3,
+    "total": 45
+  },
+  "van_exact_config_split_inferred": false,
+  "final_gate": "PASS"
+}
