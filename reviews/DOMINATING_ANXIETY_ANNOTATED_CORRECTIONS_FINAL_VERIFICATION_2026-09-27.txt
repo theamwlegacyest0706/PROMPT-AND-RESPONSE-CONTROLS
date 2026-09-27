@@ -1,0 +1,26 @@
+DOMINATING ANXIETY LEGACY BOXING — FOUNDER ANNOTATED CORRECTIONS FINAL VERIFICATION — 2026-09-27
+
+SOURCE: Founder-supplied annotated rendering in current chat.
+PREFLIGHT COMMIT: 79d0aab185ff5a5f97aa62c3c6b17c5696915800
+
+FINAL WORKING OUTPUT:
+DOMINATING_ANXIETY_FOUNDER_ANNOTATED_CORRECTIONS_WORKING_v1.png
+Library file id: file_000000001340822f9e75082a775db6ec
+Library record id: libfile_d74e701872e48191ad670177b5b53cb1
+
+PYTHON POST-EDIT VERIFICATION: PASS
+- Top Founder KEEP region preserved exactly.
+- Tour-bus, van, mega-bus, and double-decker approved exterior source regions preserved exactly.
+- Spectator/Fan & Media Pavilion Founder KEEP region preserved exactly.
+- Lower Founder-saved sections preserved exactly.
+- Visible fleet-interior row inserted for tour buses, vans, mega buses, double-deckers, and supply buses.
+- Existing conventional school-bus depiction replaced with visibly futuristic supply-bus treatment.
+- Pro & Championship, Golden Gloves Academy, and Official WBA Title Ring spectator spaces expanded.
+
+FOUNDER SAVE/UPDATE EXECUTION:
+15 source components were extracted from the Founder-supplied rendering and saved to the Legacy Library under:
+/THE AMW LEGACY/DOMINATING ANXIETY LEGACY BOXING/Founder Saved Components/2026-09-27/
+These include the approved fleet exteriors and all lower components covered by Founder save annotations 23–46.
+
+STATUS:
+PASS for the named annotated corrections and preservation checks. The corrected whole rendering remains a WORKING rendering unless/until the Founder explicitly approves/saves the whole image as the current controlled visual.
