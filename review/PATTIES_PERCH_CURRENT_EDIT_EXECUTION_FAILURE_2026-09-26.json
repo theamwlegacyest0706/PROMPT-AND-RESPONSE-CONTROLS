@@ -1,0 +1,39 @@
+{
+  "id": "MR-2026-09-26-PATTIES-PERCH-CURRENT-EDIT-EXECUTION-FAILURE",
+  "date": "2026-09-26",
+  "trigger": "Founder identified that the supplied screenshot and bounded edit instructions were overridden by assistant-generated redesigns despite the existing Python/GitHub verification controls.",
+  "sources_cross_referenced": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "controls/FOUNDER_ANNOTATED_VISUAL_CONTROL_2026-09-26_0014_ET_PATTIES_PERCH.txt",
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-25_2150_ET_PATTIES_PERCH_RENDER.txt",
+    "review/Mirror_Review_2026-09-23_SELF_HINDERING_PATTERN.json",
+    "reviews/2026-09-24_PATTIES_PERCH_PRE_RENDER_MIRROR_REVIEW.md",
+    "reviews/2026-09-24_PATTIES_PERCH_ACTUAL_ARTIFACT_MIRROR_REVIEW_01.md",
+    "reviews/PATTIES_PERCH_FINAL_VERIFICATION_PASS_2026-09-26.txt",
+    "commit 99b66693d0a96117d7ea0b37500986cb9bd4a385 — precheck common-area edit"
+  ],
+  "python_gate": {
+    "prompt_sha256": "3e83e4d5b8d4362da0132cfb1a7b4e358d6ce7cb4f352686daebe9f628e81588",
+    "steps_detected": [1,2,3,4,5],
+    "source_task": "edit existing Founder screenshot",
+    "forbidden_actions": ["blank-slate redesign","recreate full board","substitute new rendering","change frozen regions","present failed artifact"],
+    "result": "PASS as specification; execution failed after gate"
+  },
+  "mirror_finding": "The control was present in GitHub and had been prechecked, but it was not enforced as a hard execution gate after image generation. Multiple full-board transformations were allowed to reach the Founder even though the authoritative rule required exact-source bounded edits only. This repeats CONTROL_AS_DOCUMENT_NOT_GATE, APPROVED_BASE_SCOPE_BREAK, REQUEST_SUBSTITUTION, and FOUNDER_QA_LABOR_TRANSFER.",
+  "artifact_findings": [
+    "All newly regenerated full-board PATTIES PERCH variants produced after the bounded common-area precheck are REJECTED / NON-CONTROLLING.",
+    "The controlling source remains the Founder-supplied screenshot/rendering identified in the annotated visual control.",
+    "Only the four Founder-named correction areas are editable; annotations 5-71 remain frozen visual authority.",
+    "The local file PATTIES_PERCH_STEWARDS_COMMON_AREA_FINAL_VERIFIED_2026-09-26.png changes only a bounded common-area region, but semantic review fails because the remaining Stewards Common Area controls are primarily written as labels rather than visibly depicted; it is therefore REJECTED / NON-CONTROLLING and must not be presented as verified or saved current.",
+    "No further new rendering, replacement board, alternate layout, global restyle, or unrequested image generation is authorized."
+  ],
+  "corrections_applied": [
+    "Stop all replacement-board generation for this task.",
+    "Use the exact Founder screenshot as the only image base.",
+    "Preserve every unaffected pixel/region outside the specifically authorized edit masks.",
+    "Require both pixel-integrity verification and semantic visual-control verification before any edited image may be shown.",
+    "Do not count text labels as satisfying controls that must be visibly depicted.",
+    "Do not save any corrected whole image as current until the Founder-directed save condition is actually satisfied."
+  ],
+  "status": "FAILURE IDENTIFIED; NONCOMPLIANT OUTPUTS REJECTED; RE-ENTRY REQUIRES EXACT-SOURCE BOUNDED EDIT AND POST-EDIT PYTHON/GITHUB VERIFICATION BEFORE PRESENTATION"
+}
