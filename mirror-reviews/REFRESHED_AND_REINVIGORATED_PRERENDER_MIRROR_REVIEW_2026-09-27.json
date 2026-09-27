@@ -1,0 +1,26 @@
+{
+  "review_id": "MR-2026-09-27-REFRESHED-AND-REINVIGORATED-PRERENDER",
+  "status": "PRE-RENDER HOLDS / PASS",
+  "cross_reference": [
+    "Current Founder prompt in active chat",
+    "controls/REFRESHED_AND_REINVIGORATED_CURRENT_PROMPT_CONTROL_2026-09-27.json",
+    "controls/FOUNDER_CORRECTION_EXACT_2026-09-26_VISUAL_RENDERING_CONTROL_AND_VERIFICATION_CYCLE.txt",
+    "AMW_EXACT_PROMPT_ARCHIVE_DRIVE_2026-09-26.json historical REFRESHED AND REINVIGORATED prompt",
+    "current Legacy launch-register inherited controls"
+  ],
+  "corrections_before_render": [
+    "Use current 27-vehicle fleet, not archived 13-vehicle fleet.",
+    "Use current Founder-specific Stewards' Common Area controls, not the older generic Cosmetology-mirrored wording where they conflict.",
+    "Preserve 8 total TVs exactly: 5 watching and 3 gaming.",
+    "Preserve executive kitchen plus executive chef, 10 showers, 2 convertible gaming tables, empty Legacy Chair, empty Legacy Table, and 5 Quiet Decompressing pods.",
+    "Preserve Tour Bus split exactly as 3 Mixed + 3 Non-ADA; do not invent ADA Tour Buses in this 6-bus family.",
+    "Preserve 9 Mega Buses and 9 Double-Decker Buses each as 3 ADA + 3 Mixed + 3 Non-ADA.",
+    "Preserve exactly 3 22nd-century supply school buses and exactly 4 washers + 4 dryers across the specified supply-laundry function.",
+    "Render all swim engineering and spectator/recovery controls without replacing them with labels only.",
+    "Apply Emerald Green and Antique Gold plus uniform control.",
+    "Apply inherited Just Love Pond, accessibility, circular/curved geometry where appropriate, Legacy Creator furnishing direction, renewable/solar direction, and fleet interior/exterior requirements where compatible.",
+    "Do not make an infographic, collage, contact sheet or combined board."
+  ],
+  "visual_execution": "Exactly 12 standalone full-size photorealistic/cinematic images. Each image covers a bounded portion of the Founder scope; collectively the set must physically depict the full current program and fleet controls.",
+  "final_pretool_assurance": "HOLDS"
+}
