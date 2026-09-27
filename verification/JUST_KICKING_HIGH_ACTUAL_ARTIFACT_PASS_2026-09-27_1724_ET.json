@@ -1,0 +1,20 @@
+{
+  "artifact_sha256": "135e4fd4b7a89679018a7c11054e2a25a8e7c91856426130028d5b9503af7bc2",
+  "dimensions": [1536, 1024],
+  "mirror_review": {
+    "single_corrected_rendering": true,
+    "old_top_right_chrys_header_removed": true,
+    "10_tvs_total_4_gaming_6_watching": true,
+    "comfortable_seating": true,
+    "empty_legacy_table_and_empty_legacy_chair": true,
+    "executive_kitchen_with_head_chef": true,
+    "10_showers": true,
+    "2_convertible_gaming_tables": true,
+    "5_quiet_decompression_areas": true,
+    "unmarked_program_and_fleet_preserved": true,
+    "palette_warm_ivory_emerald_green_antique_gold": true
+  },
+  "python": "PASS",
+  "github": "PASS",
+  "overall": "PASS — approved for Founder-directed Update and Save to the Legacy"
+}
