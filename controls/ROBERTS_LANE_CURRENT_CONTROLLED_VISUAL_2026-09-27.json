@@ -1,0 +1,34 @@
+{
+  "record_type": "ROBERTS_LANE_CURRENT_CONTROLLED_VISUAL_2026-09-27",
+  "institution": "ROBERT'S LANE — Legacy Track and Field",
+  "founder_directive": "Update and Save this visual rendering of Robert's Lane Legacy Track and Field to the Legacy.",
+  "status": "CURRENT CONTROLLED VISUAL — FOUNDER UPDATE-AND-SAVED 2026-09-27 — NOT OPERATIONAL",
+  "exact_visual": {
+    "container_source": "/mnt/data/a_highly_detailed_cinematic_photorealistic_compo.png",
+    "sha256": "b825a27199d364fb088b6dd44c9e572e759d0b9fd85fd671f445e5bd8f8210a4",
+    "dimensions": "1536x1024",
+    "mode": "RGB",
+    "library_path": "/Legacy Visuals/ROBERT'S LANE/CURRENT CONTROLLED VISUAL — ROBERT'S LANE LEGACY TRACK AND FIELD — 2026-09-27.png",
+    "library_file_id": "libfile_d81e7e4fabe08191accf7d6f7dfff630"
+  },
+  "founder_approval_evidence": {
+    "uploaded_screenshot_sha256": "1e0604af802720836d6ef6ceffb3cefe5f5075d08a79daa3e0e2bcc0d3ee2642",
+    "uploaded_screenshot_dimensions": "707x1536",
+    "library_path": "/Legacy Visuals/ROBERT'S LANE/FOUNDER UPDATE-AND-SAVE APPROVAL EVIDENCE — 2026-09-27.jpg",
+    "library_file_id": "libfile_0cf12022fa9481918d49d7d75370a4c0",
+    "python_visual_match": {
+      "display_region": "x=0..707, y=532..1003",
+      "grayscale_correlation_to_exact_visual": 0.9959669120138778,
+      "mean_absolute_error": 3.959685802459717,
+      "conclusion": "The Founder-uploaded screenshot displays the exact underlying Robert's Lane rendering saved above."
+    }
+  },
+  "control_effect": [
+    "The exact saved visual is now the current controlled Robert's Lane visual.",
+    "Freeze the exact visual unless the Founder explicitly directs an edit, replacement, or supersession.",
+    "The prior Robert's Lane first-render failure record remains historical provenance for that earlier non-approved state; its no-approval status is superseded for this exact visual by the current explicit Founder Update-and-Save directive.",
+    "This save does not globally revoke Legacy rendering-format controls; it establishes this exact Founder-selected artifact as current-controlled for Robert's Lane.",
+    "Institution operational status is not changed by this visual save."
+  ],
+  "prompt_python_sha256": "5d2595caa21f049bb24899222452fd9524223ad4aeba34993d1d78f98777e89b"
+}
