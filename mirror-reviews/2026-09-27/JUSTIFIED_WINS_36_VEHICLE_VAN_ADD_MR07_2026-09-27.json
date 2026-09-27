@@ -1,0 +1,52 @@
+{
+  "record_type": "AMW_LEGACY_RECURSIVE_MIRROR_REVIEW",
+  "review_id": "MR-2026-09-27-07",
+  "date_local": "2026-09-27",
+  "trigger": "Founder directed Update-and-Save of the JUSTIFIED WINS fleet rendering and added a 15-passenger van family with an explicit 3 ADA / 3 Mixed / 3 Non-ADA breakdown.",
+  "cross_referenced": [
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-27_1737_ET_JUSTIFIED_WINS_VAN_ADD_SAVE.txt",
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-27_JUSTIFIED_WINS_27_VEHICLE_FLEET_CREATE.txt",
+    "mirror-reviews/2026-09-27/JUSTIFIED_WINS_27_VEHICLE_FLEET_CREATE_MIRROR_REVIEW.json",
+    "mirror-reviews/2026-09-27/JUSTIFIED_WINS_FLEET_UPDATE_2026-09-27_0017_ET.json",
+    "current Legacy master Fleet Interior Cross-Ref / Legacy Institutions / Approved Visual Authority / Visual Corpus Audit / Mirror Review Archive",
+    "exact 27-vehicle source artifact and finished 36-vehicle artifact"
+  ],
+  "finding": {
+    "count_conflict": "The prompt contains shorthand '6-15 passenger vans' followed by the explicit later breakdown 3 ADA + 3 Mixed + 3 Non-ADA.",
+    "resolution": "The later, more specific breakdown controls. Van count = 9. Total JUSTIFIED WINS fleet = 36 vehicles.",
+    "first_visual_attempt": "FAIL — full-board regeneration contradicted its own heading by saying 6 vans while showing labels totaling 9 and did not preserve the exact prior rendering.",
+    "exact_source_requirement": "All unaffected pixels in the prior 27-vehicle rendering are frozen except the named van insertion and the consequential count/renumber text changes."
+  },
+  "corrections": [
+    "Rejected the full-board image-generation intermediate as provenance only.",
+    "Returned to the exact 27-vehicle JUSTIFIED WINS rendering.",
+    "Inserted a new 15-passenger van section with 9 physically depicted vans: 3 ADA, 3 Mixed, 3 Non-ADA.",
+    "Applied the JUSTIFIED WINS football-helmet identity to the van wraps with a football physically inside the helmet.",
+    "Physically depicted van interior functions and retained the Founder-specified seating, power, Wi-Fi, climate, restroom, overhead storage and premium-AV controls.",
+    "Updated the total from 27 to 36 and renumbered downstream vehicle-family sections only as required by the insertion.",
+    "Python comparison found 0 changed pixels outside authorized regions after coordinate alignment.",
+    "Saved the finished current rendering to /THE AMW LEGACY and wrote the new authority state into the Legacy master."
+  ],
+  "current_artifact": {
+    "library_path": "/THE AMW LEGACY/JUSTIFIED_WINS_36_VEHICLE_FLEET_CURRENT_2026-09-27.png",
+    "library_file_id": "libfile_5367e1b7ba908191a3dc6dea6733f390",
+    "backing_file_id": "file_00000000f268822f8c420a2f29d27fed",
+    "sha256": "ed5881a1c91888b35ca9fbb2f606f63200017f21ae2369fdd56ec93aa21e8599",
+    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED / MIRROR-CORRECTED"
+  },
+  "current_counts": {
+    "tour": "6 = 3 Mixed + 3 Non-ADA",
+    "vans": "9 = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "mega": "9 = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "double_decker": "9 = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "supply": 3,
+    "total": 36
+  },
+  "recursive_cycle": [
+    {"cycle": 1, "result": "FAIL", "reason": "full-board regeneration/count contradiction"},
+    {"cycle": 2, "result": "PASS / HOLDS—STRENGTHEN", "reason": "exact-source preservation, correct 9-van physical depiction, Library save and master write-forward verified"}
+  ],
+  "system_wide_status": "MR-2026-09-27-03 system-wide FAIL/OPEN remains separate and is not converted to PASS by this named fleet correction.",
+  "final_result": "HOLDS—STRENGTHEN / PASS for MR-2026-09-27-07"
+}
