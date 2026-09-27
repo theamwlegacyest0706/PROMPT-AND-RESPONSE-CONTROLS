@@ -17,7 +17,7 @@
       "22nd_century_school_supply_buses": "1 total; supplies/equipment/luggage; washer/dryer for uniforms; undercarriage bays"
     },
     "fleet_total_if_six_vans_are_total": 31,
-    "same_prompt_precedence": "The later explicit Tour Bus breakdown (2 ADA / 2 Mixed / 2 Non-ADA) is more specific and controls over the earlier shorthand '3 tour buses ADA/Mixed/Non-ADA'."
+    "same_prompt_precedence": "The later explicit Tour Bus breakdown (2 ADA / 2 Mixed / 2 Non-ADA) controls over the earlier shorthand '3 tour buses ADA/Mixed/Non-ADA'."
   },
   "supersession_for_avons_lacrosse_only": [
     "Prior AVON'S LACROSSE LEGACY 3 Tour / 3 Van / 3 Mega / 3 Double / 1 Supply count is superseded by this Founder prompt.",
@@ -55,18 +55,34 @@
       "emergency readiness",
       "intentional empty chair where seating is depicted",
       "ADA/Mixed/Non-ADA never inferred by color",
-      "DESIGNED/rendered does not equal operational readiness"
+      "DESIGNED/rendered does not equal operational readiness",
+      "ML-021 physical exterior + interior depiction; captions do not substitute"
     ]
   },
-  "rendering_cycle": {
-    "final_candidate": {
-      "artifact": "/mnt/data/AVONS_LACROSSE_FLEET_UPDATE_CANDIDATE.png",
-      "sha256": "053431c9a5bb756dfcb18d4bef7b3e79ae48d1058bf79c87fa501c4fe741c832",
+  "recursive_correction_2026_09_27_0044": {
+    "trigger": "Founder screenshots exposed that the assistant incorrectly said the corrected AVON rendering was awaiting another explicit Save/Update-and-Save direction.",
+    "save_state_correction": "Earlier Founder Sports Fleets Update-and-Save direction already governed the continuing corrected rendering; waiting for another save instruction was incorrect.",
+    "visual_mirror_finding": "The prior candidate did not physically depict a 15-passenger-van interior and the supply-bus washer/dryer requirement was primarily label-level, conflicting with ML-021/no-caption-substitution.",
+    "image_generation_attempts": "Full-board generation attempts changed unaffected columns and were rejected/non-controlling.",
+    "precise_correction": {
+      "artifact": "/mnt/data/AVONS_LACROSSE_FLEET_MIRROR_CORRECTED_2026-09-27.png",
+      "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65",
       "dimensions": [1536, 1024],
-      "scope": "AVON'S LACROSSE LEGACY column control strips only",
-      "outside_authorized_region_changed_pixels": 0,
-      "status": "HOLDS / CURRENT CANDIDATE — NOT YET FOUNDER-APPROVED OR IMAGE-SAVED"
+      "scope": "AVON'S LACROSSE LEGACY column only",
+      "outside_avon_changed_pixels": 0,
+      "strengthening": [
+        "physical van interior-view band added within the AVON van row",
+        "supply-bus interior strip strengthened to visibly show washer/dryer and storage/bay functions",
+        "all other Sports Fleets pixels preserved"
+      ]
     }
+  },
+  "legacy_save": {
+    "status": "UPDATE-AND-SAVED / CURRENT",
+    "library_path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CURRENT_SLATE_MIDNIGHT_2026-09-26.png",
+    "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
+    "backing_file_id": "file_00000000220c822f998a2fd291f15959",
+    "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65"
   },
   "legacy_database_update": {
     "workbook": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
@@ -74,13 +90,17 @@
     "updated_sheet": "Fleet Interior Cross-Ref",
     "updated_row": 50,
     "mirror_review_row": 39,
-    "export_sha256": "ca37e208e871b96a508634e1e8a15a958367748d7ce89a186f71bc64ec3d7666",
+    "new_recursive_mirror_review_row": 41,
+    "approved_visual_authority_row": 66,
     "formula_error_scan": "0 matches"
   },
   "recursive_mirror_review": {
     "prior_reviews_cross_referenced": true,
+    "cross_chat_context_cross_referenced": true,
     "legacy_database_cross_referenced": true,
-    "cycle_result": "HOLDS — exact source preserved outside authorized Avon regions; current prompt controls reflected; current master written forward",
+    "cycle_1": "FAIL — save-state drift and ML-021 physical-interior gap found",
+    "cycle_2": "FAIL — broad image-generation attempts changed unaffected regions and were rejected",
+    "cycle_3": "HOLDS—STRENGTHEN — exact source preserved outside AVON; physical interior depiction strengthened; save state corrected and durably integrated",
     "repeat_cycle_needed": false
   }
 }
