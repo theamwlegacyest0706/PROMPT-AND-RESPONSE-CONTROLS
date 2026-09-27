@@ -1,0 +1,15 @@
+{
+  "artifact": "a_large_collage_infographic_design_board_ultra_de.png",
+  "sha256": "7fb41cb50fc403031368eb51178a7e9d2cb0ff0daedc471f4e468d60b670b79a",
+  "dimensions": [1536,1024],
+  "result": "FAIL_REJECTED_NONCONTROLLING",
+  "failures": [
+    "Still an infographic/collage/design board, violating standalone-rendering control.",
+    "Still imports I AM A MASTERPIECE cosmetology salon imagery instead of Common Area controls only.",
+    "Still repeats superseded three-tour-bus shorthand alongside controlling 4/4/4 tour breakdown.",
+    "Does not provide actual-artifact verifiable standalone fleet interiors/configurations.",
+    "Common Area exact seven-TV/2-gaming/5-viewing, showers, kitchen and convertible table-game controls are not visibly verifiable.",
+    "Text-heavy board presentation contains image text that is not reliable control evidence."
+  ],
+  "correction": "Reject. Next generation must be ONE standalone photorealistic/cinematic scene only with no panels, collage, board, captions, labels, salon stations, or inset images."
+}
