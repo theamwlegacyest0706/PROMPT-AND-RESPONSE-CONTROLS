@@ -1,0 +1,40 @@
+{
+  "record_type": "AMW_LEGACY_RECURSIVE_MIRROR_REVIEW",
+  "review_id": "MR-2026-09-27-05",
+  "date_local": "2026-09-27",
+  "trigger": "Founder identified that the assistant took a prompt/edit from a different chat and used it instead of following the current full prompt.",
+  "cross_referenced": [
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-27_CROSS_CHAT_CONTAMINATION_CORRECTION.txt",
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "mirror-reviews/2026-09-27/SPORTS_FLEETS_SAVE_STATE_AND_AVON_PHYSICAL_INTERIOR_CORRECTION_2026-09-27_0044_ET.json",
+    "mirror-reviews/2026-09-27/AVONS_LACROSSE_FLEET_UPDATE_2026-09-27.json",
+    "mirror-reviews/2026-09-27/JUSTIFIED_WINS_FLEET_UPDATE_2026-09-27_0017_ET.json",
+    "current Legacy master Mirror Review Archive / Visual Corpus Audit / Fleet Interior Cross-Ref / Approved Visual Authority",
+    "current Sports Fleets saved artifact"
+  ],
+  "finding": {
+    "failure_class": "cross-chat / wrong-prompt contamination",
+    "wrong_execution": "A sequence of image-generation calls used unrelated/full-board task behavior instead of the current exact correction workflow, regenerating the entire Sports Fleets board rather than preserving frozen unaffected regions.",
+    "python_verification": "Five contaminated full-board outputs changed approximately 99.7% of pixels outside the authorized AVON edit region and therefore fail the exact-source/frozen-region gate.",
+    "current_artifact_integrity": "The current Update-and-Saved Sports Fleets artifact SHA-256 32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65 remains controlling and has 0 changed pixels outside AVON versus the pre-AVON source under the exact authorized region used by the prior verified correction."
+  },
+  "corrections": [
+    "Stopped the unrelated prompt/edit path.",
+    "Classified all contaminated full-board generations from this sequence as REJECTED / QUARANTINED / NON-CONTROLLING provenance.",
+    "Preserved the existing CURRENT CONTROLLED / UPDATE-AND-SAVED Sports Fleets rendering; no new visual is generated from the Founder complaint/Mirror prompt.",
+    "Updated the Legacy master Mirror Review Archive with MR-2026-09-27-05.",
+    "Updated Visual Corpus Audit with the rejected wrong-chat generation sequence.",
+    "Retained MR-2026-09-27-04 and the current Sports Fleets visual authority without supersession."
+  ],
+  "save_state": {
+    "current_sports_fleets_visual": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CURRENT_SLATE_MIDNIGHT_2026-09-26.png",
+    "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
+    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED / MIRROR-CORRECTED",
+    "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65"
+  },
+  "recursive_cycle": [
+    {"cycle":1,"result":"FAIL","reason":"wrong-chat/full-board generation path contaminated the current task"},
+    {"cycle":2,"result":"PASS / HOLDS—STRENGTHEN","reason":"contaminated outputs quarantined; current artifact preserved; database and GitHub corrected; no unauthorized visual regeneration"}
+  ],
+  "final_result": "HOLDS—STRENGTHEN / PASS for this named cross-chat contamination correction only. System-wide open recovery status remains separate."
+}
