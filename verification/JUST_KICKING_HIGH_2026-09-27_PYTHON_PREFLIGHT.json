@@ -1,0 +1,30 @@
+{
+  "prompt_sha256": "18df5f5bc9165001bfb01366949627597b54d2bb92eb067c9059001a6af2078e",
+  "checks": {
+    "full_prompt_control_sequence_present": true,
+    "current_name_matches_legacy_register": true,
+    "common_area_controls_only_not_salons": true,
+    "common_area_tv_checksum": true,
+    "global_visual_controls_loaded": true,
+    "uniform_control_loaded": true,
+    "facility_program_count": true,
+    "fleet_total_vehicles": true,
+    "later_explicit_tour_breakdown_controls": true,
+    "six_van_split_not_inferred": true
+  },
+  "pass": true,
+  "fleet_total": 55,
+  "control_resolution": {
+    "institution": "JUST KICKING HIGH Legacy MMA Team / LIN-030",
+    "palette": "Antique Gold dominant, Warm Ivory + Emerald Green accents",
+    "common_area": "I AM A MASTERPIECE Cosmetology Stewards Common Area CONTROLS ONLY on a slightly larger footprint: 7 TVs total (2 gaming + 5 general viewing), quiet/decompression area, at least 2 showers, full kitchen, convertible table-game equipment, comfortable relaxation seating; global Empty Chair, ROUND Legacy Table and circular/curved furniture controls apply. Do not import salon service stations or salon design language.",
+    "uniforms": "Reflect institution palette; professional, functional and inclusive; role-specific options; durable/comfortable/practical; mission-appropriate; name/role and AMW logo options; ADA/safety-compliant where needed.",
+    "tour_buses": "Later same-prompt explicit breakdown controls: 4 ADA + 4 Mixed + 4 Non-ADA = 12 total for fans/family travel; earlier shorthand 3 ADA/Mixed/Non-ADA is treated as superseded shorthand, consistent with recent sports-fleet Mirror Review precedent.",
+    "vans": "6 total across ADA/Mixed/Non-ADA; exact split not inferred.",
+    "mega_buses": "6 ADA + 6 Mixed + 3 Non-ADA = 15 total.",
+    "double_deckers": "6 ADA + 6 Mixed + 6 Non-ADA = 18 total.",
+    "school_buses": "4 22nd-century supply buses with washers/dryers, undercarriage bays and overhead racks.",
+    "fleet_total": 55,
+    "global_visuals": "Just Love Pond near principal/public entrance; renewable/solar/all-electric-ready direction; accessibility; Legacy Creator furnishing priority; concept/status must not imply built/licensed/operational; finished visuals require actual-artifact Mirror Review before complete/current-controlled claim; no infographic/collage/board substitute for finished visual."
+  }
+}
