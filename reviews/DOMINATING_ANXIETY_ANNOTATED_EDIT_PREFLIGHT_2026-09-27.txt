@@ -1,0 +1,27 @@
+DOMINATING ANXIETY LEGACY BOXING — ANNOTATED EDIT PREFLIGHT — 2026-09-27
+
+SOURCE: Founder-supplied annotated rendering in current chat.
+PYTHON SOURCE SHA-256: preserved in /mnt/data/DOMINATING_ANXIETY_ANNOTATED_EDIT_PREFLIGHT_2026-09-27.json
+
+FOUNDER KEEP/FROZEN AREAS:
+- Top campus at annotation points 1, 2, 3.
+- Spectator/Fan & Media Pavilion at annotation point 8.
+- All lower sections explicitly marked Update and Save at annotation points 23–46.
+
+FOUNDER CORRECTIONS:
+1. Replace the current school-bus depiction with visibly futuristic 22nd-century supply school buses.
+2. Make the interiors of the tour buses, vans, mega buses, and double-decker buses visibly readable while retaining the approved exterior designs as Legacy components.
+3. Increase visible spectator capacity/seating in the Pro & Championship Wing, Golden Gloves Academy, and Official WBA Title Rings.
+
+FOUNDER SAVE DIRECTIONS:
+- Update and save the current approved exteriors of the tour buses/vans/mega buses/double-decker buses as Legacy components before visual correction.
+- Update and save the lower rendering components identified by annotations 23–46.
+
+AUTHORIZED EDIT REGIONS ONLY:
+- Fleet row: x=0..1536, y=245..405.
+- Pro & Championship spectator visual: x=0..384, y=405..540.
+- Golden Gloves spectator visual: x=384..768, y=405..540.
+- WBA Title Ring spectator visual: x=768..1152, y=405..540.
+
+FROZEN RULE:
+Everything outside those regions must remain exactly tied to the Founder-supplied source. The verification cycle remains open until the corrected rendering passes the named edits and frozen-region test.
