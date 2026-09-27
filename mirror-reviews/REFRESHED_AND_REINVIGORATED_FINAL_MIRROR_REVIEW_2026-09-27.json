@@ -1,0 +1,44 @@
+{
+  "review_id": "MR-2026-09-27-REFRESHED-AND-REINVIGORATED-FINAL",
+  "scope": "Current Founder prompt + current Legacy controls + prior archived REFRESHED AND REINVIGORATED prompt + generated candidates + corrected 12-image set + Python and GitHub verification.",
+  "cross_reference": [
+    "controls/REFRESHED_AND_REINVIGORATED_CURRENT_PROMPT_CONTROL_2026-09-27.json",
+    "mirror-reviews/REFRESHED_AND_REINVIGORATED_PRERENDER_MIRROR_REVIEW_2026-09-27.json",
+    "controls/FOUNDER_CORRECTION_EXACT_2026-09-26_VISUAL_RENDERING_CONTROL_AND_VERIFICATION_CYCLE.txt",
+    "verification/REFRESHED_AND_REINVIGORATED_FINAL_12_RENDERING_MANIFEST_2026-09-27.json",
+    "AMW_EXACT_PROMPT_ARCHIVE_DRIVE_2026-09-26.json historical prompt block"
+  ],
+  "mirror_findings": {
+    "full_current_prompt_read": "PASS",
+    "current_prompt_precedence_over_older_conflicting_13_vehicle_state": "PASS",
+    "python_preflight": "PASS",
+    "github_preflight": "PASS",
+    "founder_specific_common_area_controls_carried_forward": "PASS",
+    "palette_emerald_green_antique_gold": "PASS",
+    "uniform_control_carried_forward": "PASS",
+    "fleet_literal_checksum_27": "PASS",
+    "tour_bus_split_3_mixed_3_non_ada_without_invented_ada_tour_family": "PASS",
+    "mega_bus_split_3_ada_3_mixed_3_non_ada": "PASS",
+    "double_decker_split_3_ada_3_mixed_3_non_ada": "PASS",
+    "three_22nd_century_supply_school_buses": "PASS",
+    "four_washers_four_dryers_supply_laundry_function": "PASS",
+    "dual_pool_50m_diving_retractable_roof_media_recovery_and_underwater_systems": "PASS",
+    "just_love_pond_inherited_entrance_control": "PASS",
+    "final_visual_count_exactly_12": "PASS",
+    "final_deliverables_are_separate_standalone_files": "PASS",
+    "initial_infographic_candidates_rejected_not_promoted": "PASS",
+    "founder_approval_save_status_not_invented": "PASS"
+  },
+  "corrections_executed": [
+    "Superseded the archived 13-vehicle fleet for the current task with the current Founder-directed 27-vehicle fleet while preserving the old state as provenance.",
+    "Replaced the older generic Cosmetology-mirror Common Area wording where it conflicted with the current Founder-specific 8-TV/executive-chef/10-shower/2-gaming-table/Empty-Chair/Empty-Table/5-pod control.",
+    "Rejected image-generator board/collage candidates before treating them as deliverables.",
+    "Extracted and rebuilt the visual work into exactly 12 standalone files instead of presenting a combined infographic board.",
+    "Created a literal-count fleet exterior scene with 6 Tour, 9 Mega, 9 Double-Decker and 3 school buses.",
+    "Created separate passenger interior and school-supply/laundry views to preserve fleet interior functions.",
+    "Re-ran Python validation after correction: 12 files, RGB, nonblank, manifest hashes recorded.",
+    "Re-ran GitHub verification by committing the final rendering manifest."
+  ],
+  "final_assurance": "HOLDS — CREATED WORK VERIFIED AGAINST CURRENT PROMPT",
+  "status_boundary": "CREATED / VERIFIED — NOT FOUNDER-APPROVED, NOT UPDATE-AND-SAVED, NOT CURRENT-CONTROLLED until Founder explicitly directs that status."
+}
