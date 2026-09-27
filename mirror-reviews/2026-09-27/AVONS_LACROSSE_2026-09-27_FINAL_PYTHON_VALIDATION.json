@@ -1,0 +1,20 @@
+{
+  "source_dimensions": [1536, 1024],
+  "candidate_dimensions": [1536, 1024],
+  "source_sha256": "6035b7213ed9423a36c7a19a76f25b593225e58f644de8bced29c93f8b16e0a1",
+  "candidate_sha256": "053431c9a5bb756dfcb18d4bef7b3e79ae48d1058bf79c87fa501c4fe741c832",
+  "outside_authorized_changed_pixels": 0,
+  "inside_authorized_changed_pixels": 74358,
+  "other_regions_pixel_identical": true,
+  "fleet_counts": {
+    "tour": 6,
+    "vans": 6,
+    "mega": 9,
+    "double_decker": 9,
+    "supply": 1,
+    "total": 31
+  },
+  "van_exact_config_split_inferred": false,
+  "tour_precedence": "later explicit 2 ADA + 2 Mixed + 2 Non-ADA controls over earlier shorthand 3 tour buses ADA/Mixed/Non-ADA",
+  "final_gate": "PASS"
+}
