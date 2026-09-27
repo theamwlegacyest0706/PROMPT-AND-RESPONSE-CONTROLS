@@ -1,0 +1,28 @@
+{
+  "timestamp_local": "2026-09-27T00:52:00-04:00",
+  "current_prompt_sha256": "5ecef6d9fad8a0a58402664b07ba6a3a0e8d9b65929ef5256e791d12eb701dc6",
+  "corrected_master_sha256": "d25d5e11170be2ce780adde034660f14e6aadc3fc2f89c7db15a6ac0463b1c80",
+  "library_current_master": "/THE AMW LEGACY/AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
+  "mirror_review_record": "MR-2026-09-27-03",
+  "corrections_verified": {
+    "false_systemwide_pass_invalidated": true,
+    "current_global_status_written_as_fail_open": true,
+    "historical_pass_preserved_but_superseded_for_systemwide_closure": true,
+    "current_exact_prompt_python_ingested": true,
+    "current_exact_prompt_github_committed": true,
+    "github_fail_record_created": true,
+    "current_master_overwritten_in_legacy_library": true
+  },
+  "remaining_blockers": [
+    "STAB-001 OPEN — full 1,074-file Library corpus authority classification",
+    "STAB-002 OPEN — all 756 image artifacts row-by-row authority classification",
+    "STAB-005 OPEN — prompt-to-artifact lineage for current 47 institutions",
+    "STAB-006 IN PROGRESS — historical master workbook lineage",
+    "STAB-007 IN PROGRESS — prior missing/unrecoverable claims recheck",
+    "STAB-009 OPEN — compliant Imagine Aquarium Magic bus-interior rendering",
+    "Raw later Project-chat message-by-message transcript completeness remains open/indexed-only in part",
+    "Active/open visual work cannot be globally cleared without actual-artifact review"
+  ],
+  "overall": "FAIL / OPEN",
+  "repeat_cycle_required": true
+}
