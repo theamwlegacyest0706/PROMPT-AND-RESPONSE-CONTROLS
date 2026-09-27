@@ -1,0 +1,37 @@
+{
+  "institution": "JUST KICKING HIGH Legacy MMA Team",
+  "date": "2026-09-27",
+  "overall": "FAIL / OPEN — NO COMPLIANT VISUAL PASSED",
+  "python_preflight": "PASS for prompt/control resolution before rendering",
+  "github_preflight_commit": "168aeb067fb96b96f3697bd68481a20c81ce9456",
+  "pre_render_mirror_commit": "2bf19cae6920c4a4713e65227890563d510c9f44",
+  "exact_prompt_commit": "8897d14ca89076e2e7bea05c4bbec92b2fb898eb",
+  "rejected_generated_artifacts": [
+    {"file":"a_large_high_detail_gold_green_cream_themed_info.png","sha256":"a763ace39f49865ca4a2b4412e8a46a964df8dd369ab77e174f80069dfa4ccc5"},
+    {"file":"a_large_collage_infographic_design_board_ultra_de.png","sha256":"7fb41cb50fc403031368eb51178a7e9d2cb0ff0daedc471f4e468d60b670b79a"},
+    {"file":"a_large_detailed_infographic_collage_board_in_a_gl.png","sha256":"f6a3bcb81fb44f4380c79153a6bf7a89631c31aaf81e552567b37fc110c72a6f"},
+    {"file":"a_large_detailed_infographic_poster_plan_board_for.png","sha256":"92fcd98dbcf6f7e28d705b0eb4f4ca75f03ae2a749e0f1812fbcdec617324d7b"},
+    {"file":"a_large_cinematic_ultra_detailed_infographic_pos.png","sha256":"be22faf353bb7993be9f8696d4683fb14e99fee6acabb2e14c41baa7bc545e84"},
+    {"file":"a_wide_detailed_poster_infographic_collage_of_a_f.png","sha256":"d67ec149870159db43237cab48139ee79dc227a31a61eee15aece8e3bcb08340"},
+    {"file":"a_wide_highly_detailed_infographic_render_collage.png","sha256":"69723ec5e08f5bb06f7b4d6daa55559ac27993cfebb7156dc28949cf0ed5a199"},
+    {"file":"a_large_detailed_infographic_poster_collage_in_a_l.png","sha256":"a28d2a17bcf05eff39b0d04b4d29ba5fbabd97cb8da9de040977541d983e2396"},
+    {"file":"wide_detailed_architectural_infographic_collage_o.png","sha256":"59c490a9509d74b1bfafd1ff618ad24beadee4224825ef0f5239cc6775a86611"},
+    {"file":"a_large_detailed_infographic_collage_rendering_of.png","sha256":"1d41593567f054d2a3d66630494ca4eed87c24c69cbca7b48fc559f389c14d27"}
+  ],
+  "composition_guide": {"file":"JUST_KICKING_HIGH_EXTERIOR_COMPOSITION_GUIDE.png","sha256":"f5374a24e3324122e6a508c8b7fbfdf947b3934a1f75d97e7e7c6293eb895eae","status":"GUIDE ONLY / NON-CONTROLLING"},
+  "repeated_failures": [
+    "Generated artifacts repeatedly used infographic/collage/board layouts instead of standalone full-size scenes.",
+    "Generated artifacts repeatedly imported I AM A MASTERPIECE Cosmetology visual identity/stations instead of inheriting Common Area controls only.",
+    "Generated artifacts repeatedly retained the superseded three-tour-bus shorthand alongside the later controlling 4 ADA + 4 Mixed + 4 Non-ADA breakdown.",
+    "Several generated artifacts invented or misrepresented the six-van ADA/Mixed/Non-ADA quantity split instead of preserving six total with exact split unspecified.",
+    "No generated artifact visibly verified the required Just Love Pond entrance control in a standalone exterior scene.",
+    "No generated set provided independently reviewable fleet interiors/configurations sufficient for the actual-artifact gate."
+  ],
+  "controlling_design_spec_remains": {
+    "name":"JUST KICKING HIGH Legacy MMA Team",
+    "palette":"Antique Gold dominant; Warm Ivory and Emerald Green accents",
+    "common_area":"I AM A MASTERPIECE Cosmetology Common Area CONTROLS ONLY on a slightly larger scale; 7 TVs = 2 gaming + 5 general; quiet/decompression area; 2+ showers; full kitchen; convertible table-game equipment; comfortable seating; global Empty Chair, ROUND Legacy Table, circular/curved furniture apply",
+    "fleet":"12 tour buses (4 ADA/4 Mixed/4 Non-ADA); 6 fifteen-passenger vans total across ADA/Mixed/Non-ADA with exact split unspecified; 15 mega buses (6/6/3); 18 double-deckers (6/6/6); 4 22nd-century supply buses; total 55 vehicles",
+    "status":"Founder-directed design/current task; no generated visual from this cycle is approved, saved, current-controlled, or complete"
+  }
+}
