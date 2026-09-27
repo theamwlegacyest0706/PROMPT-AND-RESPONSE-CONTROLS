@@ -1,0 +1,98 @@
+{
+  "record_type": "AMW_LEGACY_JUSTIFIED_WINS_FLEET_UPDATE",
+  "date_local": "2026-09-27",
+  "time_local": "00:17 ET",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_0017_ET_JUSTIFIED_WINS_FLEET_UPDATE.txt",
+  "source_artifact": {
+    "path": "/mnt/data/AMW_SPORTS_FLEETS_FULL_INTERIOR_CONTROLS_CURRENT.png",
+    "sha256": "9e0c0471ee8d84dd07c6b6b8dc0138ff6eff1d699c2f1cd302c7d2657d4a112b",
+    "dimensions": [1536, 1024],
+    "authority": "Current corrected Sports Fleets rendering from prior 2026-09-26 cycle"
+  },
+  "python_gate": {
+    "path": "/mnt/data/JUSTIFIED_WINS_2026-09-27_PYTHON_GATE.json",
+    "resolved_counts": {
+      "tour_buses": "4 ADA + 4 Mixed + 4 Non-ADA = 12 total; fans/family travel",
+      "15_passenger_vans": "6 total across ADA/Mixed/Non-ADA; outreach/education/resources; exact per-configuration split not specified and not inferred",
+      "mega_buses": "4 ADA + 4 Mixed + 4 Non-ADA = 12 total; extended state travel",
+      "double_deckers": "4 ADA + 4 Mixed + 4 Non-ADA = 12 total; regional travel",
+      "22nd_century_school_supply_buses": "3 total; supplies/equipment/luggage"
+    },
+    "fleet_total_if_six_vans_are_total": 45,
+    "same_prompt_precedence": "The later explicit Tour Bus breakdown (4 ADA / 4 Mixed / 4 Non-ADA) is the controlling count because it is more specific than the earlier shorthand '4 tour buses ADA/Mixed/Non-ADA'."
+  },
+  "supersession_for_justified_wins_only": [
+    "Prior JUSTIFIED WINS 3 Tour / 3 Van / 3 Mega / 3 Double / 1 Supply count is superseded by this Founder prompt.",
+    "Prior JUSTIFIED WINS sports-overlay van no-restroom rule is superseded because the Founder now explicitly requires restroom facilities on each 15-passenger van.",
+    "Prior JUSTIFIED WINS supply-bus no-rack restriction is superseded because the Founder now explicitly requires undercarriage bays and overhead racks.",
+    "No other sports fleet is changed by this prompt."
+  ],
+  "current_justified_wins_controls": {
+    "branding": "Every JUSTIFIED WINS bus and van has a football helmet on the wrap; no generic crowns.",
+    "passenger_vehicle_features": [
+      "extra-legroom reclining seats",
+      "onboard power outlets",
+      "high-speed Wi-Fi",
+      "individual air conditioning and heating",
+      "configuration-appropriate restroom facilities",
+      "overhead cabin storage",
+      "premium AV: flat-screen monitors, DVD players, high-end sound, auxiliary/Bluetooth inputs"
+    ],
+    "tour_bus_additive": "full-sized kitchen",
+    "mega_bus_additive": "full kitchen",
+    "double_decker_additive": "full kitchen",
+    "van_kitchen": "not specified; not invented",
+    "supply_bus": [
+      "undercarriage bays for bulky equipment bags, hockey gear, coolers and pop-up tents",
+      "overhead racks for backpacks, layers, tape and medical kits",
+      "cargo/support mission retained",
+      "no passenger seating/kitchen/restroom retained unless later Founder direction changes them"
+    ],
+    "inherited_compatible_controls": [
+      "Slate Gray + Midnight Dark Blue interiors",
+      "durable easy-clean mission-safe materials",
+      "climate/air quality",
+      "secure storage/travel securement",
+      "renewable/solar auxiliary power",
+      "USB/USB-C charging",
+      "GPS/security/communications",
+      "emergency readiness",
+      "intentional empty chair where seating is depicted",
+      "ADA/Mixed/Non-ADA never inferred by color",
+      "DESIGNED/rendered does not equal operational readiness"
+    ]
+  },
+  "rendering_cycle": {
+    "image_generation_attempt": {
+      "artifact": "/mnt/data/a_detailed_infographic_poster_image_high_resoluti.png",
+      "status": "REJECTED / NON-CONTROLLING",
+      "reason": "Regenerated all five sports columns and changed unaffected content, violating frozen-region authority."
+    },
+    "precise_correction": {
+      "artifact": "/mnt/data/JUSTIFIED_WINS_FLEET_UPDATE_CANDIDATE.png",
+      "sha256": "6035b7213ed9423a36c7a19a76f25b593225e58f644de8bced29c93f8b16e0a1",
+      "dimensions": [1536, 1024],
+      "scope": "JUSTIFIED WINS column only",
+      "outside_authorized_region_changed_pixels": 0,
+      "status": "HOLDS / CURRENT CANDIDATE — NOT YET FOUNDER-APPROVED OR SAVED"
+    }
+  },
+  "legacy_database_update": {
+    "workbook": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
+    "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "updated_sheet": "Fleet Interior Cross-Ref",
+    "updated_row": 47,
+    "mirror_review_row": 38,
+    "export_sha256": "02476be93659c1da20caba1bde394d79e48091dabff2e78967ae9ccea9438691",
+    "formula_error_scan": "0 matches"
+  },
+  "recursive_mirror_review": {
+    "prior_reviews_cross_referenced": true,
+    "cross_chat_context_cross_referenced": true,
+    "legacy_database_cross_referenced": true,
+    "cycle_1": "FAIL — full-board image generation changed unaffected sports columns",
+    "correction": "Return to exact current source and modify only the JUSTIFIED WINS column",
+    "cycle_2": "HOLDS — exact source preserved outside authorized region; current prompt controls reflected; master written forward",
+    "repeat_cycle_needed": false
+  }
+}
