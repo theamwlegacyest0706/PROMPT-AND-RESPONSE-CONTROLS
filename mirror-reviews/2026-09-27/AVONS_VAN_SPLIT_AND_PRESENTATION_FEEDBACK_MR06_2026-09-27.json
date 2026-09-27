@@ -1,0 +1,42 @@
+{
+  "record_type": "AMW_LEGACY_RECURSIVE_MIRROR_REVIEW",
+  "review_id": "MR-2026-09-27-06",
+  "date_local": "2026-09-27",
+  "trigger": "Founder explicitly assigned the six AVON'S LACROSSE LEGACY 15-passenger vans as 2 ADA / 2 Mixed / 2 Non-ADA, directed Update and Save to the Legacy, and directed that her dislike of the latest rendering presentation be recorded.",
+  "cross_referenced": [
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-27_1621_ET_AVONS_VAN_SPLIT_AND_PRESENTATION_FEEDBACK.txt",
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "mirror-reviews/2026-09-27/AVONS_LACROSSE_FLEET_UPDATE_2026-09-27.json",
+    "mirror-reviews/2026-09-27/SPORTS_FLEETS_SAVE_STATE_AND_AVON_PHYSICAL_INTERIOR_CORRECTION_2026-09-27_0044_ET.json",
+    "mirror-reviews/2026-09-27/SPORTS_FLEETS_CROSS_CHAT_CONTAMINATION_CORRECTION_MR05_2026-09-27.json",
+    "current Legacy master Fleet Interior Cross-Ref / Mirror Review Archive / Visual Corpus Audit / Approved Visual Authority",
+    "latest produced AVON single-sport artifact"
+  ],
+  "findings": {
+    "van_configuration_gap": "Prior AVON record intentionally left the six-van ADA/Mixed/Non-ADA split open because the Founder had not assigned it. The Founder has now assigned 2 ADA / 2 Mixed / 2 Non-ADA, so the open state must be removed.",
+    "presentation_status": "The Founder explicitly states she does not like how the latest single-sport rendering was presented. That rendering is therefore not Founder-approved visual authority and must not be treated as current/approved presentation.",
+    "task_scope": "This prompt directs a written-control/save update and presentation-status note; it does not request a new rendering, redesign, replacement board, or visual edit."
+  },
+  "corrections": [
+    "Fleet Interior Cross-Ref row 50 updated to six vans = 2 ADA / 2 Mixed / 2 Non-ADA.",
+    "Prior OPEN/UNASSIGNED six-van split language superseded and removed.",
+    "Visual Corpus Audit updated to classify the latest single-sport AVON rendering as Founder-disliked presentation / not approved / non-controlling provenance.",
+    "Legacy master overwritten in Library with the corrected record.",
+    "Latest single-sport AVON rendering preserved in Library as provenance under a NOT_APPROVED presentation filename.",
+    "No new visual was generated."
+  ],
+  "save_state": {
+    "legacy_master_library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "legacy_master_backing_file_id": "file_0000000028cc822f8443c6745173724b",
+    "legacy_master_sha256": "faf85ccadc75d9ad4c5aa53d026d0d4fe9fde48e1381dc0b342ca6131a43f724",
+    "provenance_visual_library_file_id": "libfile_96c2aaab11bc8191a28f7638bc211cc5",
+    "provenance_visual_backing_file_id": "file_00000000a360822f9b860a72987703f1",
+    "provenance_visual_path": "/THE AMW LEGACY/AVONS_LACROSSE_SINGLE_SPORT_FLEET_PRESENTATION_NOT_APPROVED_2026-09-27.png",
+    "provenance_visual_sha256": "258ad59a5ee3f559f7d23d219c881acbe970d0dc8ec04954e9e95134946b9c83"
+  },
+  "recursive_cycle": [
+    {"cycle": 1, "result": "FAIL", "reason": "prior master still carried the six-van split as open/unassigned and the Founder presentation feedback was not yet integrated"},
+    {"cycle": 2, "result": "HOLDS—STRENGTHEN / PASS", "reason": "2/2/2 van split integrated and saved; presentation feedback recorded; non-approved visual preserved as provenance; no unauthorized new rendering"}
+  ],
+  "final_result": "HOLDS—STRENGTHEN / PASS for this named update-and-save correction. System-wide open recovery status remains separate."
+}
