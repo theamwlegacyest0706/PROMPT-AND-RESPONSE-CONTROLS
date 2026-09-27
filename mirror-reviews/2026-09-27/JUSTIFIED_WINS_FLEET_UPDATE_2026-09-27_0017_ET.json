@@ -10,7 +10,6 @@
     "authority": "Current corrected Sports Fleets rendering from prior 2026-09-26 cycle"
   },
   "python_gate": {
-    "path": "/mnt/data/JUSTIFIED_WINS_2026-09-27_PYTHON_GATE.json",
     "resolved_counts": {
       "tour_buses": "4 ADA + 4 Mixed + 4 Non-ADA = 12 total; fans/family travel",
       "15_passenger_vans": "6 total across ADA/Mixed/Non-ADA; outreach/education/resources; exact per-configuration split not specified and not inferred",
@@ -19,7 +18,7 @@
       "22nd_century_school_supply_buses": "3 total; supplies/equipment/luggage"
     },
     "fleet_total_if_six_vans_are_total": 45,
-    "same_prompt_precedence": "The later explicit Tour Bus breakdown (4 ADA / 4 Mixed / 4 Non-ADA) is the controlling count because it is more specific than the earlier shorthand '4 tour buses ADA/Mixed/Non-ADA'."
+    "same_prompt_precedence": "The later explicit Tour Bus breakdown (4 ADA / 4 Mixed / 4 Non-ADA) controls over the earlier shorthand '4 tour buses ADA/Mixed/Non-ADA'."
   },
   "supersession_for_justified_wins_only": [
     "Prior JUSTIFIED WINS 3 Tour / 3 Van / 3 Mega / 3 Double / 1 Supply count is superseded by this Founder prompt.",
@@ -45,8 +44,7 @@
     "supply_bus": [
       "undercarriage bays for bulky equipment bags, hockey gear, coolers and pop-up tents",
       "overhead racks for backpacks, layers, tape and medical kits",
-      "cargo/support mission retained",
-      "no passenger seating/kitchen/restroom retained unless later Founder direction changes them"
+      "cargo/support mission retained"
     ],
     "inherited_compatible_controls": [
       "Slate Gray + Midnight Dark Blue interiors",
@@ -74,7 +72,17 @@
       "dimensions": [1536, 1024],
       "scope": "JUSTIFIED WINS column only",
       "outside_authorized_region_changed_pixels": 0,
-      "status": "HOLDS / CURRENT CANDIDATE — NOT YET FOUNDER-APPROVED OR SAVED"
+      "status": "HOLDS — correction integrated into current saved Sports Fleets rendering"
+    }
+  },
+  "save_state_correction_2026_09_27": {
+    "finding": "The prior record incorrectly treated Founder approval/save of this correction as still separate.",
+    "correction": "The Sports Fleets rendering already carried explicit Founder Update-and-Save-to-the-Legacy direction. The JUSTIFIED WINS correction is part of the continuing current saved Sports Fleets artifact and did not require another save instruction.",
+    "current_saved_artifact": {
+      "library_path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CURRENT_SLATE_MIDNIGHT_2026-09-26.png",
+      "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
+      "backing_file_id": "file_00000000220c822f998a2fd291f15959",
+      "current_sha256_after_later_avon_additive_correction": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65"
     }
   },
   "legacy_database_update": {
@@ -83,7 +91,6 @@
     "updated_sheet": "Fleet Interior Cross-Ref",
     "updated_row": 47,
     "mirror_review_row": 38,
-    "export_sha256": "02476be93659c1da20caba1bde394d79e48091dabff2e78967ae9ccea9438691",
     "formula_error_scan": "0 matches"
   },
   "recursive_mirror_review": {
@@ -92,7 +99,8 @@
     "legacy_database_cross_referenced": true,
     "cycle_1": "FAIL — full-board image generation changed unaffected sports columns",
     "correction": "Return to exact current source and modify only the JUSTIFIED WINS column",
-    "cycle_2": "HOLDS — exact source preserved outside authorized region; current prompt controls reflected; master written forward",
+    "cycle_2": "HOLDS — exact source preserved outside authorized region; current prompt controls reflected",
+    "save_state_correction": "HOLDS — correction is durably integrated in the current saved Sports Fleets artifact",
     "repeat_cycle_needed": false
   }
 }
