@@ -1,0 +1,86 @@
+{
+  "record_type": "AMW_LEGACY_AVONS_LACROSSE_FLEET_UPDATE",
+  "date_local": "2026-09-27",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_AVONS_LACROSSE_FLEET_UPDATE.txt",
+  "source_artifact": {
+    "path": "/mnt/data/JUSTIFIED_WINS_FLEET_CURRENT_2026-09-27.png",
+    "sha256": "6035b7213ed9423a36c7a19a76f25b593225e58f644de8bced29c93f8b16e0a1",
+    "dimensions": [1536, 1024],
+    "authority": "Current corrected Sports Fleets rendering from the immediately prior JUSTIFIED WINS cycle"
+  },
+  "python_gate": {
+    "resolved_counts": {
+      "tour_buses": "2 ADA + 2 Mixed + 2 Non-ADA = 6 total; fans/family travel",
+      "15_passenger_vans": "6 total across ADA/Mixed/Non-ADA; outreach/education/resources; exact per-configuration split not specified and not inferred",
+      "mega_buses": "3 ADA + 3 Mixed + 3 Non-ADA = 9 total; extended state travel",
+      "double_deckers": "3 ADA + 3 Mixed + 3 Non-ADA = 9 total; regional travel",
+      "22nd_century_school_supply_buses": "1 total; supplies/equipment/luggage; washer/dryer for uniforms; undercarriage bays"
+    },
+    "fleet_total_if_six_vans_are_total": 31,
+    "same_prompt_precedence": "The later explicit Tour Bus breakdown (2 ADA / 2 Mixed / 2 Non-ADA) is more specific and controls over the earlier shorthand '3 tour buses ADA/Mixed/Non-ADA'."
+  },
+  "supersession_for_avons_lacrosse_only": [
+    "Prior AVON'S LACROSSE LEGACY 3 Tour / 3 Van / 3 Mega / 3 Double / 1 Supply count is superseded by this Founder prompt.",
+    "Prior AVON'S LACROSSE LEGACY van no-restroom rule is superseded because the Founder now explicitly requires restroom facilities on each 15-passenger van.",
+    "No other sports fleet is changed by this prompt."
+  ],
+  "current_avons_lacrosse_controls": {
+    "branding": "Every AVON'S LACROSSE LEGACY bus uses lacrosse-stick wrap identity.",
+    "passenger_vehicle_features": [
+      "extra-legroom reclining seats",
+      "onboard power outlets",
+      "high-speed Wi-Fi",
+      "individual air conditioning and heating",
+      "configuration-appropriate restroom facilities",
+      "overhead cabin storage",
+      "premium AV: flat-screen monitors, DVD players, high-end sound, auxiliary/Bluetooth inputs"
+    ],
+    "tour_bus_additive": "full-sized kitchen",
+    "mega_bus_additive": "full kitchen",
+    "double_decker_additive": "full kitchen",
+    "van_kitchen": "not specified; not invented",
+    "supply_bus": [
+      "washer/dryer for uniforms",
+      "undercarriage bays for bulky equipment bags, hockey gear, coolers and pop-up tents",
+      "cargo/support mission retained"
+    ],
+    "inherited_compatible_controls": [
+      "Slate Gray + Midnight Dark Blue interiors",
+      "durable easy-clean mission-safe materials",
+      "climate/air quality",
+      "secure storage/travel securement",
+      "renewable/solar auxiliary power",
+      "USB/USB-C charging",
+      "GPS/security/communications",
+      "emergency readiness",
+      "intentional empty chair where seating is depicted",
+      "ADA/Mixed/Non-ADA never inferred by color",
+      "DESIGNED/rendered does not equal operational readiness"
+    ]
+  },
+  "rendering_cycle": {
+    "final_candidate": {
+      "artifact": "/mnt/data/AVONS_LACROSSE_FLEET_UPDATE_CANDIDATE.png",
+      "sha256": "053431c9a5bb756dfcb18d4bef7b3e79ae48d1058bf79c87fa501c4fe741c832",
+      "dimensions": [1536, 1024],
+      "scope": "AVON'S LACROSSE LEGACY column control strips only",
+      "outside_authorized_region_changed_pixels": 0,
+      "status": "HOLDS / CURRENT CANDIDATE — NOT YET FOUNDER-APPROVED OR IMAGE-SAVED"
+    }
+  },
+  "legacy_database_update": {
+    "workbook": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
+    "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
+    "updated_sheet": "Fleet Interior Cross-Ref",
+    "updated_row": 50,
+    "mirror_review_row": 39,
+    "export_sha256": "ca37e208e871b96a508634e1e8a15a958367748d7ce89a186f71bc64ec3d7666",
+    "formula_error_scan": "0 matches"
+  },
+  "recursive_mirror_review": {
+    "prior_reviews_cross_referenced": true,
+    "legacy_database_cross_referenced": true,
+    "cycle_result": "HOLDS — exact source preserved outside authorized Avon regions; current prompt controls reflected; current master written forward",
+    "repeat_cycle_needed": false
+  }
+}
