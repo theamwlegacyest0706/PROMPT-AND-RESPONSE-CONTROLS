@@ -1,0 +1,56 @@
+{
+  "record_type": "ROBERTS_LANE_CURRENT_CYCLE_2026-09-27",
+  "institution": "ROBERT’S LANE Our Track and Field Team",
+  "python_prompt_sha256": "3004db8786350339b7e9c614ed14dcf4285c4a45691397ca02f7529b7514b4d0",
+  "current_palette": "Antique Gold with Emerald Green Accent",
+  "visual_format_control": "12 standalone full-size zoomable/editable photorealistic/cinematic renderings; no infographic, collage, board, combined rendering, or contact sheet",
+  "common_area_control": "I AM A MASTERPIECE COSMETOLOGY Stewards’ Common Area CONTROLS ONLY — functional controls, not cosmetology visual language",
+  "fleet_literal_count": 34,
+  "fleet_breakdown": {
+    "tour_buses_initial_ADA_Mixed_NonADA": 3,
+    "fifteen_passenger_vans_total": 6,
+    "additional_tour_buses_2_ADA_2_Mixed_2_NonADA": 6,
+    "mega_buses_3_ADA_3_Mixed_3_NonADA": 9,
+    "double_decker_buses_3_ADA_3_Mixed_3_NonADA": 9,
+    "twenty_second_century_supply_school_bus": 1
+  },
+  "older_exact_13_vehicle_state": "SUPERSEDED BY THIS CURRENT FOUNDER PROMPT; preserve as provenance only",
+  "prior_roberts_lane_first_render": "REJECTED / NON-CONTROLLING — multi-panel infographic/concept-board failure, omitted complete common area and fleet interiors",
+  "inherited_controls": [
+    "Just Love Pond near principal/public entrance",
+    "Empty Chair in seating environments",
+    "ROUND Legacy Table in principal shared/common area",
+    "circular/curved furniture where applicable",
+    "Legacy Creator furnishing priority where feasible",
+    "solar/renewable direction",
+    "uniform control",
+    "mixed-ability/accessibility controls",
+    "actual physical depiction of required fleet interiors",
+    "22nd-century supply-school-bus purpose preservation"
+  ],
+  "render_plan": {
+    "01": "Campus exterior + principal entrance + Just Love Pond + indoor/outdoor connection",
+    "02": "Indoor hydraulically banked 200m oval + sprint chutes + climate-isolated field pits + micro-climate systems",
+    "03": "Outdoor 400m competition track + jumps/vaults + drainage + throwing pavilion + LED pace lighting + RFID + FAT/photo finish",
+    "04": "Pro & Elite Wing + force plates + high-speed cameras + private recovery + separate warm-up track + restricted access + private lockers",
+    "05": "Youth & Community Hub + youth/high-school/public-jogger functions + 8-lane chutes + digital check-in + outer jogging path",
+    "06": "High-Capacity Fieldhouse + Command Spine + timing/media + covered grandstands/press + elevated spectator bridge",
+    "07": "Stewards’ Common Area controls only — no cosmetology styling",
+    "08": "Uniform control in Antique Gold/Emerald Green by role",
+    "09": "Tour buses — all 9 current-prompt tour buses physically represented with applicable interiors/features",
+    "10": "Six 15-passenger vans with current-prompt interiors/features",
+    "11": "Nine mega buses with current-prompt interiors/features",
+    "12": "Nine double-decker buses plus one 22nd-century supply school bus; school bus includes washers/dryers, undercarriage bays, overhead racks"
+  },
+  "fail_stops": [
+    "No infographic/poster/collage/board/contact sheet",
+    "Do not revert to the superseded 13-vehicle Robert's Lane fleet",
+    "Do not import cosmetology workstations, mirrors, salon chairs, or salon identity into the Common Area",
+    "Do not omit the Common Area functional controls",
+    "Do not use an ordinary yellow/conventional school bus",
+    "Do not use captions as substitutes for physically depicted required features",
+    "Do not mark a rendering PASS until the actual generated image has been reviewed against this matrix",
+    "Any failed rendering must be corrected/regenerated before presentation as completed"
+  ],
+  "pre_render_mirror_review": "PASS TO GENERATE — current prompt supersession, prior failure classes, 12-rendering format, 34-vehicle checksum, common-area controls-only constraint, and inherited controls reconciled"
+}
