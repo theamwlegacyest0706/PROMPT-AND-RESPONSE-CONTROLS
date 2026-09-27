@@ -1,0 +1,15 @@
+{
+  "artifact": "wide_detailed_architectural_infographic_collage_o.png",
+  "sha256": "59c490a9509d74b1bfafd1ff618ad24beadee4224825ef0f5239cc6775a86611",
+  "dimensions": [1536,1024],
+  "result": "FAIL_REJECTED_NONCONTROLLING",
+  "failures": [
+    "Latest candidate remains an infographic/collage board; standalone exterior-only requirement not met.",
+    "Cosmetology identity remains imported into the Stewards Common Area instead of controls-only inheritance.",
+    "Superseded three-tour-bus shorthand remains displayed alongside the controlling 12-tour-bus breakdown.",
+    "The required Just Love Pond is not presented as a clearly identifiable entrance pond in a standalone exterior scene.",
+    "Fleet interiors and accessibility variants remain thumbnail/board depictions rather than independently reviewable artifacts."
+  ],
+  "disposition": "REJECT; preserve as provenance only; do not approve/save/current-control or present as compliant.",
+  "cycle_status": "Python actual-artifact Mirror Review FAIL. No compliant JUST KICKING HIGH visual has passed yet."
+}
