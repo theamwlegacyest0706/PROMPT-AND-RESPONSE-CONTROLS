@@ -1,0 +1,35 @@
+{
+  "record_type": "REFRESHED_AND_REINVIGORATED_CURRENT_PROMPT_CONTROL_2026-09-27",
+  "institution": "REFRESHED AND REINVIGORATED (Our Swim Team)",
+  "source_precedence": "Current Founder prompt in active chat supersedes older archived REFRESHED AND REINVIGORATED prompt where they conflict; older prompt remains provenance.",
+  "python_preflight": {
+    "source_checksum_sha256": "3b6995560b7535ed0039376d38b69c43680347949394f7ca1292f0d9ce33b3e2",
+    "required_field_scan": "PASS — no required prompt elements missing from execution checklist",
+    "fleet_literal_checksum": 27
+  },
+  "common_area_current_control": {
+    "watching_tvs": 5,
+    "gaming_tvs": 3,
+    "comfortable_seating": true,
+    "executive_kitchen": true,
+    "executive_chef": true,
+    "showers": 10,
+    "convertible_gaming_tables": 2,
+    "empty_legacy_chair": true,
+    "empty_legacy_table": true,
+    "quiet_decompressing_pods": 5
+  },
+  "palette": ["Emerald Green", "Antique Gold"],
+  "uniform_control": "APPLIES",
+  "fleet_current_control": {
+    "tour_buses": {"total": 6, "mixed": 3, "non_ada": 3, "mission": "Fans, Family and Friends team travel", "full_sized_kitchen": true},
+    "mega_buses": {"total": 9, "ada": 3, "mixed": 3, "non_ada": 3, "mission": "Statewide travel", "full_kitchen": true},
+    "double_decker_buses": {"total": 9, "ada": 3, "mixed": 3, "non_ada": 3, "mission": "Regional travel", "full_kitchen": true},
+    "school_buses": {"total": 3, "type": "22nd century", "mission": "Supplies, equipment and luggage", "washers": 4, "dryers": 4, "undercarriage_bays": true, "overhead_racks": true}
+  },
+  "shared_passenger_bus_interior_controls": ["extra-legroom reclining seats", "onboard power outlets", "high-speed Wi-Fi", "individual heating and air conditioning", "restroom facilities according to assigned accessibility configuration", "overhead cabin storage", "flat-screen monitors", "DVD players", "high-end sound system with auxiliary/Bluetooth inputs"],
+  "swim_facility_current_control": ["Dual-Pool Layout & Advanced Hydro-Engineering", "50-Meter Competition Pool", "Acoustic & Energy Wave Absorption", "Advanced Water Thermal Regulation", "Deep-Water Diving Well", "Underwater Air-Sparger Safety Cushions", "Surface-Agitation Spray Arrays", "Touchpad Timing & Video-Replay Matrices", "Underwater High-Definition Camera Tracks", "Sub-Aquatic Acoustic Audio Systems", "Regenerative Media Filtration (RMF)", "Secondary Ultraviolet (UV) Sanitization", "Source-Capture Deck Evacuation HVAC", "Retractable Structural Roofs & Thermal Walls", "Multi-Tiered Media & Spectator Concourses", "Performance Recovery & Dry-Land Lounges"],
+  "inherited_non_superseded_controls": ["Just Love Pond near principal/public entrance", "mixed-ability/accessibility design", "circular/curved furniture where applicable", "ROUND Legacy Table control where applicable; current Founder specifically requires an empty Legacy Table", "Legacy Creator furnishings priority and stipends where reasonably feasible", "renewable/solar/all-electric-ready direction subject to documented safety/code/resilience constraints", "fleet exterior and interior physical depiction", "no unauthorized substitution of counts, mission, accessibility class, or room type"],
+  "visual_format_control": "TWELVE standalone full-size zoomable/editable photorealistic/cinematic renderings; no infographic, collage, board or combined rendering. Verification repeats until actual requested 12-image set passes.",
+  "older_archived_state": "Older REFRESHED AND REINVIGORATED archive used a 13-vehicle fleet and Cosmetology-mirrored Common Area on a slightly larger scale; those conflicting specifics are superseded by this current Founder prompt."
+}
