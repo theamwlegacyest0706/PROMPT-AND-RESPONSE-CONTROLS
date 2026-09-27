@@ -1,9 +1,42 @@
 {
-  "founder_current_correction": "This is not the rendering, nor does it follow the controls set in place. You are still not running my prompts through the proper verification cycle. Conduct the work properly.",
-  "python_preflight_prompt_sha256": "7a27766a0a573344a6c3c8a6b72e1c8cd419bd07fc7728bb681054a33c7d8c99",
+  "record_type": "DOMINATING_ANXIETY_CURRENT_CYCLE_2026-09-27",
+  "founder_current_prompt_sha256": "b9b97492ba12d3a29d676a7c12e5bacb2d727e271948390e21dd60867631bfa1",
+  "screenshot_sha256": "aecc7d222b28b01168e7b8db3f5be55675c6e1bb4022cf330746f7ba43cadb08",
   "institution": "DOMINATING ANXIETY LEGACY BOXING",
-  "visual_control": "Exactly 12 standalone full-size zoomable/editable photorealistic/cinematic renderings. No infographic, collage, board, combined rendering, contact sheet, or cropped infographic panels.",
-  "fleet_literal_checksum": 40,
-  "verification_rule": "Do not present work until all 12 actual renderings pass. Failed candidates are rejected and regenerated before presentation.",
-  "source_chain": "Current prompt + immediately preceding Founder task + prior Python/GitHub cross-references + current Legacy controls."
+  "execution_order": [
+    "Read complete Founder prompt",
+    "Python preflight on complete prompt + prior cross-references",
+    "GitHub preflight on same source/control set",
+    "Cross-reference controls/prompts/safeguards/produced work",
+    "Mirror Review",
+    "Compare prior Mirror Reviews",
+    "Correct actual implicated rendering/work",
+    "Python + GitHub revalidation",
+    "Repeat until no correction remains"
+  ],
+  "authoritative_current_findings": {
+    "visual_format": "Exactly 12 standalone full-size zoomable/editable photorealistic/cinematic renderings; no infographic/collage/board/combined/contact-sheet/cropped-board substitute.",
+    "fleet_literal_checksum": 40,
+    "older_13_vehicle_state": "SUPERSEDED FOR CURRENT CYCLE; retain as provenance only",
+    "previous_assistant_13_vehicle_answer": "FAIL — used older source instead of latest Founder correction/current GitHub cycle",
+    "previous_assistant_final_HOLDS_claim": "RETRACTED — a final pass could not be valid while current source states conflicted and the actual corrected rendering had not passed the cycle"
+  },
+  "mirror_review": {
+    "prompt_read_completely": "PASS",
+    "python_preflight": "PASS",
+    "github_preflight": "PASS",
+    "latest_source_precedence_applied": "PASS",
+    "old_vs_current_conflict_identified": "PASS",
+    "written_spec_substituted_for_rendering_in_prior_answer": "FAIL_IDENTIFIED_AND_CORRECTED_IN_PROCESS",
+    "actual_corrected_rendering_available_in_current_turn": "NO — only GitHub screenshot is attached in the current conversation turn",
+    "rendering_completion_status": "OPEN — do not claim rendered correction complete until the actual target/new rendering is available and passes",
+    "response_status": "CORRECTED PROCESS STATE ONLY; no false completion claim"
+  },
+  "fail_stops": [
+    "Do not treat old 13-vehicle control as current when later Founder correction/current cycle says 40",
+    "Do not claim HOLDS/PASS for the visual deliverable before the actual corrected rendering is reviewed",
+    "Do not substitute a written specification for the requested visual correction",
+    "Do not present rejected or superseded visuals as current",
+    "Do not generate an unrequested substitute visual when the current prompt is a verification/correction prompt and the actual image target is not available"
+  ]
 }
