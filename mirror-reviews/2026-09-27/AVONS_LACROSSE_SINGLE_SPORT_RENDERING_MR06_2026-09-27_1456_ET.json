@@ -1,0 +1,75 @@
+{
+  "record_type": "AMW_LEGACY_AVONS_LACROSSE_SINGLE_SPORT_RENDERING_RECURSIVE_MIRROR_REVIEW",
+  "review_id": "MR-2026-09-27-06",
+  "date_local": "2026-09-27",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_1456_ET_AVONS_SINGLE_SPORT_FLEET_CORRECTION.txt",
+  "scope": "AVON'S LACROSSE LEGACY only; no all-teams Sports Fleets board permitted as substitute",
+  "cross_referenced": [
+    "controls/FOUNDER_PROMPT_EXACT_2026-09-27_AVONS_LACROSSE_FLEET_UPDATE.txt",
+    "mirror-reviews/2026-09-27/AVONS_LACROSSE_FLEET_UPDATE_2026-09-27.json",
+    "mirror-reviews/2026-09-27/SPORTS_FLEETS_SAVE_STATE_AND_AVON_PHYSICAL_INTERIOR_CORRECTION_2026-09-27_0044_ET.json",
+    "mirror-reviews/2026-09-27/SPORTS_FLEETS_CROSS_CHAT_CONTAMINATION_CORRECTION_MR05_2026-09-27.json",
+    "current Legacy master Fleet Interior Cross-Ref row 48",
+    "current Legacy master Mirror Review Archive",
+    "ML-019 Failure-Class Quarantine & Verified Re-Entry",
+    "ML-020 Automatic Error-Triggered Mirror Review",
+    "ML-021 Fleet Rendering Exterior + Interior Visibility / Physical Depiction Gate",
+    "ML-022 22nd-Century School-Bus Conversion / Purpose-Preservation Gate",
+    "ML-023 Complete-Prompt Reading / Recursive Cross-Reference & Multi-Pass Mirror Review Gate"
+  ],
+  "resolved_current_fleet": {
+    "tour_buses": "6 total = 2 ADA + 2 Mixed + 2 Non-ADA; fans/family travel; later explicit breakdown controls over earlier shorthand '3 tour buses ADA/Mixed/Non-ADA'",
+    "15_passenger_vans": "6 total across ADA/Mixed/Non-ADA; outreach/education/resources; exact per-configuration split not assigned and not inferred",
+    "mega_buses": "9 total = 3 ADA + 3 Mixed + 3 Non-ADA; extended state travel",
+    "double_deckers": "9 total = 3 ADA + 3 Mixed + 3 Non-ADA; regional travel",
+    "22nd_century_school_supply_bus": "1 total; supplies/equipment/luggage; washers/dryers for uniforms; undercarriage bays",
+    "fleet_total": 31,
+    "branding": "all bus families use lacrosse-stick wrap identity",
+    "interior_palette": "Slate Gray + Midnight Dark Blue"
+  },
+  "recursive_cycles": [
+    {
+      "cycle": 1,
+      "artifact": "/mnt/data/a_clean_infographic_graphic_rendering_layout_poste.png",
+      "sha256": "e3b79dbf0ebd86aa42ca8e4c8b311b73b26d8773a45c189455e2c0403afbff26",
+      "result": "FAIL",
+      "reason": "single-sport scope held, but rendered Tour=3 instead of 6, Mega=3 instead of 9, Double=3 instead of 9 and accessibility distinctions were mostly label-level"
+    },
+    {
+      "cycle": 2,
+      "artifact": "/mnt/data/wide_infographic_style_poster_board_design._overa.png",
+      "sha256": "9289985e5d7c13c63642d8cb953f80e80fee4f84c2170c7423e93a3afe64f55d",
+      "result": "FAIL",
+      "reason": "single-sport scope held, but Tour was rendered/labeled as 3 ADA + 3 Mixed + 3 Non-ADA and vans as 6 per configuration, incorrectly inventing counts"
+    },
+    {
+      "cycle": 3,
+      "artifact": "/mnt/data/a_detailed_infographic_poster_image_with_a_clean.png",
+      "result": "FAIL / SOURCE-ASSET ONLY",
+      "reason": "single-sport asset board still used outdated 3/3/3 representative counts; quarantined as count authority, used only as visual source material for exact composition"
+    },
+    {
+      "cycle": 4,
+      "artifact": "/mnt/data/AVONS_LACROSSE_SINGLE_SPORT_FLEET_CORRECTED_FINAL.png",
+      "sha256": "258ad59a5ee3f559f7d23d219c881acbe970d0dc8ec04954e9e95134946b9c83",
+      "dimensions": [2400, 2940],
+      "result": "HOLDS—STRENGTHEN / PASS FOR CURRENT SINGLE-SPORT CANDIDATE",
+      "verified": {
+        "other_team_content": false,
+        "tour": "2 ADA + 2 Mixed + 2 Non-ADA = 6 physically shown",
+        "vans": "6 physically shown; exact config split explicitly not inferred",
+        "mega": "3 ADA + 3 Mixed + 3 Non-ADA = 9 physically shown",
+        "double_decker": "3 ADA + 3 Mixed + 3 Non-ADA = 9 physically shown",
+        "supply_bus": "1 physically shown",
+        "fleet_total": 31,
+        "physical_interior_panels": "Tour, Van, Mega, Double-Deck and Supply all present",
+        "supply_controls": "washer/dryer, equipment/luggage storage and physical undercarriage-bay cargo concept shown",
+        "van_kitchen": "not added",
+        "bus_wraps": "lacrosse-stick identity retained"
+      }
+    }
+  ],
+  "save_state": "CURRENT SINGLE-SPORT RENDERING CANDIDATE — NOT WRITTEN AS FOUNDER-APPROVED OR UPDATE-AND-SAVED BY THIS PROMPT",
+  "current_combined_saved_sports_fleets_artifact": "unchanged; remains separate historical/current combined artifact and is not substituted for this single-sport deliverable",
+  "final_gate": "HOLDS—STRENGTHEN / PASS for this named single-sport candidate only; no system-wide PASS implied"
+}
