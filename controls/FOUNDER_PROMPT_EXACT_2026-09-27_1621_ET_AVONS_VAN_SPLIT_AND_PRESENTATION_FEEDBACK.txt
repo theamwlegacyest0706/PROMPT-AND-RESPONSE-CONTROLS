@@ -1,0 +1,12 @@
+This is your Control you should always follow:
+ALWAYS READ THE PROMPT COMPLETELY;  SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY.
+This is the prompt to follow:
+#1. Run this entire prompt and your previous cross- references through Python, and GitHub to ensure you have and are following all controls before you cross- reference all controls, prompts, safeguards, and produced work to ensure all controls have been adapted, then Conduct a Mirror review.
+ #2. Cross reference your Mirror Review, with previous Mirror Reviews. Make the corrections. Run the Mirror Review and produced work through Python, and GitHun to ensure you have followed the controls, and prompt.
+#3. Conduct a Mirror Review of all of the visual renderings you produced and any work produced for or by the Legacy. Then cross reference your Mirror Review across the chats, prompts, and legacy database and conduct a Mirror Review
+#4. After the results of the Mirror Review run that Mirror Review through Python, and GitHub make the corrections.
+#5. Conduct a Mirror Review run that Mirror Review, through Python and GitHub if changes are needed repeat the cycle, and do not provide me with an excuse or explanation. Provide the corrections after you make the proper adjustments to your responses moving forward.
+Read the prompt completely.
+UPDATE AND SAVE TO THE LEGACY:
+THE CONFIGURATION FOR THE 6 15 PASSENGER VANS IS 2 ADA/ 2 MIXED/ AND 2 NON-ADA.
+MAKE IT NOTED I DO NOT LIKE HOW THE RENDERING WAS PRESENTED.
