@@ -1,0 +1,25 @@
+{
+  "source_image_sha256": "aa34378a06af7c4b0bdaa77fbeb9d2025c40807a2ef13ff8e6db433a896ff677",
+  "single_edit_cycle_only": true,
+  "preserve_unmarked_content": true,
+  "edits": {
+    "remove_header_text": "CHYRS’ MASTERPIECE WOOD-SHOP’S STEWARDS’ COMMON AREA CONTROLS ONLY",
+    "replace_target_panel_with_stewards_common_area": true,
+    "stewards_common_area": {
+      "tvs_total": 10,
+      "gaming_tvs": 4,
+      "general_tvs": 6,
+      "comfortable_seating": true,
+      "empty_legacy_table": true,
+      "empty_legacy_chair": true,
+      "executive_kitchen": true,
+      "executive_chef": true,
+      "showers": 10,
+      "convertible_gaming_tables": 2,
+      "quiet_decompression_areas": 5
+    }
+  },
+  "palette": ["Warm Ivory", "Emerald Green", "Antique Gold"],
+  "update_and_save_after_verified_edit": true,
+  "status": "PREFLIGHT PASS — generate one edited rendering only, then actual-artifact Mirror Review/Python/GitHub verification before save"
+}
