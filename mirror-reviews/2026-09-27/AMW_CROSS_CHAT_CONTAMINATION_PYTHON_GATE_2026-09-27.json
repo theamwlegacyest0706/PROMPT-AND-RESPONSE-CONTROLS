@@ -1,0 +1,31 @@
+{
+  "record_type": "AMW_LEGACY_CROSS_CHAT_CONTAMINATION_PYTHON_GATE",
+  "date": "2026-09-27",
+  "prompt_sha256": "66f715f993358e56d5c7eeb75a5c026c65c6d93d582d64d4895e1beff54bfd5b",
+  "prompt_read_complete": true,
+  "failure_class": "cross-chat / wrong-prompt contamination during current Sports Fleets correction",
+  "current_prompt_authorizes_new_visual_now": false,
+  "correction_required": [
+    "stop all wrong-chat/alternate prompt execution",
+    "reject and quarantine the generated full-board outputs from the contaminated sequence",
+    "preserve the existing current Update-and-Saved Sports Fleets artifact",
+    "do not modify any visual unless the Founder gives a new visual-edit instruction",
+    "record the correction in the Legacy master and GitHub"
+  ],
+  "current_authoritative_artifact": {
+    "path": "/mnt/data/AMW_SPORTS_FLEETS_CURRENT_CORRECTED_2026-09-27.png",
+    "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65",
+    "dimensions": [1536, 1024],
+    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED",
+    "outside_avon_changed_pixels_vs_pre_avon_source": 0,
+    "inside_avon_changed_pixels_vs_pre_avon_source": 102636
+  },
+  "contaminated_generated_outputs": [
+    {"artifact":"a_detailed_infographic_poster_layout_clean_graphi.png","sha256":"8b34a5503263518ef9301c9033a8e319c05c6dfea20c3719819320375dc2a0f3","status":"REJECTED / QUARANTINED / NON-CONTROLLING","outside_authorized_avon_changed_pixels":1254840,"outside_authorized_avon_changed_pct":99.709495},
+    {"artifact":"a_wide_detailed_infographic_poster_board_layout.png","sha256":"0b029570ff43197c3b413229c1fe62ef59ba4f00a45cbf1b3506cc68c99cf440","status":"REJECTED / QUARANTINED / NON-CONTROLLING","outside_authorized_avon_changed_pixels":1255032,"outside_authorized_avon_changed_pct":99.724751},
+    {"artifact":"wide_infographic_poster_with_a_clean_grid_layout_a.png","sha256":"f73ae8291168194976f00a94b2ea87fdee9b70f42e838c5078a0c09b7f0e8f51","status":"REJECTED / QUARANTINED / NON-CONTROLLING","outside_authorized_avon_changed_pixels":1255237,"outside_authorized_avon_changed_pct":99.74104},
+    {"artifact":"a_wide_infographic_poster_clean_grid_layout_high.png","sha256":"c93735b0a0fe83cd887d8fbfb640ae1287892493dee778521e19d2fa7e38d584","status":"REJECTED / QUARANTINED / NON-CONTROLLING","outside_authorized_avon_changed_pixels":1255263,"outside_authorized_avon_changed_pct":99.743106},
+    {"artifact":"a_wide_high_resolution_infographic_poster_with_a.png","sha256":"be12f9044b764e51adf8578c96e53835c5ceacf0cf0886d01e2a271124d80c17","status":"REJECTED / QUARANTINED / NON-CONTROLLING","outside_authorized_avon_changed_pixels":1254909,"outside_authorized_avon_changed_pct":99.714977}
+  ],
+  "python_gate_result": "PASS — contamination isolated; current saved artifact preserved; no new visual authorized by this prompt"
+}
