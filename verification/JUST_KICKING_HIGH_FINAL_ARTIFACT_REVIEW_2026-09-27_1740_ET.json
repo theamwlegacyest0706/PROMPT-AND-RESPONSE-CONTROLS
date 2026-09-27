@@ -1,0 +1,29 @@
+{
+  "source_artifact_sha256": "135e4fd4b7a89679018a7c11054e2a25a8e7c91856426130028d5b9503af7bc2",
+  "final_artifact_sha256": "0e93efceaac6f1070fb4e55d6dc4dd42c4bd8ead8681a713733e6a721c4cd45f",
+  "dimensions": [1536, 1024],
+  "founder_corrections": [
+    "Add visible passenger seating to the interior views for the tour buses, vans, 4/4/4 tour buses, mega buses, and double-decker buses.",
+    "Preserve the Founder-marked exterior bus/van sections and all other KEEP-marked facility, arena, training, recovery, housing, common-area and fleet content.",
+    "Replace the freight-train-like supply vehicle with a recognizable 22nd-century school bus while preserving its equipment/luggage, laundry and storage mission.",
+    "Restore the Just Love Pond at the principal campus entrance."
+  ],
+  "artifact_review": {
+    "passenger_vehicle_interior_seating_visible": true,
+    "tour_bus_exterior_preserved": true,
+    "van_exterior_preserved": true,
+    "4_4_4_tour_bus_exterior_preserved": true,
+    "6_6_3_mega_bus_exterior_preserved": true,
+    "6_6_6_double_decker_exterior_preserved": true,
+    "school_bus_visually_reads_as_school_bus_not_freight_train": true,
+    "school_bus_supply_laundry_storage_mission_preserved": true,
+    "just_love_pond_visible_at_principal_entrance": true,
+    "Founder_marked_KEEP_content_preserved_in_scope": true,
+    "stewards_common_area_controls_preserved": true,
+    "palette_is_Warm_Ivory_Emerald_Green_with_Antique_Gold_accent": true
+  },
+  "python": "PASS",
+  "github": "PASS",
+  "mirror_review": "PASS for the exact Founder-directed edit scope. Prior 17:24 PASS record is superseded for this artifact because the Founder identified seating, school-bus and Just Love Pond omissions after that review.",
+  "overall": "PASS — eligible for Founder-directed Update and Save to the Legacy"
+}
