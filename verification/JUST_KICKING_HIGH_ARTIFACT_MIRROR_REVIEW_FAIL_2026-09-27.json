@@ -1,0 +1,22 @@
+{
+  "artifact_id": "a066d038-78c8-4e01-88f3-a17f1a02c53b",
+  "prompt_sha256_python": "02eb964b0ff4f9197ab6dc79244b0b4301f0008735ba0179cb6b8050036c22bc",
+  "overall": "FAIL",
+  "save_status": "REJECTED / NON-CONTROLLING PROVENANCE ONLY",
+  "checks": {
+    "single_rendering_no_infographic_collage_board": false,
+    "palette_warm_ivory_emerald_antique_gold": true,
+    "chrys_common_area_controls_only_physically_verified": false,
+    "facility_program_substantially_present": true,
+    "fleet_counts_substantially_present": true,
+    "arena_event_features_present": true,
+    "executive_kitchen_head_chef_present": true,
+    "actual_artifact_complete": false
+  },
+  "failures": [
+    "Generated artifact is a multi-panel infographic/collage/board instead of one standalone continuous photorealistic/cinematic rendering.",
+    "The Stewards' Common Area is not physically verified against the Chrys's Masterpiece Wood-shop checksum: 7 TVs total (2 gaming + 5 general Steward), pool table, kitchen, comfortable seating, separate quiet decompression area.",
+    "Rendering may not be promoted, saved as current-controlled, or represented as complete."
+  ],
+  "generation_control": "Current Founder prompt prohibits multiple renderings for this task; therefore this failed artifact is recorded without launching another generation attempt in the same cycle."
+}
