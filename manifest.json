@@ -1,19 +1,28 @@
 {
   "current_master": {
     "library_file_id": "libfile_ba1f6d9e860081918cc3c594d68ae2cd",
-    "current_backing_file_id": "file_0000000028cc822f8443c6745173724b",
+    "current_backing_file_id": "file_0000000093c481f59a35003d44b5cf63",
     "observed_library_version": 7,
     "observed_library_version_note": "Version 7 was the last explicitly observed version before later successful 2026-09-27 overwrites; mutation responses did not expose the newer version number, so no newer version number is invented.",
-    "corrected_candidate_sha256": "faf85ccadc75d9ad4c5aa53d026d0d4fe9fde48e1381dc0b342ca6131a43f724",
+    "corrected_candidate_sha256": "0f7f19d08fd0d9683da60ea6e3949f492f7de7a70da7cbee9c9606ebaf047376",
     "name": "AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
-    "last_write_forward": "2026-09-27 16:21 ET — AVON'S LACROSSE LEGACY six 15-passenger vans explicitly updated to 2 ADA / 2 Mixed / 2 Non-ADA; Founder dislike of latest single-sport presentation recorded; MR-2026-09-27-06 + Visual Corpus Audit row 14 added; formula error scan 0 matches."
+    "last_write_forward": "2026-09-27 17:37 ET — JUSTIFIED WINS single-sport fleet updated and saved to 36 vehicles: 6 Tour, 9 Vans (3 ADA / 3 Mixed / 3 Non-ADA), 9 Mega, 9 Double-Decker, 3 Supply; MR-2026-09-27-07 + Approved Visual Authority + Visual Corpus Audit written forward; formula error scan 0 matches."
+  },
+  "current_justified_wins_fleet_visual": {
+    "library_file_id": "libfile_5367e1b7ba908191a3dc6dea6733f390",
+    "backing_file_id": "file_00000000f268822f8c420a2f29d27fed",
+    "path": "/THE AMW LEGACY/JUSTIFIED_WINS_36_VEHICLE_FLEET_CURRENT_2026-09-27.png",
+    "sha256": "ed5881a1c91888b35ca9fbb2f606f63200017f21ae2369fdd56ec93aa21e8599",
+    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED / MIRROR-CORRECTED",
+    "counts": "6 Tour + 9 Vans + 9 Mega + 9 Double-Decker + 3 Supply = 36",
+    "van_split": "3 ADA / 3 Mixed / 3 Non-ADA"
   },
   "current_sports_fleets_visual": {
     "library_file_id": "libfile_26c90627750c8191b60c97fc9c9173fc",
     "backing_file_id": "file_00000000220c822f998a2fd291f15959",
     "path": "/THE AMW LEGACY/AMW_SPORTS_FLEETS_CURRENT_SLATE_MIDNIGHT_2026-09-26.png",
     "sha256": "32f7fc066d3572eeeab315d79da99aac333f6e525f9e75139f0511ec2cc9ef65",
-    "status": "CURRENT CONTROLLED / UPDATE-AND-SAVED / MIRROR-CORRECTED 2026-09-27 — unchanged by MR-2026-09-27-06"
+    "status": "PRESERVED PRIOR CURRENT COMBINED SPORTS FLEETS ARTIFACT — separate from later JUSTIFIED WINS single-sport Update-and-Save"
   },
   "avons_single_sport_latest_presentation": {
     "library_file_id": "libfile_96c2aaab11bc8191a28f7638bc211cc5",
@@ -23,9 +32,10 @@
     "status": "FOUNDER DOES NOT LIKE PRESENTATION / NOT FOUNDER-APPROVED / NON-CONTROLLING / PRESERVE AS PROVENANCE"
   },
   "current_named_mirror_review": {
-    "id": "MR-2026-09-27-06",
-    "path": "mirror-reviews/2026-09-27/AVONS_VAN_SPLIT_AND_PRESENTATION_FEEDBACK_MR06_2026-09-27.json",
-    "status": "HOLDS—STRENGTHEN / PASS for named written-control/save update only",
+    "id": "MR-2026-09-27-07",
+    "path": "mirror-reviews/2026-09-27/JUSTIFIED_WINS_36_VEHICLE_VAN_ADD_MR07_2026-09-27.json",
+    "final_validation_path": "mirror-reviews/2026-09-27/JUSTIFIED_WINS_36_VEHICLE_FINAL_POSTWRITE_VALIDATION_2026-09-27.json",
+    "status": "HOLDS—STRENGTHEN / PASS for named JUSTIFIED WINS Update-and-Save",
     "system_wide_status_unchanged": "FAIL / OPEN remains separate under MR-2026-09-27-03"
   },
   "source_of_truth_order": [
