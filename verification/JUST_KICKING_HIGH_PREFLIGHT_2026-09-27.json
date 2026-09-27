@@ -1,0 +1,33 @@
+{
+  "prompt_sha256_python": "02eb964b0ff4f9197ab6dc79244b0b4301f0008735ba0179cb6b8050036c22bc",
+  "current_founder_direction": {
+    "read_full_prompt": true,
+    "python_preexecution_gate": true,
+    "github_preexecution_gate": true,
+    "mirror_review_cycle": true,
+    "single_rendering_only": true,
+    "failed_cycles_are_not_deliverables": true
+  },
+  "conflict_resolution": "The current 2026-09-27 Founder direction explicitly prohibits multiple renderings for this task and therefore controls this task over the older 2026-09-26 twelve-rendering format instruction. All other non-conflicting visual controls remain active: photorealistic/cinematic finished artifact, no infographic/collage/board, actual-artifact review before presentation.",
+  "institution": "JUST KICKING HIGH Legacy MMA Team",
+  "palette": "Warm Ivory and Emerald Green with Antique Gold accent",
+  "stewards_common_area": {
+    "inheritance": "Chrys's Masterpiece Wood-shop Stewards' Common Area controls only",
+    "controls": ["7 TVs total: 2 gaming + 5 general Steward", "pool table", "kitchen", "comfortable seating", "separate quiet decompression area"]
+  },
+  "uniform_control": ["official institution palette", "professional functional inclusive", "role-appropriate options", "durable comfortable practical", "reflect mission/environment", "name-role-AMW branding options", "ADA/safety compliant where needed"],
+  "athlete_support": ["Full Executive Kitchen", "Head Chef from AMW culinary department"],
+  "fleet": {
+    "3_tour_buses": "ADA / Mixed / Non-ADA fans-family travel; full kitchen and stated amenities",
+    "6_15_passenger_vans": "ADA/mixed/non-ADA outreach-education-resources; stated amenities; no accessibility split inferred beyond Founder wording",
+    "12_additional_tour_buses": "4 ADA + 4 Mixed + 4 Non-ADA; fans-family travel; full-sized kitchens and stated amenities",
+    "15_mega_buses": "6 ADA + 6 Mixed + 3 Non-ADA; extended state travel; full kitchens and stated amenities",
+    "18_double_deckers": "6 ADA + 6 Mixed + 6 Non-ADA; regional travel; full kitchens and stated amenities",
+    "4_22nd_century_school_buses": "supplies-equipment-luggage; washers-dryers; undercarriage bays; overhead racks",
+    "total_vehicles": 58
+  },
+  "facility_program": ["Olympic & Power Racks", "Cardio-Conditioning Deck", "Hypoxic/Elevation Room", "Keiser Pneumatic System", "Zoned Mat Ecosystems", "Pro Grappling Zone", "Beginner/Striking Zone", "Full-Size Regulation Cage", "Mini-Drilling Cage", "Automated Heavy Bag Rail System", "Acoustic & Environmental Segregation", "Covered Open-Air Pavilion", "Agility Grid & Track", "Calisthenics & Steel Matrix", "Sand Pit Zone", "Contrast Therapy Zone", "Hyperbaric & Cryo Chambers", "Physical Therapy & Sports Massage Suite", "Sleep/Nap Lounge", "Media & Content Studio", "Smart Locker Rooms & Fuel Bar", "Fighter Housing/Dorms"],
+  "arena_controls": ["Extreme Bowl Raking", "Octagonal Pod Layouts", "VIP micro-elevated ergonomic leather seating", "seamless cylindrical or octagonal LED halo jumbotron", "fighter walkout chute with low-level LED boards, smoke and dynamic spotlights", "Open Concourse Viewing", "Combat Sports Galleries", "Live Audio Seat Casts"],
+  "global_nonconflicting_visual_controls": ["Just Love Pond near principal entrance", "renewable-solar-all-electric-ready direction", "Empty Chair", "ROUND Legacy Table", "circular-curved furniture where applicable", "Legacy Creator furnishing priority", "finished-artifact Mirror Review before presentation"],
+  "preflight_result": "PASS FOR ONE GENERATION ATTEMPT ONLY; THE GENERATED ARTIFACT ITSELF MUST THEN PASS MIRROR REVIEW + PYTHON + GITHUB BEFORE PRESENTATION."
+}
