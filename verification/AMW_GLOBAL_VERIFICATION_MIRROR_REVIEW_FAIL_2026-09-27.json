@@ -1,0 +1,28 @@
+{
+  "timestamp_local": "2026-09-27T00:46:00-04:00",
+  "prompt_sha256": "5ecef6d9fad8a0a58402664b07ba6a3a0e8d9b65929ef5256e791d12eb701dc6",
+  "master_sha256": "ca37e208e871b96a508634e1e8a15a958367748d7ce89a186f71bc64ec3d7666",
+  "checks": {
+    "full_prompt_read": true,
+    "python_ingest_current_prompt": true,
+    "github_ingest_current_prompt": true,
+    "all_corpus_authority_classification_complete": false,
+    "all_visual_authority_classification_complete": false,
+    "prompt_to_artifact_lineage_complete": false,
+    "prior_missing_unrecoverable_recheck_complete": false,
+    "aquarium_bus_interior_complete": false,
+    "raw_project_chat_message_level_completeness": false,
+    "systemwide_pass_supported": false,
+    "actual_artifact_gate_satisfied_for_all_open_visuals": false
+  },
+  "overall": "FAIL",
+  "reason": "A system-wide PASS is contradicted by current OPEN/IN PROGRESS/QUARANTINED source-of-truth records and unresolved exact-source/prompt/artifact gaps.",
+  "corrections_required": [
+    "Invalidate prior broad PASS/closure language; scope any PASS only to the exact candidate/artifact actually verified.",
+    "Keep STAB-001, STAB-002, STAB-005, STAB-007, STAB-009 and raw Project-chat completeness open until their close conditions are actually met.",
+    "Do not equate GitHub/Python record existence with full-corpus completion.",
+    "Do not present any open visual or new Legacy artifact as complete before actual-artifact Mirror Review + Python + GitHub pass.",
+    "Continue recovery of indexed-only prompt events and exact binary/artifact sources without upgrading summaries to verbatim/exact.",
+    "Write this FAIL determination into the current Mirror Review/source-control record."
+  ]
+}
