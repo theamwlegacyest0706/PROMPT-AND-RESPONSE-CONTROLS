@@ -1,0 +1,37 @@
+{
+  "record_type": "DOMINATING_ANXIETY_FINAL_MIRROR_REVIEW_2026-09-26",
+  "founder_prompt": "DOMINATING ANXIETY LEGACY BOXING creation + literal separate save/update directive for PATTIE'S PERCH",
+  "preflight": {
+    "python": "PASS",
+    "exact_prompt_commit": "61e605e65d87171eca5ba0c725a21432cb1f29b3",
+    "fleet_checksum": 13,
+    "palette": "Midnight Dark Blue + Antique Gold",
+    "common_area_control": "I AM A MASTERPIECE Common Area: 7 TVs total (2 gaming, 5 general), decompression seating, no cosmetology workstations",
+    "visual_format_lock": "standalone photorealistic/cinematic renderings; no infographic/collage/board presented as deliverable"
+  },
+  "failed_generation_cycles": {
+    "status": "REJECTED / NON-CONTROLLING / NOT SAVED",
+    "failure_classes": [
+      "infographic/panel-board format",
+      "PATTIE'S PERCH contamination inside DOMINATING ANXIETY",
+      "generation handoff ignored edit/format lock"
+    ]
+  },
+  "corrected_output": {
+    "type": "13 standalone renderings plus one continuous cinematic companion",
+    "status": "CREATED / NOT FOUNDER-APPROVED / NOT CURRENT-CONTROLLED / NOT SAVED BY THIS PROMPT"
+  },
+  "save_handling": {
+    "literal_target": "PATTIE'S PERCH",
+    "current_controlled_visual_library_file_id": "file_0000000055cc822fbc0d6e0ca6af19e1",
+    "save_reaffirmation_record_library_file_id": "file_0000000050d0822fb3079fbd9bb7a084",
+    "status": "CURRENT CONTROLLED VISUAL ALREADY PRESENT; FOUNDER SAVE/UPDATE DIRECTIVE REAFFIRMED AND SAVED AS A LEGACY RECORD"
+  },
+  "written_controls_carry_forward": [
+    "I AM A MASTERPIECE Common Area exact 7-TV control remains binding even where a camera view does not expose all seven screens simultaneously.",
+    "Sports fleet interior controls remain binding for Tour, Van, Mega, Double-Decker and 22nd-century Supply Bus classes.",
+    "All Founder-specified boxing spaces and functions remain design requirements even when not visible from a particular standalone camera angle.",
+    "Just Love Pond remains required near the principal/public entrance."
+  ],
+  "final_result": "PASS — exact prompt separation, branding, standalone-rendering presentation, fleet checksum, and PATTIE'S PERCH save handling verified. Founder approval of the new DOMINATING ANXIETY visual remains a separate future status."
+}
