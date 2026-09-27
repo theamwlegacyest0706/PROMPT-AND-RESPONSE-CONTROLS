@@ -1,0 +1,7 @@
+This is your Control and Prompt: ALWAYS READ THE PROMPT COMPLETELY;  SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY. 
+#1. Run this entire prompt and your previous cross- references through Python, and GitHub to ensure you have read and understand the prompt, that you have all of the controls and are following all controls before you cross- reference the controls, prompts, safeguards, and produced work to ensure all controls have been adapted, then Conduct a Mirror review. 
+ #2. Cross reference your Mirror Review, with previous Mirror Reviews. Make the corrections on the new rendering based on the Python and GitHub verification and review of the work. Review and run the work through Python, and GitHub to ensure you have followed the controls, and prompt. 
+#3. Conduct a Mirror Review of all of the work produced for or by the Legacy for this prompt. Then cross reference your Mirror Review across the chats, prompts, and legacy database and conduct a Mirror Review.
+#4. After the results of the Mirror Review are produced run that Mirror Review through Python, and GitHub make the corrections. 
+#5. Conduct a Mirror Review run that Mirror Review, through Python and GitHub if changes are needed repeat the cycle, and do not provide me with an excuse or explanation. Provide the corrections after you make the proper adjustments to your responses moving forward.
+NOW YOU ARE TAKING A PROMPT AND EDIT FOR A DIFFERENT CHAT TO IGNORE THE PROMPT I GAVE YOU.
