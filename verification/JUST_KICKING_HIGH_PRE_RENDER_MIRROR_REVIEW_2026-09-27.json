@@ -1,0 +1,38 @@
+{
+  "institution": "JUST KICKING HIGH Legacy MMA Team",
+  "legacy_id": "LIN-030",
+  "date": "2026-09-27",
+  "result": "PASS FOR FOUNDER-DIRECTED VISUAL EXECUTION ONLY — NOT A COMPLETION/APPROVAL/SAVE PASS",
+  "cross_references": [
+    "Current exact Founder prompt committed as controls/FOUNDER_PROMPT_EXACT_2026-09-27_1503_ET_JUST_KICKING_HIGH_MMA.txt",
+    "Prior exact JUST KICKING HIGH prompt recovered in AMW exact-prompt archive",
+    "Current Legacy Institution LIN-030 — Just Kicking High",
+    "I AM A MASTERPIECE Cosmetology Common Area controls",
+    "Legacy-wide Empty Chair / ROUND Legacy Table / circular-curved furniture / Just Love Pond / renewable direction",
+    "Institution Uniform Standards",
+    "ML-023/024/026 recursive Python+GitHub prompt-control gates",
+    "Founder visual-reference and actual-artifact review controls",
+    "Current global FAIL/OPEN status — candidate-specific work cannot create a system-wide PASS"
+  ],
+  "corrections_before_render": [
+    "Use JUST KICKING HIGH as the controlling institution name; the single fleet phrase JUST KICKING IT HIGH does not supersede the opening exact institution name and established LIN-030 name.",
+    "Import I AM A MASTERPIECE Common Area CONTROLS ONLY: 7 TVs total (2 gaming + 5 general), decompression/quiet area, 2+ showers, full kitchen, convertible table-game equipment and comfortable seating; enlarge footprint slightly but do not import salon stations or salon visual identity.",
+    "Use Antique Gold as dominant palette with Warm Ivory and Emerald Green accents; do not import I AM A MASTERPIECE's palette.",
+    "Apply uniform control: official palette, professional/functional/inclusive, role differentiation, durable/comfortable/practical, mission-reflective, name/role/AMW logo options, safety/ADA compliance where applicable.",
+    "Later same-prompt explicit Tour breakdown controls: 4 ADA + 4 Mixed + 4 Non-ADA = 12 total; earlier three-tour-bus shorthand is not added as a second 3-bus fleet.",
+    "Six 15-passenger vans remain six total; exact ADA/Mixed/Non-ADA quantity split is unspecified and must not be invented.",
+    "Mega buses = 15 total (6 ADA + 6 Mixed + 3 Non-ADA); double-deckers = 18 total (6/6/6); supply school buses = 4; total fleet checksum = 55.",
+    "No infographic/collage/board substitute. Finished imagery must be photorealistic/cinematic standalone rendering(s).",
+    "No generated image may be called approved, saved, current-controlled, or complete until the actual artifact itself passes Mirror Review + Python + GitHub."
+  ],
+  "visual_must_show_or_preserve_across_set": [
+    "Just Love Pond at principal/public entrance",
+    "renewable/solar-ready campus direction",
+    "MMA training program: racks/platforms, conditioning deck, elevation room, Keiser system, zoned mats, full regulation cage, mini drilling cage, heavy-bag rail, acoustic segregation",
+    "open-air pavilion, agility/track, calisthenics matrix, sand pit",
+    "recovery/support: contrast therapy, hyperbaric/cryo, PT/sports massage, sleep/nap, media studio, smart locker rooms/fuel bar, fighter housing",
+    "Stewards Common Area controls-only inheritance",
+    "uniform control",
+    "fleet exteriors and interiors appropriate to mission; 22nd-century supply-bus laundry/storage controls"
+  ]
+}
