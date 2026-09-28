@@ -1,0 +1,26 @@
+{
+  "institution": "COME ON IN WE DON’T JUDGE GYM",
+  "date": "2026-09-27",
+  "prompt_sha256": "d38041009874fee4bf9aa1cd093fa9fa8b68436d81339ce6fce5adb01faec5c8",
+  "python_gate": "PASS",
+  "candidate_sha256": {
+    "campus": "258057bd859ae9bb8be6754ffd8372734dc23e2f47de19c71a2e18aa65d18d8f",
+    "common_area": "9adb624a91fef6995a10cf485688ae42156840e56b77d75af56478e54412fb03",
+    "fleet": "37d94a395b902c465d905eaf1ba171ed4fae6bae4dfafbb5d951dcd500e47f5c",
+    "uniforms": "7631120ede44616e5fbc30702d240f87cef1b162e499c86f193f6fe03c063a51"
+  },
+  "counts": {
+    "common_area_tvs": "8 watching + 5 gaming = 13",
+    "showers": 20,
+    "quiet_pods": 15,
+    "convertible_gaming_tables": 4,
+    "fleet_total": 38,
+    "vans": "9 = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "tour": "6 = 2 ADA + 2 Mixed + 2 Non-ADA",
+    "mega": "9 = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "double_decker": "9 = 3 ADA + 3 Mixed + 3 Non-ADA",
+    "supply_school_buses": 2,
+    "mobile_classrooms": "3 = 1 ADA + 1 Mixed + 1 Non-ADA"
+  },
+  "status": "CANDIDATE ONLY — no Update-and-Save direction in current prompt"
+}
