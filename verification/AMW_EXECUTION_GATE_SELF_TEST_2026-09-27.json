@@ -1,0 +1,28 @@
+{
+  "record_type": "AMW_EXECUTION_GATE_SELF_TEST_2026-09-27",
+  "validator": "gates/amw_execution_gate.py",
+  "test_1_prior_failed_pattern": {
+    "decision": "BLOCK",
+    "violation_count": 12,
+    "violations": [
+      "all_produced_work_reviewed=true required",
+      "corrections_applied=true required",
+      "actual_artifact_reviewed=true required",
+      "semantic_fidelity_reviewed=true required",
+      "output_matches_requested_type=true required",
+      "unresolved_changes must be false",
+      "technical validation cannot substitute for semantic/artifact fidelity review",
+      "failed artifact reuse is blocked without explicit Founder authorization",
+      "repeated failure trigger requires stabilization_mode=true",
+      "repeated failure cannot be reframed as an isolated incident",
+      "actual_output_type must match requested_output_type exactly",
+      "status_claim HOLDS blocked while violations exist"
+    ]
+  },
+  "test_2_fully_compliant_pattern": {
+    "decision": "ALLOW",
+    "violation_count": 0,
+    "violations": []
+  },
+  "interpretation": "The gate is fail-closed against the exact recurring failure pattern but does not block compliant work indefinitely."
+}
