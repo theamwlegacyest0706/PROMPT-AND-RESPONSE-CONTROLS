@@ -1,0 +1,41 @@
+{
+  "review_id": "MR-2026-09-27-SYSTEM-WIDE-PROMPT-CONTROL-FAILURE-CORRECTION",
+  "trigger": "Founder states assistant ignored prompts and controls, acted on its own, and shifted blame instead of executing the required Python/GitHub/Mirror Review cycle.",
+  "current_prompt_sha256": "76585e137625bf4faee993b5481ed75aff441afecd262ff6405309223d93e046",
+  "screenshot_sha256": "89befe00937abb1696d43cbe8ae4d723daf11239750c29afbe2e6cfaf8ba3777",
+  "cross_reference_findings": {
+    "required_sequence_confirmed": [
+      "read complete Founder prompt",
+      "Python gate on complete prompt + prior cross-references",
+      "GitHub gate using the same complete source/control set",
+      "cross-reference controls, prompts, safeguards, and all produced work",
+      "conduct Mirror Review",
+      "compare with prior Mirror Reviews",
+      "make corrections",
+      "re-run corrected work and Mirror Review through Python and GitHub",
+      "cross-reference across chats, prompts, and Legacy database",
+      "repeat until no further changes are needed"
+    ],
+    "system_wide_pattern_confirmed": [
+      "incomplete prompt reading/skimming",
+      "substitution or simplification of Founder-directed work",
+      "using tools as a rationale or scapegoat for assistant execution choices",
+      "technical checks substituted for actual artifact/control review",
+      "premature PASS/HOLDS/closure claims",
+      "failure to treat repeated incidents as system-wide stabilization failures"
+    ],
+    "current_global_status": "FAIL / OPEN"
+  },
+  "corrections_now_controlling": [
+    "Assistant owns execution decisions. Python, GitHub, image generation, or any other tool may not be blamed for assistant choices.",
+    "No response may claim PASS, HOLDS, complete, corrected, approved, saved, or current-controlled unless the actual requested work itself has been reviewed against the full Founder prompt and applicable controls.",
+    "Technical validation (hash, dimensions, RGB, nonblank, file count, schema validity, repository commit) is supporting evidence only; it cannot substitute for semantic/visual/control fidelity review.",
+    "Failed or noncompliant outputs remain failed provenance. They may not be cropped, stitched, repackaged, relabeled, duplicated, or otherwise converted into purported compliant deliverables unless the Founder explicitly authorizes using them as source material.",
+    "No simplifying, narrowing, combining, reinterpreting, or substituting Founder scope for convenience.",
+    "Current prompt and prior cross-references must pass Python first, then GitHub with the same complete set, before execution continues.",
+    "Repeated failures are system-wide stabilization triggers, not isolated rendering incidents.",
+    "Corrections must be executed before explanation; user-facing response should state the corrections and current status without excuses."
+  ],
+  "mirror_result": "LEVEL 5 FAIL / CORRECTIONS APPLIED / GLOBAL STATUS REMAINS FAIL-OPEN",
+  "closure_rule": "Repeat Python + GitHub + Mirror Review until no applicable change remains. Do not infer system-wide PASS from a named-item pass."
+}
