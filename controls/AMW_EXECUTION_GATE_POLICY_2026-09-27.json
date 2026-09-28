@@ -1,0 +1,47 @@
+{
+  "control_id": "AMW_EXECUTION_GATE_POLICY_2026-09-27",
+  "purpose": "Convert repeated prompt/control failures into a fail-closed execution workflow instead of relying on narrative self-certification.",
+  "authority": [
+    "Founder current five-step Python + GitHub + Mirror Review prompt",
+    "ML-023 full-prompt/system-wide gate",
+    "ML-024 stabilization/source-of-truth control",
+    "ML-026 per-prompt dual-layer ingestion control",
+    "MR-2026-09-25-01",
+    "MR-2026-09-26-01",
+    "MR-2026-09-27-03",
+    "MR-2026-09-27-SYSTEM-WIDE-PROMPT-CONTROL-FAILURE-CORRECTION"
+  ],
+  "fail_closed_rules": [
+    "No work may be marked PASS/HOLDS/COMPLETE while any required gate is false or any unresolved change remains.",
+    "APPROVED/SAVED/CURRENT_CONTROLLED require an explicit Founder status directive in addition to all execution gates.",
+    "The exact prompt/source hash supplied to Python must equal the exact prompt/source hash recorded in GitHub.",
+    "Technical checks such as hashes, dimensions, RGB, file count, schema validity, or successful commits never substitute for semantic or visual fidelity review of the actual requested work.",
+    "The actual artifact/output must be reviewed; metadata-only validation is insufficient.",
+    "Requested output type and actual output type must match exactly. A document cannot substitute for a rendering; a collage cannot substitute for standalone images; labels cannot substitute for physical depiction.",
+    "Failed or rejected artifacts cannot be cropped, stitched, duplicated, relabeled, repackaged, or reused as compliant deliverables without explicit Founder authorization.",
+    "Two or more failures in the same working cycle trigger stabilization mode. The issue cannot be reframed as isolated, and new redesign/re-render work is blocked except for Founder-directed correction/recovery.",
+    "No simplifying, narrowing, combining, reinterpretation, convenience waiver, or silent substitution of Founder scope is allowed.",
+    "The full correction cycle repeats until Python and GitHub validations both pass after the final Mirror Review and unresolved_changes=false."
+  ],
+  "required_gate_order": [
+    "read_complete_prompt",
+    "python_gate_complete",
+    "github_gate_complete_using_same_source_set",
+    "controls_prompts_safeguards_and_produced_work_cross_referenced",
+    "mirror_review",
+    "prior_mirror_reviews_compared",
+    "corrections_applied",
+    "actual_work_reviewed_for_semantic_visual_fidelity",
+    "post_correction_python_validation",
+    "post_correction_github_validation",
+    "cross_chat_prompt_legacy_database_review",
+    "final_mirror_review",
+    "repeat_if_any_change_or_mismatch_remains"
+  ],
+  "implementation": {
+    "validator": "gates/amw_execution_gate.py",
+    "task_packet_template": "gates/task_packet_template.json",
+    "decision_model": "BLOCK by default; ALLOW only when every mandatory field passes"
+  },
+  "limitation": "This repository gate cannot alter the underlying model itself. Its function is to make the AMW project workflow fail closed so noncompliant work cannot legitimately be promoted, saved, approved, or reported as passed."
+}
