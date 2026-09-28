@@ -1,0 +1,44 @@
+{
+  "artifact": "JUST KICKING HIGH Legacy MMA Team",
+  "prompt_sha256": "c8737e4cf20ede3b9a116e492961093619256f0220c7c119a7a5649b4761c7b7",
+  "artifact_sha256": "38cd86122fafd3d13f258b845cfc5c45ad1e34dd5d59c57ad58c99c8e0e78444",
+  "python": {
+    "full_prompt_read": true,
+    "python_required": true,
+    "github_required": true,
+    "mirror_review_required": true,
+    "explicit_update_and_save": true,
+    "artifact_matches_saved_library_bytes": true,
+    "artifact_matches_prior_school_bus_pass_hash": true,
+    "result": "PASS"
+  },
+  "actual_artifact_mirror_review": {
+    "current_corrected_rendering_used": true,
+    "22nd_century_school_bus_correction_retained": true,
+    "just_love_pond_retained": true,
+    "common_area_retained": true,
+    "facility_and_fleet_program_retained": true,
+    "no_new_rendering_created_for_save_action": true,
+    "result": "PASS"
+  },
+  "legacy_save": {
+    "visual_path": "/THE AMW LEGACY/JUST KICKING HIGH LEGACY MMA TEAM — CURRENT CONTROLLED VISUAL — 2026-09-27.png",
+    "visual_library_file_id": "libfile_46e82e54abb48191a786765c18a79737",
+    "visual_backing_file_id": "file_000000000524822f96402fc948ee28de",
+    "visual_version": 2,
+    "master_path": "/THE AMW LEGACY/AMW_MASTER_LAUNCH_REGISTERS_CURRENT_STABILIZATION_ACTIVE.xlsx",
+    "master_backing_file_id_after_update": "file_00000000357c822f977f29a7e5de80c9",
+    "master_updates": [
+      "Legacy Institutions LIN-030",
+      "Institution Interior Cross-Ref LIN-030",
+      "Institution Governance LIN-030",
+      "Fleet Interior Cross-Ref row 52",
+      "Campus & Interior Control rows 152-154",
+      "Approved Visual Authority row 68",
+      "Mirror Review Archive MR-2026-09-27-08"
+    ]
+  },
+  "authority": "CURRENT CONTROLLED / FOUNDER UPDATE-AND-SAVED / ACTUAL-ARTIFACT VERIFIED",
+  "systemwide_note": "This named artifact-specific PASS does not convert broader system-wide stabilization/recovery items into a global PASS.",
+  "overall": "PASS — exact corrected JUST KICKING HIGH rendering is Update-and-Saved to the Legacy"
+}
