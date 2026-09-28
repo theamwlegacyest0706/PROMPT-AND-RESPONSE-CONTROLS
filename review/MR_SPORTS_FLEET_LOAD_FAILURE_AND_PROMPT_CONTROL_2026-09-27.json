@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-27",
+  "scope": "Sports Fleet working-copy presentation failure and prompt/control compliance correction",
+  "founder_prompt_requirements": [
+    "Read the entire prompt before responding.",
+    "Run the prompt and prior cross-references through Python and GitHub before conclusions.",
+    "Cross-reference controls, prompts, safeguards, produced work, and prior Mirror Reviews.",
+    "Make corrections before responding.",
+    "Do not provide excuses; provide corrected execution going forward."
+  ],
+  "python_verification": {
+    "current_founder_screenshot": "/mnt/data/image(20260928-012719).png",
+    "dimensions": "1680x1050",
+    "sha256": "477d9056556ff8ba7433e80e5a310c22bfa5614786c3f9ef0da12593556534f6",
+    "visible_result": "The user-facing viewer says 'Couldn't load this file'.",
+    "status": "FAIL_OPEN"
+  },
+  "github_cross_reference": [
+    "84cc0ac5195ad5c90fa99af31b37ab57326be118 — repeated Sports Fleet visible-display false claim; attachment chip/backend retrieval is not visible rendering",
+    "379cb3456f02d968fa809a066198a7862871e0dc — backend recovery is not display completion",
+    "48979c4cd26277df9894f943fde86c18faca7101 — exact Founder-supplied Sports Fleet edit source is 9ce75a75-12ee-473d-847b-77d6ad683a4d.png"
+  ],
+  "mirror_review_findings": [
+    "The assistant failed the Founder's prompt by claiming successful visible presentation without verifying the user-facing result.",
+    "The assistant improperly invoked Python/GitHub verification as proof of success even though the user-facing file did not load.",
+    "Responsibility for this failure belongs to the assistant's execution, not Python or GitHub.",
+    "The Sports Fleet source remains located, but presentation/editability remains unverified and therefore OPEN."
+  ],
+  "controlling_corrections": [
+    "Never claim an image is shown, rendered, visible, available for editing, or successfully loaded unless the user-facing image itself is visibly present and usable.",
+    "A backend file, attachment chip, sandbox link, file citation, Python display call, or GitHub record does not establish user-visible success.",
+    "Python and GitHub must be used as verification layers before the response, but they cannot substitute for the required visible result.",
+    "Do not attribute assistant execution failures to Python or GitHub.",
+    "Keep the presentation/editability gate FAIL_OPEN until the Founder confirms the actual image is visible and usable for edits."
+  ],
+  "mirror_review_status": "FAIL_OPEN"
+}
