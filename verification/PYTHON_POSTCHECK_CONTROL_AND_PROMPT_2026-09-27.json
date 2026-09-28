@@ -1,0 +1,16 @@
+{
+  "verification_id": "PYTHON-POSTCHECK-CONTROL-AND-PROMPT-2026-09-27",
+  "control_and_prompt_sha256": "6c18fe3b038b090f3253845ee7fbe4de7ea30c113e4ed74c045ac7fea1fc1f60",
+  "checks": [
+    {"check": "hash_matches_github_control", "pass": true},
+    {"check": "dual_classification_is_CONTROL_and_PROMPT", "pass": true},
+    {"check": "starts_with_Control_and_Prompt", "pass": true},
+    {"check": "all_five_numbered_steps_present", "pass": true},
+    {"check": "recursive_repeat_cycle_present", "pass": true},
+    {"check": "verification_sequence_contains_python_preflight_and_postcheck", "pass": true},
+    {"check": "verification_sequence_contains_github_cross_reference_and_postcheck", "pass": true},
+    {"check": "verification_sequence_contains_two_mirror_reviews", "pass": true},
+    {"check": "prompt_only_misclassification_is_hard_fail", "pass": true}
+  ],
+  "result": "PASS_POSTCHECK"
+}
