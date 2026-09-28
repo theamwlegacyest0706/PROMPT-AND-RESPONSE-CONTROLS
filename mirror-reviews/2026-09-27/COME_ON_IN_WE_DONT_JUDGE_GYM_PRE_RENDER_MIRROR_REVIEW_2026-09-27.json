@@ -1,0 +1,31 @@
+{
+  "review_type": "PRE_RENDER_MIRROR_REVIEW",
+  "date_local": "2026-09-27",
+  "institution": "COME ON IN WE DON’T JUDGE GYM",
+  "founder_prompt": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_2154_ET_COME_ON_IN_WE_DONT_JUDGE_GYM_CREATE.txt",
+  "python_gate": "mirror-reviews/2026-09-27/COME_ON_IN_WE_DONT_JUDGE_GYM_PYTHON_GATE_2026-09-27_2154_ET.json",
+  "cross_reference": [
+    "controls/FOUNDER_CURRENT_CONTROL.txt",
+    "Library AMW_EXACT_PROMPT_ARCHIVE_DRIVE_2026-09-26.json — prior COME ON IN WE DON’T JUDGE GYM prompt",
+    "latest Legacy master — no existing named COME ON IN WE DON’T JUDGE GYM row located",
+    "I AM A MASTERPIECE Cosmetology Gallery Common Area and uniform controls",
+    "Legacy-wide Empty Chair / round Legacy Table / Just Love Pond / renewable-energy controls",
+    "Fleet physical-depiction, accessibility and mission-preservation controls",
+    "prior 2026-09-27 Sports Fleets Mirror Reviews establishing exact-count and no-caption-substitution discipline"
+  ],
+  "pre_render_findings": [
+    "Current prompt supersedes prior COME ON IN common-area mirror-only direction with explicit: 8 watching TVs, 5 gaming TVs, 20 showers, 4 convertible gaming tables, 15 quiet pods, executive kitchen/chef, comfortable seating, Empty Legacy Table and Empty Legacy Chair.",
+    "Current prompt supersedes prior fleet counts. The explicit van configuration 3 ADA + 3 Mixed + 3 Non-ADA resolves to 9 vans despite the earlier shorthand '6-15 passenger vans'.",
+    "Current fleet total resolves to 38: 9 vans + 6 Tour + 9 Mega + 9 Double-Decker + 2 supply school buses + 3 mobile-classroom school buses.",
+    "2 washers + 2 dryers are required for the two supply school buses; exact per-bus distribution is not specified and will not be invented.",
+    "Uniforms inherit professional/comfortable/role-appropriate styling and safety/PPE override; institution palette is Slate Gray with Emerald Green accent.",
+    "No Update-and-Save direction exists in this prompt; produced visuals are candidates only and must not be promoted to Founder-approved/current Legacy visual authority."
+  ],
+  "planned_outputs": [
+    "Campus master rendering showing Pro/Championship, Learning/Academy, Community/Recreational, Central Spine/Fan Plaza, Traffic Bridge, indoor/outdoor sport core, recovery/science, ecological learning, security and entrance pond.",
+    "Stewards’ Common Area rendering with physically countable controls.",
+    "Exact-count 38-vehicle fleet rendering with all assigned ADA/Mixed/Non-ADA configurations and mission-specific interiors.",
+    "Uniform rendering using the controlled palette and professional/comfortable role-appropriate garments without inventing staffing structures."
+  ],
+  "pre_render_result": "HOLDS — proceed to candidate generation, then actual-artifact Mirror Review is mandatory before presentation."
+}
