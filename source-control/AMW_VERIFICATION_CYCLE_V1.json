@@ -1,0 +1,40 @@
+{
+  "control_id": "AMW-VERIFICATION-CYCLE-V1",
+  "scope": "AMW Legacy work verification.",
+  "input_invariants": [
+    "Use the complete current Founder prompt verbatim.",
+    "Load prior cross-references and applicable controls before drafting or execution.",
+    "Use the same complete source and control set in Python and GitHub.",
+    "Preserve relevant failed, superseded, rejected, historical, and corrective provenance."
+  ],
+  "required_sequence": [
+    "INGEST_COMPLETE_PROMPT",
+    "LOAD_PRIOR_CROSS_REFERENCES",
+    "PYTHON_PREFLIGHT",
+    "GITHUB_CROSS_REFERENCE",
+    "MIRROR_REVIEW_1",
+    "APPLY_CORRECTIONS",
+    "PYTHON_POSTCHECK",
+    "GITHUB_POSTCHECK",
+    "MIRROR_REVIEW_2",
+    "REPEAT_IF_CHANGES",
+    "USER_RESPONSE_ONLY_AFTER_STABLE_CYCLE"
+  ],
+  "hard_fail_conditions": [
+    "Prompt is summarized, narrowed, or skimmed instead of preserved in full.",
+    "Python or GitHub occurs after a substantive conclusion instead of before it.",
+    "Python and GitHub receive materially different source or control sets.",
+    "Technical file checks are treated as proof of semantic, visual, or interface success.",
+    "A visual-display or editability claim is made without direct user-facing evidence.",
+    "A failed artifact is repackaged as compliant without explicit Founder authorization.",
+    "A completion claim is made before the actual requested work passes applicable controls.",
+    "Assistant execution failure is attributed to a tool."
+  ],
+  "sports_fleet_specific": [
+    "Founder source authority: file_00000000b7fc822faa5ca143cbad3f66 / 9ce75a75-12ee-473d-847b-77d6ad683a4d.png.",
+    "Later substitute Sports Fleet boards are not edit-source authority.",
+    "Presentation or editability cannot pass unless the actual source is visibly open and usable to the Founder.",
+    "User-facing evidence of 'Couldn't load this file' means presentation/editability remains FAIL_OPEN."
+  ],
+  "closure_rule": "Corrected work and Mirror Review must both pass Python and GitHub using the same complete source/control set; repeat until the second Mirror Review finds no remaining change."
+}
