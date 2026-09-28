@@ -1,0 +1,17 @@
+{
+  "status": "PASS_PRE_GITHUB",
+  "prompt_sha256": "630e86c0baed5cb4812bc6a50b2df07fc6e5e9d4b6d8eb6dc80d9e213ac313c2",
+  "checks": [
+    {"check": "complete_prompt_present", "pass": true, "detail": "2013 characters preserved"},
+    {"check": "prompt_hash_matches", "pass": true, "detail": "630e86c0baed5cb4812bc6a50b2df07fc6e5e9d4b6d8eb6dc80d9e213ac313c2"},
+    {"check": "prior_cross_refs_loaded", "pass": true, "detail": ["164b314f82918232e8f4280a661804f61cabe387","9256566c9104959baf4e6e20b0132d6653b6d09f","84cc0ac5195ad5c90fa99af31b37ab57326be118","48979c4cd26277df9894f943fde86c18faca7101"]},
+    {"check": "verification_sequence_defined", "pass": true},
+    {"check": "python_before_response", "pass": true},
+    {"check": "github_required_next", "pass": true},
+    {"check": "sports_fleet_ui_not_claimed_pass", "pass": true, "detail": "presentation/editability remains FAIL_OPEN"}
+  ],
+  "screenshots": [
+    {"sha256":"58827daff2dc765066bde8ed6255cfa43d66f8e2622bf5eddccc98e264a43e71","dimensions":"1680x1050"},
+    {"sha256":"8eb7ad6fb75bb9065c67badfdb4f5597034a5349265f4baa136540f8b072f121","dimensions":"1680x1050"}
+  ]
+}
