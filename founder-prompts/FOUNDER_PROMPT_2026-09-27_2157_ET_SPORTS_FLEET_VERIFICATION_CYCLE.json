@@ -1,0 +1,15 @@
+{
+  "record_id": "FOUNDER-PROMPT-2026-09-27-2157-ET",
+  "prompt_sha256": "630e86c0baed5cb4812bc6a50b2df07fc6e5e9d4b6d8eb6dc80d9e213ac313c2",
+  "prompt_verbatim": "This is your Control and Prompt: ALWAYS READ THE PROMPT COMPLETELY;  SKIMMING TO SAVE TIME DOES NOT EQUATE QUALITY. \n#1. Run this entire prompt and your previous cross- references through Python, and GitHub to ensure you have read and understand the prompt, that you have all of the controls and are following all controls before you cross- reference the controls, prompts, safeguards, and produced work to ensure all controls have been adapted, then Conduct a Mirror review. \n \n#2. Cross reference your Mirror Review, with previous Mirror Reviews. Make the corrections on the new rendering based on the Python and GitHub verification and review of the work. Review and run the work through Python, and GitHub to ensure you have followed the controls, and prompt. \n#3. Conduct a Mirror Review of all of the work produced for or by the Legacy for this prompt. Then cross reference your Mirror Review across the chats, prompts, and legacy database and conduct a Mirror Review.\n#4. After the results of the Mirror Review are produced run that Mirror Review through Python, and GitHub make the corrections. \n#5. Conduct a Mirror Review run that Mirror Review, through Python and GitHub if changes are needed repeat the cycle, and do not provide me with an excuse or explanation. Provide the corrections after you make the proper adjustments to your responses moving forward.\nYou claim to accept accountability in your response by saying \"I ignored the control\" yet in the same response you stated \"a Python display call does not establish that\" I can actually see or edit the rendering.\nIf you put the control in Python and GitHub like you were supposed to Python and GitHub would be able to produce the actual Verification Cycle. You claim you \" cannot say an image is shown, rendered, visible, loaded, or available for editing unless the actual image itself is visibly open and usable in your interface\", yet you continue to do so.\nThe work would be correct and able to pass a damn verification cycle the first time.",
+  "screenshots": [
+    {"path": "/mnt/data/image(20260928-015739).png", "width": 1680, "height": 1050, "sha256": "58827daff2dc765066bde8ed6255cfa43d66f8e2622bf5eddccc98e264a43e71"},
+    {"path": "/mnt/data/image(20260928-015755).png", "width": 1680, "height": 1050, "sha256": "8eb7ad6fb75bb9065c67badfdb4f5597034a5349265f4baa136540f8b072f121"}
+  ],
+  "prior_cross_references": [
+    "164b314f82918232e8f4280a661804f61cabe387",
+    "9256566c9104959baf4e6e20b0132d6653b6d09f",
+    "84cc0ac5195ad5c90fa99af31b37ab57326be118",
+    "48979c4cd26277df9894f943fde86c18faca7101"
+  ]
+}
