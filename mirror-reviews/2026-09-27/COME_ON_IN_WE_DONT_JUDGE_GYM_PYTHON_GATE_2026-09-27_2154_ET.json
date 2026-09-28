@@ -1,0 +1,52 @@
+{
+  "record_type": "AMW_LEGACY_COME_ON_IN_WE_DONT_JUDGE_GYM_PYTHON_GATE",
+  "date_local": "2026-09-27",
+  "time_local": "21:54 ET",
+  "founder_prompt_path": "controls/FOUNDER_PROMPT_EXACT_2026-09-27_2154_ET_COME_ON_IN_WE_DONT_JUDGE_GYM_CREATE.txt",
+  "prompt_sha256": "d38041009874fee4bf9aa1cd093fa9fa8b68436d81339ce6fce5adb01faec5c8",
+  "prompt_read_complete": true,
+  "common_area": {
+    "watching_tvs": 8,
+    "gaming_tvs": 5,
+    "total_tvs": 13,
+    "comfortable_seating": true,
+    "empty_legacy_table": 1,
+    "empty_legacy_chair": 1,
+    "shower_stalls": 20,
+    "executive_kitchen": 1,
+    "executive_chef": true,
+    "convertible_gaming_tables": 4,
+    "quiet_decompressing_pods": 15,
+    "palette": "Slate Gray with Emerald Green accent"
+  },
+  "fleet": {
+    "15_passenger_vans": {
+      "resolved_count": 9,
+      "configuration": {"ADA": 3, "Mixed": 3, "Non-ADA": 3},
+      "mission": "outreach/education/resources",
+      "same_prompt_resolution": "The later explicit 3 ADA + 3 Mixed + 3 Non-ADA breakdown controls over the shorthand '6-15 passenger vans'."
+    },
+    "tour_buses": {"count": 6, "configuration": {"ADA": 2, "Mixed": 2, "Non-ADA": 2}, "mission": "family/friends/fans travel"},
+    "mega_buses": {"count": 9, "configuration": {"ADA": 3, "Mixed": 3, "Non-ADA": 3}, "mission": "extended state travel"},
+    "double_deckers": {"count": 9, "configuration": {"ADA": 3, "Mixed": 3, "Non-ADA": 3}, "mission": "regional travel"},
+    "22nd_century_supply_buses": {"count": 2, "mission": "equipment/luggage", "laundry": "2 washers + 2 dryers for uniforms across the two supply buses; per-bus allocation not specified and not invented"},
+    "22nd_century_mobile_classrooms": {"count": 3, "configuration": {"ADA": 1, "Mixed": 1, "Non-ADA": 1}, "mission": "mobile classroom"},
+    "grand_total": 38
+  },
+  "inherited_controls": [
+    "At least one intentionally Empty Chair in every seating environment.",
+    "Circular/rounded/curved collaboration and governance furniture where function reasonably permits.",
+    "At least one separate physical ROUND Legacy Table in a principal shared/public/community/learning/gathering area.",
+    "Just Love Pond near principal/public entrance.",
+    "Legacy-wide solar/renewable/all-electric-ready standard subject to safety/code/process/resilience gates.",
+    "Uniforms professional/comfortable and role-appropriate; this institution uses Slate Gray with Emerald Green accent; PPE/safety/sanitation override decorative styling.",
+    "Fleet accessibility is explicit, not inferred by color; amenities must be physically represented where shown.",
+    "Rendered/design status does not equal operational readiness."
+  ],
+  "prior_prompt_cross_reference": {
+    "prior_common_area": "Mirrored I AM A MASTERPIECE COSMETOLOGY on a slightly larger scale.",
+    "prior_fleet": "3 Tour + 3 vans + 3 Mega + 3 Double-Decker + 1 supply bus.",
+    "current_effect": "Current explicit common-area numbers, current fleet counts/configurations, three mobile-classroom school buses, and laundry requirements supersede conflicting prior COME ON IN WE DON’T JUDGE GYM details. Prior campus/program architecture remains compatible and is carried forward where not superseded."
+  },
+  "gate_result": "PASS"
+}
