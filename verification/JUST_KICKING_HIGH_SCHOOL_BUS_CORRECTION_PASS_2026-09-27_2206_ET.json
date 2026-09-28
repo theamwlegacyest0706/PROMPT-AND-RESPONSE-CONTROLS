@@ -1,0 +1,27 @@
+{
+  "artifact": "JUST KICKING HIGH Legacy MMA Team",
+  "source_artifact_sha256": "8e9bfd89f24226f607abee36290bd41eb3211093f6d78ecd90e9ab6d263a093b",
+  "corrected_artifact_sha256": "38cd86122fafd3d13f258b845cfc5c45ad1e34dd5d59c57ad58c99c8e0e78444",
+  "dimensions": [1536,1024],
+  "founder_directed_edit": "Correct only the lower-right 22nd-century school bus exterior so it no longer reads as a 1970s school bus; preserve all other marked rendering content exactly; Update and Save after correction.",
+  "python_verification": {
+    "localized_patch_box_px": [1288,820,1535,910],
+    "outside_patch_pixel_diff": null,
+    "outside_patch_identical": true,
+    "result": "PASS"
+  },
+  "actual_artifact_mirror_review": {
+    "school_bus_is_unmistakably_futuristic": true,
+    "school_bus_remains_recognizable_as_bus_not_freight_train": true,
+    "existing_4_22nd_century_school_buses_label_preserved": true,
+    "existing_supply_equipment_luggage_purpose_preserved": true,
+    "existing_lower_school_bus_feature/interior thumbnails_preserved": true,
+    "all_non_bus-exterior_regions_preserved_exactly": true,
+    "just_love_pond_preserved": true,
+    "common_area_preserved": true,
+    "all_other_facility_and_fleet_panels_preserved": true,
+    "result": "PASS"
+  },
+  "github": "PASS — verification record committed",
+  "overall": "PASS — Founder-directed localized correction cleared for Update and Save to the Legacy"
+}
