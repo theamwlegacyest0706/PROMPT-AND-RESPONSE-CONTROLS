@@ -1,0 +1,38 @@
+{
+  "review_id": "MR-2026-09-27-AMW-EXECUTION-GATE-CODING-CORRECTION",
+  "scope": "Founder current five-step prompt + prior system-wide failure Mirror Reviews + ML-023/024/026 + new fail-closed execution coding.",
+  "reason": "Repeated evidence showed that narrative controls alone were not reliably preventing prompt/control drift, technical-check substitution, premature HOLDS/PASS claims, or isolated-incident reframing.",
+  "initial_coding_review": {
+    "finding": "V1 strengthened blocking but still relied too heavily on boolean self-certification.",
+    "correction": "Upgraded to V2 ordered evidence-backed execution gate."
+  },
+  "v2_controls": [
+    "Exact Founder prompt text and SHA required; Python and GitHub source SHA must match.",
+    "Founder-directed event order enforced.",
+    "Every required event must PASS and carry evidence.",
+    "Every explicit/inherited requirement must be represented in an evidence-backed requirement matrix.",
+    "Actual artifacts/outputs must receive evidence-backed semantic fidelity, output-type, and control-fidelity review.",
+    "Technical metadata checks cannot substitute for actual-work review.",
+    "Failed/rejected artifacts cannot be repackaged as compliant work without explicit Founder authorization.",
+    "Repeated failures trigger stabilization mode and cannot be reframed as isolated.",
+    "Unresolved changes block closure.",
+    "Founder-only status terms APPROVED/SAVED/CURRENT_CONTROLLED require explicit Founder directive.",
+    "Final status claims are blocked while any violation remains."
+  ],
+  "python_final_mirror_review": {
+    "checks": 18,
+    "missing": [],
+    "decision": "PASS FOR THIS CODING-CORRECTION CYCLE"
+  },
+  "github_implementation": {
+    "validator": "gates/amw_execution_gate.py",
+    "policy": "controls/AMW_EXECUTION_GATE_POLICY_2026-09-27.json",
+    "packet_template": "gates/task_packet_template.json",
+    "self_test": "verification/AMW_EXECUTION_GATE_SELF_TEST_2026-09-27.json",
+    "validator_v2_commit": "f078c7150de7c8d99a5ee9a44848ccfb1d6acb8b",
+    "policy_v2_commit": "beb7d7cd042b4e7aadb585ede10cbc88d1462181",
+    "template_v2_commit": "b4a81b711c4aed8ff93848ffe367e74cd57a1723",
+    "self_test_v2_commit": "7fd6d24efe3fc97efab1b987e13b2505e7361b99"
+  },
+  "status_boundary": "This PASS applies only to the execution-gate coding correction cycle. It does not convert the broader Legacy system-wide FAIL/OPEN status into PASS and does not itself modify the underlying model."
+}
