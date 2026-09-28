@@ -1,0 +1,25 @@
+{
+  "review_id": "MR-2026-09-27-COME-ON-IN-GYM-01",
+  "institution": "COME ON IN WE DON’T JUDGE GYM",
+  "date": "2026-09-27",
+  "cross_referenced": [
+    "FOUNDER_CURRENT_CONTROL.txt",
+    "current exact Founder prompt 2026-09-27 21:54 ET",
+    "prior COME ON IN WE DON’T JUDGE GYM prompt in AMW exact prompt archive",
+    "I AM A MASTERPIECE Cosmetology Common Area and uniform controls",
+    "Legacy-wide Empty Chair, round Legacy Table, Just Love Pond and renewable-energy controls",
+    "current fleet physical-depiction and accessibility rules",
+    "prior 2026-09-27 fleet Mirror Reviews"
+  ],
+  "cycle_1": "FAIL — first generated composite exceeded scope, carried JUSTIFIED WINS/football visual contamination into fleet content, and mislabeled the van family.",
+  "cycle_2": "FAIL — second generated composite still contained wrong fleet branding/count presentation and was not accepted as final work.",
+  "correction": "Returned to exact Founder counts and controls; built separate candidate renderings for campus, Stewards’ Common Area, exact-count fleet and uniforms. The final fleet resolves the explicit 3 ADA + 3 Mixed + 3 Non-ADA van breakdown as 9 vans. Common Area physically depicts 13 TVs, 20 showers, 15 quiet pods and 4 convertible gaming tables. Wrong team branding was removed from final fleet candidates.",
+  "final_candidates": {
+    "campus": "258057bd859ae9bb8be6754ffd8372734dc23e2f47de19c71a2e18aa65d18d8f",
+    "common_area": "9adb624a91fef6995a10cf485688ae42156840e56b77d75af56478e54412fb03",
+    "fleet": "37d94a395b902c465d905eaf1ba171ed4fae6bae4dfafbb5d951dcd500e47f5c",
+    "uniforms": "7631120ede44616e5fbc30702d240f87cef1b162e499c86f193f6fe03c063a51"
+  },
+  "final_result": "HOLDS—STRENGTHEN / PASS for this candidate creation cycle",
+  "save_state": "CANDIDATE ONLY — not Founder-approved/current and not saved to the Legacy because the current prompt did not say Update-and-Save."
+}
