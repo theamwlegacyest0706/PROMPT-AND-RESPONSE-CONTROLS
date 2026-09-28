@@ -1,0 +1,25 @@
+{
+  "review_id": "MR-2026-09-27-CONTROL-AND-PROMPT-CLASSIFICATION-01",
+  "current_founder_text": "founder-controls/FOUNDER_CONTROL_AND_PROMPT_2026-09-27.txt",
+  "current_classification": ["CONTROL", "PROMPT"],
+  "cross_referenced": [
+    "source-control/AMW_VERIFICATION_CYCLE_V1.json",
+    "164b314f82918232e8f4280a661804f61cabe387",
+    "9256566c9104959baf4e6e20b0132d6653b6d09f",
+    "84cc0ac5195ad5c90fa99af31b37ab57326be118",
+    "48979c4cd26277df9894f943fde86c18faca7101"
+  ],
+  "findings": [
+    "The Founder text explicitly says 'Control and Prompt' and must be enforced as both, not stored or interpreted as prompt-only.",
+    "AMW_VERIFICATION_CYCLE_V1 used prompt-only wording in its input invariant and therefore required correction for current use.",
+    "The prior system-wide failure review already requires the complete Founder text and prior cross-references to pass Python and GitHub before execution.",
+    "The prior Sports Fleet reviews remain controlling for source authority and user-facing display/editability claims.",
+    "No new rendering was produced by this verification request; rendering-specific correction steps remain mandatory when a rendering is part of the active task."
+  ],
+  "corrections_applied": [
+    "Saved the Founder text as a current CONTROL AND PROMPT record.",
+    "Created AMW_VERIFICATION_CYCLE_V2 with dual CONTROL/PROMPT classification and the full recursive sequence.",
+    "Preserved V1 as historical provenance rather than deleting it."
+  ],
+  "status": "CORRECTIONS_APPLIED_CONTINUE_TO_POSTCHECK"
+}
