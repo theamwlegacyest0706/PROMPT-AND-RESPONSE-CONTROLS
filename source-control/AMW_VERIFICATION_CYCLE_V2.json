@@ -1,0 +1,35 @@
+{
+  "control_id": "AMW-VERIFICATION-CYCLE-V2",
+  "supersedes_for_current_use": "AMW-VERIFICATION-CYCLE-V1",
+  "founder_text_classification": ["CONTROL", "PROMPT"],
+  "founder_control_and_prompt_path": "founder-controls/FOUNDER_CONTROL_AND_PROMPT_2026-09-27.txt",
+  "founder_control_and_prompt_sha256": "6c18fe3b038b090f3253845ee7fbe4de7ea30c113e4ed74c045ac7fea1fc1f60",
+  "scope": "AMW Legacy execution and verification unless the Founder explicitly narrows or supersedes it.",
+  "required_sequence": [
+    "INGEST_COMPLETE_CONTROL_AND_PROMPT",
+    "LOAD_PREVIOUS_CROSS_REFERENCES_AND_APPLICABLE_CONTROLS",
+    "PYTHON_PREFLIGHT_ON_SAME_COMPLETE_SET",
+    "GITHUB_CROSS_REFERENCE_ON_SAME_COMPLETE_SET",
+    "CROSS_REFERENCE_CONTROLS_PROMPTS_SAFEGUARDS_AND_PRODUCED_WORK",
+    "MIRROR_REVIEW_1",
+    "CROSS_REFERENCE_WITH_PRIOR_MIRROR_REVIEWS",
+    "APPLY_CORRECTIONS",
+    "PYTHON_POSTCHECK_OF_CORRECTED_WORK_AND_MIRROR_REVIEW",
+    "GITHUB_POSTCHECK_OF_CORRECTED_WORK_AND_MIRROR_REVIEW",
+    "CROSS_REFERENCE_ACROSS_CHATS_PROMPTS_AND_LEGACY_DATABASE",
+    "MIRROR_REVIEW_2",
+    "REPEAT_IF_ANY_CHANGE_REMAINS",
+    "USER_RESPONSE_ONLY_AFTER_STABLE_CYCLE"
+  ],
+  "hard_fail_conditions": [
+    "Founder text is treated only as a prompt instead of both Control and Prompt.",
+    "Founder text is summarized, narrowed, skimmed, or materially altered before verification.",
+    "Python and GitHub do not receive the same complete control/prompt and cross-reference set.",
+    "Mirror Review is omitted, not compared with prior Mirror Reviews, or not rerun after corrections.",
+    "Corrections are described but not actually applied before the response.",
+    "Technical checks are substituted for semantic, visual, control, or user-facing verification.",
+    "A completion, display, editability, approval, save, or pass claim is made without evidence required by the applicable control.",
+    "Assistant execution failure is attributed to Python, GitHub, image generation, or another tool."
+  ],
+  "closure_rule": "The cycle closes only when the corrected work and the final Mirror Review pass Python and GitHub using the same complete Control-and-Prompt source set and no further change is identified."
+}
